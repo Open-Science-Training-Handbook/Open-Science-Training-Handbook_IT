@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
+## 9. Politiche e Scienza Aperta 
 
-### What is it?
+### Di che cosa si tratta? 
 
-We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
+Una definizione verosimile di “politiche sulla Scienza Aperta” potrebbe leggersi in questi termini: strategie e azioni rivolte a promuovere i principi della Scienza Aperta e l´apprendimento di pratiche che hanno come oggetto la Scienza Aperta. Generalmente si tratta di politiche disegnate da enti di ricerca, enti finanziatori della ricerca, governi nazionali ed editori, scaturite, in origine, dalla richiesta di disseminazione dei risultati della ricerca partendo dal presupposto che i risultati ottenuti dalla ricerca finanziata con fondi pubblici debba essere resa disponibile al pubblico, senza alcuna restrizione. Le finalitá di queste politiche sono molte di piú ora ed é possibile trovare politiche nazionali a sostegno delle pratiche di Scienza Aperta ad ogni stadio del processo di ricerca. E`inoltre possibile trovare specifiche prescrizioni anche in altre leggi -vigenti o nuove- in regolamenti o direttive. 
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
