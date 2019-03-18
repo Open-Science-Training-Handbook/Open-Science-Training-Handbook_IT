@@ -7,70 +7,72 @@ Una definizione verosimile di “politiche sulla Scienza Aperta” potrebbe legg
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
-### Rationale
+### Motivazioni
 
-Since one of the main drivers to Open Science are the current policies established by institutions, funders, governments and publishers, it is important to know how they affect any researcher. If you are planning to design a policy aimed at the adoption and acknowledgement of Open Science practices is important to know the existing policies in order to avoid any overlapping or contradiction. Therefore researchers and policy makers should have a knowledge of the current policies and should be able to understand how they affect them.
+Partendo dal principio che sono le politiche correnti, stabilite da istituzioni, enti finanziatori, governi e editori a orientare maggiormente la Scienza Aperta, é importante capire quanto queste siano impattanti per il lavoro di ogni ricercatore. Nel processo di pianificazione di una politica per l´adozione e il riconoscimento delle pratiche in un contesto di Scienza Aperta é importante conoscere le politiche vigenti per evitare qualsiasi sovrapposizione o contrapposizione. Per questo motivo, ricercatori e analisti politici dovrebbere conoscere le politiche correnti e dovrebbero essere in grado di comprendere quale sia l´impatto che queste politiche hanno su di loro. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Obiettivi formativi
 
-1. Depending on your audience the objectives of the training session would be different. We can make a broad division between researchers \(in a broad sense\) and policy makers \(within an institution or funders - in a broad sense\).
+1.	Gli obiettivi formativi di ogni sessione didattica differiscono a seconda dei partecipanti. In linea di massima, é possibile fare una distinzione approssimativa tra ricercatori \(in senso lato\) e analisti politici \(di un´organizzazione o ente finanziatore – in senso lato\).
 
-2. If your training program is addressed mainly to researchers, including all "levels", then the main objective is to review how Open Science policies affect them.
+2.	Se il training é, in prevalenza, rivolto a ricercatori -a tutti i livelli-, in tal caso l´obiettivo principale é quello di verificare in che modo la Scienza Aperta si ripercuota nel loro lavoro.
 
-3. If your training program is addressed to policy makers, you might focus in designing and implement a policy to foster Open Science.
+3.	Se il training é destinato ad analisti politici, dovreste focalizzare la vostra attenzione sulla definizione ed implementazione di una politica a sostegno della Scienza Aperta.
 
-4. If we want to train funders or policy makers within an institution then it should be important to show how to design, develop, implement and monitor a policy
+4.	Se lo scopo é formare personale di enti finanziatori o analisti politici all´interno di un´istituzione in tal caso é importante dimostrare come si delinea, sviluppa e viene monitorata una politica.
 
-### Key components
+
+### Elementi chiave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Sapere
 
-You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
+Il formatore deve prendere in esame tutte le politiche che possono interessare ai partecipanti del corso. Per cominciare, deve inventariare le politiche a livello istituzionale: diritti d´autore, proprietá intellettuale, accesso aperto e dati della ricerca.
 
-Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects.
+In secondo luogo, é opportuno prendere in esame qualsiasi politica o legge nazionale che puó interessare i ricercatori che praticano la Scienza Aperta, in particolare le leggi che contengono indicazioni sull´accesso aperto o decreti che hanno un effetto diretto su tesi di dottorato, candidature per progetti, etc.
 
-At the national level there could be some laws or decrees that directly or indirectly could influence a policy or pose some requirements. For instance you could review the national open access policies in Europe available at [OpenAIRE](https://www.openaire.eu/member-states-overview).
+A livello nazionale, potrebbero esserci delle leggi o dei decreti che -direttamente o indirettamente- possono condizionare una politica o porre qualche requisito. A questo proposito, é possibile prendere visione delle politiche sull´Accesso Aperto nei paesi membri dell´Unione Europea in [OpenAIRE](https://www.openaire.eu/member-states-overview).
 
-Since science is international, then we should review any international policy that could affect your audience, mainly coming from international funders. At the European level we have the policies coming from the [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) regarding the dissemination of research outputs but we could have other policies affecting other parts of the research cycle.
+Per il fatto che la Scienza é per sua natura internazionale, é necessario prendere atto dell´esistenza o meno di politiche internazionali che possono riguardare i partecipanti, in particolare quelle poste da enti finanziatori internazionali. A livello europeo, ci sono le politiche incluse in [Horizon 2020, il programma quadro per la Ricerca e l´Innovazione] (https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) e che si riferiscono alla disseminazione dei prodotti della ricerca ma potrebbero esserci anche altre politiche che interessano altre fasi del ciclo della ricerca.
 
-Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
+Sempre a livello internazionale, anche alcuni editori hanno introdotto alcune nuove politiche che riguardano in particolare la pubblicazione dei dati della ricerca in concomitanza alla presentazione di un articolo.
 
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. As a starting point, the [2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
+Se i partecipanti al corso desiderano definire una scaletta o un programma per l´implementazione di una politica di Scienza Aperta a livello nazionale é consigliabile rintracciare ció che é stato fatto in altri stati. Come punto di partenza, la [Call for Action di Amsterdam del 2016] (https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) potrebbe contenere alcuni degli argomenti che devono necessariamente essere presi in considerazione e chi sono i destinatari. Ci sono esempi dai [Paesi Bassi] (https://www.openscience.nl/), dal [Portogallo] (http://www.ciencia-aberta.pt) e dalla [Finlandia] (https://openscience.fi/) che possono fornire spunti su come programmare delle politiche nazionali, delineare qualche azione e trovare informazioni su come si possano misurare nel momento in cui vengono messe in pratica. 
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Competenze
 
-Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
+I participanti dovrebbe individuare le caratteristiche principali di ogni politica: principalmente chi sono i destinatari, quali i requisiti e in che modo coincidono gli uno con gli altri. 
 
-You might show how researchers can fulfill with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfill policy requirements. It is also useful to compare those solutions with other external options with not desired features.
+Il formatore puó mostrare come i ricercatori possono ottemperare alle diverse politiche: quali sono i servizi e gli strumenti che la loro istituzione puó fornirgli ma anche dove possono trovare delle possibili alternative. Ad esempio, potrebbe capitare che un´istituzione non metta a disposizione un´infrastruttura per il deposito e la pubblicazione dei dati della ricerca ma puó segnalare delle soluzione esterne che possono soddisfare questo requisito. È altresì utile confrontare queste soluzioni con altre opzioni esterne che non soddisfano le caratteristiche richieste.
 
-When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
+Nel momento in cui ai participanti viene chiesto di prefigurare una politica di Scienza Aperta, questi dovrebbero essere in grado di definire l´obiettivo principale della specifica politica e fissare gli obiettivi e i cambiamenti che si vogliono conseguire. Una volta che quest´ultimi sono stati definiti, i partecipanti dovrebbero essere in grado di indicare i principali “parametri di misurazione della performance” da adottare nella misurazione degli obiettivi che la politica in questione é riuscita a raggiungere e devono essere in grado di valutare e aggiornare questa politica qualora gli obiettivi prefissati non siano stati raggiunti. 
+
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Domande, ostacoli e frequenti fraintendimenti 
 
-The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
+Esiste un modo per ottemperare ai requisiti posti, senza perdere la libertá, ad esempio, di decidere dove pubblicare é la domanda piú frequente che viene posta dai ricercatori  durante la formazione. Nel vostro ruolo di formatori, dovreste poter descrivere tutte le opzioni che i ricercatori hanno a disposizione dato che, in generale, le politiche sulla Scienza Aperta lasciano aperte una serie di opzioni.
 
-Another question often raised is what happens if researchers don’t fulfill the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
+Un´altra domanda frequente é che cosa succeda ai ricercatori che non ottemperano ai requisiti. In questo caso, potrete fornire degli esempi di progetti monitorati dai finanziatori o mostrare loro le notifiche di ammonimento pervenute ai ricercatori. 
 
-A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Un fraitendimento molto comune riguarda le politiche sui dati della ricerca ovvero il fatto che i ricercatori dovrebbero condividere tutti i dati in maniera aperta. Per sfatare questo mito, dovrete mostrare loro il paragrafo che direttamente nel testo di una politica spiega  quali siano i dati a cui ci si riferisce nella politica e quando debbano essere condivisi. Si dovrebbe, inoltre, evidenziare quelli che sono i dati che la politica esclude. Un buon testo di riferimento che puó fare luce su questo argomento e un´infografica come quella disponibile in [Horizon 2020] (https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
 
-When planning a policy is important to know what do you intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
+Quando si progetta una politica é importante avere bene in mente ció che si intende raggiungere o risolvere. Alcune politiche vengono fatte, a volte, sulla scia di altre iniziative senza considerare se vi sia effettivamente bisogno di una nuova politica e se la nuova politica non si sovrapponga ad altre giá esistenti. La sfida maggiore é creare una politica allineata con altre iniziative e che non entri in contraddizione con leggi e regolamenti. 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Risultati di apprendimento 
 
-1. Trainees would be able to identify the requirements of any policy that could affect them when performing Open Science.
-2. They would be able to distinguish among general policies like copyright or data protection and specific policies related to Open Science, for instance regarding how to disseminate research outputs. 
-3. They would be able to outline the steps to fulfill a certain policy.
-4. Trainees attending a session aimed at policy making would be able to plan an Open Science policy, establishing objectives and indicators to measure its implementation.
+1.	I partecipanti avranno imparato ad identificare i requisiti di ogni politica che potrebbe riguardarli in attivitá connesse alla Scienza Aperta.
+2.	Saranno in grado di distinguere tra politiche generali come diritto d´autore o protezione dei dati e altre politiche specifiche collegate alla Scienza Aperta ,ad esempio, in relazione alle procedure previste per la disseminazione dei prodotti della ricerca.
+3.	Saranno in grado di riconoscere le fasi attuative di una determinata politica
+4.	I partecipanti che avranno seguito un la sessione sul policy making saranno in grado di pianificare una politica di Scienza Aperta stabilendo obiettivi e indicatori per misurare il livello di attuazione. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further Reading
+### Letture integrative
 
-* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
+* EC Working Group on Education and Skills under Open Science (2017). Fornisce ai ricercatori le capacitá e competenze di cui hanno bisogno per mettere in pratica la Scienza Aperta[ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
 
 * Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
 
@@ -78,7 +80,7 @@ When planning a policy is important to know what do you intend to achieve or sol
 
 * Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
 
-### Projects and initiatives
+### Progetti ed iniziative
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
 
@@ -86,7 +88,6 @@ When planning a policy is important to know what do you intend to achieve or sol
 
 * LEARN Project 2015-2017. Toolkit of Best Practice for Research Data Management [learn-rdm.eu](http://learn-rdm.eu/en/about/)
  
-
 * Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
 
 
