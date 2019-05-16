@@ -1,29 +1,29 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
 ## Aspetti organizzativi
 
-This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+Questo capitolo vi guiderà attraverso quelli che sono i principali aspetti pratici relativamente all’organizzazione di un evento formativo. Ovviamente, ciò di cui avrete effettivamente bisogno e utilizzerete dipende dalla tipologia di evento che state organizzando. La check-list corrispondente dovrà essere adattata di conseguenza. Nel capitolo troverete informazioni sulle singole fasi preparatorie e sulle principali attività indispensabili all’organizzazione. Il capitolo non solo fornisce informazioni fondamentali su come organizzare un evento ma costituisce anche un punto di riferimento nella progettazione della formazione stessa. Gran parte del materiale contenuto in questo capitolo, così come del resto il manuale stesso, mira a fornire informazioni e a preparare coloro che si occupano di organizzare workshop con un orientamento pratico. L’organizzazione di un tipo diverso di evento potrebbe richiedere un’impostazione di diverso tipo rispetto a quella proposta. 
 
-## Training event basics
+## Le basi per l’organizzazione di un evento formativo
 
-### Format
+### Il format
 
-Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
+Fin dall’inizio, è cruciale decidere quale tipologia di evento si ha intenzione di progettare e coordinare valutando alcuni aspetti ovvero:
 
-* Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
+* quale sarà il format dell’evento: workshop, seminario, corso frontale, training online o un ibrido tra seminario on-line e dal vivo?
 
-* Will it be participatory, formal, self-contained?
+* Di che tipo di evento si tratterà: di tipo partecipativo, formale o indipendente?
 
-* Can the event be integrated into existing curricula?
+* L'evento può essere integrato in percorsi formativi già esistenti?
 
-* Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
+* Si prevede di invitare degli esperti esterni? In questo caso, a quali condizioni (ad esempio: quali costi potranno essere coperti)?
 
-* Is the training a requirement, or something participants are choosing to attend?
+* La partecipazione al seminario sarà obbligatoria oppure facoltativa?
 
-* Will attendees receive any form of accreditation for the training?
+* A chi parteciparà, verrà riconosciuta una qualsiasi forma di accreditamento?
 
-* What sort of venue type do you need for this format?
+* Che tipo di sistemazione logistica è più consona al format prescelto?
 
-To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
+Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le caratteristiche dei seminari di formazione.  
 
 <table>
   <tr>
@@ -191,61 +191,61 @@ To provide you with initial guidance over possible types of training and their c
 
 
 
-### Audience, guest speakers, and partners
+### La platea dei partecipanti, i relatori esterni e i partner
 
-Before committing to the event be sure you defined your [target audience](/03OnLearningAndTraining/#target-audience) and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers.
+Prima di confermare l’evento è consigliabile definire quali sono i destinatari e individuare i loro bisogni. Per poterlo fare, sarà utile ponderare la composizione della platea dei partecipanti nonché il numero e i settori di competenza dei formatori (esterni). 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
-#### Cooperating with others
+#### Collaborare con gli altri 
 
-Some forms of training require more than one instructor. Try to get support from colleagues or service units in your institution. Identify institutional support (e.g., funding, room(s), work time) and reach out to decision makers to ask for these things - for example, you could ask for help with registration, or contact the printing service or communication department regarding advertising. Make sure any volunteers are sufficiently briefed on all activities, and know what the aims and practicalities of the event are. Make them aware of the importance of encouraging participation from the attendees. You can also outsource some tasks, if the budget allows for this.
+Alcune tipologie prevedono la presenza di più formatori. É utile poter contare sul supporto di un collega o di un servizio all’interno della vostra istituzione. Verificate quale tipo di supporto la vostra istituzione può fornirvi (sotto forma, ad esempio, di finanziamenti, aula/e, personale) e contattate il funzionario di riferimento inoltrando la vostra richiesta – ad esempio, potreste richiedere personale di supporto per le operazioni di registrazione dei partecipanti oppure contattare la tipografia o l’ufficio comunicazione per concordare attività promozionali. Accertatevi che i volontari abbiano ricevuto dei ragguagli sufficienti relativamente a tutte le attività in programma e che abbiano bene in mente quali siano le finalità e gli aspetti pratici dell’evento. É bene fare loro presente quanto sia importante stimolare una partecipazione attiva. Potete anche esternalizzare alcuni servizi, sempre che il vostro budget lo consenta.
 
-Consider partnering with other departments at your institution or other local institutions to pool resources and increase impact/collaborating with other projects or programs. These are the key points to work out prior to committing to, or announcing any event. Resolving these will help the training run smoothly for yourself and your participants. Also, consider integrating the training into a recognized conference or local/international event.
+Valutate l’opportunità di collaborare con altri dipartimenti della vostra istituzione o altre istituzioni locali per mettere in comune le risorse e aumentare l’impatto/collaborazione con altri progetti o programmi. É di fondamentale importanza riflettere su questi aspetti chiave prima di impegnarsi o di annunciare l’evento per garantire lo svolgimento senza intoppi della formazione a vantaggio vostro e  dei partecipanti. Altresì utile può essere anche valutare l’opportunità di inserire l’evento di formazione nel programma di una conferenza o di un evento locale/internazionale accreditato.
 
-Identify other trainers or experts/guest speakers that could help with the event. Ideally, these will be other Open Science advocates at the institution or otherwise local to the event, but you may need to find suitable non-local trainers (who may need financial support for travel). Work to have diverse representation (see Representation below). According to [The Carpentries](https://software-carpentry.org/workshops/operations/), a workshop with 40 people needs at least two trainers (and possibly a third) who alternate between talking and supporting learners, including also one helper per 5 participants that will continuously monitor for any issues.
+Individuate altri formatori, esperti o relatori esterni che possano esservi di aiuto nell’organizzazione dell’evento. L’ideale è che si tratti di sostenitori della Scienza Aperta all’interno della vostra stessa istituzione o che operino in prossimità della sede dove si svolgerà l’evento. Potrebbe però anche succedere che dobbiate trovare un relatore esterno per il quale si renda necessario avere a disposizione aiuti finanziari per coprire le spese di viaggio. Impegnatevi di essere il più inclusivi possibili (vedi il paragrafo successivo sull’“Inclusività”). Secondo il [The Carpentries](https://software-carpentry.org/workshops/operations/), un workshop con 40 partecipanti ha bisogno di almeno due formatori (e possibilmente di un terzo) che si alternano tra la presentazione e il supporto ai partecipanti e un coadiutore per ogni 5 partecipanti il cui compito è quello di tenere continuamente monitorato l’evento per ogni evenienza. 
 
-#### Representation
+#### Rappresentatività 
 
-Maintaining an inclusive environment is important for any successful training event. Ensure that each component of your program includes a range of backgrounds. Your organizing team, speakers, and trainers should include representation across gender identities, different disciplines, underrepresented groups, diverse racial backgrounds, and geographic regions (if you intend to open your event to non-local participants). 
+Affinché un evento formativo abbia successo, è importante assicurare un ambiente inclusivo. Per questo fate in modo che ogni elemento del vostro programma sia rappresentativo di una varietà di background diversi. Lo staff della segreteria organizzativa, i relatori e i formatori devono essere rappresentativi di ogni genere, disciplina, gruppi svantaggiati, appartenenza etnica e provenienza geografica (nel caso in cui vogliate aprire l’evento anche a partecipanti non locali).
 
-Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, [Expectations about a trainer](/03OnLearningAndTraining.md/#expectations-about-a-trainer) subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions (see [Inclusive engagement](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Fate in modo di invitare formatori e relatori appartenenti a gruppi sotto-rappresentati; discutete insieme a loro su quali siano le loro esigenze e obiettivi e inseriteli nella pianificazione dell’evento. Per un approfondimento sui formatori si rimanda al capitolo Su Imparare e formare) e al sotto-paragrafo [Aspettative per un formatore] (/03OnLearningAndTraining.md/#expectations-about-a-trainer). Provvedete a riservare una percentuale di posti a partecipanti di appartenenza etnica, identità di genere, discipline e aree geografiche diverse (si veda  [Inclusive engagement]) (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining). Per un approfondimento su come rendere il vostro workshop più inclusivo ed accogliente si veda il[Conference Planning Checklist di SPARC] (https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
-### Venue
+### Sede dell'evento di formazione 
 
-Before organizing a face-to-face training event consider few things related to a venue. It might help you to reduce several obstacles: 
+Prima di organizzare un evento di formazione è consigliabile considerare alcuni aspetti relativamente alla sede dove si terrà la formazione. Servirà a non incappare o a limitare parecchie complicazioni: 
 
-The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps as well as clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialize. A separate area for catering should be available. Also, check if the venue offers a maternity room, a prayer room and a gender-neutral washroom. 
+La sede dovrebbe essere facilmente raggiungibile dai partecipanti; dovrebbe essere dotata di un ascensore, di entrate accessibili e rampe di entrata così come anche di una segnaletica di chiara leggibilità. É altresì opportuno verificare che la sede sia altrettanto facilmente raggiungibile sia con i mezzi pubblici sia da autovetture private (con eventuale presenza di parcheggi) e che non sia ubicata troppo lontano dalla stazione o dall’aeroporto. Una checklist su che cosa renda accessibile una sede è disponibile online [Accessible Meetings Toolkit from the American Bar Association] (http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC] (https://sparcopen.github.io/opencon-dei-report/checklist.html) Nella sede prescelta, individuate un’area dove poter accogliere i partecipanti e che permetta ai partecipanti di muoversi liberamente e fare conoscenza tra di loro. Dovrebbe inoltre, disporre di uno spazio a sé stante per il rinfresco. Verificate inoltre che ci sia uno spazio protetto per l’allattamento ed esigenze di salute, una sala per la preghiera e un bagno bisex. 
 
-The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
+La sala seminari deve essere sufficientemente attrezzata (vedi attrezzature e media). La sala dovrebbe avere una connessione WiFi e alimentazione per ognuno dei partecipanti (cavi di collegamento, prese multiple, etc.) Verificate che ci sia la possibilità di disporre gli elementi d’arredamento in modo da rispondere ai vostri bisogni. Ai relatori dovrebbe essere messo a disposizione una postazione o un tavolo alto (alzabile) per poter stare in piedi e un microfono (per la registrazione e/o accessibilità). Si dovrebbe inoltre prevedere un secondo microfono per le domande dei partecipanti in modo da consentirgli di partecipare attivamente. 
 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
-### Timing
+### Tempistica
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times (see chapter [Starting the training](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). 
+La durata dell’evento dipende dal contenuto e dal livello di approfondimento che intendete fornire. A priori dovrete aver stimato la durata di ogni singola sessione. Accertatevi di aver definito il programma o lo scadenziario includendo anche i convenevoli iniziali e le introduzioni. Programmate sia le pause pranzo sia le pause caffè di una durata ragionevole; questo vale anche per gli orari di inizio e di fine dell’evento (vedi capitolo [Starting the training] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)).
 
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event. A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
+Prima di stabilire una data è bene verificare che non ci siano impedimenti che possano ostacolare o spingere le persone interessate a scegliere di non partecipare. È quindi utile individuare una data e un orario compatibile. A tal fine è consigliabile evitare qualsiasi sovrapposizione con festività pubbliche, religiose o altri eventi del genere. Se l’evento si tiene all’interno di una sede universitaria occorre appurare che non ci siano sovrapposizioni con il calendario delle lezioni. È altresì consigliabile di fissare il seminario di formazione in concomitanza con una conferenza o un incontro di maggiore richiamo per poter dare maggiore attenzione all’evento, aumentare il numero di partecipanti e magari anche convogliare i partecipanti dell’altro evento verso il seminario. In aggiunta e, nel caso di un seminario che sia anche famiglia-sostenibile, non dovrebbe tenersi né di sera né durante i week-end, fornire un servizio di baby-sitting o sponsorizzare l’assistenza ai bambini e garantire la dotazione di spazi protetti per l’allattamento ed esigenze di salute.   
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Budget
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+L’organizzazione dell’evento potrebbe richiedere una disponibilità finanziaria utile a coprire i costi ad esempio per l’affitto dell’aula (se l’istituzione ospitante non è in grado di concedere uno spazio a titolo gratuito); per le spese di viaggio di esperti e formatori esterni e fuori sede, per il rinfresco, per il materiale (ad esempio, per le targhette, chiavette USB) e gadget. La maggior parte degli eventi di formazione non hanno bisogno di grandi risorse economiche ad eccezione per il materiale e per le attrezzature. È utile tenere in mente, inoltre, che i costi maggiori, quando si organizza un evento, sono per le risorse umane.  Contestualmente è necessario tenere in conto del tempo necessario per la preparazione del materiale e dei contenuti, che di solito non viene tenuto in conto in fase di progettazione del budget. Questi costi potrebbero essere stati inclusi come parte del lavoro principale ma è sempre bene accertarsi che siano stati contabilizzati.
 
-Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
+È utile prevedere fonti di finanziamento differenziate. Laddove possibile, è opportuno inoltrare richiesta alla propria istituzione altrimenti è possibile prevedere una quota di iscrizione per ogni partecipante o trovare dei contributi o alternative fonti di finanziamento.  
 
-#### Fee
+#### Quote di iscrizione
 
-Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
+La raccolta e la gestione di finanziamenti o delle quote di partecipazione può non essere semplice. Nel caso in cui, intendiate procedere in questa direzione, sarebbe opportuno optare per uno dei servizi online di registrazione già disponibili in rete (ad esempio Eventbrite, Event Smart, etc.) o in alternativa per i servizi offerti dalla vostra istituzione di afferenza a supporto dell’organizzazione di eventi o di servizi.  
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
+Sebbene qualsiasi costo imputato agli iscritti può influire sulla partecipazione all’evento stesso, il fatto di prevedere una quota partecipativa nominale (ad esempio 20-40 euro oppure 15-30euro) può servire ad assicurare l’effettiva partecipazione all’evento di coloro che si sono registrati. Software Carpentry ha calcolato che la percentuale di coloro che pur essendosi iscritti, non si presentano all’evento si riduce da un terzo o quasi a circa il 5% (Wilson 2016). 
 
-If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
+Qualora vi decideste per l’applicazione di una quota di iscrizione, dovreste prevedere anche la possibilità di un esonero o di borse di studio su richiesta. L’assegnazione delle borse dovrebbe dare la precedenza ai gruppi con maggiori difficoltà di autofinanziamento.
 
-#### Funding
+#### Finanziamenti
 
-You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
+Alcuni degli enti finanziatori a cui chiedere delle sovvenzioni possono essere: l’istituzione ospitante, sponsor esterni come compagnie, fondi attribuiti o borse di studio attribuite ai coordinatori di progetti di ricerca, oppure le quote di iscrizione. Verificate che non ci siano risorse interne ad hoc per il finanziamento di questi eventi oppure se qualche organizzazione locale può sponsorizzare il vostro evento. Qualora abbiate trovato un finanziatore esterno, valutate le condizioni previste per il finanziamento. Tra queste potrebbe esserci, ad esempio, annunci pubblicitari sul sito dell’evento oppure durante l’evento stesso. 
 
-Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
+La sponsorizzazione può essere di diversi tipi (bronzo, argento e oro) nel caso di eventi maggiori. É anche possibile verificare la possibilità di co-organizzare l’evento con altri programmi o altri progetti tra i quali ripartire le spese.  
 
 ## Organizational tasks 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
