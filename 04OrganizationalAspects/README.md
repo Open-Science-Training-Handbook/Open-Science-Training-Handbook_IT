@@ -28,80 +28,45 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
 <table>
   <tr>
     <td></td>
-    <td>TYPE OF TRAINING</td>
+    <td>TIPOLOGIE DIVERSE DI EVENTI DI FORMAZIONE</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Live workshop</td>
-    <td>Course/ class</td>
-    <td>Lecture</td>
-    <td>Online Training</td>
+    <td>Workshop dal vivo</td>
+    <td>Corsi/classi</td>
+    <td>Corsi frontali</td>
+    <td>Formazione online</td>
   </tr>
   <tr>
-    <td>Audience Size</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>less than 20</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>less than 40</td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>more than 40</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Dimensioni della platea</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Funds</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>none</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>little</td>
+    <td>inferiore a 20</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>loaded</td>
+    <td>inferiore a 40</td>
+    <td></td>
     <td>x</td>
     <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>superiore a 40</td>
     <td></td>
     <td></td>
+    <td>x</td>
+    <td>x</td>
   </tr>
   <tr>
     <td></td>
@@ -111,39 +76,32 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
     <td></td>
   </tr>
   <tr>
-    <td>Time</td>
+    <td>Finanziamenti</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> less than ½ day</td>
+    <td>nessuno</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>modici</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 day</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1- 4 days</td>
+    <td>cospicui</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td>more than 4 days</td>
-    <td></td>
-    <td></td>
-    <td>x (series)</td>
-    <td>x (series)</td>
   </tr>
   <tr>
     <td></td>
@@ -153,35 +111,77 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
     <td></td>
   </tr>
   <tr>
-    <td>Training level</td>
+    <td>Tempistica</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Introductory</td>
+    <td> meno del ½ al giorno</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>½ - 1 giorno</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1- 4 giorni</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>più di 4 giorni</td>
+    <td></td>
+    <td></td>
+    <td>x (serie)</td>
+    <td>x (serie)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> Livelli della formazione</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Iniziale</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Aware of</td>
+    <td>Consapevole</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Intermediate</td>
+    <td>Intermedio</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Advanced</td>
+    <td>Avanzato</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
