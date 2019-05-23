@@ -1,89 +1,88 @@
 ## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
-### Examples & Practical Guidance: adopt, adapt, develop
+### Esempi & guida pratica: adotta, adatta, sviluppa
 
-In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
+In questo capitolo troverete un ricchissimo repertorio di materiali didattici utili ad impegnare in maniera attiva i partecipanti ai vostri seminari e per fare in modo che criticamente affrontino i vari aspetti relativi alla scienza aperta. 
 
-We recommend you approach all of these materials with the motto "Adopt, adapt, develop" in mind—meaning that its best to re-use what exists where possible. Hence, before you start developing training resources from scratch you should find out whether there are existing resources you may use. We give some example resources here, with tips for how they could be adapted for your purposes. We also provide links and strategies to help you find further material. In some cases, existing resources may be used as they are, so you may simply **adopt** them. An example at stake may be an openly available video tutorial about open file formats which you may point your audience to. In other cases, you may have to **adapt** existing resources somewhat in order to make them fit your purposes. For example, you may need to add/replace some institution- or country-specific references to an existing overview of Open Access requirements issued by research funders. Only as a last resort you should **develop** your own training resources from scratch. If you want to develop your own training materials, be sure to develop Open Educational Resources so that other trainers can reuse and adapt your materials.
+Nei confronti di questo materiale, vi consigliamo di porvi con bene in testa il motto: “Adotta, adatta e sviluppa” vale a dire che, laddove sia possibile, è bene **utilizzare** ciò che c’è già. Prima, quindi, di mettervi a creare delle risorse didattiche ex novo, dovreste verificare che non esistano già delle risorse di cui potete già disporre. Di seguito, troverete alcuni esempi e relativi consigli su come potrebbero essere ri-arragiate alle vostre esigenze nonché dei collegamenti a siti internet e strategie su come andare a cercare dell’altro materiale. In alcuni casi, le risorse didattiche già esistenti possono essere utilizzate come sono, senza bisogno di adattamenti. Ad esempio, potreste segnalare il link ad un video tutorial ad accesso aperto sui formati di file aperti. In altri casi, potreste dover **adattare** delle risorse già esistenti perché rispondano agli obiettivi formativi che intendete perseguire. Ad esempio, potreste aver bisogno di aggiungere/sostituire dei riferimenti specifici ad istituzioni o nazioni a seconda dei requisiti di scienza aperta stabiliti dai finanziatori della ricerca. Solo in ultimissima istanza, dovreste ricorrere alla predisposizione di risorse didattiche **ex novo**. Se siete intenzionati a creare da voi il vostro materiale didattico, fate in modo di creare delle risorse didattiche aperte per permettere ad altri formatori di riutilizzarle o riadattarle.   
 
-### Example training structures
+### Esempi di strutture per la formazione
 
-**Open Science Göttingen Meet-ups **at the University Library at Uni Göttingen** (3 hours)**
+**Open Science Meet-ups Göttingen **presso la biblioeca universitaria di Göttingen** (3 ore)**
 
-The Open Science Network Göttingen, a group of researchers and librarians who support open science practices and knowledge exchange regularly organize these meet-up events where various open science related topics are discussed. The network unites people interested in Open Science topics at the Göttingen Campus and is open to everyone. They have become quite popular attracting scholars from different disciplines who are eager to discuss their experiences with open scholarship and to learn about new methods, tools, and practices. Invited speakers usually introduce the topics which is followed by small group discussions with a more in-depth view on related issues. 
+Il gruppo “Open Science” di Göttingen, costituito da ricercatori e bibliotecari sostenitori della scienza aperta nonché dello scambio di conoscenza, organizza regolarmente degli eventi di meet-up, nel corso dei quali viene discusso sui principali argomenti collegati alla scienza aperta. La rete raccoglie tutte le persone che nell’Università di Göttingen si interessa a vario titolo di scienza aperta ed è aperta a tutti gli interessati. Sono diventati degli appuntamenti molto popolari e riescono ad attrarre studiosi di svariate discipline altamente motivati a scambiare le proprie esperienze sull’open scholarship e ad imparare nuovi metodi, strumenti e pratiche. I relatori che sono invitati a parlare di solito introducono soltanto l’argomento che viene poi trattato in piccoli gruppi in maniera più approfondita.  
 
-* More information: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
+* Maggiori informazioni, sono disponibili al sito: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
-**Mozilla Study groups (a series of 2–3 hour meetings)**
+**Gruppi di studio Mozilla (una serie di incontri di 2–3 ore)**
 
-Study groups are communities of peers (e.g., from the same institution) committed to learning and teaching each other. They’re fun, informal meetups allowing participants to share skills, experiences, and ideas around open science, open source, code, and community in research. The goal of the [Mozilla Study Group Project](https://science.mozilla.org/programs/studygroups) is to support this kind of peer-to-peer study by providing a simple set of tools, template lesson plans, and access to an international community of like-minded researchers and avid learners in code
-(text adapted from [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
+I gruppi di studio sono comunità di pari (ad esempio della stessa istituzione) che si incontrano per imparare/insegnare gli uni dagli/agli altri. Si tratta di meetup divertenti e informali che permettono ai partecipanti di condividere competenze, esperienze e idee relative alla scienza aperta, open source, programmazione e comunità in ricerca. L’obiettivo del progetto [gruppo di studio Mozilla] (https://science.mozilla.org/programs/studygroups) mira a favorire questo tipo di studio tra pari fornendo un semplice set di strumenti, modelli e piani di studio nonché l’accesso ad una comunità internazionale di ricercatori che condividono gli stessi interessi e sono appassionati di programmazione (testo adattato da [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups)))    
 
-**Reproducible analysis and Research Transparency (a single full-day workshop)**
+**Analisi di riproducibilità e trasparenza della ricerca (workshop della durata di un giorno)**
 
-Transparency, open sharing, and reproducibility are core values of science, but not always part of daily practice. A first iteration of this workshop took place within the context of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) event, organized by NIOO-KNAW and DANS-KNAW. It provides an overview of current status in reproducible analysis in order to provide transparency in research. The workshop covers methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as Git, Docker, RMarkdown / knitr, and Jupyter). Going beyond simple listing and presentations, the second half of the workshop focuses on hands-on skill building, with exercises and tutorials covering most of the software aspects. Material and content is available here: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
+Trasparenza, condivisione aperta e riproducibilità sono valori fondamentali della scienza ma non sempre sono parte della pratica quotidiana. La prima edizione di questo workshop ha avuto luogo contestualmente all’evento [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) organizzato da NIOO-KNAW and DANS-KNAW. Fornisce una panoramica sullo stato dell’arte dell’analisi di riproducibilità per garantire la trasparenza della ricerca. Il workshop copre argomenti metodologici (come ad esempio l’utilizzo delle linee guida per la reportistica e dell’Open Science Framework) e strumenti software (come Git, Docker, RMarkdown / knitr e Jupyter). In aggiunta alla semplice elencazione e presentazione, la seconda metà del workshop si focalizza sulla costruzione di competenze pratiche attraverso esercizi e tutorial che riguardano la maggior parte degli aspetti di software. Materiali e contenuti sono disponibili a questo sito [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io) 
 
-**Open Science: what’s in it for me? (1-2 days)**
+**Scienza Aperta: che cosa c’è per me? (1-2 giorni)**
 
-The aim of the workshop is to provide researchers and administrators with hands-on examples of Open Science tools and workflow examples across various disciplines, and to start applying and discussing these. For this, we present an overview of Open Science practices and tools that are used throughout the scientific workflow, with practical examples, audience polling and interactive discussions. The second day is oriented at application and sharing. In various rounds participants explore and where possible try out or apply tools and practices. They do this in small groups and individually and also in a lively marketplace. In a final session we have a discussion on obstacles and incentives for switching to open science in your own research.
+Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concreti modelli di strumenti e processi di scienza aperta, trasversali a tutte le diverse discipline perché inizino ad utilizzarli e a discuterne. Per questo, viene fornita una panoramica di pratiche e di strumenti della scienza aperta che vengono utilizzati nel corso del procedimento scientifico con esempi pratici, discussione attiva e interpellando la platea. Il secondo giorno è dedicato alla messa in pratica e alla condivisione. A turno, i partecipanti esplorano e, laddove possibile, sperimentano o fanno uso di strumenti e di procedure. In gruppi di poche persone, o individualmente e o anche in sessioni plenarie molto vivaci. Durante la sessione finale, si discute sugli ostacoli e gli incentivi collegati al passaggio alla scienza aperta prendendo come caso specifico il loro lavoro di ricerca.     
 
-* [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
+* [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop resoconto)
 
-* [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
+* [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop programma)
 
-**Carpentry workshops (2 days)**
+**Carpentry workshops (2 giorni)**
 
-A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
+Un carpentry workshop è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I data carpentry workshops prendono come riferimento le best practices che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I data carpentry workshop sono destinati ai principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. Software carpentry workshop sono rivolti a professionisti a cui serve sapere come programmare nel modo più efficace possibile per poter risolvere i loro problemi computazionali, non sono specifici di una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante
 
 * [Software Carpentry](https://software-carpentry.org)
 
 * [Data Carpentry](http://www.datacarpentry.org/)
 
-**EIFL Train-the-Trainer program (4 days)**
+**EIFL Train-the-Trainer program (4 giorni)**
 
-EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
+L’EIFL ha organizzato un programma di train-the-trainer per cinque università nei paesi partner di EIFL (Etiopia, Ghana, Zimbawe, Tanzania e Nepal) che si sono impegnate ad introdurre l’accesso aperto, la scienza aperta e i dati grezzi della ricerca aperti nei loro corsi di dottorato. Nel primo giorno di formazione, si è discusso di accesso aperto e dati aperti; il secondo e il terzo giorno sono stati dedicati alla scienza aperta attraverso il ciclo della ricerca incluse anche le pratiche correnti presso le università partner. Il quarto giorno i partecipanti hanno predisposto e elaborato il loro proprio programma di formazione 
 
 * [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
 
-**Open Science summer schools (5 days)**
+**Scuola estiva Open Science (5 giorni)**
 
-Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
+Parecchie università europee organizzano delle scuole estive sulla scienza aperta della durata di una settimana, principalmente destinate a giovani ricercatori. Questi eventi coprono una varietà di argomenti nel corso dei cinque giorni, generalmente prevedono molte attività pratiche e l’applicazione dei principi della scienza aperta nella pratica quotidiana. 
 
 * [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
 
-* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
+* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, programma e materiali)
 
-* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
+* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, programma) 
 
-* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
+* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, descrizione, finalità formative) 
 
 
 ![image alt text](/Images/image_6.png)
 
-*Program schedule Summer School Open Science and Scholarship, Utrecht University 2017*
+*Programma della Scuola Estiva sull'Open Science and Scholarship, Università di Utrecht 2017*
 
-### Example Exercises
+### Esempio esercizi
 
-#### Master Template
+#### Master modulo
 
-* Format, time needed 
+* Format, tempo necessario 
 
-* Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+* Argomento \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
-* Learning objectives 
+* Finalità didattiche 
 
-* Exercise description
+* Descrizione degli esercizi 
 
-* Materials and tools needed
+* Materiali e strumenti richiesti
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche necessarie 
 
-* Things to bear in mind
+* Cose da ricordarsi 
 
-* How to adapt for other purposes
+* Come adattare per altri finalità
 
-**Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
+**Utilizza [questo modulo di Google](https://goo.gl/forms/wxyx6pk80mHUHTRu1) per suggerire altri esercizi!**
 
-#### Types of exercises
+#### Tipi di esercisi 
 
 
     * quick warm-up / short break exercises 
