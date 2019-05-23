@@ -133,63 +133,63 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
         * … 
 
-#### Example exercises (including materials)
+#### Esempi di esercizi (incluso il materiale)
 
 <table>
   <tr>
     <td></td>
-    <td>Title</td>
-    <td>Topic</td>
-    <td>Type</td>
-    <td>Duration</td>
+    <td>Titolo</td>
+    <td>Argomento</td>
+    <td>Tipo</td>
+    <td>Durata</td>
   </tr>
   <tr>
     <td>1</td>
     <td>Line up!</td>
-    <td>general</td>
-    <td>whole group</td>
+    <td>generale</td>
+    <td>gruppo intero</td>
     <td>5-10 min</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Prioritization of training needs</td>
+    <td>Prioritizzazione dei bisogni formativi</td>
     <td>Open Concepts and Principles</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>10 min</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Selection of Open Science practices</td>
+    <td>Selezione delle pratiche di scienza aperta</td>
     <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>1-1.5 hour</td>
+    <td>gruppo intero</td>
+    <td>1-1.5 ore</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Open Science discussion topics</td>
+    <td>Argomenti di discussione sulla scienza aperta</td>
     <td>Open Concepts and Principles</td>
-    <td>small groups</td>
+    <td>in piccoli gruppi</td>
     <td>20-30 min</td>
   </tr>
   <tr>
     <td>5</td>
     <td>LIBER Open Science café</td>
     <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>1.5 hour</td>
+    <td>in piccoli gruppi</td>
+    <td>1.5 ore</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>What is research data for me?</td>
+    <td>Che cosa sono i dati della ricerca secondo me?</td>
     <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
+    <td>lavoro individuale / in coppia</td>
     <td>15 min</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Why not share data?</td>
+    <td>Perchè non condividere i dati?</td>
     <td>Open Research Data and Materials</td>
-    <td>small groups</td>
+    <td>in piccoli gruppi</td>
     <td>20 min</td>
   </tr>
   <tr>
