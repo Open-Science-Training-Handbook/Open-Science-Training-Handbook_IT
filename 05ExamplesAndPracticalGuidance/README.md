@@ -85,51 +85,51 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 #### Tipi di esercisi 
 
 
-    * quick warm-up / short break exercises 
+    * riscaldamento veloce / short break exercises 
 
-    * small group exercises
+    * esercitazioni in piccoli gruppi 
 
         * role-play
 
-        * discuss OS topics/statements
+        * discussione su argomenti/assunti nell'ambito della scienza aperta
 
-        * marketplace: exchange experiences/expertise
+        * marketplace: scambio di esperienze / competenze 
 
-        * meeting with researchers / policy makers
+        * incontro con ricercatori / analisti politici
 
         * ...
 
-    * plenary exercises
+    * esercizi in plenaria
 
         * collaborative mapping
 
-        * simulation game 
+        * gioco di simulazione 
 
         * inventorizing
 
-        * card games
+        * giochi con le carte
 
-    * presentations
+    * presentazioni
 
         * role-play
 
-        * present real-life cases/examples (also by participants)
+        * presentazione di casi/esempi presi dalla realtà (con la partecipazione della platea)
 
-        * one-minute presentations of a concept (by participants) 
+        * presentazioni di un concetto in un minuto (con la partecipazione della platea) 
 
-        * guest lecturers
+        * relatori esterni 
 
         * ...
 
-    * hands-on exercises (individual or in pairs)
+    * esercitazioni pratiche (da soli o in coppia)
 
-        * visualizing
+        * visualizzazione 
 
-        * explore / try out tools & platforms
+        * esplorazione / sperimentazione di strumenti e piattaforme
 
-        * implement an open science practice in your own research
+        * applicazione di una pratica di scienza aperta nella vostra ricerca 
 
-        * check reproducibility of a research paper
+        * verifica sulla riproducibilità di un articolo di ricerca 
 
         * … 
 
@@ -182,7 +182,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>6</td>
     <td>Che cosa sono i dati della ricerca secondo me?</td>
     <td>Open Research Data and Materials</td>
-    <td>lavoro individuale / in coppia</td>
+    <td>da soli / in coppia</td>
     <td>15 min</td>
   </tr>
   <tr>
@@ -196,70 +196,70 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>8</td>
     <td>"Open Data Excuse" Bingo</td>
     <td>Open Research Data and Materials</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>20-30 min</td>
   </tr>
   <tr>
     <td>9</td>
     <td>Me and my data - Datagramms</td>
     <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>1-4 hours</td>
+    <td>gruppo intero</td>
+    <td>1-4 ore</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Find your data publisher</td>
     <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
+    <td>da soli / in coppia</td>
     <td>10-15 min</td>
   </tr>
   <tr>
     <td>11</td>
     <td>What do you need for a data publication?</td>
     <td>Open Research Data and Materials</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>10 min</td>
   </tr>
   <tr>
     <td>12</td>
     <td>Creating metadata</td>
     <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
+    <td>da soli / in coppia</td>
     <td>5 min</td>
   </tr>
   <tr>
     <td>13</td>
     <td>Get started with sharing software openly</td>
     <td>Open Research Software / Open Source</td>
-    <td>individual / pairs</td>
+    <td>da soli / in coppia</td>
     <td>20-30 min</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Establishing a Reproducible Data Analysis Workflow</td>
     <td>Reproducible Research and Data Analysis</td>
-    <td>individual / pairs</td>
-    <td>4-8 hours</td>
+    <td>da soli / in coppia</td>
+    <td>4-8 ore</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Choose the right version for the repository</td>
     <td>Open Access to Published Research Results</td>
-    <td>individual / pairs</td>
+    <td>da soli / in coppia</td>
     <td>15-20 min</td>
   </tr>
   <tr>
     <td>16</td>
     <td>Open file formats</td>
     <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>10-15 min</td>
   </tr>
   <tr>
     <td>17</td>
     <td>Creative Commons License matching</td>
     <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>5-10 min</td>
   </tr>
   <tr>
@@ -268,14 +268,14 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>Open Licensing and File Formats
 
 Open Educational Resources</td>
-    <td>whole group</td>
+    <td>gruppo intero</td>
     <td>10-15 min</td>
   </tr>
   <tr>
     <td>19</td>
     <td>Open peer review - participants openly review each others’ texts</td>
     <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>small groups</td>
+    <td>in piccoli gruppi</td>
     <td>90 min</td>
   </tr>
   <tr>
