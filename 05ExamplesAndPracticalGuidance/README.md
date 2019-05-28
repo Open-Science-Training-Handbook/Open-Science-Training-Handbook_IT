@@ -70,7 +70,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
 * Finalità didattiche 
 
-* Descrizione degli esercizi 
+* Descrizione delle esercitazioni 
 
 * Materiali e strumenti richiesti
 
@@ -339,45 +339,45 @@ Collaborative Platforms</td>
 </table>
 
 
-##### **Example 1: Line up!**
+##### **Esempio 1: Line up!**
 
-* Format, time needed 
+* Format, tempo richiesto  
 
-    * Group exercise, 5–10 minutes
+    * Esercizio di gruppo, 5–10 minuti
 
 * Topic 
 
-    * Icebreaker, can be on topic or unrelated 
+    * Rompere il ghiaccio, con argomenti inerenti o non inerenti alle tematiche del seminario  
 
-* Learning objectives 
+* Obiettivi formativi  
 
-    * Get participants to loosen up
+    * far sentire i partecipanti a proprio agio
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * Imaginary line in the room forms a spectrum between ‘strongly agree’ and ‘strongly disagree’. One participant, or the moderator, makes a statement (can be on topic ‘closed data should not be cited’ or off-topic ‘leggings are not trousers’. All participants have to position themselves along the imaginary line. The moderator asks some participants to explain their (literal) standpoint. 
+    * Immaginate una linea che divide l’aula in due spazi: da una parte "fortemente d'accordo" e dall’altra "fortemente in disaccordo". Uno dei partecipanti, o il moderatore, fa una dichiarazione (rilevante oppure no alla tematica del seminario, ad esempio, "i dati chiusi non devono essere citati" oppure "i leggins non sono pantaloni"). A tutti i partecipanti viene chiesto di prendere posizione lungo la linea immaginaria. Il moderatore chiede poi a qualche partecipante di spiegare il proprio punto di vista (letterale). 
 
-* Materials and tools needed
+* Materiale e strumenti necessari 
 
-    * None
+    * Nessuno
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste 
 
-    * None
+    * Nessuna
+    
+* Cose da tenere a mente
 
-* Things to bear in mind
+    * Fate in modo che non siano sempre gli stessi a prendere la parola; cercate, invece, di coinvolgere e di far parlare anche quelli nelle retrovie perchè espongano il proprio punto di vista. 
 
-    * Make sure not only the opinionated people are talking. Ask people who linger in the middle to explain their point of view. 
+* Come adattare per altri finalità 
 
-* How to adapt for other purposes
+    * La dichiarazione con la quale si sceglie di iniziare, dipende dalla situazione. Se il gruppo si incontra per la prima volta, ci si può permettere di optare anche per una dichiarazione fuori tema o banale; questa tecnica può essere usata anche per testare il terreno su alcuni argomenti controversi in merito alle tematiche del workshop, in special modo se i partecipanti già si conoscono o  hanno lavorato insieme per un po’ (ad esempio, il secondo giorno del workshop).
 
-    * Adapt the type of question to the situation. For a new group, allow people to make an off-topic or trivial statement, but the technique can also be used to test the waters on certain controversial subjects related to the topic of the workshop, especially with people who have been working together for a while already (e.g., on a second day of a workshop)
-
-##### **Example 2: Prioritization of training needs**
+##### **Esempio 2: Prioritization of training needs**
 
 * Format, time needed 
 
-    * Plenary, ~10 minutes
+    * Sessione plenaria, ~10 minuti
 
 * Topic
 
