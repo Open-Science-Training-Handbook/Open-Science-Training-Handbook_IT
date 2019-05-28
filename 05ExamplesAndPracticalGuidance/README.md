@@ -373,7 +373,7 @@ Collaborative Platforms</td>
 
     * La dichiarazione con la quale si sceglie di iniziare, dipende dalla situazione. Se il gruppo si incontra per la prima volta, ci si può permettere di optare anche per una dichiarazione fuori tema o banale; questa tecnica può essere usata anche per testare il terreno su alcuni argomenti controversi in merito alle tematiche del workshop, in special modo se i partecipanti già si conoscono o  hanno lavorato insieme per un po’ (ad esempio, il secondo giorno del workshop).
 
-##### **Esempio 2: Prioritization of training needs**
+##### **Esempio 2: Prioritizzazione dei bisogni formativi**
 
 * Format, time needed 
 
@@ -383,83 +383,83 @@ Collaborative Platforms</td>
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Finalità didattiche
 
-    * Identify knowledge gaps / areas participants feel they would most benefit from training in.  
+    * Individuare vuoti di conoscenza / aree in cui i partecipanti ritengono di poter trarre i maggiori benefici dalla formazione 
 
-    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge).
+    * (opzionale) Individuare le aree in cui i partecipanti si sentono a proprio agio (e possono così condividere le proprie conoscenze).
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * Briefly introducing the research cycle and activities therein.
+    * Breve introduzione al ciclo della ricerca e alle attività correlate
 
-    * Ask participants to individually identify two to three activities they would most benefit getting training in (in relation to open science).
+    * Ad uno ad uno, chiedere ai partecipanti di elencare due fino a tre attività in cui credono di poter trarre il massimo beneficio dalla formazione (nell’ambito della scienza aperta).
 
-    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science).
+    * In alternativa, si può chiedere ai partecipanti che cosa già conoscano (sempre parlando di ambiti relativi alla scienza aperta).
 
-    * On individual printouts, participants add sticky dots for each question.
+    * I partecipanti aggiungono dei post-it adesivi per ogni domanda su un foglio.
 
-    * Participants then add similar sticky dots to the communal printout.
+    * Tutti i partecipanti aggiungono poi i loro post-it su un cartellone comune.
 
-    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants.
+    * Discutere i risultati con l'intero gruppo. Fate in modo che tutti i partecipanti prendano visione di tutti i post-it in modo che possano rendersi conto di quanto possano imparare anche dagli altri partecipanti.
 
 ![image alt text](/Images/image_7.png)
 
-* Materials and tools needed
+* Materiali e strumenti necessari
 
-    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): one for each participant and a  communal one
+    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): uno per ogni partecipante e uno comune per tutti 
 
-    * Sticky dots in two colors
+    * Post-it di due colori diversi 
 
 ![image alt text](/Images/image_8.png)
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche necessarie 
 
-    * None; some familiarity with the research cycle is helpful.
+    * Nessuna; può essere utile un po' di dimestischezza con il ciclo della ricerca
 
-* Things to bear in mind
+* Cose da ricordarsi 
 
-    * Best at the beginning of a longer training program where multiple topics will be covered.
+    * E’ bene farlo all'inizio di un seminario con un programma lungo e nel corso del quale verranno trattati più argomenti
 
-    * For the sticky dots, choose a combination that is colour-blind friendly.
+    * Quando scegliete i post-it, scegliete una combinazione di colori accessibile a chi è affetto da daltonismo
 
-    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups).
+    * Il numero di attività che si deciderà di svolgere, dipende dal numero di partecipanti (ad esempio, tre per gruppi più piccoli, due per gruppi più grandi).
 
-    * Individual printouts are used to prevent peer pressure / bias.
+    * L’uso di cartoncini individuali per ogni singolo partecipante, serve a prevenire eventuali pressioni o critiche da parte degli altri partecipanti. 
 
-    * Individual printouts can be kept for reference during the remaining of the training.
+    * I cartoncini individuali si possono conservare e tenuti come riferimento durante il resto della formazione
 
-* How to adapt for other purposes
+* Come adottare per altre finalità 
 
-    * This exercise can easily be adapted to prioritize other topics.
+    * Questa esercitazione può essere adattata facilmente per prioritizzare altri argomenti.
 
-##### **Example 3: Selection of open science practices**
+##### **Esempio 3: Selezione di pratiche di scienza aperta**
 
-* Format, time needed
+* Format, tempo richiesto 
 
-    * Plenary, 1–1.5 hours
+    * gruppo intero, 1–1.5 ore
 
-* Topic
+* Argomento
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives 
+* Finalità didattiche  
 
-    * See the spectrum of open science practices across the full research workflow.
+    * Panoramica sulle pratiche di scienza aperta per ogni fase del ciclo della ricerca
 
-    * Assess which practices would the most feasible and effective to focus on. 
+    * Valutazione delle pratiche più fattibili ed efficaci sulle quali concentrarsi 
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
+    * Prima dell'esercitazione, è bene posizionare le card secondo la fase di ricerca/attività e disseminarle nell’aula (ad esempio, sui tavoli o su un'ampia sezione del pavimento).
 
-    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment).
+    * Contrassegnare un'ampia sezione di una parete (possono essere utilizzate anche finestre o bacheche) con le diverse fasi del ciclo della ricerca (es. preparazione, scoperta, analisi, scrittura, pubblicazione, disseminazione, valutazione).
 
-    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase.
+    * Chiedere ai partecipanti di selezionare le pratiche che ritengono veramente importanti per la scienza aperta, e appendere il relativo post-it alla parete, suddivise per fase di ricerca.
 
-    * Encourage people to add research practices that are not included in the cards.
+    * Sollecitare i partecipanti ad aggiungere altre pratiche di ricerca che non sono state incluse nelle card
 
-    * Divide participants in seven groups.
+    * Suddividere i partecipanti in sette gruppi.
 
     * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
 
