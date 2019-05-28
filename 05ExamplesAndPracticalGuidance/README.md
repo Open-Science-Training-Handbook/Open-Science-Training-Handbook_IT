@@ -461,21 +461,21 @@ Collaborative Platforms</td>
 
     * Suddividere i partecipanti in sette gruppi.
 
-    * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
+    * Ogni gruppo analizza le pratiche selezionate per ogni fase della ricerca e sceglie le due pratiche che ritiene siano *più facilmente implementabili* e le *più efficaci per fare la ricerca più aperta*, spostando le relative card più in alto sulla parete, oppure rimuovendo le altre card. 
 
-    * The small groups explain their choice to all participants. 
+    * Ogni singolo gruppo passa a spiegare agli altri partecipanti le motivazioni della loro scelta.  
 
-    * Together, the selected research practices can form a blueprint of an open science workflow. 
+    * Messe insieme, le pratiche di ricerca selezionate possono costituire un modello procedurale per fare ricerca nell’ambito della scienza aperta.
 
-    * As a follow-up exercise, participants can discuss possible steps to implement these practices: 
+    * Come esercizio di follow-up, i partecipanti possono discutere i possibili passi successivi per attuare queste pratiche: 
 
-        1. what tools/platforms can be used
+        1. quali strumenti/piattaforme possono essere utilizzate
 
-        2. what potential incentives and barriers would be
+        2. quali potrebbero essere dei possibili incentivi e ostacoli
 
-        3. what support would be needed
+        3. che tipo di supporto potrebbe essere necessario 
 
-        4. what policy changes would be needed
+        4. quali modifiche si renderebbe necessario apportare alle politiche
 
 ![image alt text](/Images/image_9.png)
 
@@ -483,31 +483,31 @@ Collaborative Platforms</td>
 
 ![image alt text](/Images/image_11.png)
 
-* Materials and tools needed
+* materiali e strumenti richiesti
 
-    * Large wall, windows, or multiple pinboards to hang materials on
+    * Pareti grandi, finestre, oppure una serie di pannelli dove poter appendere del materiale
 
-    * Enough room to move around
+    * sufficiente spazio per potersi muovere 
 
     * Printed [cards with open science practices](https://doi.org/10.6084/m9.figshare.4627954.v1) (also available as [editable powerpoint slides](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
 
-    * Empty cards, pens / markers
+    * card vuote, penne / evidenziatori
 
-    * Pins or tape 
+    * puntine da disegno o nastro adesivo  
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * None, some familiarity with the research process is helpful
+    * nessuna, può essere utile un po' di dimestischezza con il ciclo della ricerca
+    
+* Cosa da ricordare 
 
-* Things to bear in mind
+    *  a seconda del numero di partecipanti, gruppi piccoli possono prioritizzare pratiche per più di una fase del ciclo della ricerca 
 
-    * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
+    *  prima di attaccare il nastro adesivo alla parete fate una prova sulla finestra / parete ce ne sono alcuni che sono veramente difficile da togliere :-) 
 
-    * Test tape on windows / walls first, some types are really hard to remove :-) 
+    * Il gruppo intero potrebbe non essere d'accordo con la selezione di pratiche proposta dal gruppo più piccolo per una determinata fase del ciclo della ricerca. Prima di cominciare è meglio decidere se ci si vuole attenere alle scelte fatte, o se si possa discutere e cambiare consensualmente la selezione di pratiche. 
 
-    * The whole group may not agree with the small group’s selection of practices for a given research phase. Decide beforehand whether to stick with the choices made, or whether there is room for discussion and consensus-based swapping of practices.
-
-* How to adapt for other purposes
+* Come adattare per altri finalità
 
     * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
 
