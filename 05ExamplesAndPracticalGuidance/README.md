@@ -541,7 +541,7 @@ Collaborative Platforms</td>
 
         5. "Con la scienza aperta fare ricerca è più divertente"
 
-        6. "Scooping is a real and existing problem that makes Open Science a hard choice"
+        6. "Lo scooping è un problema concreto e reale che rende difficile optare per la scienza aperta"
 
         7. "Le APCs (article processing charges) rappresentano i maggiori ostacoli alla diffusione di pubblicazioni in accesso aperto"
 
@@ -549,19 +549,19 @@ Collaborative Platforms</td>
 
         9. "Accettare degli incarichi di revisione aperta tra pari può essere deletereo per giovani ricercatori che vogliono fare carriera"
 
-        10. "We should take citizen scientists more seriously, and also not just see them as data suppliers"
+        10. "Dovremmo prendere molto più seriamente i citizen scientists, e non considerarli solo dei fornitori di dati"
+I
+        11. "I fattori di impatto sono un sintomo e non la causa della della competitività sfrenata per pubblicare"
 
-        11. "Impact factors are a symptom and not the cause of the publishing rat-race"
+        12. "Non c'è alcun valido motivo per non pubblicare un articolo in formato preprint non appena questo sia pronto"
 
-        12. "There is absolutely no reason we should not publish a paper as a preprint as soon as it is ready"
+        13. "Condividere i dati va bene ma per accelerare la scienza dobbiamo lavorare anche sulla inter-operabilità e la ri-usibilità di questi dati"
 
-        13. "Just sharing our data is fine, but to speed up science we need to also work on interoperability and reusability of those data"
+        14. "Condividere idee e progetti attraverso ResearchGate è un buon metodo per diffondere i risultati del nostro lavoro di ricerca"
 
-        14. "Sharing ideas and projects through ResearchGate is a good way of doing outreach for our research"
+        15. "Sono probabilmente le richieste dei coordinatori di ricerca a spingere i giovani ricercatori a non impegnarsi di più nella ricerca aperta"
 
-        15. "Demands of our PIs are probably the main reason why young researchers do not engage more in Open Science"
-
-        16. "Dovremmo impegnarci a creare una specie di ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
+        16. "Dovremmo impegnarci a creare una specie di ‘commons’ dove condividere tutti i risultati / oggetti dei nostri lavori di ricerca per favorire la collaborazione e il ri-uso"
 
 * Materials and tools needed
 
