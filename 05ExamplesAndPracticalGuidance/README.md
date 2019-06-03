@@ -513,41 +513,41 @@ Collaborative Platforms</td>
 
     * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
 
-##### **Example 4: Open Science discussion topics**
+##### **Esempio 4: Argomenti di discussione sulla Scienza Aperta**
 
-* Format, time needed 
+* Format, tempo richiesto 
 
-    * Small groups, 20–30 minutes 
+    * in piccoli gruppi, 20–30 minuti 
 
-* Topic 
+* Argomento 
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives 
+* Finalità didattiche 
 
-    * Confront own experiences and opinions on open science with perspectives from others.
+    * Confrontare le proprie esperienze ed opinioni sulla scienza aperta in rapporto alle diverse prospettive degli altri partecipanti.
 
 ![image alt text](/Images/image_12.png)
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
+    * Formare dei gruppi di quattro o cinque persone e assegnare a ciascuno gruppetto degli argomenti di discussione (che avrete scritto su dei cartoncini).
 
-    * Have groups discuss the topics from participants’ own perspectives.
+    * Chiedere ai gruppetti di discutere l'argomento che gli è stato assegnato raccogliendo i punti di vista dei singoli partecipanti.
 
-    * (optional) Have each group summarize most important points that came up for the whole group .
+    * (opzionale) Ad ogni gruppo viene chiesto di riassumere i punti più importanti emersi durante la discussione.
 
-    * Suggestions for discussion topics:
+    * Alcuni suggerimenti su possibili argomenti di discussione:
 
-        5. "Working in an Open Science manner makes research more fun"
+        5. "Con la scienza aperta fare ricerca è più divertente"
 
         6. "Scooping is a real and existing problem that makes Open Science a hard choice"
 
-        7. "APCs (article processing charges) are the main obstacle to publishing more in Open Access"
+        7. "Le APCs (article processing charges) rappresentano i maggiori ostacoli alla diffusione di pubblicazioni in accesso aperto"
 
-        8. "We need more explicit support for Open Science from funders and the  government"
+        8. "Abbiamo bisogno di maggiore esplicito sostegno alla scienza aperta da parte degli enti finanziatori e dal governo"
 
-        9. "Engaging in open peer review is problematic for young researchers that want to make a career"
+        9. "Accettare degli incarichi di revisione aperta tra pari può essere deletereo per giovani ricercatori che vogliono fare carriera"
 
         10. "We should take citizen scientists more seriously, and also not just see them as data suppliers"
 
@@ -561,7 +561,7 @@ Collaborative Platforms</td>
 
         15. "Demands of our PIs are probably the main reason why young researchers do not engage more in Open Science"
 
-        16. "We should strive to create a kind of ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
+        16. "Dovremmo impegnarci a creare una specie di ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
 
 * Materials and tools needed
 
