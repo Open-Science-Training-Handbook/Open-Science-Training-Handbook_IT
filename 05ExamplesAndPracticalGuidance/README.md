@@ -507,7 +507,7 @@ Collaborative Platforms</td>
 
     * Il gruppo intero potrebbe non essere d'accordo con la selezione di pratiche proposta dal gruppo più piccolo per una determinata fase del ciclo della ricerca. Prima di cominciare è meglio decidere se ci si vuole attenere alle scelte fatte, o se si possa discutere e cambiare consensualmente la selezione di pratiche. 
 
-* Come adattare per altri finalità
+* Come adattare per altre finalità
 
     * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
 
@@ -548,9 +548,8 @@ Collaborative Platforms</td>
         8. "Abbiamo bisogno di maggiore esplicito sostegno alla scienza aperta da parte degli enti finanziatori e dal governo"
 
         9. "Accettare degli incarichi di revisione aperta tra pari può essere deletereo per giovani ricercatori che vogliono fare carriera"
-
         10. "Dovremmo prendere molto più seriamente i citizen scientists, e non considerarli solo dei fornitori di dati"
-I
+        
         11. "I fattori di impatto sono un sintomo e non la causa della della competitività sfrenata per pubblicare"
 
         12. "Non c'è alcun valido motivo per non pubblicare un articolo in formato preprint non appena questo sia pronto"
@@ -563,162 +562,161 @@ I
 
         16. "Dovremmo impegnarci a creare una specie di ‘commons’ dove condividere tutti i risultati / oggetti dei nostri lavori di ricerca per favorire la collaborazione e il ri-uso"
 
-* Materials and tools needed
+* Materiali e strumenti richiesti
 
     * Printouts of discussion topics
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche necessarie 
 
-    * Some familiarity with the research system.
+    *  Può essere utile avere un po' di dimestischezza con il ciclo della ricerca
 
-* Things to bear in mind
+* Cose da tenere in mente 
 
-    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
+    * Questa esercitazione è rivolta principalmente ai ricercatori (piuttosto che al personale di supporto), perchè possono trovare attinenza con la loro specifica situazione e parlare per esperienza diretta.
 
-* How to adapt for other purposes
+* Come adattare per altre finalità 
 
-    * By changing the discussion statements, this exercise can be adapted to other topics.
+    * Cambiando gli argomenti in discussione, questa esercitazione può adattarsi ad altri argomenti
 
-##### **Example 5: LIBER Open Science café**
+##### **Esempio 5: LIBER Open Science café**
 
-* Format, time needed
+* Format, tempo richiesto
 
-    * small groups, 1.5 hour
+    * in piccoli gruppi, 1.5 ora
 
-* Topic
+* Argomento 
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Finalità didattiche
 
-    * Have knowledge of different aspects of open science.
+    * Acquisire delle conoscenze su diversi aspetti della scienza aperta
 
-    * Connect different stakeholders to discuss statements and topics.
+    * Far incontrare tra loro tutte le parti interessate e farle discutere su prese di posizioni e argomenti
 
-* Materials and tools needed
+* Materiali e strumenti richiesti
 
-    * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
+    * Ile [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), oppure un plico di affermazioni/prese di posizione scritte sulla base di [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
-    * one table per 6-8 persons
+    * un tavolo per 6-8 persone
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-    * The set-up: 6-8 people gather around a table with 1 moderator and 1 note taker. To initiate conversations, they are provided with a deck of cards with statements and questions related to open science and the involved projects. These statements  serve as conversation starters. Someone can pick a card, the group talks about it for some time, and then they can move on to the next card. In this way, people learn from each other and start to think about the bigger picture. Meanwhile, you can collect valuable input from different stakeholders.
+    * Composizione: 6-8 persone riunite intorno ad un tavolo tra cui il moderatore e il protocollista. Per dare il via alla conversazione, gli vengono forniti dei mazzi di card con affermazioni e domande in merito alla scienza aperta e ai relativi progetti. Le affermazioni servono da apripista alla discussione. Uno dei partecipanti prende una card, il gruppo ne parla per un periodo di tempo e quindi proseguono con con un'altra card. Così facendo, le persone si conoscono tra loro e hanno modo cominciare a pensare con una prospettiva più grande. Contemporaneamente, potete raccogliere i punti di vista preziosi da parte di tutte le parti in gioco.
 
-    * The note taker: collects interesting points of the conversation in two different ways:
+    * il protocollista: prende nota di tutti i punti più interessanti emersi durante la discussione in due possibili metodi:
 
         17. The mindmap cards: You can use these cards for topics that get a lot of attention in the conversation. If things go too fast, don’t be afraid to stop the conversation and ask people to provide input for this mindmap. Write down the main topic in the centre, and work from there. Is it hard to find connections? You can also collect random thoughts and statements here.
 
-        18. Brilliant quotes and ideas: Sometimes someone says something that’s just WOW, just spot on or somehow very useful. For this you have the ‘brilliant quote and ideas’ card. You only have one, so here you have to be very selective. Make a point of it if you think something is so
-good that it deserves to go on this card. 
+        18. Citazioni e idee brillanti: qualche volta qualcuno dice qualcosa di semplicemente sorprendente, o semplicemente molto pertinente o molto utile in qualche modo. Per questo dovete avere a disposizione la carta delle "idee e delle citazioni brillanti". Ne avete a disposizione solo una quindi dovete essere molto selettivi. Metteteci un asterisco se pensate che qualcosa meriti di essere messo su questa card. 
 
-    * After 20-30 minutes, have the group change tables. Moderators and note takers remain seated.
+    * Passati 20-30 minuti, il gruppo deve cambiare tavolo. Moderatori e protocollisti rimangono ai loro posti.
 
-    * At the end, each moderator reports on what has been said by the different groups at their table. 
+    * Alla fine, ogni moderatore riferisce su quanto è stato detto dai diversi gruppi che si sono avvicendati al suo tavolo. 
 
-##### **Example 6: What is research data for me?**
+##### **Esempio 6: Che cosa sono per me i dati della ricerca?**
 
-* Format, time needed
+* Format, tempo richiesto 
 
-    * Individual/pairs, 15 minutes
+    * da soli/in coppia, 15 minuti
 
-* Topic
-
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives
-
-    * Know their own research data and data in their field of research
-
-* Exercise description
-
-    * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
-
-* Materials and tools needed
-
-    * A piece of paper and a pen
-
-* Level of prior knowledge needed
-
-    * No prior knowledge needed
-
-* Things to bear in mind
-
-    * Give the participants enough time to brainstorm
-
-* How to adapt for other purposes:
-
-You can shorten the activity by skipping the pair/group work and just discuss in the plenary
-
-##### **Example 7: Why not share data?**
-
-* Format, time needed 
-
-    * Small groups, ~20 minutes
-
-* Topic
+* Argomento 
 
     * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Finalità didattiche 
 
-    * Get participants thinking about the ethical and practical barriers to data sharing, and to critically examine their beliefs in this area.
+    * Conoscere i propri dati di ricerca e i dati dei propri ambiti di ricerca 
 
-* Exercise description
+* Descrizione dell'esercitazionen
 
-    * In pairs or small groups, participants have five minutes to make a list as long as possible of all the reasons why researchers might not wish to share their data. Participants then report back on their reasons, discussing whether these are valid reasons or not, and strategies for how to overcome legitimate concerns. The team with the most reasons listed wins (prize optional).
+    * Chiedete ai partecipanti di riflettere sugli ultimi articoli che hanno scritto/letto. Erano corredati da materiale integrativo  (ad esempio tabelle, immagini)? Chiedete loro di scrivere alcuni esempi e alcuni tipi di dati di ricerca nei proprio settore di lavoro. Che tipo di informazione o di dati avrebbero bisogno per ri-analizzare lo studio? Di che cosa avrebbero bisogno per fare in modo che la loro dissertazione/articolo potesse essere compresa nel modo giusto? Chiedetegli di presentare le loro riflessioni conclusive in coppia/in gruppo o poi nella sessione plenaria. 
 
-* Materials and tools needed
+* Materiali e strumenti richiesti
 
-    * Note taking equipment (pen, paper, or online document); optional: prize. 
+    * Un foglio di carta e una penna
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste 
 
-    * Working knowledge of working with data
+    * Non sono richieste conoscenze propedeutiche 
 
-* Things to bear in mind
+* Cose da tenere in mente
 
-    * The exercise should be fun, and participants should be encouraged to come up with fun as well as serious examples. 
+    * Concedete ai partecipanti il tempo necessario per fare brainstorming
 
-* How to adapt for other purposes
+* Come adattare ad altre finalità 
 
-    * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
+E' possibile accorciare l'attività saltando la parte del lavoro in coppia/gruppo e passare direttamente alla discussione in formazione plenaria
 
-##### **Example 8: "Open Data Excuse" Bingo**
+##### **Esempio 7: Perchè non condividere i dati**
 
-* Format, time needed
+* Format, tempo richiesto 
 
-    * Group exercise, 20–30 minutes
+    * piccoli gruppi, ~20 minuti
 
-* Topic:
+* Argomenti 
 
     * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Finalità didattiche 
 
-    * Being able to recognize stereotypes that prevent sharing research data and understand the advantages of opening research data.
+    * Chiedete ai partecipanti di pensare agli ostacoli di tipo etico e pratico che incontrano nella condivisione di dati e di esaminare in maniera critica le loro convinzioni a riguardo 
 
-* Exercise description:
+* Descrizione dell'esercitazione 
 
-    * This exercise should be used at the beginning of the training event. Participants split at least in two groups or more (depends on the group size). A trainer takes care that one group will develop pro and the other contra arguments. In small groups participants discuss excuses already defined at the "Open Data Excuse" Bingo, these are common arguments used by researchers when explaining why they can't share their data. For the last 10 minutes the groups should confront their arguments. A trainer helps participants to develop arguments for open their data and to better understand the idea of sharing their data.
+    * In coppia o in gruppi di poche persone, i partecipanti devono in cinque minuti comporre un elenco il più lungo possibile delle ragioni per cui i ricercatori non dovrebbero voler condividere i propri dati. I partecipanti devono quindi esporre le proprie ragioni argomentando perchè le ritengono o no delle ragioni valide e quali potrebbero essere delle strategie possibili su come superare le proprie legittime reticenze. Il gruppo che ha prodotto l'elenco più lungo vince (opzionale: prevedere un premio).
 
-* Materials and tools needed:
+* Materiali e strumentazioni richiesti
 
-    * Printed sheets of[ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
+    * cancelleria per prendere appunti (penna, fogli di carta o un documento online); opzionale: premio 
 
-* Level of prior knowledge needed:
+* Conoscenze propedeutiche richieste
 
-    * The participants should have experience with creating/collecting research data.
+    * conoscenze pratiche su come lavorare con i dati 
 
-* Things to bear in mind:
+* Cose da tenere a mente 
 
-    * Go around and try to help with arguments if needed, especially in the group, which supposed to develop strong arguments for sharing data. Extra help might be needed for these participants to be stronger later in the confrontation with participants from the other group.
+    * L'esercitazione dovrebbe essere divertente, e i partecipanti dovrebbero essere incoraggiati a riportare degli esempi spassosi non solo esclusivamente seriosi 
 
-* How to adapt for other purposes:
+* Come adattare per altre finalità 
 
-    * This exercise can be adapted to other topics (material would need to be adapted also)
+    * Lo stesso formato può essere facilmente adattabile ad altri elementi della scienza aperta, e.g., accesso aperto (perchè non pubblicare ad accesso aperto, etc.)
 
-##### **Example 9: Me and my data - Datagramms**
+##### **Esempio 8: "Open Data Excuse" Bingo**
+
+* Format, tempo richiesto 
+
+    * Esercizio di gruppo, 20–30 minuti
+
+* Argomento:
+
+    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Finalità didattiche:
+
+    * Essere in grado di riconoscere gli stereotipi che impediscono la condivisione dei dati della ricerca e comprendere i vantaggi di rendere aperti i dati della ricerca
+
+* Descrizione dell'esercitazione 
+
+    * Questo esercizio dovrebbe essere fatto all'inizio di ogni sessione didattica. I partecipanti si suddividono in almeno due p più gruppi (a seconda del numero dei partecipanti). Un esercitatore deve incoraggiare un gruppo a sviluppare argomenti a faovre e contrari. In piccoli gruppi i partecipanti discutono sulle scuse già predisposte alla tombola "Tante scuse agli open data". Si tratta di argomentazioni molto comuni utilizzate dai ricercatori per spiegare i motivi che li spingono a non condividere i loro dati. Negli ultimi 10 minuti i gruppi devono confrontare le loro argomentazioni. Un esercitatore aiuta i partecipanti a sviluppare degli argomenti per rendere i loro dati aperti e per comprendere meglio quale sia l'idea alla base della condivisione dei dati.
+
+* Materiali e strumenti richiesti 
+
+    * Stampe da [ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
+
+* Conoscenze propedeutiche richieste 
+
+    * I partecipanti dovrebbero avere avuto precedenti esperienze su come creare/reaccogliere dei dati di ricerca.
+
+* Cose da tenere a mente 
+
+    * Circolate tra i tavoli e date una mano a trovare le argomentazioni laddove necessario; in special modo al gruppo a cui è stato assegnato il compito di sviluppare delle solide argomentazioni a supporto della condivisione dei dati. Questi partecipanti potrebbero aver bisogno di un aiutino extra per poter affrontare il confronto successivo con i partecipanti di un altro gruppo. 
+
+* Come adattare per altre finalità 
+
+    * Questa esercitazione può essere adattata ad altri argomenti (adattando necessariamento anche il materiale)
+
+##### **Esempio 9: Io e i miei dati - Datagramms**
 
 * Format, time needed
 
