@@ -802,133 +802,133 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Qualche partecipante potrebbe non trovare un archivio disciplinare, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
 
-* How to adapt for other purposes:
+* Come adattare per altre finalità
 
-    * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
+    * E' possibile adattare questo esercizio all'Accesso Aperto utilizzando l'elenco alle riviste di Accesso Aperto [DOAJ[https://doaj.org](https://doaj.org)) website
 
-##### **Example 11: What do you need for a data publication?**
+##### **Esempio 11: Di che cosa si ha bisogno per una pubblicazione di dati?**
 
-* Format, time needed: 
+* Format, tempo richiesto: 
 
-    * Group exercise, 5–10 minutes (depending on group size)
+    * Esercizio di gruppo, 5–10 minuti (a seconda del numero di partecipanti)
 
-* Topic:
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives:
-
-    * Remembering the necessary steps for data publication
-
-* Exercise description:
-
-    * This exercise should be used at the end of the training. Let the participants play "I'm packing my suitcase" where they have to name necessary elements for a data publication (e.g., Research data (files), metadata, keywords, documentation, license, ORCID, repository, good title, references/sources, data citation, time, and courage!) 
-
-* Materials and tools needed:
-
-    * No material needed
-
-* Level of prior knowledge needed:
-
-    * The participants know basic elements of data publishing through the course
-
-* Things to bear in mind:
-
-    * If participants forget an element, try to help or give pointers
-
-    * Name as last element "courage"
-
-* How to adapt for other purposes:
-
-    * Can also be adapted for open access publishing process
-
-##### **Example 12: Creating metadata**
-
-* Format, time needed: 
-
-    * Individual / pairs, 5 minutes
-
-* Topic:
+* Argomento:
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Finalità didattiche:
 
-    * Being able to create metadata for research data
+    * Memorizzare le fasi necessarie alla pubblicazione di dati
 
-* Exercise description:
+* Descrizione dell'esercitazione:
 
-    * Let the participants select a file they are currently working on. Let them answer the following questions on a piece of paper: Who created the content? What is the content? When was the content created? How was the content created? Why was the content created? Then discuss with them their results. Was it easy or difficult? Can they repeat this task for all the files in their research process?
+    * Questo esercizio dovrebbe essere programmato a conclusione della formazione. Chiedete ai partecipanti di giocare a "Sto preparando le mie valigie" durante il quale viene chiesto loro di elencare gli elementi necessari per una pubblicazione di dati (ad esempio dati di ricerca (files), metadati, parole chiave, documentazione, licenza, ORCID, archivio, un buon titolo, riferimenti bibliografici/fonti, citazione di dati, tempo, e coraggio!) 
 
-* Materials and tools needed:
+* Materiali e strumenti necessari:
 
-    * A piece of paper (or prepared form) and a pen
+    * Non è richiesto alcun materiale
 
-* Level of prior knowledge needed:
+* Conoscenze propedeutiche richieste
 
-    * No prior knowledge needed
+    * Ai partecipanti è richiesto di conoscere delle nozioni base sulla pubblicazione di dati 
 
-* Things to bear in mind:
+* Cose da tenere in mente
 
-    * To make the exercise faster prepare a form and print it out or make it available online.
+    * Se i partecipanti si dimenticano di qualche elemento, fornitegli un aiuto o indicazioni utili 
 
-    * For bigger projects with a lot of files offer a data dictionary template
+    * Proponete solo all'ultimo l'elemento "coraggio"
 
-* How to adapt for other purposes:
+* Come adattare per altre finalità
 
-    * Can also be adapted as a documentation exercise
+    * Può essere adattato anche per il processo di pubblicazione ad accesso aperto
+   
+##### **Esempio 12: La creazione dei metadati**
 
-##### **Example 13: Get started with sharing software openly**
+* Format, tempo richiesto: 
 
-* Format, time needed 
+    * da soli / in coppia, 5 minuti
 
-    * Individual / pairs, 20–30 minutes
+* Argomento:
 
-* Topic
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Finalità didattiche
+
+    * Essere in grado di creare dei metadati per i dati della ricerca
+
+* Descrizione dell'esercitazione
+
+    * Chiedete ai partecipanti di selezionare un file a cui stanno lavorando e ponetegli la seguente domanda su un foglio di carta: Chi ha creato il contenuto? Qual'è il contenuto? Quando è stato creato il contenuto? Come è stato creato il contenuto? Perchè è stato creato il contenuto? Quindi discutete insieme quanto emerso dalle loro risposte. E' stato facile o difficile? Sono in grado di ripetere la stessa procedura per tutti i file del loro processo di ricerca?
+
+* Materiali e strumenti necessari:
+
+    * Un foglio di carta (o un foglio predefinito) e una penna
+
+* Conoscenze propedeutiche necessarie
+
+    * Non sono richieste conoscenze a priori
+
+* Cose da tenere a mente
+
+    * Per accelerare l'esercitazione preparate un modulo e stampatelo o rendetelo disponibile online
+
+    * Per progetti più corposi con molti file mettete a disposizione un modello di dizionario dei dati
+
+* Come adattare per altre finalità:
+
+    * Può essere adattato anche per un'esercitazione sulla documentazione
+
+##### **Esempio 13: Prepararsi a condividere i software in maniera aperta**
+
+* Format, tempo richiesto 
+
+    * Lavoro individuale / a coppie, 20–30 minuti
+
+* Argomento
 
     * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 
-* Learning objectives
+* Finalità didattiche
 
-    * Learn how to use common tools and services for sharing research codes openly.
+    * Imparare ad usare gli strumenti e i servizi più comuni per condividere i codici di ricerca in maniera aperta
 
-    * Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses
+    * Essere in grado di scegliere la licenza appropriata per il loro software e capire la differenza tra licenze permissive e non-permissive
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * This exercise is meant for any researchers that will use software/code for their research, whether they perform purely computational or experimental work (the latter use software for analysis, etc.). 
+    * Questa esercitazione è rivolta a tutti i ricercatori che useranno un software/codice per il loro lavoro di ricerca, sia che svolgano un lavoro puramente computazionale o sperimentale (quest'ultimo impiega il software per fare analisi, etc.). 
 
-    * First, have everyone sign up for a free [GitHub account](https://github.com/) if they do not already have one. This free account will be sufficient for working with exclusively open/public code, although you may let them know that students, educators, and researchers can [request a waiver for a free professional account](https://education.github.com/).
+    * In primo luogo, ai partecipanti verrà richiesto di registrarsi ad un [GitHub account](https://github.com/) nel caso in cui già non lo fossero. Questo account libero sarà sufficiente per la lavorare esclusivamente con codici aperti/pubblici, sebbene potete informarli che studenti, docenti e ricercatori possono richiederlo gratuitamente [request a waiver for a free professional account](https://education.github.com/).
 
-    * In addition, have participants register for a [Zenodo account](https://zenodo.org/), and link this to their GitHub account.
+    * Oltre a ciò, fate in modo che i partecipanti si regitrino a [Zenodo account](https://zenodo.org/), e che colleghino questo con il loro account GitHub.
 
-    * Next, have everyone create a new public repository, choosing an appropriate license based on the desired permissions (choosealicense.org can be helpful here). On Zenodo, enable the [GitHub–Zenodo integration](https://guides.github.com/activities/citable-code/) for this repository.
+    * Successivamente fate in modo che tutti i partecipanti creino un nuovo archivio pubblico, scegliendo una licenza appropriata sulla base dei permessi desiderati (choosealicense.org can be helpful here). In Zenodo, azionae il [GitHub–Zenodo integration](https://guides.github.com/activities/citable-code/) per questo archivio.
 
-    * Have participants add their source file(s) to the repository, and add some description of the program/script to the README file. Once these files are added, choose a version number and [create a release](https://help.github.com/articles/creating-releases/) of the software.
+    * i partecipanti dovranno aggiungere il/i loro file sorgente all'archivio, e aggiungere una descrizione del programma/script al file README. Una volta che questi file sono stati aggiunti, scegliete un numero di versione e [create a release](https://help.github.com/articles/creating-releases/) del software.
 
-    * Head to Zenodo, and obtain the DOI that has been generated for your software. 
+    * Passate a Zenodo, e ottenete il DOI che è stato generato per il vostro software 
 
-    * Congratulations, your software is now citeable! You can add a section to the README file with the DOI and suggested citation, or even add the DOI badge that Zenodo provides.
+    * Congratulazioni! Il vostro software adesso può essere citato! Potete aggiungere un sezione al file READMe con il DOI e la citazione suggerita, o aggiungere addirittura il badge DOI fornito da Zenodo.
 
-* Materials and tools needed
+* Materiali e strumenti necessari
 
-    * Individuals need to have a computer with internet connection.
+    * Ogni partecipante deve essere provvisto di un computer con collegamento a internet
 
-    * Participants should have some code, script, or program ready—even if it is "messy"—that they will publicly share.
+    * I partecipanti dovrebbero avere un codice, script, o programma pronto anche se a puntino che vogliono condividere pubblicamente
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * None
+    * Nessuna
 
-* Things to bear in mind
+* Cose da tenere a mente
 
-    * None
+    * Nessuna
 
-* How to adapt for other purposes:
+* Come adattarlo per altre finalità
 
-    * Not applicable
+    * Non può essere adattato
 
-##### **Example 14: Establishing a Reproducible Data Analysis Workflow**
+##### **Esempio 14: Establishing a Reproducible Data Analysis Workflow**
 
 * Format, time needed
 
