@@ -718,89 +718,89 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 ##### **Esempio 9: Io e i miei dati - Datagramms**
 
-* Format, time needed
+* Format, tempo richiesto 
 
-    * Group exercise, 1–4 hours (if done as part of a workshop)  
+    * Esercitazione di gruppo, 1–4 ore (se all'interno di un workshop)  
 
-* Topic
-
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-
-* Learning objectives
-
-    * Understanding what data is and what type of repository of archive is needed to store them properly
-
-* Exercise description
-
-    * Participants are asked to think about the last scientific work done in relation with a thesis (Bachelor, Master, or Ph.D.) and to reflect about the kind of data they produced.
-
-    * They will then create a datagramm, i.e., write down on a card
-
-        * the subject discipline
-
-        * the title of the thesis
-
-        * a bunch of letters, indicating
-
-            * the format (like pdf, doc, csv, or similar)
-
-            * the size (kb, mb, gb, tb, etc.)
-
-            * the medium (like a for analogue, d for digital, i.e., digitized and b for born digital, or combinations of the three)
-
-            * and finally the type of data, differentiating roughly between O for observations, E for experiments, S for simulations, D for derivations, R for references and D for digitized data, or combinations of them.
-
-    * In several steps, all cards are finally clustered on a wall according to the letters (format, size, medium, and type)
-
-    * The group discusses the different clusters and reflects about the requirements for an open data repository or archive.
-
-* Materials and tools needed
-
-    *  Cards and flipcharts, or better a wall and material to fix the cards on the wall
-
-* Level of prior knowledge needed
-
-    * None as long as the exercise is started with some explanations on how to describe and differentiate data. Basic knowledge of research data, repositories, and archives may be helpful.
-
-* Things to bear in mind: 
-
-    * Make it a step by step approach
-
-* How to adapt for other purposes
-
-    *  not yet applied
-
-##### **Example 10: Find your data publisher**
-
-* Format, time needed: 
-
-    * Individual / pairs, 10–15 minutes
-
-* Topic:
+* Argomento
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Finalità didattiche
 
-    * Becoming aware of appropriate subject-specific data repositories and their characteristics and standards
+    * Imparare che cosa sono i dati e quale tipo di deposito per archivi è necessario per conservarli in maniera consona 
 
-* Exercise description:
+* Descrizione dell'esercitazione
 
-    * The participants have to find a data repository for their research data. They go to re3data.org and search/browse by subject and/or content type. Let them limit their search to data repositories with DOI assignment. Give them time to have a look at the repository description and let them write down relevant repositories. Afterwards their success and experiences are discussed.
+    * Ai partecipanti viene chiesto di pensare al loro ultimo lavoro scientifico svolto in relazione ad una tesi/dissertazione (laurea, laurea specialistica o dottorato) e a riflettere sulla tipologia di dati che contestualmente hanno prodotto.
 
-* Materials and tools needed:
+    * Quindi gli verrà chiesto di creare un datagramma, ad esempio di scrivere su un cartoncino 
 
-    * Computer with internet access for every participant (can also be in pairs if necessary)
+        * la materia, disciplina 
 
-* Level of prior knowledge needed:
+        * il titolo della tesi/dissertazione
 
-    * The participants should know which kind of research data they produce
+        * una serie di lettere, ad indicare
 
-    * Not applicable for bachelor students
+            * il formato (ad esempio pdf, doc, csv, o simili)
 
-* Things to bear in mind:
+            * la dimensione (kb, mb, gb, tb, etc.)
 
-    * Some people might not find an appropriate repository, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
+            * il mezzo (ad esempio, "a" per analogico, "d" per digitale, "c" per digitalizzato e "b" per digitale nativo, o una combinazione delle tre)
+
+            * e infine la tipologia di dati, differenziando approssimativamente tra "O" per osservazione, "E" per esperimento, "S" per simulazione, "D" per derivazione, "R" per riferimento/citazione e "D" per dati digitalizzati, oppure una combinazione di questi.
+
+    * In diversi passi successivi, tutti i cartoncini vengono poi raggruppati in diversi pacchetti in base alle lettere e attaccati alla parete (nei sottogruppi per formato, dimensione, strumento e tipo)
+
+    * Il gruppo discute sui diversi pacchetti di cartoncini e riflette su quali requisiti debba avere un depositivo o archivio di dati aperto.
+
+* Materiali e strumenti necessari 
+
+    *  Cartoncini e lavagne a fogli mobili, o in alternativa ancora meglio una parete e del materiale per fissare i cartoncini al muro.
+
+* Conoscenze propedeutiche necessarie 
+
+    * Nessuna fintanto che l'espercitazione inizia con alcune spiegazioni su come descrivere e differenziare i dati. Potrebbero inoltre servire un livello di conoscenza base su dati della ricerca, archivi, etc.
+
+* Cose da tenere a mente 
+
+    * Fate in modo che si proceda passo dopo passo 
+
+* Come adattarlo ad altre finalità 
+
+    *  non ancora adattato
+
+##### **Esempio 10: Trova il tuo Find your data publisher**
+
+* Format, tempo richiesto: 
+
+    * da soli / in gruppo, 10–15 minuti
+
+* Argomento:
+
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Finalità didattiche:
+
+    * Imparare a conoscere i diversi archivi disciplinari, le loro caratteristiche e standards
+
+* Descrizione dell'esercitazione:
+
+    * Ai partecipanti viene chiesto di trovare un archivio per i loro dati di ricerca. Per questo consultano il sito re3data.org e cercano/navigano per argomento e/o tipo di contenuto. Restringete la loro ricerca agli archivi dati con il DOI. Date loro il tempo di consultare l'archivio e di leggere la descrizione e il tempo per prendere nota dei sottoarchivi più rilevanti. Concluso questo passaggio, discutete con loro i risultati conseguiti e la loro esperienza in generale.
+
+* Materiali e strumenti richiesti:
+
+    * Un computer con collegamento ad internet per ogni partecipante (se necessario, anche in coppia)
+
+* Conoscenze propedeutiche richieste:
+
+    * Conoscere la tipologia di dati che il loro lavoro di ricerca produce
+
+    * Gli studenti della laurea triennale sono esclusi da questa esercitazione
+
+* Cose da tenere in mente
+
+    * Qualche partecipante potrebbe non trovare un archivio disciplinare, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
 
 * How to adapt for other purposes:
 
