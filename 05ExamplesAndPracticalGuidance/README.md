@@ -928,227 +928,227 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Non può essere adattato
 
-##### **Esempio 14: Establishing a Reproducible Data Analysis Workflow**
+##### **Esempio 14: Stabilire un flusso di lavoro per l'analisi dei dati reproducibili**
 
-* Format, time needed
+* Format, tempo necessario 
 
-    * Individually and as a group, 4–8 hours (example [here](http://reproducible-analysis-workshop.readthedocs.io))
+    * Lavoro individuale e in gruppo, 4–8 ore (esempio [QUI](http://reproducible-analysis-workshop.readthedocs.io))
 
-* Topic
+* Argomento
 
     * [Reproducible Research and Data Analysis](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 
-* Learning objectives 
+* Finalitò didattiche 
 
-    * Use a (small) computational task relevant to your discipline/background, and establish it as an open and reproducible workflow.
+    * Utilizzate un (piccolo) compito istituzionale rilevante per la vostra disciplina/conoscenze e stalitelo come un flusso di lavoro aperto e reproducibile.
 
-    * Understand the key concepts, tools and services that are useful in the context of reproducibility.
+    * Comprensione dei concetti, strumenti e servizi chiave che sono utili in un contesto di reproducibilità.
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * Each participant selects a dataset and corresponding data analysis process that is relevant to their field. Both dataset and the analysis process should be short enough that it concludes within a few minutes. Moreover, for the purposes of this exercise, the programming language should be Python or R, but other languages can be accommodated with slight changes in the underlying tools.
+    * Ad ogni partecipante viene chiesto di scegliere un set di dati e il corrispondente flusso di lavoro per l'analisi dei dati che hanno attinenza con il suo ambito di specializzazione. Sia il set dei dati sia il processo di analisi devono essere sufficientemente brevi da poter essere processati in pochi minuti. Inoltre, per le finalità di questo esercizio, il linguaggio di programmazione dovrebbe essere il Python o R ma altri linguaggi possono essere adattati con minime modifiche con gli strumenti sottostanti. 
 
-    * The participant initially runs the process in the traditional form, and then asks one of the other participants to re-run it with no external help. Identify both the time required for another person to run this, as well as the obstacles encountered.
+    * Ogni partecipanti esegue il processo inizialmente nella maniera tradizionale, quindi chiede ad un altro partecipante di eseguirll nuovamente senza alcun aiuto esterno. Prendete nota sia del tempo impiegato da un'altra persona per l'intera esecuzione sia degli ostacoli incontrati. 
+    
+    * Adottate lo stesso processo utilizzando l'approccio Jupyter / Git / MyBinder; scrivete il processo con Jupyter notebook, caricate il set di dati e il notebook in un archivio in GitHub, e poi collegate l'archivio a mybinder. Fatto ciò, chiedete alla stessa persona di eseguirlo nuovamente. Verificate le variazioni di durata e di accessibilità.
 
-    * Apply the same process using the Jupyter / Git / MyBinder approach; write the process as a Jupyter notebook, upload dataset and notebook to a repository on GitHub, and then connect the repository to mybinder. After than, ask again the same person to re-run this. Identify the change in time and accessibility.
+* Materiali e strumenti richiesti 
 
-* Materials and tools needed
+    * Jupyter e Git sono necessari (incluso un account a GitHub). A seconda del linguaggio, potrebbe essere necessario installare anche dei kernel Jupyter aggiuntivi. Infine, il formatore può decidere di fornire un esempio unico per tutti oppure chiedere ai partecipanti di portarne uno loro. La differenza sta nella durata richeista per la preparazione così come anche dall'uniformità dei background dei partecipanti. 
 
-    * Jupyter and Git are necessary (including an account on GitHub). Depending on the language, additional Jupyter kernels might need to be installed. Finally, the trainer can decide on whether to provide a common example for all participants to use, or ask the participants to bring their own. The difference lies to the amount of time required for preparation, as well as on the uniformity of the participants’ background.
+* Conoscenze propedeutiche richieste
 
-* Level of prior knowledge needed
+    * Il workshop può richiedere differenti livelli di conoscenze propedeutiche adattandosi per tempo. Ad esempio, si può includere una breve introduzione a Git ma in tutti i casi i partecipanti dovrebbero essere consapevoli dei requisiti computazionali per le loro analisi. 
 
-    * The workshop can be performed to different levels of expected prior knowledge, adapting for time. For example, a short basic introduction to Git can be included, but in all cases, the participants should be aware of the computational requirements of their own analysis.
+* Cose da tenere a mente
 
-* Things to bear in mind
+    * Il concetto generale è immediato ma ha una curva di apprendimento delle singole componenti individuali. Per questo motivo potrebbe essere utile prendersi del tempo prima di cominciare per discutere ogni singolo strumento prima di connetterli tutti insieme. 
 
-    * The overall concept is straightforward, but has an initial learning curve of the individual components. Therefore you may consider spending some extra time in the beginning discussing each tool, before connecting them all together.
+    * Riflettete sulla necessità di fornire ai partecipanti una spiegazione dettagliata sul processo di installazione (ad esempio, per Jupyter e Git), prima dell'evento, per ridurre al minimo qualsiasi possibile inconveniente tecnico.
 
-    * You should consider giving the participants a detailed explanation of the installation process (e.g., for Jupyter and Git), before the workshop, in order to minimize potential technical issues.
+* Come adattare per altre finalità 
 
-* How to adapt for other purposes
+    * L'evento potrebbe essere esteso per introdurre altri concetti della Scienza Aperta, come identificativi persistenti per software (assegnando un DOI tramite Zenodo all'archicio Git), così come anche per integrare tutti gli aspetti in una piattaforma comune (come OSF).
 
-    * The workshop can be extended to introduce additional concepts of Open Science, such as Persistent Identifiers for software (such as assigning a DOI from Zenodo to the Git repo), as well as integrating all of the aspects under a common platform (such as the OSF).
+##### **Esempio 15: Scegliete la versione giusta per l'archivio**
 
-##### **Example 15: Choose the right version for the repository**
+* Format, tempo necessario 
 
-* Format, time needed 
+    * Lavoro individuale / in coppia, 15–20 minuti
 
-    * Individual / pairs, 15–20 minutes
+* Argomento
 
-* Topic
+    * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publicazioni
 
-    * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publications
+* Finalità didattiche
 
-* Learning objectives
+    * Essere in grado di decidere quale sia la versione permessa per essere archiviata in un archivio e identificare il tipo di diritto di autore
 
-    * Being able to decide which is the version allowed to be deposit in a repository and state its copyright regime
+* Descrizione dell'esercitazione
 
-* Exercise description
+    * Questo esercizio potrebbe rivolgersi a chi gestisce gli archivi. Scegliete cinque pubblicazioni differenti e chiedete ai partecipanti di selezionare quale versione sarebbe ammissibile per quale archivio e quale notifica sul diritto di autore inlcuderebbero: chi detiene i diritti di autore e che tipo di diritti gli competono: tutti i diritti riservati, una licenza, dominio pubblico. Discutete insieme sulle loro conclusioni e mostrate loro gli elementi chiave che servono per definire la soluzione.
 
-    * This exercise could be addressed to repository managers. Choose five different publications and ask participants to select which is the version that could be allowed in a repository and which would be the copyright notice they would include: who is the copyright holder and which copyright regime would hold: all rights reserved, a license, public domain. Discuss with them their results and show them the key elements that define the solutions.
+* Materiali e strumenti richiesti
 
-* Materials and tools needed
+    * Per questo esercizio serve un foglio di carta (o un modulo prestampato) e una penna
 
-    * The exercise can be performed with a piece of paper (or prepared form) and a pen
+    * Lavoro individuale/ in coppia collegamento a internet per accedere ai documenti e alle check policies. In alternativa, potreste fornirgli delle copie cartacee degli articoli.
 
-    * Individuals/pairs need to have an internet connection to access the papers and check policies. You may provide physical copies of the articles, too.
+* Conoscenze propedeutiche richieste
 
-* Level of prior knowledge needed
+    * Nozioni basiche sul diritto d'autore
 
-    * Basic copyright notions
+    * Conoscenza dell'esistenza di differenti versioni di un articolo di ricerca
 
-    * Knowledge on the different versions of a research paper
+* Cose da tenere a mente
 
-* Things to bear in mind
+    * L'esercizio può essere convertito in versione online se preparate un set di domande.
 
-    * The exercise can be translated to an online version if you prepare a set of polls.
+    * Utilizzate una gamma di pubblicazioni ad esempio articoli pubblicati secondo dei modelli ibridi per dimostrare ai partecipanti che non è sufficiente consultare dei siti contenenti politiche di auto-archiviazione predefinite.
 
-    * Use a range of publications including for instance papers published under hybrid models in order to show participants that is not enough to look up at sites with default self archiving policies.
+    * Il numero di casi determinerà la durata dell'esercizio.
 
-    * The number of cases will determine the time of the exercise.
+* Come adottare per altre finalità 
 
-* How to adapt for other purposes:
-
-    * Can be adapted to training sessions with researchers using their own papers.
+    * Può essere adattato a sessioni formative durante le quali i ricercatori possono utilizzare i loro articoli.
 
 
 
-##### **Example 16: Open file formats**
+##### **Esempio 16: Open file formats**
 
-* Format, time needed: 
+* Format, tempo richiesto: 
 
-    * Group exercise, 10–15 minutes
+    * Esercizio di gruppo, 10–15 minuti
 
-* Topic:
+* Argomento:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Learning objectives:
+* Finalità didattiche:
 
-    * Becoming aware of file formats used daily and their openness
+    * Acquisire conoscenza sui file formats usati quotidianamente e il loro livello di apertura
 
-* Exercise description:
+* Descrizione dell'esercitazione:
 
     * Let the participants write down on post-its all the file formats they use in their daily work. Then get the post-its and stick them to the whiteboard or flipchart. Try to cluster them as best as you can into categories or groups (text, tabular, statistical, video, image, etc.). Then discuss the results with the audience. Talk about the openness of these file formats and possible alternatives.
 
-* Materials and tools needed:
+* Materiali e strumenti richiesti:
 
-    * A few stacks of post-its, pen and a whiteboard or flipchart
+    * Alcuni pacchetti di post-its, penne, una lavagna o una lavagna a fogli mobile
 
-* Level of prior knowledge needed:
+* Conoscenze propedeutiche richieste:
 
-    * No prior knowledge needed
+    * Non è necessario avere conoscenze specifiche a priori
 
-* Things to bear in mind:
+* Cose da tenere a mente:
 
-    * Prepare for "exotic" file formats that are subject-specific or machine-dependent or let the participants describe them.
+    * Preparatevi per dei formati di file "esotici" specifici di una disciplina o macchina-dipendente oppure lasciate che siano i partecipanti a descriverli.
 
-* How to adapt for other purposes:
+* Come adattare ad altre finalità 
 
-    * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
+    * Potete usare anche strumenti web come [PINGO](http://trypingo.com) per la raccolta di formati di file oppure lasciate che siano loro a scrivere i loro formati di file su di un foglio di carta e raccogliete questi fogli se non volete usare i post-its
 
-##### **Example 17: Creative Commons License matching**
+##### **Esempio 17: Accoppiare le Licenze Creative Commons**
 
-* Format, time needed: 
+* Format, tempo richiesto: 
 
-    * Group exercise, 5–10 minutes
+    * Esercitazione di gruppo, 5–10 minuti
 
-* Topic:
+* Argomento:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Learning objectives:
+* Finalità didattiche:
 
-    * Being able to differentiate between different Creative Commons licenses and to be able to combine them for works. 
+    * Essere in grado di differenziare tra le diverse licenze Creative Commons e di applicarle ai lavori. 
 
-* Exercise description:
+* Descrizione dell'esercitazione:
 
-    * The participants have to combine two licenses. Let the group guess which Creative Commons license is created by the combination. Repeat the exercise with other combinations. Integrate a combination that is not possible (for example, CC BY-SA and CC BY-NC) and point out pitfalls. Discuss the results with the participants.
+    * Ai partecipanti sarà chiesto di combinare due licenze. Il gruppo dovrà indovinare quale sia licenza che risulterà da questa combinazione. Ripetete l'esercizio utilizzando altre combinazioni. Prevedete anche un esempio di combinazione che non sarebbe possibile (ad esempio CC BY-SA e CC BY-NC) e evidenziate il trabocchetto. Discutete i risultati con gli altri partecipanti.
 
-* Materials and tools needed:
+* Materiali e strumenti richiesti:
 
-    * Computer with projector, whiteboard, flipchart, or piece of paper for all attendees
+    * Computer con proiettore, lavagna, lavagna con fogli mobile, o dei fogli per tutti i partecipanti
 
-* Level of prior knowledge needed:
+* Conoscenze propedeutiche richieste:
 
-    * The participants should know all Creative Commons licenses and/or have a paper to look at
+    * I partecipanti dovrebbero conoscere tutte le licenze Creative Commons e/o avere a portata di mano uno schema da consultare
 
-* Things to bear in mind:
+* Cose da tenere a mente:
 
-    * Wait more than three seconds before taking the answer. This enables participants to think it through and you are able to integrate even weak participants.
+    * Lasciate passare più di tre secondi prima di rispondere. Servirà per permettere ai partecipanti di riflettere più a lungo e riuscierete a includere anche i partecipanti più deboli. 
 
-* How to adapt for other purposes:
+* Come adattare per altre finalità:
 
-    * First create pairs and let them solve the combinations, then discuss the solutions in the group
+    * Costituite delle coppie e fate in modo che risolvano la combinazione insieme, quindi discuterete la soluzione all'interno del gruppo.
+    
+    * Uso di altre licenze
 
-    * Use other licenses
+##### **Esemmpio 18: OER Remix**
 
-##### **Example 18: OER Remix**
+* Format, tempo richiesto: 
 
-* Format, time needed: 
+    * Esercitazione d gruppo, 10–15 minuti
 
-    * Group exercise, 10–15 minutes
-
-* Topic:
+* Argomento:
 
     * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
     * [Open Educational Resources](/02OpenScienceBasics/11OpenEducationalResources.md)
 
-* Learning objectives:
+* Finalità didattiche:
 
-    * Being able to distinguish the different elements of the Creative Commons licenses
+    * Essere in grado di distinguere tra i diversi elementi delle licenze Creative Commons
 
-    * Being able to build content remixing previous works with multiple licenses including public domain and all rights reserved works and determine which will be the resulting license
+    * Essere in grado di costruire del contenuto mixando lavori precedenti con licenze multiple incluso il dominio pubblico e tutti i lavori con diritti riservati e stabilire quale sarà la licenza risultante
 
-* Exercise description:
+* Descrizione dell'esercitazione:
 
-    * There is an [online version](http://www.opencontent.org/game/) and a [printed version](http://www.opencontent.org/game/print/)
+    * Questa è una [versione online](http://www.opencontent.org/game/) e una [versione cartacea](http://www.opencontent.org/game/print/)
 
     * There is a set of cards marked with a type of content: text, image, music, and video, and each card carries a copyright sign that ranges from all rights reserved to public domain including the set of Creative Commons licenses and the GNU Free Documentation License.
 
-    * One person of the group takes 12 cards and the rest of the group has to combine them building a material with the four type of content: text, image, music and video. Once they choose a right combination they have to decide which is a possible license for this new work.
+    * Una persona del gruppo prende 12 cartoncini e il resto del gruppo deve combinarle costruendo un materiale con quattro tipi di contenuti: testo, immagine, musica e video. Una volta che hanno scelto la combinazione giusta devono decidere quale sia la possibile licenza per questo nuovo lavoro.  
 
-* Materials and tools needed:
+* Materiali e strumenti necessari:
 
-    * For the online game: computer with beamer
+    * Per un gioco online: computer videoproiettore
 
-    * For the printed game: the set of cards is available at [opencontent.org](http://www.opencontent.org/game/print/) or you can create a set of cards yourself
+    * Per un gioco cartaceo: il set di cartoncini è disponibile [opencontent.org](http://www.opencontent.org/game/print/) oppure potete creare voi stessi il vostro set di cartoncini 
 
-* Level of prior knowledge needed:
+* Conoscenze propedeutiche richieste:
 
-    * The participants should know the elements of all Creative Commons licenses and have a basic notion of copyright issues including the notion of copyleft
+    * I partecipanti dovrebbero conoscere gli elementi distintivi delle licenze Creative e avere nozioni di base sul diritto d'autore inclusa la nozione di permesso d'autore
 
-* Things to bear in mind:
+* Cose da tenere a mente:
 
-    * If you use the online version you might do the exercise with all your audience allowing multiple possible answers.
+    * Se vi servite della versione online potrete eseguire l'esercizio con tutta la vostra platea permettendo un numero di risposte possibile multiplo.
 
-* How to adapt for other purposes:
+* Come adattare per altre finalità:
 
-    * You can adapt it to research elements, for instance to software licensing
+    * Potete adattarlo ad elementi della ricerca, ad esempio al software licensing
 
-    * You can use other licenses, include new kind of contents or define which contents should have the final work
+    * Potete usare altre licenze, inserire nuove tipologie di contenuti o definire quale contenuti dovrebbe raccogliere il lavoro finale
 
-##### **Example 19: Open peer review - participants openly review each others’ texts**
+##### **Esempio 19: Revisione aperta tra pari - revisione aperta dei testi da parte dei partecipanti**
 
-* Format, time needed
+* Format, tempo necessario
 
-    * Small groups, 90 mins
+    * Piccoli gruppi, 90 minuti
 
-* Topic
+* Argomento
 
     * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Learning objectives
+* Finalità didattiche
 
-    * Practise in writing constructive peer reviews
+    * Esercitazioni pratiche su come scrivere delle revisioni in maniera costruttiva
 
-    * Critical reflection on the advantages and disadvantages of open peer review
+    * Riflessione critica sugli svantaggi e gli vantaggi della revisione aperta tra pari
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * Participants work in groups of three. Each participants writes a short text (~300 words) giving their thoughts on open peer review as discussed in the foregoing workshop. They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
+    * I partecipanti lavorano in gruppi di tre. Ogni partecipanti scrive un breve testo (~300 parole) su cosa pensa della revisione aperta tra pari basandosi su quanto è stato discusso nel corso del workshop. Passano quindi il testo alla persona sulla loro sinistra che deve scrivere una breve revisione sul testo ricevuto. Il testo e la revisione vengono consegnate They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
 
 * Materials and tools needed
 
