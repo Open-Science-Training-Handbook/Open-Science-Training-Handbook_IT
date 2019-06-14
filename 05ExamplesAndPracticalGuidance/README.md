@@ -1196,67 +1196,67 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Tutti i partecipanti prendono visione dei risultati e identificano gli aspetti che hanno ricevuto il maggior numero di preferenze
 
-    * In small groups, participants then take the role of reader, author, or reviewer (all should be present in each group). They then discuss one of the aspects of open peer review from the perspective of their taken roles. What are the benefits and potential drawbacks?
-
-    * Small groups then report back to the whole group, and additional perspectives/viewpoints can be discussed. 
+    * Vengono formati dei piccoli gruppi all'interno dei quali vengono assegnati ai singoli partecipanti diversi ruoli tra cui quello di lettore, autore o revisore (in tutti i gruppi devono essere presenti tutti e tre questi ruoli). Questi poi discutono uno degli aspetti della revisione tra pari aperta dal punto di vista del ruolo che gli è stato assegnato. Quali sono i benefici e i possibili svantaggi?
+    
+    * In gruppi piccoli poi in sessione plenaria dove si possono discutere altri punti di vista/prospettive 
 
 ![image alt text](/Images/image_13.png)
 
-* Materials and tools needed
+* Materiali e strumenti necessari
 
-    * Large printout of [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): one for each participant and a  communal one ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
+    * Pannello di grande dimensioni [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): uno per ogni partecipante e uno in comune  ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
 
-    * Two-cent coins (if available in your monetary system, otherwise any low-denomination coins will do)
+    * Monete da due centesimi (se esiste nel vostro sistema monetario altrimenti può essere usato qualsiasi altra moneta di valore minimo)
 
 ![image alt text](/Images/image_14.png)
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * None, some familiarity with the traditional process of peer review is helpful
+    * Nessuna, può essere utile qualche conoscenza del processo tradizionale di revisione tra pari aperta
 
-* Things to bear in mind
+* Cose da tenere in mente
 
-    * For people not familiar with developments in open peer review, some aspects may require more explanation—plan enough time for that
+    * Per persone che non conoscono gli ultiimi sviluppi delle procedure di revisione tra pari aperta, potrebbe essere necessario pianificare un lasso di tempo necessario per fornire delle spiegazioni a tale proposito
 
-    * In discussions, it can be hard for people to separate their personal opinion from their assigned role. Encourage and remind people to stick to their role where necessary.
+    * Nel corso della dibattito, potrebbe risultare difficile tenere distinte le opinioni personali dalle opinioni legate al ruolo assegnato. Sollecitate e ricordate a queste persone, laddove necessario, di attenersi a ciò che comporta ai loro ruoli.
 
-    * The number of coins per person depends on the number of participants (e.g., three for smaller groups, two for larger groups)
+    * il numero di monetine necessarie dipende dal numero dei partecipanti (ad esempio tre per i gruppi più piccoli, due per i gruppi più numerosi)
 
-* How to adapt for other purposes
+* Come adattarlo per altre finalità
 
-    * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
+    * L'idea di votare con le monetine ("due lire") si può applicare ad altri argomenti; si può altresì decidere di assegnare dei ruoli nei gruppi di discussione di dimensioni ridotte.
 
-##### **Example 21: Taking a stance** 
+##### **Esempio 21: Prendere posizione** 
 
-* Format, time needed
+* Format, tempo richiesto
 
-    * Plenary, 15 minutes 
+    * In sessione plenaria, 15 minuti 
 
-* Topic
+* Argomento
 
-    * [Open Science Policies](/02OpenScienceBasics/09OpenSciencePolicies.md)
+    * [Politiche di scienze aperte](/02OpenScienceBasics/09OpenSciencePolicies.md)
 
-* Learning objectives 
+* Finalità didattiche 
 
-    * Get participants to take a stance on Open Science policies or principles
+    * Chiedete ai partecipanti di prendere posizione sulle politiche o i principi della scienza aperta
 
-    * Show similarity or diversity of opinions across participants 
+    * Mettete in risalto opinioni similari o diverse tra i diversi partecipanti 
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-    * Ask participants to express their opinion on two questions about Open Science policies or principles.
+    * Chiedete ai partecipanti di condividere la loro opinione su due problematiche che interessano le politiche o i principi della scienza aperta
 
-    * Responses should lie on a linear scale between two extremes (e.g., strongly disagree–strongly agree)
+    * Le risposte dovrebbero collocarsi agli estremi di una scala lineare (ad esempio: concordo fortemente; non concordo per nulla)
 
-    * Participant vote using an online tool, or by placing sticky dots on a sheet of paper with axes representing the two answer ranges
+    * Ai partecipanti viene chiesto di votare attraverso uno strumento online, oppure posizionando dei pallini adesivi su un foglio di carta con delle linee che rappresentano i due intervalli di risposta
 
-    * Results are shown to the group, and the similarity or diversity of responses is discussed, e.g., by asking one respondent from each quadrant to explain their opinion. 
+    * I risultati sono condivisi con il resto del gruppo, e discusse similitudini e divergenze tra le domande, ad esempio, chiedendo ad ogni rappresentante dei due frangenti di spiegare la loro opinione. 
 
-    * Example question and results:
+    * Esempi di domande e risultati:
 
-        1. For individual researchers, does Open Science have more costs or benefits?
+        1. La scienza aperta è di per sè un vantaggio o uno svantaggio per un ricercatore?
 
-        2. Should Open Science be organized bottom-up or top-down?
+        2. La scienza aperta è meglio che sia un movimento dal basso verso l'alto o dall'alto verso il basso?
 
 ![image alt text](/Images/image_15.png)
 
