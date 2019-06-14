@@ -1150,51 +1150,51 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * I partecipanti lavorano in gruppi di tre. Ogni partecipanti scrive un breve testo (~300 parole) su cosa pensa della revisione aperta tra pari basandosi su quanto è stato discusso nel corso del workshop. Passano quindi il testo alla persona sulla loro sinistra che deve scrivere una breve revisione sul testo ricevuto. Il testo e la revisione vengono consegnate They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
 
-* Materials and tools needed
+* Materiale e strumenti necessari
 
-    * Pen and paper
+    * Carta e penna
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * None, although the texts will require the knowledge gained in the foregoing workshop.
+    * Nessuna. Per la stesura dei testi è opportuno però avere seguito i corsi precedenti.
 
-* Things to bear in mind
+* Cose da tenre a mente
 
-    * This exercise requires participants to make criticisms of each other’s work—bear in mind that some people might be uncomfortable doing so, or that some may have difficulty accepting such critique. Where these issues occur, encourage participants to discuss them in the final discussion round.
+    * Questo esercizio prevede che i participanti esprimano in maniera critica la propria opinione riguardo il lavoro svolto da altri; alcune persone potrebbero non sentirsi a proprio agio nel farlo o viceversa qualche persone potrebbe non accettare serenamente queste critiche. Nel caso questo dovesse succedere, è bene incoraggiare i partecipanti a parlarne nel corso della sessione finale.
 
-* How to adapt for other purposes
+* Come adattare per altre finalità 
 
-    * Where this example is being used in a training workshop with a wider focus than just open peer review, it could be used to consolidate learning about other Open Science themes by asking participants to first write a text about those themes instead.
+    * Questo esempio è stato utilizzato per un evento formativo con un ampio spettro didattico rispetto a quello della revisione tra pari parte, può essere utilizzato anche per consolidare le conoscenze acquisite anche altre tematiche relative alla scienza aperta chiedendo ai partecipanti di redigere un testo su questi altri argomenti.
 
-    * Instead of pen and paper, this exercise could also be done using a collaborative writing tool, such as Google Docs, Authorea, or Overleaf/ShareLaTeX. 
+    * Al posto di carta e penna, questo esercizio si può fare anche utlizzando uno strumento di scrittura collaborativo, come Google Docs, Authorea oppure Overleaf/ShareLaTeX. 
 
-##### **Example 20: Open peer review - your 2 cents**
+##### **Esempio 20: Revisione tra pari aperta - le tue due lire**
 
-* Format, time needed 
+* Format, tempo richiesto 
 
-    * Plenary, ~1.5 hour with discussion
+    * Sessione plenaria, ~1.5 ore con discussione
 
-* Topic
+* Argomento
 
     * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Learning objectives
+* Finalità didattiche 
 
-    * Realize there are many aspects to open peer review and have knowledge of those different aspects of open peer review
+    * Prendere atto che la revisione tra pari aperta ha molte sfaccettature e imparare tutte le diverse sfaccettature della revisione tar pari aperta
 
-    * Form an opinion on which aspects of open peer review would most benefit science   
+    * Farsi un'opinione su quali aspetti della revisione tra pari aperta porti i maggiori vantaggi e benefici alla scienza   
 
-    * Have insights in the benefits and possible drawbacks of different aspects of open peer review, from the perspective of the reader, author and reviewer
+    * Approfondire vantaggi e svantaggi delle diverse sfaccettature della revisione tra pari aperta dal punto di vista del lettore, dell'autore e del revisore 
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-    * Introducing different aspects of peer review, including some examples of journals/platforms where they are put in practice
+    * Raccontare quali sono i diversi aspetti della revisione tra pari, inclusi alcuni esempi da giornali/piattaforme dove vengono messi in pratica
 
-    * Ask participants to individually identify two to three aspects of open peer review they feel would contribute most to open science.
+    * Ai partecipanti viene chiesto di identificare due/tre aspetti della revisione tra pari aperta che secondo loro potrebbero contribuire maggiormente alla scienza aperta.
 
-    * On a large printout, participants place a two-cent coin on each of the aspects they selected in the previous step
+    * Su un foglio prestampato di grandi dimensioni, i partecipanti posizionano una moneta da 2 centesimi su tutti gli aspetti che hanno scelto nella fase precedente
 
-    * The results are viewed together and the most often chosen aspects identified
+    * Tutti i partecipanti prendono visione dei risultati e identificano gli aspetti che hanno ricevuto il maggior numero di preferenze
 
     * In small groups, participants then take the role of reader, author, or reviewer (all should be present in each group). They then discuss one of the aspects of open peer review from the perspective of their taken roles. What are the benefits and potential drawbacks?
 
