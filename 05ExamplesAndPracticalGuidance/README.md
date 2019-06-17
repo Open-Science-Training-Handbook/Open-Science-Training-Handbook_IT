@@ -1322,83 +1322,85 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Finalità didattiche
 
-    * Formulate arguments against common objections to open science practices
+    * Formulare argomentazioni contro le più comuni obiezioni alle pratiche di scienza aperta
 
-    * Practice discussion with people questioning the value of open science
+    * Discussione pratica con persone che non condividono i valori e la rilevanza della scienza aperta
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-    * In small groups of three or four, have one or two person(s) assume the role of open science skeptic and the others the role of open science advocate. 
+    * Suddivisi in piccoli gruppi di tre o quattro persone, assegnate ad una o due persone il ruolo dello scettico nei confronti della scienza aperta e il ruolo di avvocati del diavolo della Scienza aperta. 
 
-    * Have the "open science advocates" try to convince the “open science skeptics”
+    * Chiedete all'"avvocato del diavolo" di convincere gli "sciettici della scienza aperta”
 
-    * After 10 minutes, have participants switch roles and have another discussion (not repeating the same arguments)
+    * Dopo 10 minuti, scambiate i ruoli e riprendete la discussione (senza ripetere gli stessi argomenti)
 
-    * After two rounds, gather as a group as share experiences. Which arguments were the hardest to refute? Which arguments worked best to convince the skeptics? Do participants feel these be arguments would be useful in real-life situations as well?
+    * Dopo i primi due cicli, radunate tutti i gruppetti in plenaria e condividete l'esperienza fatta. Quale è risultato essere l'argomento più difficile da confutare? Quale argomentazione è riuscita a convincere maggiormente gli scettici? Secondo i partecipanti queste argomentazioni potrebbero essere utili in situazioni reali?
 
-* Materials and tools needed
+* Materiale e strumenti necessari
 
-    * none; flexible room setup is useful to allow groups to spread across the room
+    * niente in particolare; l'aula dovrebbe essere scelta in base alla possibilità di collocare i gruppi in maniera distanziata nell'aula 
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * Familiarity with open science concepts
+    * Dimestichezza con i concetti della scienza aperta
 
-* Things to bear in mind
+* Cosa da tenere in mente
 
-    * Encourage the open science skeptics to get into their role as much as possible. Often, people really enjoy taking on this role!
+    * Incoraggiate gli scettici della scienza aperta ad entrare nel loro ruolo il più possibile. Capita spesso che le persone si divertano molto in questo ruolo!
 
-    * Be sure to switch roles to give everyone the chance to experience this exercise from both perspectives. 
+    * Fate in modo di dare a tutti la possibilità di ricoprire entrambi i due ruoli e di incorporare entrambe le due prospettive. 
 
-* How to adapt for other purposes
+* Come adattare per altre finalità 
 
-    * This exercise could be focused on specific aspects of open science
+    * Questo esercizion potrebbe essere focalizzato su altri specifici aspetti della scienza aperta
 
-##### **Example 24: Set up OSF project & link to other platforms - in progress**
-* Format, time needed 
+##### **Esempio 24: Set up OSF project & link to other platforms - in via di costruzione**
 
-    * Individually or in pairs
+* Format, tempo richiesto 
 
-* Topic 
+    * Lavoro individuale o in coppia 
+
+* Argomento 
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
+* Finalità didattiche  
 
-* Exercise description
+* Descrizione dell'esercizio
 
-   * Create an OSF collaborative environment from data to publication.
+   * Create un ambiente OSF collaborativo dai dati alla pubblicazione
    
-      * Connect your OSF project to GitHub.
+      * Connetti il tuo progetto OSF a GitHub
 
-      * Upload any raw code, images, data, tables to project.
+      * Carica tutti i codici, immagini, dati, tabelle grezzi al progetto
 
-      * Obtain a DOI and ARK identifier for your project.
+      * Ottieni gli identificativi DOI e ARk per il tuo progetto
 
-* Materials and tools needed
+* Materiale e strumenti richiesti
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche necessarie
 
-* Things to bear in mind
+* Cose da tenere in mente
 
-* How to adapt for other purposes
+* Come adattare per altre finalità 
 
 
-##### **Example 25: The publishing trap - in progress**
-* Format, time needed 
+##### **Esempio 25: La trappola The publishing trap - in via di costruzione**
 
-    * Small group exercise, 2 h
+* Format, tempo richiesto 
 
-* Topic 
+    * Esercitazione in piccoli gruppi, 2 ore
+
+* Argomenti  
 
     * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
-* Learning objectives 
-   * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+* Finalità didattiche 
+   * "Il gioco permette di esplorare l'impatto della comunicazione accademica e di discutere il ruolo della scienza aperta nel settore della ricerca seguendo le vite di quattro ricercatori dalla ricerca dottorale alla loro eredità accademica." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
-* Exercise description
+* Descrizione dell'esercizio
 
-   * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   * "Si gioca in gruppi da quattro / massimo cinque persone – seduti attorno al gioco da tavolo e consultando la guida del gioco per leggere le istruzioni su come il gruppo debba prendere le decisioni. Il capo-gruppo deve comportarsi da ospite e presenta ai gruppi i diversi scenari durante ogni giro. Ogni giro prevedere tre decisioni relativamente ad altrettante ree decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
    
 * Materials and tools needed
 
