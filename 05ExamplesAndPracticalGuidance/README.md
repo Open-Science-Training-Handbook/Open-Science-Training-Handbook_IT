@@ -1260,67 +1260,67 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 ![image alt text](/Images/image_15.png)
 
-* Materials and tools needed
+* Materiale e strumenti richiesti
 
-    * Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
+    * Accesso ad un Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
 
-    * For each participant, access to smartphone, tablet, or computer with internet access
+    * Per tutti i participanti, disponibilità di uno smartphone, tablet, o computer con collegamento a internet
 
-    * Offline alternative: large paper with axes printed or drawn, sticky dots
+    * Qualora si preferisse lavorare offline un grande foglio di carta con delle assi stampate o disegnate, punti adesivi
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-    * None; some background knowledge on the topic is useful to get informed opinions rather than gut feelings (although the latter may be useful to collect too)
+    * Nessuna; potrebbe essere utile avere una conoscenza di base sugli argomenti per formarsi un'opinione informata piuttosto che basarsi sulle proprie sensazioni (sebbene sia utile registrare anche quest'ultime)
 
-* Things to bear in mind
+* Cose da tenere a mente
 
-    * If done on paper, it might make sense to have people mark down their answer  individually first, before placing their dot on the map. This prevents peer pressure / bias.
+    * Se si opta per la versione cartacea, suggeriamo di procedere chiedendo ai partecipanti di scrivere le loro risposte individualmente prima di collocare i punti adesivi nella mappa. In questo modo si previene la pressione/le critiche degli altri partecipanti.
 
-* How to adapt for other purposes
+* Coem adattare per altre finalità
 
-    * This exercise can be adapted to many different questions and topics
+    * Questo esercizio si adatta facilmente ad altri argomenti e tematiche
 
-    * An alternative online tool (that is also open source) for these kind of exercises is SimpleVote ([https://simplevote.ml](https://simplevote.ml))
+    * Uno strumento online alternativo (he è anche ad accesso aperto) per questo tipo di esercitazioni è SimpleVote ([https://simplevote.ml](https://simplevote.ml))
 
-    * If the audience is heterogeneous (i.e., researchers, research support people, policy makers) it is informative to distinguish between the different groups, e.g., by creating a separate question for each (in Mentimeter), or using different color sticky dots (on paper)
+    * Se la platea è eterogenea (ad esempio: ricercatori, uffici a supporto della ricerca, analisti politici) è consigliabile procedere distinguendo tra i diversi gruppi ad esempio creando delle domande distinte per ognuno di questi (in Mentimeter), oppure utlizzando adesivi di diverso colore (nella versione cartacea)
 
-    * For sticky dots, choose a combination that is colour-blind friendly
+    * PEr gli adesivi di forma rotonda, optate per una combinazione di colori per chi soffre di daltonismo
 
-##### **Example 22: Plain language explanations** - in progress
+##### **Esempio 22: Spiegazioni in Plain language explanations** - in via di definizione
 
-* Format, time needed 
+* Format, tempo richiesto 
 
-    * Small groups, 2–3 hours
+    * In piccoli gruppi, 2–3 ore
 
-* Topic 
+* Argomento 
 
     * [Citizen Science](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 
     * [Collaborative Platforms](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
 
-* Learning objectives 
+* Finalità didattiche 
 
-* Exercise description
+* Descrizione dell'esercitazione
 
-* Materials and tools needed
+* Materiale e strumentazione richiesta
 
-* Level of prior knowledge needed
+* Competenze propedeutiche richieste
 
-* Things to bear in mind
+* Cose da tenere a mente
 
-* How to adapt for other purposes
+* Come adattare ad altre finalità
 
-##### **Example 23: Devil’s advocate - convincing the skeptics**
+##### **Esempio 23: L'avvocato del Diavolo - ovvero convincere gli scettici**
 
-* Format, time needed 
+* Format, tempo richiesto 
 
-    * Small groups, 30 minutes
+    * In piccoli gruppi, 30 minuti
 
-* Topic
+* Argomento
 
     * [Open Advocacy](/02OpenScienceBasics/12OpenAdvocacy.md)
 
-* Learning objectives
+* Finalità didattiche
 
     * Formulate arguments against common objections to open science practices
 
