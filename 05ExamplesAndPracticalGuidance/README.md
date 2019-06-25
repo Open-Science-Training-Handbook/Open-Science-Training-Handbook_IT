@@ -1402,40 +1402,40 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
    * "Si gioca in gruppi da quattro / massimo cinque persone – seduti attorno al gioco da tavolo e consultando la guida del gioco per leggere le istruzioni su come il gruppo debba prendere le decisioni. Il capo-gruppo deve comportarsi da ospite e presenta ai gruppi i diversi scenari durante ogni giro. Ogni giro prevedere tre decisioni relativamente ad altrettante ree decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
    
-* Materials and tools needed
+* Materiali e strumenti necessari
 
-   * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+   * Un lavagna, carte, blocknotes, punti e altri oggetti devono essere scaricati, stampati e ritagliati. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
-* Level of prior knowledge needed
-   
+* Conoscenze proedeutiche richieste
+
    * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
-* Things to bear in mind
+* Cose da tenere a mente
    
-   * Maybe stimulate discussions during the game play
+   * Laddove necessario, animare la discussione durante il gioco
    
-* How to adapt for other purposes
+* Come adattare per altre finalità 
 
-* Licensing conditions
+* Licenze 
    
-   * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
+   * Alla versione originale del gioco è stata attribuita una licenza CC attribuzione-Non commerciale-non opere derivate 4.0
    
    
-##### **Example 26: - in progress**
+##### **Esempio 26: - in costruzione**
 
-* Format, time needed 
+* Format, tempo richiesto  
 
-    * Small groups, 4 days (5 hours/day)
+    * in piccoli gruppi, 4 giorni (5 ore/giorno)
 
-* Topic 
+* Argomento 
 
     * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives 
+* Finalità didattiche  
    
    * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
 
-* Exercise description
+* Descrizione dell'esercizio
 
 1. the knowledge about repository and licensing
 2. data assessment: types, sum, sensitivity
