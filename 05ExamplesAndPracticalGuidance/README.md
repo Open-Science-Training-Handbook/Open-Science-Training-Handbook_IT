@@ -1406,9 +1406,9 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
    * Un lavagna, carte, blocknotes, punti e altri oggetti devono essere scaricati, stampati e ritagliati. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
-* Conoscenze proedeutiche richieste
+* Conoscenze propedeutiche richieste
 
-   * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   * Il gioco della trappola è particolarmente indicato per i giovani ricercatori e accademici e comunque anche a tutti coloro che sono interessati a capire come si accede all'informazione e come il sistema della comunicazione accademica a livello universitario funziona. [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
 * Cose da tenere a mente
    
@@ -1433,11 +1433,11 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Finalità didattiche  
    
-   * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
+   * Capire i principi base dei dati aperti e della riproducibilità della ricerca, comprensione delle fasi necessarie per predisporre un piano per le gestione dei dati di ricerca e come costruire il proprio archivio di dati. 
 
 * Descrizione dell'esercizio
 
-1. the knowledge about repository and licensing
+1. Conoscenza degli archivi e delle licenze
 2. data assessment: types, sum, sensitivity
 3. setting up a research data management plan using DMPtool
 4. setting up an OSF repository
@@ -1446,100 +1446,100 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 7. using R, R Studio, and R Markdown to create a reproducible research
 8. exercise in creating a citizen science project 
 
-* Materials and tools needed
+* Materiali e strumenti necessari
 
-   * Registration of: ORCID, OSF, GitHub, and DMPTool
+   * Registrazione in: ORCID, OSF, GitHub e DMPTool
    * Downloading and installing: Git, R, and R Studio
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-   * A basic knowledge in R, R Studio, and Git would be a plus.
+   * Conoscenze basiche di R, R Studio e Git potrebbero costituire un vantaggio
    
-* Things to bear in mind
+* Cose da tenere in mente
 
-   * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+   * Il formatore potrebbe riscontrare la necessità di dedicare un po' più di tempo per spiegare il concetto di dati aperti e le motivazioni per le quali i ricercatori dovrebbero fare uso. La maggior parte di questo dibattito ha luogo in questa fase preliminare.
 
-* How to adapt for other purposes
+* Adattare per altre finalità 
 
-   * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
+   * Questa esercitazione è stata pensata in special modo per le scienze geo-spaziali ma per una gran parte può essere adattata a tutte le science inclusi i progetti di citizen science.
    
- * Licensing conditions
+ * Condizioni di licenza
  
    * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
 
-##### **Example 27: Train-the-trainer card game for Open Science training**
+##### **Esempio 27: un gioco di carte per formare-il-formatore della Scienza Aperta**
 
-* Format, time needed 
+* Format, tempo necessario  
 
-    * Small groups, 2 hours
+    * piccoli gruppi, 2 ore
 
-* Topic 
+* Argomento 
 
     * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
-* Learning objectives 
+* Finalità didattiche  
 
-   * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
+   * Questo gioco può essere scelto dai formatori impegnati in workshop per formare-dei-formatori. I partecipanti dovranno impostare un progetto di formazione vero -che gli servirà per la loro attività di formatori in una fase successiva-  su uno o più argomenti a loro scelta. Questo gioco di carte permette ai partecipanti di poter pre-selezionare il tipo di platea, il numero dei partecipanti, il itpo di formazione e il livello di preparazione della platea. Si possono inoltre aggiungere due circostanze "imprevvedibili": l'umore della platea e "complicazione" (uh-oh!).  A parte il fatto di portarsi a casa un progetto di formazione ben che fatto la platea che partecuiperà a questa attività potrà trarre profitto dai commenti e rilievi nonchè dall'esperienza di tutti gli altri partecipanti.   
 
-* Exercise description
+* Descrizione dell'esercitazione 
 
-   * INSTRUCTIONS: 
-      * Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs. 
-      * Hand out the persona pages: every member of the group should create one persona according to the conditions laid out on the cards (no longer than 15 mins). 
-      * The group has 1,5 hour to prepare the training according to the conditions laid out by the cards, keeping in mind their target audience(s), with help of the persona pages created. 
-      * Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
-      * Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
+   * ISTRUZIONI: 
+      * Ad ogni gruppo è richiesto di alzare una carta (coperta) per stabilire: il tipo di platea, il numero dei partecipanti, il livello di preparazione preopedeutico e il tipo di formazione. Può accadere che dalle singole carte prescelte si configuri una constellazione impraticabile o che non corrisponda agli interessi del gruppo. In questo caso può essere utile concedere una certa flessibilità e consentire ai partecipanti di cambiare le loro carte o di scambiarsele con un altro gruppo. Nella maggior parte dei casi, ci può essere una carta vuota o un'altra carta che permette di modificare il gioco a seconda dei propri bisogni. 
+      * Distribuire le pagine personali: ognuno dei componenti del gruppo deve creare una persona in base alle condizioni poste dalle carte (non superare i 15 minuti). 
+      * Il gruppo ha a disposizione 1 ora e mezza per preparare l'attività di formazione in base alle condizioni stabilite dalle carte tenendo ben presente i destinatari della formazione con l'aiuto delle pagine per persona create. 
+      * Ogni gruppo deve presentare la sua attività di formazione (ben intenso che non gli viene richiesto di simulare la formazione devono semplicemente descrivere quello che faranno!). Agli altri gruppi verrà chiesto di commentare e di criticare il progetto descritto: L'attività di formazione che è stata descritta è coerente con le condizioni poste dalle carte? Che cosa fareste voi di diverso? Ci sono esperienze in tal senso che hanno vissuto e che possono condividere?
+      * Sfida extra: Come reagirebbero i singoli gruppi se messi di fronte a circostanze imprevvedibili/inaspettate durante la formazione? Poco prima della loro presentazione, ogni gruppo alza una carta (coperta) 'umore della platea' e una carta 'complicazione" e la consegna al moderatore, che durante la presentazione o dopo ne discuterà con l'intero gruppo – permettendo in questo modo alla platea di imparare dall'esperienza dei loro colleghi. 
 
-* Materials and tools needed
+* Materiali e strumenti necessari 
 
    * https://www.fosteropenscience.eu/node/2570
    
-   * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
+   * E' possibile scaricare i documenti in formato pdf e png cliccando su questo link a un dropbox pubblico: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
 
-* Level of prior knowledge needed
+* Conoscenze propedeutiche richieste
 
-   * Participants are expected to be knowledgeable about the topic(s) they will create the training about
+   * Ai participanti si richiede di avere sufficienti conoscenze dell'argomento/argomenti intorno ai quali andranno a costruire la loro attività di formazione 
 
-* Things to bear in mind
+* Cose da tenere in mente 
 
-   * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
+   * E' essenziale rispettare i tempi di attuazione; stabilite il limite di durata in cui i partecipanti dovranno lavorare sulla persona e alla predisposizione dell'attività di formazione. Fate in modo che sia ben chiaro che la presentazione deve descrivere tutte le componenti della formazione che hanno progettato, e che non ciò che gli viene richiesto no è di dare una prova di formazione. Fate inoltre in modo che tutti partecipino e diano il proprio contributo in fase di valutazione del gruppo.
 
-* How to adapt for other purposes
+* Adattare ad altre finalità 
 
-   * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
+   * In linea di principio, tutti i parametri possono essere adattabili e modificati a seconda delle specificità dell'attività di formazione creando nuove carte, nuove categorie o eliminando quelle preesistenti. 
    
-* Licensing conditions
+* Condizioni di licenza
 
-   * CC BY-SA 4.0. Creator: [Gwen Franck](gwenfranckgcv@gmail.com)
+   * CC BY-SA 4.0. Autore: [Gwen Franck](gwenfranckgcv@gmail.com)
   
    
-### Resources
+### Risorse
 
-#### What tools & platforms to use / recommend?
+#### Quali strumenti & piattaforme è consigliabile utilizzare?
 
-There are many tools and platforms that support Open Science practices (see figure below for a selection). Which tools and platforms to use (or advise) depends on many factors, for example: whether the tool is available (either free of at low cost or licensed to your institution), whether it works in your browser or for your operating system, whether it is available in your language, and whether it meets your security and privacy requirements. In addition to these more technical criteria, consider whether a tool fits with the way you work. Does it work well with other tools and platforms that you use? Do the people you collaborate with use the same tool for the same practice, or at least one that is compatible with the one you use? Also consider the learning curve: do you need to invest a lot of time into learning the new tool, and if so, is that worth it for you? Do you have support (either in real life or online) that can help you learn to use the tool? 
+Sono moltissime le piattaforme e gli strumenti a supporto della Scienza Aperta (nell'immagine in calce una selezione di questi). Quali piattaforme o strumenti sia meglio impiegare (o consigliare) dipende da molti fattori, ad esempio: se lo strumento sia o no disponibile(a titolo gratuito o a basso costo o con licenza dell'istituzione di afferenza), se sia o no operativo nel browser o in un altro sistema operativo, se sia disponibile o no nella lingua in uso e se sia compatibile o no con i requisiti di sicurezza e di privacy. In aggiunta a questi criteria di natura tecnica, è opportuno valutare altresì se lo strumento sia compatibile con il modo in cui si lavora. Funziona con gli altri strumenti e piattaforme comunemente usate? I colleghi o le altre persone con le quali collaborate utilizzano lo stesso strumento per la stessa attività, o per lo meno uno che è compatibile con quello che utilizzate? Tenete inoltre ben presente la linea dell'apprendimento: per imparare ad usare bene il nuovo strumento è necessario investire molot tempo, e se questo è il caso, ne vale la pena? Potete contare sul supporto o assistenza (in persona o a distanza) di qualcuno che vi può aiutare ad utilizzare il nuovo strumento? 
 
-Perhaps the best advice is to first consider what it is you would like to do: what is the open science practice you’d like to implement? Then explore which tools/platforms are available, which ones the people in your community use, and why (ask around!). Then make your own decision. Don’t be afraid to experiment and try out something new! 
+Forese il consiglio più utile è quello di pensare bene a priori a che cosa si vuole fare: qual'è praticamente l'attività legata alla Scienza Aperta che volete fare? Quindi sondate bene quali siano gli strumenti/piattaforme che sono disponibili, quali di queste vengono utilizzate dalla vostra comunità e perchè (chiedete in giro!). Per finire, prendete la vostra decisione. Non abbiate paura di sperimentare e di provare cose nuove! 
 
-A final remark: many tools and platforms support open science practices without themselves being fully open. For example, many commonly used tools are not open source, even though they provide access to content (publications, data) that are open. You will have to follow your own judgement as to whether you will consider such tools and platforms or not. Another consideration is whether you can export all your data when you’d want to switch to another tool, or whether they are locked in? And do you know what will happen to your data when the platform closes down or is sold to a(nother) company? 
+Per concludere una riflessione finale: molti strumenti e piattaforme a supporto della scienza aperta non sono aperti o aperti completamente a loro volta. Ad esempio, molti strumenti di uso comune non sono open source, sebbene permettano l'accesso a dei contenuti (publicazioni, dati) che sono aperti. Dovrete seguire il vostro buon senso e valutare per voi se prendere in considerazione queste piattaforme e strumenti oppure no. Un'altra considerazione è se sia possibile esportare tutti i vostri dati qualora decidiate di passare ad un altro strumento, o se siano "rinchiusi"? E avete un'idea di che cosa succederebbe ai vostri dati se la piattaforma dovesse essere dismessa o venduta ad (un'altra) compagnia? 
 
-Some resources listing research tools and platforms:
+Alcuni elenchi di strumenti e di piattaforme di ricerca:
 
-* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (all disciplines)
+* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (tutte le discipline)
 
-* [DIRT Directory](http://dirtdirectory.org/) (Humanities)
+* [DIRT Directory](http://dirtdirectory.org/) (scienze umanistiche)
 
-* [ResearchStash](https://www.researchstash.com/) (Science, Technology and Medicine)
+* [ResearchStash](https://www.researchstash.com/) (scienze, tecnologia e medicina)
 
-* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (all disciplines)
+* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (tutte le discipline)
 
-* [Tool combinations](https://tinyurl.com/toolcombinations-cb) (which tools are commonly used together) [colour-blind safe]
+* [Combinazione di strumenti](https://tinyurl.com/toolcombinations-cb) (quali strumenti sono comunemente utilizzati insieme) [a prova di daltonismo]
 
 ![image alt text](/Images/image_16.png)
 Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
-#### Other resources
+#### Altre risorse
 
 * Ask Open Science. [ask-open-science.org](https://ask-open-science.org/)
 
@@ -1547,17 +1547,17 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Fernandes and Rutger (2017). Open Science, Open Data, Open Source. 21st century skills for the life sciences. [osodos.org](http://osodos.org)
 
-* Forschung und Daten managen (German information website about research data management).[forschungsdaten.info](https://www.forschungsdaten.info/)
+* Forschung und Daten managen (website tedesca sulla gestione dei dati per la ricerca).[forschungsdaten.info](https://www.forschungsdaten.info/)
 
 * MANTRA - Research Management Training. [mantra.edina.ac.uk](https://mantra.edina.ac.uk/)
 
-* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics*) 
+* Materiali didattici per ELIXIR-EXCELERATE workshop e corsi "Formare-il-formatore". [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*commento degli autori: Un archivio completo di materiali e metodi selezionati per i formatori, solo una minima parte è speciica per la bio-informatica*) 
 
 * Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
 
 * Open Science Training Initiative. Graduate Training in Open Science. [opensciencetraining.com](http://www.opensciencetraining.com/)
 
-* Research Data E-Learning Platform. (German and French) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
+* Research Data E-Learning Platform. (Tedesco e francese) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
 * Research Data Management Educational Efforts. [docs.google.com](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
@@ -1565,22 +1565,22 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Sewell (2017). Research Data Management: Activity Cards. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
+* Consigli per cotruire e pubblicare in un e-book sono disponibili nell'archivio github [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - disponibile anche in GitHub Pages come pagina web [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub e versioni Mobi sono rese disponibili da [Unglue.it](https://unglue.it/work/229980/)
 
 
 ---------------------------------------------------------------------------------------------------------------
 
-#### Longlist of exercises - selection to be put in template format
+#### Elenco di esercitazioni - selezione da mettere in formato template
 
-Awaiting some formatting to comply with the template
+In attesa di formattazione per conformarsi al modello
 
-PF - 1  Mind and Concept Maps
+PF - 1  Mappe mentali e concettuali 
 
-The conceptualisation of higher complexity subject matter can benefit a lot from visualizing recently acquired knowledge or skills. A great deal of enthusiasm can be raised when simple open source tools are used, individual and collectively. The general name for this set of  techniques is idea and concept mapping. A relatively simple software like [X-Mind](http://www.xmind.net/) is a good basis to start with. ![image alt text](/Images/image_17.png)
+La concettualizzazione di argomenti estremanemte complessi può trarre un enorme vantaggio visualizzando il sapere e le competenze di recente acquisizione. Ci si può entusiasmare moltissimo utilizzando semplicemente strumenti in open source, sia a livello individuale sia a livello collectivo. Il nome generale di questo gruppo di tecniche è l'idea che sottintende alle mappe mentali e concettuali. Un software relativamente semplice come [X-Mind](http://www.xmind.net/) rappresenta una buona base di partenza e per cominciare. ![image alt text](/Images/image_17.png)
 
-Figure X An example of an idea map to represent content in a training course
+Figure X Esempio di una mappa mentale e concettuale per rappresentare il contenuto di un corso di formazione 
 
-Note: we might replace this by one made for Open Science or a related subject
+Nota bene: potremmo sostituire questa mappa con una realizzata per la Scienza Aperta o per argomenti ad essa collegati
 
-Learner engagement raises sharply as learners understand the power of visualising ideas, connecting them in diagrams, comparing diagrams between learners in the same group, comparing different groups, comparing learners with instructor maps, etc.
+L'impegno dei corsisti aumenta esponenzialmente nel momento in cui questi capiscono che il potere instrinseco della visualizzazione delle idee, collegandole in diagrammi, confrontando i diagrammi tra i compementi del medesimo gruppo, confrontando i diversi gruppi e le mappe dei corsisti con quelle deiformatori, etc.
 
