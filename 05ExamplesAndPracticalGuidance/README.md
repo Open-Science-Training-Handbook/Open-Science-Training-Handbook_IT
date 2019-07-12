@@ -29,7 +29,7 @@ Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concret
 
 * [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop programma)
 
-**Carpentry workshops (2 giorni)**
+**I workshop "Carpentry" (2 giorni)**
 
 Un carpentry workshop è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I data carpentry workshops prendono come riferimento le best practices che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I data carpentry workshop sono destinati ai principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. Software carpentry workshop sono rivolti a professionisti a cui serve sapere come programmare nel modo più efficace possibile per poter risolvere i loro problemi computazionali, non sono specifici di una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante
 
@@ -37,13 +37,13 @@ Un carpentry workshop è un evento, ad orientamento pratico, della durata di due
 
 * [Data Carpentry](http://www.datacarpentry.org/)
 
-**EIFL Train-the-Trainer program (4 giorni)**
+**EIFL Programma di corsi per "Formare-i-formatori" (4 giorni)**
 
 L’EIFL ha organizzato un programma di train-the-trainer per cinque università nei paesi partner di EIFL (Etiopia, Ghana, Zimbawe, Tanzania e Nepal) che si sono impegnate ad introdurre l’accesso aperto, la scienza aperta e i dati grezzi della ricerca aperti nei loro corsi di dottorato. Nel primo giorno di formazione, si è discusso di accesso aperto e dati aperti; il secondo e il terzo giorno sono stati dedicati alla scienza aperta attraverso il ciclo della ricerca incluse anche le pratiche correnti presso le università partner. Il quarto giorno i partecipanti hanno predisposto e elaborato il loro proprio programma di formazione 
 
 * [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
 
-**Scuola estiva Open Science (5 giorni)**
+**Scuola estiva sulla Scienza Aperta (5 giorni)**
 
 Parecchie università europee organizzano delle scuole estive sulla scienza aperta della durata di una settimana, principalmente destinate a giovani ricercatori. Questi eventi coprono una varietà di argomenti nel corso dei cinque giorni, generalmente prevedono molte attività pratiche e l’applicazione dei principi della scienza aperta nella pratica quotidiana. 
 
@@ -82,14 +82,14 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
 **Utilizza [questo modulo di Google](https://goo.gl/forms/wxyx6pk80mHUHTRu1) per suggerire altri esercizi!**
 
-#### Tipi di esercisi 
+#### Tipi di esercizi 
 
 
     * riscaldamento veloce / short break exercises 
 
     * esercitazioni in piccoli gruppi 
 
-        * role-play
+        * gioco di ruolo
 
         * discussione su argomenti/assunti nell'ambito della scienza aperta
 
@@ -111,7 +111,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
     * presentazioni
 
-        * role-play
+        * gioco di ruolo
 
         * presentazione di casi/esempi presi dalla realtà (con la partecipazione della platea)
 
@@ -339,13 +339,13 @@ Collaborative Platforms</td>
 </table>
 
 
-##### **Esempio 1: Line up!**
+##### **Esempio 1: In formazione!**
 
 * Format, tempo richiesto  
 
     * Esercizio di gruppo, 5–10 minuti
 
-* Topic 
+* Argomento 
 
     * Rompere il ghiaccio, con argomenti inerenti o non inerenti alle tematiche del seminario  
 
@@ -365,7 +365,7 @@ Collaborative Platforms</td>
 
     * Nessuna
     
-* Cose da tenere a mente
+* Cose da tenere presente
 
     * Fate in modo che non siano sempre gli stessi a prendere la parola; cercate, invece, di coinvolgere e di far parlare anche quelli nelle retrovie perchè espongano il proprio punto di vista. 
 
@@ -375,13 +375,13 @@ Collaborative Platforms</td>
 
 ##### **Esempio 2: Prioritizzazione dei bisogni formativi**
 
-* Format, time needed 
+* Format, tempo necessario 
 
     * Sessione plenaria, ~10 minuti
 
-* Topic
+* Argomento
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principli "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche
 
@@ -421,7 +421,7 @@ Collaborative Platforms</td>
 
     * E’ bene farlo all'inizio di un seminario con un programma lungo e nel corso del quale verranno trattati più argomenti
 
-    * Quando scegliete i post-it, scegliete una combinazione di colori accessibile a chi è affetto da daltonismo
+    * Quando scegliete i post-it, scegliete una combinazione di colori considerando chi è affetto da daltonismo
 
     * Il numero di attività che si deciderà di svolgere, dipende dal numero di partecipanti (ad esempio, tre per gruppi più piccoli, due per gruppi più grandi).
 
@@ -441,7 +441,7 @@ Collaborative Platforms</td>
 
 * Argomento
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche  
 
@@ -485,13 +485,13 @@ Collaborative Platforms</td>
 
 * materiali e strumenti richiesti
 
-    * Pareti grandi, finestre, oppure una serie di pannelli dove poter appendere del materiale
+    * Pareti di grande dimensione, finestre, oppure una serie di pannelli dove poter appendere del materiale
 
     * sufficiente spazio per potersi muovere 
 
-    * Printed [cards with open science practices](https://doi.org/10.6084/m9.figshare.4627954.v1) (also available as [editable powerpoint slides](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
+    * [Carte con le pratiche della scienza aperta](https://doi.org/10.6084/m9.figshare.4627954.v1) (disponibili anche come [diapositive powerpoint stampabili](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
 
-    * card vuote, penne / evidenziatori
+    * carte bianche, penne / evidenziatori
 
     * puntine da disegno o nastro adesivo  
 
@@ -509,9 +509,9 @@ Collaborative Platforms</td>
 
 * Come adattare per altre finalità
 
-    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
+    * Questo esercizio può essere modificato spostando l'intersse su altre attività specifiche / una specifica fase del ciclo della ricerca (ad esempio la pubblicazione o la valutazione).
 
-    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
+    * Possono essere utlizzati altri criteri di selezione, ad esempio pratiche che i partecipanti utilizzano loro stessi, oppure pratiche che potrebbero essere migliori (indipendentemente dalla fattibilità/lavoro richiesto).
 
 ##### **Esempio 4: Argomenti di discussione sulla Scienza Aperta**
 
@@ -521,7 +521,7 @@ Collaborative Platforms</td>
 
 * Argomento 
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche 
 
@@ -606,7 +606,7 @@ Collaborative Platforms</td>
 
     * il protocollista: prende nota di tutti i punti più interessanti emersi durante la discussione in due possibili metodi:
 
-        17. The mindmap cards: You can use these cards for topics that get a lot of attention in the conversation. If things go too fast, don’t be afraid to stop the conversation and ask people to provide input for this mindmap. Write down the main topic in the centre, and work from there. Is it hard to find connections? You can also collect random thoughts and statements here.
+        17. Le mappe concettuali: potete utilizzare queste carte che attraggono molta attenzione durante la conversazione. Se le cose procedono troppo in frett, non abbiate paura di interrompere la conversazione e di chiedere commenti e reazioni ai partecipanti nei confronti di questa mappa mentale. Prendete nota dell'argomento principale al centro e cominiciate a lavorare da lì. E' difficile trovare delle connessioni? Potete raccogliere anche solo dei pensieri e pareri in ordine sparso in questa fase.
 
         18. Citazioni e idee brillanti: qualche volta qualcuno dice qualcosa di semplicemente sorprendente, o semplicemente molto pertinente o molto utile in qualche modo. Per questo dovete avere a disposizione la carta delle "idee e delle citazioni brillanti". Ne avete a disposizione solo una quindi dovete essere molto selettivi. Metteteci un asterisco se pensate che qualcosa meriti di essere messo su questa card. 
 
@@ -622,7 +622,7 @@ Collaborative Platforms</td>
 
 * Argomento 
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali open della ricerca](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche 
 
@@ -656,7 +656,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Argomenti 
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche 
 
@@ -682,7 +682,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Lo stesso formato può essere facilmente adattabile ad altri elementi della scienza aperta, e.g., accesso aperto (perchè non pubblicare ad accesso aperto, etc.)
 
-##### **Esempio 8: "Open Data Excuse" Bingo**
+##### **Esempio 8: La tombola "Le scuse dei dati aperti"**
 
 * Format, tempo richiesto 
 
@@ -690,7 +690,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Argomento:
 
-    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche:
 
@@ -716,7 +716,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Questa esercitazione può essere adattata ad altri argomenti (adattando necessariamento anche il materiale)
 
-##### **Esempio 9: Io e i miei dati - Datagramms**
+##### **Esempio 9: Io e i miei dati - Datagramma**
 
 * Format, tempo richiesto 
 
@@ -724,7 +724,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Argomento
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche
 
@@ -770,7 +770,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     *  non ancora adattato
 
-##### **Esempio 10: Trova il tuo Find your data publisher**
+##### **Esempio 10: Trova il tuo editore di dati**
 
 * Format, tempo richiesto: 
 
@@ -778,7 +778,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Argomento:
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Data della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche:
 
@@ -1048,7 +1048,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Potete usare anche strumenti web come [PINGO](http://trypingo.com) per la raccolta di formati di file oppure lasciate che siano loro a scrivere i loro formati di file su di un foglio di carta e raccogliete questi fogli se non volete usare i post-its
 
-##### **Esempio 17: Accoppiare le Licenze Creative Commons**
+##### **Esempio 17: Appaiare le Creative Commons**
 
 * Format, tempo richiesto: 
 
