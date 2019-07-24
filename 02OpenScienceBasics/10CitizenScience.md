@@ -55,7 +55,7 @@ Sebbene il dibattito su come valutare alcune attività di scienza partecipativa 
 
 * Un aspetto spesso controverso sulla partecipazione a progetti di ricerca dei cittadini riguarda il come i ricercatori intendano rendere pubblicamente accessibili i dati raccolti dai cittadini stessi. I ricercatori dovrebbero avere sufficienti conoscenze su come i dati possano essere condivisi tenendo in considerazione gli aspetti legali ed etici.
 
-* ●	La mancanza di un riconoscimento per chi pratica la scienza partecipativa, in particolare quando i progetti non generano un prodotto di ricerca "tradizionale" come un articolo, atto di conferenza ecc. è una criticità comunemente evidenziata nella formazione sulla scienza partecipativa. Una buona soluzione a questo problema potrebbe partire da uno scambio di opinioni tra chi partecipa al progetto sul tipo di riconoscimento che ambirebbero ottenere e sui metodi che propongono.
+* La mancanza di un riconoscimento per chi pratica la scienza partecipativa, in particolare quando i progetti non generano un prodotto di ricerca "tradizionale" come un articolo, atto di conferenza ecc. è una criticità comunemente evidenziata nella formazione sulla scienza partecipativa. Una buona soluzione a questo problema potrebbe partire da uno scambio di opinioni tra chi partecipa al progetto sul tipo di riconoscimento che ambirebbero ottenere e sui metodi che propongono.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Risultati di apprendimento
@@ -79,7 +79,7 @@ Sebbene il dibattito su come valutare alcune attività di scienza partecipativa 
 * Pettibone et al. (2016). Citizen science for all – a guide for citizen science
 practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
 
-* ●	Panoramica sui progetti di scienza partecipativa:
+* Panoramica sui progetti di scienza partecipativa:
 
   * Socientize Project. [socientize.eu](http://socientize.eu/)
 
