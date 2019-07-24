@@ -1,90 +1,91 @@
 ## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
-## 7. Collaborative Platforms
+## 7. Le piattaforme collaborative
 
-### What is it?
+### Di che cosa si tratta?
 
-Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
+Le piattaforme collaborative online permettono ai ricercatori geograficamente lontani tra loro di entrare in contatto e di collaborare in maniera continuativa ad un lavoro di ricerca, condividendo oggetti di studio, idee ed esperienze. In genere, le piattaforme collaborative mettono a disposizione dei servizi online in un ambiente virtuale al quale più utenti possono collegarsi simultaneamente e lavorare alla stessa attività. Sono compresi sia ambienti di ricerca virtuali grandi \(VRE)\ che comprendono una serie di strumenti atti a facilitare la condivisione e la collaborazione - fra cui forum virtuali e wiki, servizi di archiviazione collaborativa di documenti (file hosting) e strumenti disciplinari come l'analisi o la visualizzazione dei dati – così come anche singoli strumenti specifici che consentono ai ricercatori di lavorare insieme in tempo reale su particolari aspetti collegati alla ricerca \(come la stesura o l'analisi)\.
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
-### Rationale
+### Fondamenti 
 
-Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+La tendenza a collaborare tra coloro che fanno ricerca sta crescendo in maniera esponenziale e anche i gruppi di ricerca stanno diventando sempre più interdisciplinari; sempre più frequentemente inoltre i ricercatori operano in consorzi internazionali ed interdisciplinari per fare in modo di favorire una maggiore molteplicità prospettica su specifici argomenti di ricerca. Promuovere la ricerca collaborativa a livello nazionale ed internazionale sta diventando sempre di più prioritario per gli enti finanziatori. Il Commissario europeo per la ricerca, Carlos Moedas, ad esempio, l’ha posta alla base della sua strategia, con il motto: ["Scienza aperta, innovazione aperta, apertura al mondo"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
-Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
+Gli ambienti virtuali di ricerca \(Virtual Research Environment)\ e le piattaforme collaborative consentono una collaborazione che va oltre i confini tra continenti, fusi orari e discipline. In questo modulo sarà possibile conoscere meglio le piattaforme collaborative attualmente operative e come queste possano migliorare notevolmente l’andamento del lavoro di ricerca.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Finalità didattiche 
 
-1. Learn what major types of collaborative platforms are available and what the use cases for each might be.
+1. Scoprire quali sono i principali tipi di piattaforme collaborative attualmente disponibili e in quali casi possano essere utilizzate.
 
-2. Learn the advantages of such systems.
+2. Riconoscere i vantaggi derivati dall’impiego di questi sistemi.
 
-3. Identify any possible shortcomings of collaborating via such platforms and how to overcome them.
+3. Identificare eventuali criticità collegate alla collaborazione tramite queste piattaforme e trovare il modo di superarle.
 
-### Key components
+### Elementi chiave 
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Conoscenze e competenze
 
-**Virtual research environments \(VREs\)**
+**Ambienti di ricerca virtuali \(VREs)\**
 
-Virtual research environments have been defined as "innovative, dynamic, and ubiquitous research supporting environments where scattered scientists can seamlessly access data, software, and processing resources managed by diverse systems in separate administration domains through their browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
+Gli ambienti di ricerca virtuali si possono definire come "ambienti innovativi, dinamici e onnipresenti, di supporto alla ricerca, attraverso i quali degli scienziati distanti gli uni dagli altri possono accedere senza alcuna difficoltà a dati, software e risorse di elaborazione gestite da diversi sistemi in distinti domini amministrativi attraverso il loro browser" \[Candela, Castelli and Pagano, 2013]\(https://doi.org/10.2481/dsj.GRDI-013)\).
 
-An important aspect here is the disciplinary-specific nature of many of these tools. The European Commission has funded a range of community-specific VREs under its eInfrastructure funding stream to enable researchers to collaboratively perform complex tasks such as integrating heterogeneous data from multiple sources, modelling, simulation, data exploration, mining and visualisation:
+Un aspetto importante in questo contesto è la natura strettamente disciplinare di molti di questi strumenti. La Commissione europea ha finanziato una serie di VRE specifici per le varie comunità scientifiche nell'ambito del flusso di finanziamento e-Infrastructure, per consentire ai ricercatori di svolgere in modo collaborativo attività complesse come l'integrazione di dati eterogenei da più fonti, la realizzazione di modelli, la simulazione, l’esplorazione, l’estrazione e la visualizzazione dei dati:
 
-* [VI-SEEM](https://vi-seem.eu/) - VRE for regional Interdisciplinary communities in Southeast Europe and the Eastern Mediterranean
+* [VI-SEEM](https://vi-seem.eu/) - VRE per comunità interdisciplinari regionali (sud-est europeo e Mediterraneo orientale
 
-* [MuG ](https://www.multiscalegenomics.eu/)- Multi-Scale Complex Genomics
+* [MuG ](https://www.multiscalegenomics.eu/)- Genomica complessa multi-scala
 
-* [OpenDreamKit](http://opendreamkit.org/) - Open Digital Research Environment Toolkit for the Advancement of Mathematics
+* [OpenDreamKit](http://opendreamkit.org/) - Kit per un ambiente di ricerca digitale aperto per l’avanzamento della matematica 
 
-* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Building Research environments for fostering Innovation, Decision making, Governance and Education to support Blue growth
+* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Costruire ambienti di ricerca per la promozione dell’innovazione, il decision-making, la governance e l’educazione a supporto della crescita blu 
 
-* [VRE4EIC](https://www.vre4eic.eu/) - A Europe-wide Interoperable Virtual Research Environment to Empower Multidisciplinary Research Communities and Accelerate Innovation and Collaboration
+* [VRE4EIC](https://www.vre4eic.eu/) - VRE su scala europea per rafforzare le comunità di ricerca multidisciplinari ed accelerare l’innovazione e la collaborazionen
 
-* [West-Life](https://about.west-life.eu/network/west-life/west-life) - World-wide E-infrastructure for structural biology
+* [West-Life](https://about.west-life.eu/network/west-life/west-life) - Infrastruttura elettronica su scala mondiale per la biologia strutturale
 
 ![](/Images/Icons/datamining.png)
 
-Some libraries already offer personalised VREs for specific projects. For example, [Leiden University library](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) offers VREs for all externally-funded projects of more than five persons.
+Alcune biblioteche stanno già offrendo dei VRE personalizzati su progetti specifici. La [Biblioteca dell'Università di Leiden] (https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools), ad esempio, offre VRE per tutti i progetti finanziati da terzi con uno staff di almeno cinque ricercatori.
 
-An especially important collaborative platform in the context of Open Science is the [Open Science Framework](https://osf.io/) \(OSF\). Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
+Una piattaforma collaborativa di particolare importanza nel contesto della scienza aperta è la [Open Science Framework] (https://osf.io/) \(OSF\). Basata su tecnologie di open source e creata dal [Center for Open Science] (https://cos.io/) (centro no profit), l'OSF si propone come "uno spazio accademico comune per collegare l'intero ciclo di ricerca". L'OSF consente ai ricercatori di lavorare su progetti in privato e con un numero ristretto di collaboratori e di rendere pubblico il loro progetto in toto o parzialmente. L’OSF si interfaccia direttamente con molti altri sistemi collaborativi come Dropbox, GitHub e Google Docs e può essere utilizzato per archiviare e conservare dati, protocolli e materiali di ricerca.
 
-**Collaborative writing platforms**
+**Piattaforme di scrittura collaborativa**
 
-Especially in the currently-predominant "publish or perish" culture of research, writing is a core task in the life of researchers. Several online tools and platforms now enable researchers to work together on documents in real-time, and so avoid the versioning-hell of emailing Word documents back and forth. Platforms include [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) and [Google Docs](https://www.google.com/docs). Note that many of these tools are based on proprietary technologies and some require payment for advanced features.
+La stesura per iscritto della ricerca, in modo particolare nell’attuale sentire predominante improntato sul diktat del "o pubblichi o muori", è un’attività cruciale nella vita dei ricercatori. Ai giorni nostri sono numerosi gli strumenti e le piattaforme online che consentono ai ricercatori di lavorare congiuntamente sullo stesso documento in tempo reale, evitando così, per la revisione delle versioni, lo snervante andirivieni di email con documenti word allegati. Tra queste piattaforme ci sono [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) e [Google Docs](https://www.google.com/docs); molte anche tra queste sono basate su tecnologie riservate e prevedono il versamento di una quota per accedere alle funzionalità più avanzate.
 
-**Reference management & discovery**
+**Gestione e recupero delle citazioni**
 
-There are plenty of tools which enable groups to store and manage references. Examples include [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) and [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) incorporates a sharable reference manager, as well as a social network and article visualization tools. Relatedly, [BibSonomy](http://www.bibsonomy.org/) allows researchers to share bookmarks and lists of literature.
+Esistono numerosi strumenti che consentono ai gruppi di ricerca di archiviare e gestire le citazioni,  ad esempio [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/)e [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) contiene uno strumento di gestione delle citazioni che può essere condiviso, nonché un social network e strumenti di visualizzazione degli articoli. Analogalmente, [BibSonomy](http://www.bibsonomy.org/)consente ai ricercatori di condividere segnalibri ed elenchi di letteratura.
 
-**Annotation and review**
+**Annotazione e revisione**
 
-The power of the Web enables new modes of post-publication collaborative review through services like [PubPeer](https://pubpeer.com/) and [Academic Karma](http://academickarma.org/), as well as annotation tools like [Hypothes.is](http://hypothes.is/) and [PaperHive](https://paperhive.org/).
+Le potenzialità del web consentono nuove modalità di revisione collaborativa successive alla pubblicazione attraverso servizi come [PubPeer](https://pubpeer.com/) e [Academic Karma](http://academickarma.org/), o strumenti di annotazione come [Hypothes.is](http://hypothes.is/) e [PaperHive](https://paperhive.org/).
 
-**Academic social networks**
 
-Researchers have long made use of the Web for social networking - either via mainstream social networks like [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/)and [Linkedin](https://www.linkedin.com/) or dedicated academic social networks like [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) and [Loop](http://community.frontiersin.org/).
+**Social network accademici**
+
+Da molto tempo i ricercatori utilizzano la rete per fare networking, sia per mezzo di social network generalisti come [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/) e [Linkedin](https://www.linkedin.com/) sia per mezzo di reti accademiche dedicate come [ResearchGate](https://www.researchgate.net/), [Academia.edu] e [Loop](http://community.frontiersin.org/).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Domande, impedimenti e comuni equivoci
 
-Q: "Why should I add another layer of complexity to my collaboration process? Sharing the doc file is sufficient!"
+D: Perché dovrei complicare ancora di più il mio modo di gestire le attività collaborative? Il fatto di condividere i file in formato .doc dovrebbe essere già più che sufficiente! 
 
-A: This is incorrect; although it may seem that you are introducing additional tools and platforms into your usual working approach, they are actually resolving communication issues that you were probably not aware of in the first place. For example, using just a doc file \(with or without track changes\), only shows the higher level of information and usually only at the tail of the entire scientific process. Working in the context of a collaborative environment, from design to reporting, establishes both clear communication and adequate provenance.
+R: Non è proprio così. Potrà anche sembrare di sommare strumenti e piattaforme ad altri strumenti e piattaforme al proprio ciclo di lavoro, in realtà questi servono a risolvere problemi di comunicazione di cui molto probabilmente non ci si rendeva conto all’inizio. Il fatto, ad esempio, di utilizzare solo e semplicemente dei file .doc (tenendo più o meno traccia delle modifiche), mostra solo lo stadio più avanzato delle informazioni e generalmente quello che arriva alla fine dell'intero processo scientifico. Il lavoro che invece si svolge in un contesto di ambiente collaborativo che va dalla progettazione fino alla redazione del report finale si fonda su una comunicazione chiara e su una descrizione adeguata delle fonti, della storia ed evoluzione delle informazioni.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Risultati dell’apprendimento
 
-1. The researcher will become familiar with the range of options available to aid greater collaborative research.
+1. Il ricercatore acquisirà familiarità con la gamma di opzioni disponibili a supporto della ricerca collaborativa.
 
-2. After deciding what works optimally for their workflow, the researcher will be able to use collaborative tools such as GitHub and the Open Science Framework for increased collaboration for the research process, writing/authoring, and sharing your research outputs.
+2. Dopo aver individuato la soluzione ottimale per il proprio flusso di lavoro, il ricercatore sarà in grado di utilizzare strumenti collaborativi come GitHub e Open Science Framework per migliorare la collaborazione nel processo di ricerca, redazione / creazione e condivisione dei risultati.
 
-3. The researcher will be able to collaborate with colleagues to write documents collaboratively, annotate articles and share this discussion.
+3. Il ricercatore sarà in grado di collaborare con i colleghi nella stesura di documenti congiuntamente, di annotare articoli e condividere commenti e discussioni.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Letture integrative
 
 * Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
