@@ -267,255 +267,261 @@ Ci sono diverse strategie che possono essere utilizzate durante l'evento di form
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Guida pratica
 
-You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) and the [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
+Maggiori e concrete informazioni sulla pianificazione e l'esecuzione di un corso di formazione sulla scienza aperta sono disponibili nei capitoli [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) e [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
 
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
-### Designing a course
+### La progettazione di un corso
 
-The creation of your course will either be driven by planning on the course’s objectives or on its outcomes.
+Per cominciare, la pianificazione di un corso dovrebbe partire dalla pianificazione delle finalità didattiche o dei risultati.
 
-#### Planning based on objectives, rather than outcomes
+#### Pianificare in base agli obiettivi didattici, piuttosto che in base ai risultati
 
-SMART is an interesting technique for specifying goals / objectives that is also used in project management. SMART is an acronym that stands for five criteria: Simple – Measurable – Ambitious – Realistic – Timed.
+La tecnica SMART è utile per specificare gli obiettivi da raggiungere ed è utilizzata anche nella gestione dei progetti. SMART è un acronimo che corrisponde a cinque criteri: Semplicità - Misurabilità - Ambizione - Realtà – Tempistica.
 
-* Your goal is **simple** if it can be understood by a person not familiar with the topic. That is, you can explain to your students beforehand what they are going to learn. It is usually a good idea to present your goal at the beginning of a lesson. Simple  means that the goal can be put into no more than one concise sentence.
+* •	L’obiettivo è **semplice** se può essere compreso da una persona che non ha familiarità con l'argomento. E’ opportuno spiegare a priori ai partecipanti cosa stanno per imparare: di solito è una buona idea presentare gli obiettivi didattici all'inizio di una lezione. Semplice significa che l'obiettivo può essere riassunto in un’unica breve frase.
 
-* Your goal is **measurable** if you can determine objectively whether the goal has been reached. Measurability prevents imprecise goals like "students understand Open Science", which is too broad and difficult to measure as there are many different components. Instead, use verbs that are actionable: identify, draw, name, explain, calculate etc. Verbs for good teaching goals have been categorized by the Bloom’s taxonomy of cognitive domains \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). Measuring helps you and your students to assess or self-assess progress.
+* L’obiettivo è **misurabile** se è possibile determinarne il raggiungimento con obiettività. La misurabilità impedisce obiettivi vaghi come "gli studenti devono comprendere la scienza aperta", troppo ampio e difficile da misurare viste le molte diverse componenti. Usare viceversa dei verbi che indicano azioni fattibili: identificare, disegnare, nominare, spiegare, calcolare ecc. I verbi utili ad una stesura efficace degli obiettivi didattici sono stati classificati dalla tassonomia di Bloom \(clinton.edu/curriculumcommittee/listofmurableverbs.cxml) ([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\) La misurabilità è utile al formatore e ai partecipanti dei corsi a valutare o autovalutare i progressi fatti. 
 
-* Your goal is **ambitious** if you challenge your students. Is there a clear benefit for them? Do you want the lesson to broaden their horizon? In which way does it give them an edge? Being ambitious means having an answer to the question: What will students learn that they could not by other means? If you feel a desire to make a stand and defend your viewpoint, it probably is ambitious.
+* L’ obiettivo è **ambizioso** se riesce a mettere alla prova i partecipanti del corso: ci sono dei vantaggi concreti nel raggiungerlo? Si vuole che il corso serva ad ampliare gli orizzonti dei partecipanti? In che modo può rappresentare un vantaggio? Essere ambiziosi significa poter rispondere alla domanda: che cosa si può imparare che non potrebbe essere appreso altrove? Se si desidera prendere posizione e difendere il proprio punto di vista, probabilmente l’obiettivo che ci si è posti è ambizioso.
 
-* Your goal is **realistic** if you sincerely believe your learning goal can be reached in the given timeframe. Being realistic involves homework: Do your students have the necessary background knowledge? What practical abilities do they need? What technical prerequisites are there? Are you prepared for unexpected questions? For instance, understanding all Creative Commons licenses in one hour may be realistic for one group, but out of reach for another.
+* L’obiettivo è **realistico** se si ritiene che possa essere raggiunto nel tempo prestabilito. Per essere realistico, è opportuno chiedersi: i partecipanti del corso hanno le conoscenze di base necessarie? Quali sono le compentenze pratiche di cui hanno bisogno? Quali prerequisiti tecnici sono indispensabili? Il formatore è preparato per domande impreviste? L’obiettivo “conoscere tutte le licenze Creative Commons in un'ora” può realisticamente essere conseguito da  un gruppo, ma fuori dalla portata di un altro.
 
-* Your goal is **timed** if there is a concrete timeframe  which the goal is to be reached. First-time teachers often overextend their time budget. Setting time limits for your learning goals helps you to structure your lesson, recognize and react to unexpected delays. A good form of planning time is having a detailed schedule or lesson plan.
+* L’obiettivo è **pianificato** se è stato predisposto un quadro temporale entro il quale si è stabilito che l’obiettivo deve essere raggiunto entro un periodo di tempo determinato. I formatori alle prime armi spesso sforano il tempo a loro disposizione. Impostare dei limiti di tempo per gli obiettivi didattici aiuta a strutturare la lezione, a riconoscere e a reagire a ritardi imprevisti. Un modo efficace per pianificare deve avere uno scadenziario dettagliato o un programma delle lezioni.
 
-Adapted from [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) by Kristian Rother.
+Adattato da [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) di Kristian Rother.
 
-#### Planning based on outcomes, rather than objectives
+#### Pianificazione basata sui risultati, piuttosto che sugli obiettivi
 
-Use reverse instructional design, known as Backward design, a technique for planning lessons that emphasizes outcomes:
+Si tratta di adottare il metodo di progettazione a ritroso, nota come Backward design, una tecnica per pianificare le lezioni che enfatizza i risultati: 
 
-1. Start from your learning objectives.
+1. Si inizi con le finalità didattiche 
 
-2. Decide what constitutes evidence that these objectives have been met \(summative assessment, see [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
+2. Si stabilisca che cosa dimostra che gli obiettivi sono stati raggiunti (valutazione sommativa, vedi sotto, il paragrafo “Valutazione post-formazione”) [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
 
-3. Choose the best format and design content to prepare the audience for what they will have to do during the summative assessment.
+3. Si scelga il format migliore e progetta il contenuto per preparare i partecipanti a ciò che dovranno fare durante la valutazione sommativa.
 
-4. Sort the content in order of increasing complexity and then provide the content and motivation they need to close the gap between what they know and what they need to know to complete the summative assessment. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. Il contenuto deve essere strutturato in maniera via via sempre più complessa ed essere quindi somministrato ai partecipanti insieme alla motivazione necessaria per colmare il divario tra ciò che sanno e ciò che devono imparare per completare la valutazione sommativa.  \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
 
-Backward design challenges "traditional" methods of curriculum planning. In traditional curriculum planning, a list of content that will be taught is created and/or selected.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) In backward design, the educator starts with goals, creates or plans out [assessments](https://en.wikipedia.org/wiki/Educational_assessment) and finally makes [lesson plans](https://en.wikipedia.org/wiki/Lesson_plan). Supporters of backward design liken the process to using a "road map".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In this case, the destination is chosen first and then the road map is used to plan the trip to the desired destination. In contrast, in traditional curriculum planning there is no formal destination identified before the journey begins.
+La progettazione a ritroso ribalta lo schema progettuale "tradizionale". Nella pianificazione tradizionale del curriculum, viene creato e/o selezionato un elenco di contenuti che verranno insegnati. [\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) Nella progettazione a ritroso, il formatore inizia con gli obiettivi didattici, crea o pianifica le [valutazioni](https://en.wikipedia.org/wiki/Educational_assessment) e solo alla fine formula il vero e proprio [programma delle lezioni](https://en.wikipedia.org/wiki/Lesson_plan). I sostenitori del backward design hanno paragonato questo procedimento all'utilizzo di una "road map" [\[5\]] (https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In questo caso, la destinazione viene scelta per prima e quindi la mappa viene utilizzata per pianificare il viaggio verso la meta desiderata. Al contrario, nella pianificazione tradizionale non esiste formalmente una destinazione stabilita a priori.
 
-The idea in backward design is to teach toward the "end point" or learning goals, which typically ensures that content taught remains focused and organized. This, in turn, aims at promoting better understanding of the content or processes to be taught to students. The trainer is able to focus on addressing what the students need to learn, what data can be collected to show that the students have learned the desired outcomes \(or [learning standards](https://en.wikipedia.org/wiki/Learning_standards)\) and how to ensure the students will learn.
+L'idea nella “progettazione a ritroso” è quella di puntare alla "meta finale" o verso quegli obiettivi di insegnamento che in genere garantiscono che il contenuto insegnato rimanga impresso e organizzato. Questo, a sua volta, mira a promuovere una migliore comprensione del contenuto e dei processi didattici da parti degli studenti. Il formatore si può concentrare su ciò che gli studenti devono imparare, su quali dati possono essere raccolti per dimostrare che gli studenti hanno raggiunto i risultati didattici desiderati \(o gli [standard di apprendimento]) (https://en.wikipedia.org/wiki/Learning_standards)\) e su come garantire che gli studenti saranno in grado di imparare.
+
 
 ## <img src="/Images/Icons/journal.png" width="150" height="150" />
-### Content
+### Il contenuto del corso
 
-#### Content collection
+#### La raccolta dei contenuti
 
-Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
+Prima di iniziare ad insegnare, è opportuno raccogliere e preparare i contenuti. Oggigiorno di contenuti ce ne sono a disposizione in grande quantità, e il problema non è tanto quello di trovare o creare contenuti quanto quello di trovare contenuti appropriati o rendere il contenuto proposto adeguato alle proprie esigenze e alle capacità della platea.
 
-Please check the chapter on [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) which will contain helpful information on how to adopt, adapt and develop content.
+Si consulti il capitolo Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) which will contain helpful information on how to adopt, adapt and develop content.
 
-#### Content reduction
+#### La concentrazione dei contenuti
 
-One of the biggest challenges in designing training courses is the reduction of content to the training format. If you have only two hours, you need to provide the most important information on a topic during this time. As a trainer, however, you usually have much more knowledge that you would like to pass on. Try to reduce the content to the most important key points. What is really necessary to know and what are only details or marginal topics? Set thematic priorities, be transparent about omissions and inform your participants about these.
+Una delle maggiori sfide nella progettazione di corsi è calibrare il contenuto alla tipologia di formazione. Se si hanno  solo due ore a disposizione, è opportuno fornire le principali informazioni su un determinato argomento durante il lasso di tempo convenuto. Di solito, il formatore ha tuttavia molte più conoscenze da trasmettere. E’ essenziale ridurre il contenuto ai punti chiave più importanti: cosa è veramente necessario sapere e quali sono solo dettagli o argomenti marginali? Si devono quindi stabilire le tematiche prioritarie ed essere trasparenti in merito a ciò che si è deciso di tralasciare informandone i partecipanti.
 
-And try to keep enough time for open questions, discussions, sharing experience among participants. It will help you to get the "right" questions. Usually much more basic, than you expected or more detailed and specific than you planned.
+Infine è utile tenersi del tempo sufficiente per domande aperte, discussioni e la condivisione di esperienze tra i partecipanti. Sarà utile per ottenere le domande "giuste", che di solito sono molto più semplici  di quanto ci si aspetti o più dettagliate e specifiche di quanto si era previsto.
 
 ## <img src="/Images/Icons/rocket.png" width="150" height="150" />
-### Starting the training
+### Inizio della formazione
 
-#### Introductions
+#### Presentazioni
 
-At the beginning of the event, speakers should clearly and succinctly introduce themselves and their areas of expertise. Why should the attendees listen to you? What experience and skills do you have that are relevant to them? You should then give a general presentation of objectives, content, and outcomes for the training event - what participants will learn, and why. Projecting confidence as a figure is key here in order to establish trust.
+All’inizio i relatori dovrebbero presentare in modo chiaro e conciso se stessi e i propri ambiti di competenza. Per quali motivi i partecipanti dovrebbero ascoltarli? Quali potrebbero essere le esperienze e competenze utili per la platea? Si dovrebbe quindi fornire una presentazione generale del corso: obiettivi, contenuti e risultati attesi - cosa potranno imparare i partecipanti e perché. Per stabilire un clima di fiducia è essenziale trasmettere sicurezza. 
 
-Depending on the size of your audience, the amount of time available, and the degree to which audience interaction will be key to successful training outcomes, you may wish to begin by having participants introduce themselves briefly \(although this is probably not recommended if the group is larger than 15-20 participants\). This might be a good time to collect thoughts from participants on their own expectations and levels of experience \(if not done before, e.g. with an online-questionnaire\), and to gauge to what extent these match the intended outcomes and your overview of the intended or target audience for the training. If there is a large mismatch, now would be the time to consider ways to spontaneously adapt the programme. For example, if participants are more knowledgeable or experienced than anticipated, you may wish to move more quickly over the basics of particular areas of Open Science in order to spend more time on interactive discussion in which the participants’ own questions and experiences are brought to the forefront.
+A seconda da quante persone è costituita la platea, dalla quantità di tempo disponibile e dal grado di utilità di interazione con il pubblico, potrebbe essere utile iniziare con una breve presentazione dei partecipanti (da sconsigliare per gruppi superiori a 15-20 persone). Questa è la fase in cui è più opportuno raccogliere le aspettative dei partecipanti, i loro pensieri, le loro aspettative e sondare il loro livello di esperienza (sempre che non sia stato fatto prima, ad esempio tramite un questionario online), e per valutare in che misura ciò corrisponda ai risultati che ci si aspetta e alla descrizione dei destinatari previsti o del target di riferimento). Se si riscontrano delle evidenti differenze, è proprio questo il momento più opportuno per adattare il programma. Se i partecipanti, ad esempio, sono più esperti del previsto, si possono trattare alcuni concetti della scienza aperta in maniera più veloce e dedicarsi maggiormente ad una discussione interattiva in cui sono le domande e le esperienze dei partecipanti ad essere al centro della discussione.
 
-Know that there is no absolute need to immediately adapt  the content, just be clear by letting all participants know what will be covered or not.
+Non è assolutamente necessario adattare il contenuto del corso seduta stante; sarà sufficiente però chiarire a tutti i partecipanti che cosa verrà tralasciato.
 
-Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) might be helpful to create the right ambiance.
+[Ancora una volta, le informazioni fornite da Software Carpentry potrebbero essere utili per creare l'ambiente giusto. [Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) 
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="400" height="300" />
-#### Ice-breaker
+#### Rompere il ghiaccio
 
-In order to energize audience members and help them get to know the trainers and each other, many training sessions begin with an ice-breaker exercise. Creating a warm, welcoming, friendly and positive learning environment should enable attendees to better participate and learn, and help them to feel more comfortable.
+Iniziare la sessione di formazione con un’attività utile a rompere il ghiaccio può servire a stimolare i partecipanti e permettergli di conoscere il docente e gli altri membri del gruppo. Creare un ambiente didattico accogliente, amichevole e positivo consente alle persone di partecipare e imparare meglio nonché ad aiutarli a sentirsi più a proprio agio.
 
-While icebreaker games can help create a positive atmosphere, a poorly chosen icebreaker can do the opposite, making people feel nervous or uncomfortable. You should carefully consider your attendees and the potential group dynamics when choosing an icebreaker. People should not be made to feel embarrassed, or forced to reveal personal information they do not wish to share. Groups will differ in important ways - whether attendees are of different ages or statuses within an organization, from different cultural levels, or of differing levels of educational attainments, will all affect the amount of common ground that might already exist between them. Try to keep such exercises related to the intended learning outcomes. Please refer to the [Further Reading](#further-reading) section for examples.
+Mentre un’atmosfera positiva può essere favorita dalla scelta della migliore attività per rompere il ghiaccio, utilizzarne una non adeguata può essere causa di nervosismo e disagio; per questo motivo è consigliabile analizzare con attenzione i partecipanti e le potenziali dinamiche di un gruppo quando si opera una scelta. Le persone non dovrebbero sentirsi in imbarazzo o essere costrette a rivelare informazioni personali che non desiderano condividere. I gruppi possono essere sensibilmente eterogenei per età, status all’interno dell’ente di appartenza, estrazione culturale e livello di istruzione. Tutte queste differenze incidono su quanto hanno in comune i membri dell’intero gruppo. È pertanto utile cercare di correlare le attività preliminari ai risultati didattici previsti. (Esempi sono disponibili al paragrafo [Letture integrative] (#further-reading) section for examples.
 
-### During the training
+### Durante il corso di formazione
 
-Define the intended outcomes of the training and always give orientation to your trainees:
+E’ opportuno circoscrivere i risultati attesi e dare sempre ai partecipanti delle linee di orientamento:
 
-* Where are we?
+* Dove siamo?
 
-* Where do we want to go?
+* Dove vogliamo andare? 
 
-* What will we cover?
+* Quali argomenti tratteremo? 
 
-Establish a balanced change of pure talks about the content to deliver \(max. 20 minutes\) and activity sessions to work with the content \(Klaus Döring, 2008\).
+e stabilire un’alternanza equilibrata tra discorsi teorici sui contenuti del corso \(massimo 20 minuti\) e sessioni di attività pratica \(Klaus Döring, 2008\).
 
-Always make the learners' voices sound as soon as possible or, in other words, go for active learning!
+E’ opportuno fare in modo che i partecipanti parlino e condividano i loro pensieri e idee il più presto possibile. In altre parole, è bene che la didattica sia attiva e partecipata! 
 
-#### Active Learning
+#### Didattica attiva
 
-Active Learning is a process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning with other attendees.
+La didattica attiva è un metodo attraverso il quale gli studenti sono attivamente coinvolti nel processo di apprendimento. Si contrappone ad un apprendimento passivo delle lezioni e comprende le seguenti attività: lettura, scrittura, discussione, problem solving, analisi, sintesi e valutazione. La didattica attiva spesso implica l'apprendimento cooperativo con gli altri partecipanti.
 
-Using active learning principles and implementation in training is, in general, a good idea. You are the second best judge for the benefits. Do remember that the first judge is the participant.
+Il fatto di usare dei metodi di didattica attiva nella formazione normalmente è un buon approccio. Il formatore è il secondo miglior giudice dei benefici di questo metodo; il primo giudice, è bene ricordarlo, è lo studente.
 
-Active learning helps to bypass diversity in learning styles and other difficulties with audiences. While more efficient in reaching outcomes of higher levels, active learning also addresses cognition issues related to the nature of the content and the way to present it, as shown in the following diagram, commonly found in several textbooks and online resources, and known as the Cone of Learning. Active learning is best utilised at the top levels of Bloom’s Taxonomy \(Analize, Define, Create, Evaluate\), and that also corresponds to the best strata of memorization: what you say, write or do - the bottom half of the Cone of Learning. Cognition issues arise with more ease when content spans several of these levels at a time and fails to address the intermediate levels as well. Checking your content against the Cone of Learning is an easy way of detecting these potential miss-outs while you deliver training. Likewise it allows you to decide to use more visual aids where you expect that the need for memorization is higher. So, when your audience gets behind you may use this technique to diagnose, try to locate the causes and pick the most effective remediation.
+La didattica attiva aiuta a bypassare i diversi stili di apprendimento e altre problematiche collegate alla platea di partecipanti del corso. Anche se è più efficace per il raggiungimento di obiettivi di livello superiore, la didattica attiva affronta anche problemi cognitivi legati alla natura del contenuto e al modo di presentarlo, come è dimostrato dal diagramma che segue e che è frequentemente riportato in molti libri di testo e risorse online, noto come “Cono dell’esperienza o dell’apprendimento”. 
+
+La didattica attiva è più efficace nei livelli cognitivi più alti della Tassonomia di Bloom (Analizzare, Definire, Creare, Valutare) e corrisponde anche alla maggiore capacità di memorizzare: quello che viene detto, scritto o fatto (ossia, alla metà inferiore del Cono dell’apprendimento). Problemi cognitivi si presentano con maggiore facilità quando il contenuto di una lezione coinvolge più livelli alla volta e quando il contenuto esclude anche i livelli intermedi. Accostare il contenuto del corso con il cono d’apprendimento è un modo semplice per scoprire questi potenziali errori e permette di pianificare un uso maggiore di supporti visivi dove serve una memorizzazione dei contenuti più immediata. Quando la platea dei partecipanti rimane indietro, si può quindi usare questa tecnica per diagnosticare, cercare di individuare le cause e scegliere la soluzione più efficace.
+
 
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
-#### Gamification
+#### Ludicizzazione “gamification”
 
-The foundations of the methodology in Active Learning lie in modern learning theories \(partly in Constructivism and some Connectivism\) and add learning engagement techniques to break barriers and flatten as many obstacles as possible. For example, gamifying a learning instance can move learners away from passive acquisition of content to full engagement, leading to the repositioning of the learner as someone who steps back and observes the learning process and how it works. An example of gamification in training is given here: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), a learning game for conceptual consolidation.. An additional example can be found in [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
+Le radici del metodo della didattica attiva affondano nelle moderne teorie dell'apprendimento (in parte nel Costruttivismo e in alcune correnti del Connettivismo) e introducono tecniche di coinvolgimento didattico per rompere le barriere e abbattere quanti più ostacoli possibili. Ad esempio, la ludicizzazione di una unità didattica può portare gli studenti da un’acquisizione passiva del contenuto verso un pieno coinvolgimento, trasformando cioè il discente in qualcuno che fa un passo indietro e osserva il processo di apprendimento e il suo funzionamento. Un esempio di ludicizzazione nella formazione può essere il [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1) un gioco didattico per il consolidamento dei concetti. Un altro esempio è disponibile in [CURATE: The Digital Curator Game] (http://www.digcur-education.org/eng/Resources/CURATE-Game). 
 
-#### Inclusive engagement
+#### Coinvolgimento inclusivo
 
-How to engage quiet participants? A good starting point might be to ask a question and wait at least 30 seconds for answers \(Mary Budd Rowe, 1986\). The result will be that more people engage in the discussion, the answers are of better quality and slow learners get a chance to answer.
+Come si possono coinvolgere i partecipanti che non intervengono? Un buon punto di partenza potrebbe essere quello di porre una domanda e aspettare almeno 30 secondi per le risposte \(Mary Budd Rowe, 1986\). Il risultato che si otterrà sarà che più persone parteciperanno alla discussione, la qualità delle persone sarà migliore e gli studenti meno reattivi avranno la possibilità di rispondere.
 
-Another method of achieving inclusive engagement is _progressive stacking_. A moderator chooses who speaks next from those participants who wish to speak and have not yet spoken, as usual. In addition, underrepresented voices, including underrepresented gender and racial identities, are chosen to speak first.
+Un altro metodo per ottenere un coinvolgimento inclusivo è lo stack progressivo. Un moderatore sceglie chi parla tra i partecipanti che desiderano parlare e che non lo hanno ancora fatto, come succede di solito. Inoltre vengono scelte per prima le voci sottorappresentate, secondo genere e identità razziale.
 
-During discussions \(in larger groups\), you should avoid standing microphones with first-come-first-speak engagement, as it discourages inclusive engagement and encourages monologuing. Use a wireless microphone instead or raised hands to ensure that who speaks next can be selected by the moderator. The larger the group, the bigger the need for a moderator who monitors who is speaking and who is not. It will also be the moderator’s task to choose who speaks next from those participants who wish to speak, but have not yet spoken to avoid the workshop engagement to be dominated by just a few participants.
+Durante le discussioni \(in gruppi più grandi\) si dovrebbero evitare i microfoni fissi con la logica del “chi prima arriva, prima parla”, perchè così facendo si scoraggia il coinvolgimento inclusivo e si facilita, al contrario, il monologo. Si utilizzino invece dei microfoni wireless o le mani alzate per fare in modo che l’intervento successivo possa essere selezionato dal moderatore. Più grande è il gruppo, maggiore è la necessità di un moderatore che prenda visione di chi sta parlando e chi no. Compito del moderatore sarà anche quello di scegliere l’intervento successivo tra quei partecipanti che desiderano parlare, ma che non lo hanno ancora fatto, per evitare che il coinvolgimento nel workshop sia monopolizzato solo da alcuni pochi partecipanti.
 
+#### Raccomandazioni generali
 
+* Rimanere connessi! Cercare sempre di mantenere il contatto con il gruppo, controllare il proprio passo e quello degli altri.
 
-#### General recommendations
+* Fare attenzione a non sovraccaricare i partecipanti con contenuti eccessivi e/o troppo difficili.
 
-* Stay connected! Always try to keep the contact with the group, check your pace and those of the others.
+* Tenersi aperti a ricevere feedback in qualsiasi momento, ma evitare ovvero interrompere discussioni senza fine.
 
-* Be careful not to overload the participants with too much and/or too difficult content.
+* Pause: dare sempre sufficiente spazio alle pause. Più lungo è il percorso, più lunghe e più frequenti devono essere le pause.
 
-* Be open for feedback at any time but avoid or actively break-up never-ending discussions.
+* Preparare versioni brevi, medie e lunghe delle esercitazioni pratiche per rispondere in maniera flessibile nel caso in cui le discussioni siano più o meno serrate.
 
-* Breaks: Always give enough space for breaks. The longer your course, the longer and more often your breaks.
+* Essere pronti a gestire studenti difficili e cercare consigli su come risolvere i problemi, prima dell’inizio del corso.  
 
-* Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
+Si possono trovare delle indicazioni in tal senso nella [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
+Si dovrebbe in ogni caso avere un'idea di cosa fare nel caso in cui emerga una conversazione parallela o quando qualcuno è costantemente maleducato o disattento, ecc. E’ bene sapere che ci sono modi verbali e non verbali per affrontare queste situazioni.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course. 
+* Riepilogo / al termine del corso vale la pena di informare i partecipanti su ciò che il formatore ha fatto e perché è stato fatto. Questo renderà la valutazione anche più semplice 
 
-\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
-You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
+* Il formatore deve ricordarsi di divertirsi durante il corso!
 
-* Wrap-Up / Meta View: At the end of the training it might be worth to tell your participants what you did and why you did it. This will also make the evaluation easier.
-
-* Enjoy the session yourself.
-
-#### Instant feedback
+#### Il feedback immediato
 
 At the end of each module, request feedback from participants in the form of a one-up/one-down \(i.e. state one thing that was useful/good in the module and one thing that was unclear/could be improved\). It can also be more graded / scaled. [Here ](http://www.academis.eu/posts/fist_or_five) is an example feedback with 6 levels. 
 
-Another way for getting instant feedback, especially at predefined points, is through continuous polls. As an example, Slack can be employed to provide anonymous feedback on the pace, by giving the option for members of a channel to change their choice on a poll at any given time. Feedback counts should be shown to the participants. Showing totals or graphs can act as an incentive. Online, cloud based tools generate more engagement, especially because the  dependence on devices such as clickers is disappearing. Learners can use internet connected mobile devices and feel empowered. Examples of this are abundant. You should test the methods before you use them with a real audience, and start with the systems that have smoother familiarisation steps, such as [Socrative](https://www.socrative.com/) and [Learning ](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
+Al termine di ogni modulo è opportuno chiedere feedback ai partecipanti secondo lo schema pollice verso/ pollice alzato \(ad esempio, alternando una cosa utile/buona del modulo ad una cosa non chiara/ che può essere migliorata\). Il feedback può essere anche più graduale/in scala. Di seguito, un esempio di feedback a 6 livelli [Qui](http://www.academis.eu/posts/fist_or_five) 
 
-Some more instant feedback strategies can be found under [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
+Un altro modo per ottenere un feedback istantaneo, specialmente in momenti predefiniti, è attraverso continui sondaggi. Ad esempio, Slack può essere usato per fornire un feedback anonimo sullo svolgimento del corso, dando la possibilità ai membri di un channel di cambiare in qualsiasi momento la propria risposta al sondaggio. I risultati del feedback dovrebbero essere condivisi con i partecipanti. La visualizzazione di totali o di grafici può essere incentivante. Gli strumenti online in-cloud generano maggiore coinvolgimento, tanto più che strumenti come i clicker stanno scomparendo. Gli studenti possono utilizzare dispositivi mobili connessi a internet e sentirsi più responsabilizzati. Ci sono molti esempi a riguardo. 
+
+Sarebbe auspicabile che questi metodi venissero testati prima di usarli con una vera platea e che si iniziasse con i sistemi con cui è più facile familiarizzare, come [Socrative](https://www.socrative.com/) e [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere] (https://www.polleverywhere.com/), [Directpoll](http://directpoll.com/). 
+
+Si possono trovare altre strategie di feedback immediato nel sito [teachthought.com] (https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)  
 
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
-### Training evaluation
+### La valutazione del corso di formazione
 
-Successful Open Science training also needs evaluation phases. Especially when starting a course, it is useful to look at trainees feedback. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
+Una efficace formazione sulla scienza aperta richiede anche una fase di valutazione. Soprattutto all’inizio di un corso, è utile analizzare i riscontri dei partecipanti. Una valutazione può fornire preziose informazioni su metodi e contenuti. La valutazione continua e l’analisi dei feedback migliorano la qualità della formazione e il lavoro del formatore.
 
-#### Types of feedback
+#### Tipologie di feedback
 
-There are different ways to get feedback from your participants:
+Esistono diversi modi per ottenere feedback dai partecipanti:
 
-_Classic forms of evaluation_
+_I classici questionari di valutazione_
 
-* Use an evaluation form in which you ask the participants for feedback on you as a teacher.
+* Usare un questionario di valutazione in cui i partecipanti forniscano feedback sul formatore, come docente.
 
-* Get interim statements during the course to check, if the course meets expectations. This gives you the opportunity to make adjustments before going on.
+* Richiedere riscontri istantanei durante lo svolgimento del corso, per verificare se soddisfa le aspettative. Questo darà modo di apportare delle modifiche prima di proseguire.
 
-_Verbal feedback_
+_Feedback verbali_
 
-* Ask the trainees for a short summary of their course experience. 
+* Chiedere ai partecipanti un breve riassunto sulla loro esperienza riguardo al corso. 
 
-_Self-Evaluation_
+_Auto-valutazione_
 
-* Make your own evaluation, what went well, what went wrong?
+* Il formatore farà una valutazione di sé stesso: cosa è andato bene, cosa è andato storto
 
-_Long term feedback_
+_Feedback a lungo termine_
 
-* 6 months later, questions about plastic changes in behaviour, more generally about modifications in the attitude and its potential effects.
+* 6 mesi dopo la fine del corso, si indaghi su quali cambiamenti concreti sono avvenuti nel comportamento, come il corso ha modificato gli atteggiamenti e i potenziali effetti.
 
-_Peer to peer feedback_
+_Feedback tra pari_
 
-* Colleagues will help you with their experience to prepare your course, eventually attend themselves the course and exchange with you afterwards and will give you their feedback. 
+* I colleghi, con la loro esperienza, potranno essere di aiuto nel preparare il corso di formazione, eventualmente lo seguiranno loro stessi, successivamente sarà possibile inter-scambiarsi e dare il loro feedback.
 
-#### Metrics for training efficiency
+#### Parametri per valutare l'efficacia della formazione
 
-In order to evaluate a course you should need to establish, first, what you want your learners to be familiar with, know, analyse critically or be able to explain . Why are you doing the course? Which goals do you want to achieve? And once the course has finished you should check if you reached those goals. There are different criteria on how to measure the success and efficiency of your course \(Kirkpatrick & Kirkpatrick, 1994\):
+Per valutare un corso, è necessario stabilire, in primo luogo, cosa si desidera che gli studenti apprendano, conoscano, analizzino criticamente o siano in grado di spiegare: perché si sta facendo il corso? Quali obiettivi si vogliono raggiungere? Quindi, una volta terminato il corso, si dovrebbe verificare se si sia effettivamente ottenuto quello che si voleva. Ci sono diversi parametri con cui misurare il successo e l'efficacia del corso \(Kirkpatrick e Kirkpatrick, 1994\): 
 
-* Reaction \(meeting expectations\): Are the trainees satisfied with the course? Have the participants reached their learning goals? Were the expectations realistic? How did they react to the course? Was there a clear structure or a common thread?
+* Reazione \(soddisfare le aspettative\): i partecipanti sono soddisfatti del corso? Hanno raggiunto i loro obiettivi didattici? Le aspettative erano realistiche? Come hanno reagito al corso? Era riconoscibile una struttura chiara o un filo comune?
 
-* Learning: Did the attendees learn something new? Is it helpful in their current situation? Did they understand everything? Can they assign suggested tools/platforms to the respective Open Science practices? Do they meet the pre-specified learning objectives?
+* Apprendimento: i partecipanti hanno imparato qualcosa di nuovo? Di utile per la loro quotidianità? Hanno capito tutto? Possono associare gli strumenti/piattaforme suggeriti alle rispettive pratiche della scienza aperta? Hanno raggiunto gli obiettivi didattici prefissati?
 
-* Behaviour: Will they change their way of conducting research? What will they do with their acquired knowledge? Will they recommend the training/content to others?
+* Comportamento: cambieranno il loro modo di fare ricerca? Cosa faranno con ciò che hanno imparato? Raccomanderanno il corso / i contenuti ad altri?
 
-* Results: which outcomes, when met, have a more positive impact towards the objectives? Which were the ones that brought more benefits?
+* Risultati: quali risultati, se raggiunti, hanno un impatto più positivo verso gli obiettivi? Quali sono stati quelli che hanno portato più benefici?
 
-### Kirkpatrick’s Training Evaluation Technique
+### La tecnica valutativa di Kirkpatrick
 
-[Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com/pages/article/kirkpatrick.htm) is an standardised way to analyse the effectiveness and impact of your training. 
+Il [Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com/pages/article/kirkpatrick.htm) è un metodo standard per analizzare l'efficacia e l'impatto della formazione.
 
 
-**Exercises**
+**Esercitazioni**
 
-* Check the learning outcome with gap texts and quizzes.
+* Verificare quanto è stato appreso con test e quiz a distanza.
 
-* Run a simple exercise at the start and same exercise at the end. Then see if opinions have changed.
+* All'inizio e alla fine del corso, assegnare un semplice esercizio, sempre lo stesso, e verificare se le risposte sono cambiate.
 
-* Keywords: Prepare paper slips with different key aspects of Open Science. Divide the trainees into groups \(at least 3 people\) and let each of them explain 2-3 keywords to each other.
+* Parole-chiave: preparare dei foglietti con diversi concetti chiave della scienza aperta. Suddividere i partecipanti in gruppi (di almeno 3 persone ciascuno) e lasciare che ciascuno di essi lo spieghi agli altri con 2-3 parole-chiave..
 
-* Give the participants a printout of the general structure for the scientific method, and ask them to assign Open Science tools and methods that can be applied to each of them.
+* Distribuire ai partecipanti una stampa della struttura generale del metodo scientifico e chiedere loro di associare ad ogni fase gli strumenti/metodi di scienza aperta appropriati.
 
-* Depending on time, you can also ask them to create an imaginary/simple research scenario and go ahead in establishing the Open Science protocols for it.
+* A seconda del tempo a disposizione, è anche possibile chiedere ai partecipanti di creare un’ipotetico scenario di ricerca e di procedere a definire i protocolli di scienza aperta necessari per la sua attuazione.
 
-### Rework your course
+### Rielaborazione del corso
 
-You will have had your own expectations before teaching the course and the experience of having done so will show you that things do not always work the way you planned. You should not be too disappointed, because a first time yield for all outcomes is almost impossible, but rather take the end of the course as a starting point to rework your material and rethink some of your methods and practical exercises.
+Prima di somministrare il corso, anche il formatore formula delle sue proprie aspettative. Una volta che il corso è finito, capirà che le cose non sempre vanno come pianificato. Non bisogna rimanerne troppo delusi perché alla prima esperienza è impossibile ottenere tutti i risultati attesi. E’ bene quindi trasformare la fine del corso in un punto di partenza per rielaborare il materiale e ripensare alcuni dei metodi didattici e delle esercitazioni.
 
-Be aware that it might even take you three attempts until you will have the feeling that your course has the format it needs and will satisfy both the attendees as well as you as the instructor.
+E’ bene essere consapevoli del fatto che ci possono volere anche tre corsi interi per avere la sensazione che tutto funzioni come desiderato e che tutti siano soddisfatti.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-## Learning outcomes of this chapter
+## Risultati di apprendimento di questo capitolo
 
-After going through this chapter you should be able to respond to requests to plan and deliver training in Open Science to specific audiences.
+Dopo aver letto questo capitolo, si dovrebbe essere in grado di pianificare e fornire corsi di formazione sulla scienza aperta a una platea specifica.
 
-**Exercise**
+**Esercizio**
 
-Consider the following hypothetical situation: You have been invited to train principal investigators at an engineering school. The training will be about the management of datasets that are shared between research groups in the school and their colleagues in Canada and New Zealand, in an Open Science context.
+Immaginati la seguente situazione ipotetica: sei stato invitato a formare i principali ricercatori di una Scuola di Ingegneria. La formazione riguarderà la gestione di set di dati condivisi tra i gruppi di ricerca della Scuola e i loro colleghi in Canada e Nuova Zelanda, in un contesto di Scienza Aperta.
 
-* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session
+* In un paragrafo descrivi, nelle sue fasi principali, la strategia adottata per progettare la tua sessione di formazione. Per esempio: cosa avresti intenzione di fare prima, durante e dopo il tuo corso
 
-* List three questions that you are allowed to ask to characterise your audience
+* Elenca tre domande che potresti fare per descrivere la tua platea
 
-* List three learning objectives
+* Elenca tre finalità didattiche
 
-* List three expected learning outcomes
+* Elenca tre risultati di apprendimento
 
-* List three actions that you can use to break the ice and get your audience engaged
+* Elenca tre azioni che potresti fare per rompere il ghiaccio e coinvolgere i partecipanti
 
-* List three questions that you would ask to check what the participants have learned
+* Elenca tre domande che potresti fare per verificare ciò che i partecipanti hanno appreso
 
-* List three questions that you would ask to check if the participants enjoyed the session.
+* Elenca tre domande che potresti fare per verificare se i partecipanti hanno apprezzato il corso
 
-* Be ready to react to genuine and spontaneously created wordcloud \(sli.do or some other tool\) : don’t be afraid to co-work with your audience, learn to play with what you know \(and assume you also have to right for some perplexity\)
+* Preparati ad interagire con strumenti come sli.do \(sli.do or some other tool\) o simili, che creano word-cloud spontanei: non aver paura di lavorare insieme ai partecipanti, impara a giocare con le tue conoscenze \(e ammetti pure di avere qualche perplessità, è del tutto normale!\)
 
-Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
+Esercizi simili possono essere applicati per eventi di formazione rivolti a audience diverse, con le quali si può usare lo stesso modo per valutare le tue conoscenze.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Letture integrative
 
-**About Bloom's Taxonomy:**
+**Sulla Tassonomia di Bloom**
 
 * Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
-**Resources/Exercises for ice-breakers**
+**Risorse/Esercizi rompighiaccio**
 
 * Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
 * Students as Partners, Teaching, Learning and Support Office. Peer Support Icebreakers. [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
 * The balance careers. The 10 Best Icebreaker Activities for Any Work Event. Activities for Meetings, Training, and Team Building Sessions. [thebalance.com](https://www.thebalance.com/top-ice-breakers-1918426)
 
-**References**
+**Bibliografia**
 
 * Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
@@ -540,6 +546,19 @@ Similar exercises can be applied to training different audiences, for which you 
 * Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
 
-For a deeper understanding of the matter:
+Per un approfondimento dei temi trattati::
 
-* Knowles, Holton, and Swanson (2011). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann.
+* Alberici, A. (2002). L’educazione degli adulti. Roma: Carrocci 2002 (*) Informazioni aggiunte nella versione italiana
+* Batini, F. (2013). Insegnare per competenze. Torino: Loescher. Available online: www.laricerca.loescher.it/quaderno_02/ (*) Informazioni aggiunte nella versione italiana
+* Bochicchio (2017). Formare gli adulti e competenze dell'educatore. Tricase: Libellula Edizioni. (*) Informazioni aggiunte nella versione italiana
+* Bonaiuti, G. (2014). Le strategie didattiche. Roma: Carocci, Roma. (*) Informazioni aggiunte nella versione italiana
+* Calvani A. (2007). Elementi di didattica: problemi e strategie. Roma: Carocci. (*) Informazioni aggiunte nella versione italiana
+* Castoldi M. (2016). Valutare e certificare le competenze. Roma: Carocci. (*) Informazioni aggiunte nella versione italiana
+* Fabbri L., Melacarne C. (2015). Apprendere a scuola. Metodologie attive di sviluppo e dispositivi riflessivi. Milano: FrancoAngeli(*) Informazioni aggiunte nella versione italiana
+* Knowles, Holton, and Swanson (2008). Quando l'adulto impara. Andragogia e sviluppo della persona. Milano: Franco Angeli. (*) Informazioni aggiunte nella versione italiana
+* Knowles, Holton, and Swanson (2011). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann. 
+* Maglioni, M., & Biscaro, F. (2014). La classe capovolta. Innovare la didattica con la flipped classroom. Trento: Erickson (*) Informazioni aggiunte nella versione italiana
+* Mariani, Canterini (2002). Educazione adulta: manuale per una formazione permanente. Milano: Unicopli. (*) Informazioni aggiunte nella versione italiana
+* Mason, L. (2006). Psicologia dell’apprendimento e dell’istruzione. Bologna: Il Mulino. (*) Informazioni aggiunte nella versione italiana
+* Vannini I. (2009), La Qualità nella didattica. Metodologie e strumenti di progettazione e valutazione, Trento: Erickson, Trento.
+
