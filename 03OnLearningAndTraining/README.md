@@ -1,180 +1,180 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## On Learning and Training
+## Processi di apprendimento e formazione
 
-This chapter is providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
+Questo capitolo fornisce un quadro di riferimento delle strategie didattiche, una guida pratica per la progettazione di un corso e una panoramica delle teorie pedagogiche, focalizzandosi su tre concetti chiave della didattica e della formazione:
 
-1. Preparation
+1. Preparazione
 
-2. Execution
+2. Esecuzione
 
-3. Reflection
+3. Riflessione
 
-Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover, you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
+Prima ancora del corso in sé stesso, ciò di cui insegnamento e formazione si occupano è la fase di preparazione. Questa include la selezione dei contenuti e dei metodi didattici più appropriati e della loro organizzazione al fine di ottenere la massima efficacia ed impatto dal percorso di formazione. Solo in un secondo momento, l'insegnamento consiste nell'erogazione del corso (il modo in cui si agisce e interagisce con i partecipanti). Anche nel caso in cui si  fosse perfettamente preparati su un certo argomento, è preferibile evitare di iniziare il corso prima di aver terminato la fase di preparazione. Potrebbe inoltre essere necessario testare il contenuto, in particolare le esercitazioni pratiche. Durante il corso sarà necessaria molta flessibilità, perché di rado le cose vanno secondo le proprie aspettative. Per finire, la didattica riguarda anche la valutazione e l'autovalutazione a fine corso. Con molta probabilità è necessario dedicarsi allo stesso corso o ad un corso simile più volte, in particolare se la valutazione risulta positiva.
 
-To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
+Per una migliore preparazione, è opportuno riflettere su ciò che è andato bene e su ciò che invece non ha funzionato e usare questa valutazione per calibrare la preparazione e l’erogazione dei corsi strada facendo. In breve, in ogni corso c'è un "prima", un "durante" e un "dopo", in una sorta di processo ciclico come avviene per il processo scientifico stesso. Questo capitolo fornisce una guida pratica per i formatori su come preparare e svolgere un corso destinati a tipologie di pubblico diversi: quali sono i principali ostacoli da superare e quali sono i principali problemi da tenere presenti quando si prepara un evento di formazione.
 
-## Some reflections before you start
+## Alcune riflessioni prima di iniziare
 
-In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
+I paragrafi che seguono vertono principalmente sul primo aspetto \(la preparazione)\; in seguito verranno fornite indicazioni su come pianificare e gestire il corso. Per cominciare, verranno presentate alcune questioni teoriche per dare un'idea di cosa significa insegnare e apprendere e di quanto l'insegnamento degli adulti differisca dall'insegnamento degli adolescenti o ai bambini.
 
-### Training vs. Teaching
+### Formazione vs. insegnamento
 
-* Teaching is more related to theoretical concepts than training, which is related to the practical application of knowledge \(i.e., development of skills\).
+* L'insegnamento, rispetto alla formazione, si basa maggiormente su concetti teorici; la formazione invece rimanda all'applicazione pratica della conoscenza \(ovvero allo sviluppo di compentenze)\.
 
-* Teaching seeks to impart new knowledge while training equips the already knowledgeable with tools and techniques to develop a specific skill set.
+* L'insegnamento cerca di trasmettere conoscenze nuove; la formazione correda invece la teoria che si è appresa con strumenti e tecniche finalizzate all’acquisizione di un determinato set di competenze.
 
-* Teaching is, usually, done within the context of education and academic environments, while training is associated with post-high school and/or postgraduate short and intensive courses.
+* L'insegnamento, di solito, si svolge in un contesto scolastico o accademico; la formazione invece è associata a corsi brevi e intensivi post-diploma e/o post-laurea.
 
-* Usually, teachers give feedback to their students, while trainers receive feedback from the learners.
+* Di solito, i docenti forniscono un feedback ai loro studenti; nella formazione invece sono i formatori a riceverlo.
 
-However...
+Comunque...
 
-* Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training can be considered as a broader activity that may encompass teaching.
+* La formazione è il processo attraverso cui si insegna e si apprende una competenza o un lavoro, e di fatto i formatori insegnano qualcosa. La formazione può essere pertanto considerata un’attività più ampia che può comprendere l'insegnamento.
 
-* Teaching may also include typical training activities and goals, such as practical sessions and demonstrations.
+* L'insegnamento può includere anche attività e obiettivi tipici della formazione, come sessioni pratiche e dimostrazioni.
 
-* Despite the fact that teaching and training techniques may sometimes vary, the difference between training and teaching is not related to the process itself but to the focus, with training generally having a more specific focus than teaching.
+* Anche se le tecniche didattiche possono a volte variare tra loro, la differenza tra formazione e insegnamento non dipende dal processo stesso, ma dal focus che nella formazione di solito è più specifico.
 
-* In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
+* Al fine di sviluppare competenze come professionista, una persona ha bisogno di comprendere i concetti teorici e avere una esposizione orientata alla pratica. Pertanto, l'insegnamento e la formazione sono concetti educativi ugualmente importanti e complementari.
 
 ![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
 
-### Strategies
+### Strategie
 
-There are different theoretical approaches to learning and training, which are sometimes also influenced by the culture you live in. Some people like to talk and give lectures. Others like to listen, others don’t. Some exercises are simple and look for clear answers. Other exercises are centered around problems and focus on giving the participants time and space to reflect on them and find solutions. Finally, some trainings are designed to give the participants maximum freedom and let them be as creative as possible. Success in trainings like these is more difficult to evaluate.
+Ci sono diversi approcci teorici alla didattica e alla formazione, a volte influenzati anche dalla cultura in cui ci si trova. Ad alcune persone piace parlare e tenere conferenze. Ad altri piace ascoltare, ad altri no. Alcuni esercizi sono semplici e richiedono risposte chiare. Altri sono incentrati sul problem solving e si concentrano sul dare ai partecipanti tempo e spazio per riflettere e trovare soluzioni. Alcuni corsi di formazione, infine, sono progettati per offrire ai partecipanti la massima libertà e permettere loro di essere il più creativi possibile. Valutare quanto un corso di questi sia stato più o meno di successo è più difficile da valutare.
 
-Four well known learning theories are behaviorism, cognitivism, connectivism and constructivism. They describe different perspectives on how people learn.
+Le quattro teorie dell'apprendimento più note sono: comportamentismo, cognitivismo, connettivismo e costruttivismo. Ognuna di queste descrive una diversa prospettiva su come le persone apprendono.
 
-This simplified diagram summarises their main characteristics in very practical terms:
+Questo diagramma semplificato riassume le loro caratteristiche principali in termini molto pratici: 
 
 
 ![image alt text](/Images/image_3.png)
 
 
-Transcribed from:
+Tratto da:
 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-The work done by the Software Carpentry also helps to understand learning processes: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+Per capire i processi di apprendimento può essere di aiuto anche il lavoro di Software Carpentry:: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
-### The Connected Curriculum Framework
+### Il “Connected Curriculum Framework”
 
-The recent movement ‘Connected Curriculum Framework’ aims at modernizing learning approaches and adapting them to the 21st century learner. The general objective of the framework is to improve the relationships between student education and research practices by breaking down unnecessary divisions. The framework values rich dialogue, active inquiry, collaboration, and interactions between students and researchers as well as universities and wider communities. This carries interesting promises in the area of Open Science and Citizen Science, Crowdsourcing, etc. You can read the Connected Curriculum here: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+Il recente movimento "Connected Curriculum Framework" si è prefissato l’obiettivo di modernizzare i metodi didattici e di adattarli allo studente del XXI secolo. Il fine generale del framework è di migliorare le relazioni tra la didattica rivolta agli studenti e i processi della ricerca scientifica, abbattendo inutili divisioni. Il Connected Curriculum Framework valuta gli scambi costruttivi, la ricerca attiva, la collaborazione e le interazioni tra studenti e ricercatori, oltre a quelle con università e comunità più ampie. Ciò porta interessanti spunti negli ambiti della scienza aperta, della scienza partecipativa e del crowdsourcing, ecc.  Puoi leggere il “Connected Curriculum”qui: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-#### How is this relevant to you?
+#### Quanto tutto questo può esserti utile?
 
-What is important to know, is that there are different approaches and you should not feel obliged to follow only one strategy, but rather decide at which point of your training you should apply which strategy to teach and evaluate.
+E’ importante sapere che ci sono approcci differenti e che non c’è alcun obbligo a seguire una sola strategia; si può piuttosto decidere quale pratica didattica applicare in qualsiasi momento del corso di formazione per poi quindi valutarla.
 
-In the end it is practice that matters and it may be helpful to check your content and practical exercises against one of the theoretical approaches in order to find out if they are appropriate at the given moment and for the target audience.
+Alla fin fine ciò che conta è la pratica. Potrebbe essere utile controllare il contenuto del corso e le esercitazioni pratiche in rapporto ad uno degli approcci teorici per scoprire se sono appropriati in un determinato momento e con un particolare platea.
 
 ## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
-### Expectations about a trainer
+### Aspettative sul formatore
 
-Everyone that comes to your training will come with expectations, conscious and unconscious ones. Among others \(such as teaching methodology, content and prior knowledge\) they will have specific expectations about the trainer.
+Chi partecipa ad un corso ha delle aspettative, che ne sia consapevole o meno. Oltre a quelle inter alia sui metodi didattici, i contenuti e le conoscenze pregresse\), ci sono anche aspettative specifiche sul formatore.
 
-Most learners will expect you to:
+La maggior parte degli studenti si aspetta che il formatore:
 
-* Be enthusiastic about the topics that they are teaching.
+* Sia entusiasta degli argomenti che sta insegnando.
 
-* Have a general understanding of core scientific \(or humanist\) values, and recognise the role of ‘openness’ as an intrinsic, core element of this.
+* Abbia una comprensione generale dei valori scientifici \(o umanistici\) di base e riconosca all’ “apertura” il ruolo di elemento intrinseco e centrale.
 
-* Understand the importance of factors such as research transparency and reproducibility, and the broader societal implications of these.
+* Comprenda l'importanza di fattori come la trasparenza della ricerca e la sua riproducibilità e le loro implicazioni sociali più ampie.
 
-* Show familiarity with the research process, including planning research, conducting research, producing research results, and communicating and publishing those results.
+* Abbia familiarità con l’intero processo di ricerca, compresa la pianificazione, le metodologie, la produzione, la comunicazione e la pubblicazione dei risultati.
 
-* Have knowledge about the different types of research processes and outputs that can be shared, including data, code and software, papers, communication, workflows, grant applications, and data management plans.
+* Conosca i diversi tipi di processi di ricerca e di output che possono essere condivisi, inclusi dati, codice e software, documenti, comunicazione, flussi di lavoro, domande di finanziamento e piani di gestione dei dati. 
 
-* Be aware of the policies, regulations and laws that could affect researchers when performing Open Science
+* Sia consapevole delle politiche, dei regolamenti e delle leggi che potrebbero influenzare i ricercatori nel mettere in pratica la scienza aperta.
 
-* Understand the pressures that result from institutional policies, or lack of them, that shape the way in which researchers handle data and results, from the acquisition stage to the sharing and dissemination stages.
+* Comprenda le pressioni che derivano da politiche istituzionali, o dalla loro mancanza, che modellano il modo in cui i ricercatori gestiscono dati e risultati, dalla fase di acquisizione a quella di condivisione e disseminazione.
 
-* Understand the expectations that are raised in the social fabric about the use of the resources and outcomes of scientific activities, such as its impacts in citizen science, the public understanding of science, the influence in the education providers, etc.
+* Capisca le aspettative che emergono dal tessuto sociale riguardo all'uso delle risorse e dei risultati delle attività scientifiche, così come il loro impatto sulla scienza partecipativa, la loro corretta divulgazione pubblica, l'influenza che possono avere su docenti e formatori. 
 
-* Be able to teach and have a profound knowledge in Open Science. \(In fact, this is what this book is about.\)
+Sia in grado di insegnare e che abbia una profonda conoscenza della scienza aperta \(in realtà, questo è ciò di cui tratta questo manuale\).
 
-* Provide links to online documents and resources that support newcomers.
+* Fornisca link a documenti e risorse online che supportino i principianti.
 
 ## <img src="/Images/Icons/target.png" width="150" height="150" />
-### Target audiences
+### Destinatari del corso
 
-A good way to get started with your Open Science training is to address audiences that have some idea and/or are interested in the topic. Generally, these people may be more open to the idea of Open Science. Starting your training with a motivated audience has several advantages:
+Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è rivolgersi a un pubblico che abbia già qualche informazione e/o sia già interessato all'argomento. Generalmente, queste persone potrebbero essere più aperte all'idea di scienza aperta. Iniziare la formazione con una platea motivata ha diversi vantaggi:
 
-* Knowing that your audience really is interested in the topic may make you more comfortable diving into a new training area/topic. You may contemplate running a survey to assess this in advance.
+* Sapere che la platea è interessata per davvero all'argomento facilita l’introduzione ad una nuova area / argomento di formazione. Si prenda in considerazione l’idea di svolgere un sondaggio per valutare questo aspetto a priori.
 
-* A motivated audience probably will contribute to discussion and provide you with useful input on how to further develop your training curriculum.
+* Una platea motivata molto probabilmente contribuisce alla discussione e fornisce suggerimenti utili su come sviluppare ulteriormente il piano di formazione.
 
-* Motivated audiences can become ambassadors of your training
+* Destinatari motivati possono diventare degli ambasciatori del corso di formazione.
 
-**Information you need to gather about your audience:**
+**Cosa devi sapere sulla platea:**
 
-1. Maintaining an inclusive environment, and taking into consideration the diverse backgrounds of your potential attendees, is important for any successful training event. To learn how to make your workshop inclusive, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+1. Perché un qualsiasi evento formativo sia costruttivo, è importante mantenere un ambiente inclusivo e tenere in considerazione i diversi background dei potenziali partecipanti. Come rendere un workshop inclusivo? Consulta la [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
-2. Whether the audience members know one another or not in advance will impact the group dynamic and the sorts of activities you might want to conduct.
+2. Il fatto che i partecipanti si conoscano a priori o meno può impattare sulla dinamica del gruppo e sul tipo di attività che si vogliono condurre.
 
-3. Whether the participation is voluntary or not will influence their motivation.
+3. La motivazione dei destinatari dipenderà dal fatto che la loro partecipazione sia volontaria o meno.
 
-4. The knowledge level of the audience regarding the planned discussion topics will affect the content and style of presentations.
+4. Il contenuto e lo stile delle presentazioni dipenderà dal livello di conoscenza della platea degli argomenti di discussione previsti.
 
-5. Whether the audience is accustomed to a specific learning method might affect how the participants react to very different training format.
+5. Il fatto che la platea sia abituata a uno specifico metodo didattico potrebbe influenzare il modo in cui i partecipanti reagiscono ad uno stile di formazione molto diverso.
 
-6. Audience size:
+6. Il numero dei partecipanti:
 
-   1. set a target audience size, based on the available space/capacity and available time for practical work..
+   1. Definisci un numero massimo di partecipanti in base allo spazio disponibile/capacità e al tempo disponibile per le esercitazioni pratiche 
 
-   2. the size of the audience will impact on how well they engage together and interact with the process.
+   2. Il numero dei partecipanti avrà un impatto sul modo in cui interagiranno tra loro e affronteranno il processo di apprendimento.
 
-   3. if you want a larger audience, consider break-out groups, and the logistical requirements that might come with that.
+   3. Se si tende ad una platea più ampia, è opportuno prendere in considerazione l’opportunità di creare dei sotto-gruppi e valutare le necessità logistiche ad essa collegate.
 
-7. Consider whether your event will be open to the public or limited to those affiliated with the host institution. A public event may help increase and diversity attendance, while limiting it can help you focus on particular topics. In addition, attendees from the same institution are more likely to already know each other.
+7. È opportuno valutare se l’evento sarà aperto al pubblico o ristretto ai membri afferenti all’ente ospitante. Un evento pubblico può aiutare ad aumentare e diversificare la partecipazione, mentre limitarne l’accesso può concentrare l’attenzione su argomenti specifici. Per i partecipanti afferenti ad una stessa istituzione c’è maggiore probabilità di conoscersi già tra loro.
 
-8. Consider using video-lectures, as you might reach a broader audience. Though with a small group of people attending an on-site event it is often easier to maintain their attention, and to create and use the feeling of an authentic connection.
+8. È opportuno prendere in considerazione il ricorso a videoconferenze / webinar, per raggiungere un pubblico più ampio. È concretamente più facile mantenere viva l’attenzione in un piccolo gruppo in presenza e creare e approfittare di un sentimento di autentica connessione.
 
-9. Consider what the best way is to approach different target audiences \(meeting, face to face workshops, webinar, newsletter, social media, etc.\)
+9.	Si valuti quale sia il modo migliore per avvicinarsi a target di pubblico diversi \(meeting, workshop faccia a faccia, webinar, newsletter, social media, ecc.\)
 
-10. With a heterogeneous audience, keep in mind the different stakeholders involved in order to address their different needs, knowledge and/or responsibilities:
+10. In presenza di un pubblico eterogeneo, per soddisfare le diverse esigenze si devono tenere presente /conoscenze e/o responsabilità delle parti interessate 
 
-    1. funder, institution/employer, researcher \(student, PhD student, researcher, project lead\),
+    1. finanziatori, istituzioni/datori di lavoro, ricercatori (studente, dottorando, ricercatore, responsabile del progetto)
 
-    2. support \(research office, library, IT\)
+    2. supporto \(ufficio ricerca, biblioteca, IT\) 
 
-    3. commercial partners in a project
+    3. partner commerciali in un progetto
 
-**The outcome of the training should be that the trainees:**
+**Al termine del corso, i partecipanti dovrebbero:**
 
-1. have a better practical understanding of the key concepts and corresponding applications for Open Science.
-2. confidently use what was learned during the training, thus increasing their impact in their professional environment.
-3. become able to network with advocates from multiple disciplines,and act in a global Open Science initiative.
+1. avere acquisito una migliore comprensione pratica dei concetti chiave e delle corrispondenti applicazioni della scienza aperta
+2. fare consono uso di quanto appreso durante la formazione, aumentando così il loro impatto nel proprio ambiente professionale.
+3. essere capaci di fare rete con i rappresentanti/sostenitori delle diverse discipline e di agire all’interno di un'iniziativa globale di scienza aperta.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
-### Teaching adults
+### Insegnare agli adulti
 
-Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
+La ricerca accademica è svolta da persone adulte pertanto chi partecipa a qualsiasi corso sulla scienza aperta è molto probabilmente un uomo/donna adulto, spesso con una formazione di alto livello alle spalle. È quindi interessante vedere come l'insegnamento a bambini o adolescenti \(pedagogia) differisce da quello degli adulti \(andragogia\). Il “Canadian Literacy and Learning Network” ha svolto un lavoro interessante su questa differenza e lo ha ricapitolato in sette principi:
 
-1. **Adults must want to learn.** This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
+1. **Gli adulti devono voler imparare.** Ciò vuol dire che la motivazione personale e le aspettative sono decisive e potrebbe valere la pena conoscerle prima dell’inizio del corso. 
 
-2. **Adults will learn only what they feel they need to learn.** Adults are practical in their approach to learning; they want to know, "How is this going to help me right now?" You should therefore be practical and direct.
+2. **Gli adulti imparano solo ciò che sentono di aver bisogno di imparare.** Gli adulti, nel loro approccio all'apprendimento, sono pratici e vogliono sapere:"Concretamente a cosa mi servirà?" E’ necessario quindi essere pratici e diretti. 
 
-3. **Adults learn by doing.** This is true for children too, but active and immediate participation matters more for adults.
+3. **Gli adulti imparano facendo.** Questo vale anche per i bambini, ma la partecipazione attiva e immediata è più importante negli adulti.
 
-4. **Adult learning focuses on problems and the problems must be realistic.** The participants will often come with a problem and it will be your task to discover gaps and try to close them.
+4. **L'apprendimento negli adulti si concentra sui problemi e i problemi devono essere realistici.** I partecipanti verranno spesso con un problema e sarà compito del formatore scoprire le lacune e provare a colmarle. 
 
-5. **Experience affects adult learning.** Adults have more experience than children, either negative or positive. You can make use of this experience by avoiding negative associations.
+5. **L'esperienza influisce sull'apprendimento degli adulti.** Gli adulti hanno più esperienza dei bambini, sia negativa che positiva. Puoi usare questo bagaglio di esperienze cercando di evitare associazioni negative.
 
-6. **Adults learn best in an informal situation.** School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
+6. **6.	Gli adulti imparano meglio in una situazione informale.** Di solito, i giovani in età scolastica devono seguire un curriculum. Spesso gli adulti imparano solo ciò che sentono di dover sapere. Si dovrebbe quindi cercare di coinvolgere la platea nel processo di apprendimento. Per fare questo, è necessario creare un ambiente rilassato, informale e stimolante.
 
-7. **Adults want guidance.** Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
+7. **7.	Gli adulti vogliono una guida.** Gli adulti vogliono informazioni che li aiutino a migliorare la loro situazione o risolvere i problemi, non che gli venga detto cosa fare. Preferiscono scegliere in base alle proprie esigenze.
 
-Therefore, you will need to
+I formatori saranno pertanto tenuti a 
 
-* provide the discovery points, tools and support where researchers will find them
+* fornire indicazioni su dove i ricercatori potranno trovare informazioni, strumenti e supporto 
 
-* prepare online documentation with clear, understandable, and up to date guidance
+* preparare materiale online con indicazioni chiare, comprensibili e aggiornate
 
-* put together good usable \(and discoverable\) tools or templates to generate it.
+* raccogliere degli strumenti (o dei modelli per crearli) efficaci, utilizzabili (e reperibili)
 
-In summary, adults have their interests focused on their own improvement and see training as a self-centered, capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way whenever possible.
+Riassumendo, l’interesse degli adulti è focalizzato sull’accrescimento delle proprie conoscenze e considerano la formazione come una pratica ad personam e utile ad ampliare le proprie competenze. Agli adulti piace essere rispettati in quanto tali e che le loro aspettative siano soddisfatte una per una, nel modo più esaustivo possibile.
 
-### Bloom’s Taxonomy
+### La Tassonomia di Bloom
 
 Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
 
