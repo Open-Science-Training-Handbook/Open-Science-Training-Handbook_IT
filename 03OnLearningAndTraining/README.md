@@ -176,97 +176,96 @@ Riassumendo, l’interesse degli adulti è focalizzato sull’accrescimento dell
 
 ### La Tassonomia di Bloom
 
-Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
+I risultati di apprendimento sono spesso il modo più diretto per stabilire la qualità di erogazione di un’attività di formazione: i bisogni formativi vengono adattati in modo che la maggior parte dei risultati attesi sia raggiunta dalla maggioranza della platea. Gli studenti pervengono a risultati di apprendimento in modi diversi, spesso valutatati quantitativamente.
 
-Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.
+Il fatto di dettagliare i risultati rientra nella concezione che la formazione sia parte di un processo cognitivo. Nel 1956, Benjamin Bloom creò una tassonomia dei livelli cognitivi, modificata poi nel corso del tempo. Si tratta di uno strumento molto utile per definire obiettivi didattici coerenti e adattabili a qualsiasi materia. Di solito, i salti tra livelli cognitivi non contigui sono considerati inaccettabili. La tassonomia aiuta ad identificare delle situazioni potenzialmente difficili, dalle quali la formazione non produce risultati positivi perché il livello cognitivo dell’obiettivo didattico non corrisponde a quello della valutazione utilizzata. 
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+La versione aggiornata 1(al 2001\) è disponibile qui:[https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
-Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
-
+La tassonomia di Bloom è una classificazione a sei livelli ed è utile perché da un supporto concreto a chi voglia costruire una solida attività didattica e formativa. In aggiunta alla tassonomia di Bloom si possono trovare diversi tipi di supporto alla progettazione di un’attività didattica, come le terminologie annotate, verbi da utilizzare o da evitare nella pianificazione del corso e nella composizione di test di valutazione, ecc.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning objectives & learning outcomes
+### Finalità didattiche e risultati di apprendimento
 
-These two terms are often used interchangeably by the training community. Objectives, comprising aims or goals, and Outcomes, comprising tangible results, may overlap, but are not genuinely the same.
+Questi due termini sono spesso usati come sinonimi dalla comunità dei formatori. Le finalità includono obiettivi o scopi e i risultati effetti tangibili, possono sovrapporsi, ma non sono realmente la stessa cosa.
 
-When designing training, you should think primarily of objectives, then list what outcomes you want your audience to reach for. Do not worry if they seem to overlap here and there, or if, as in most cases, an objective encloses one or more outcomes. Design all your practical exercises around specific outcomes.
+Durante la progettazione del corso è bene concentrarsi in primo luogo sugli obiettivi didattici e solo in seguito descrivere i risultati che la platea dovrebbe conseguire. Potrebbero sovrapporsi qua e là o se, come nella maggior parte dei casi, un obiettivo didattico racchiude uno o più risultati. E’ opportuno che le esercitazioni pratiche vengano progettate intorno a risultati specifici.
 
-Note: you should avoid using the abbreviation LO as it becomes ambiguous.
 
-Here is an attempt to clarify this situation and remove ambiguities:
 
-#### **Learning objectives**
+Cerchiamo di fare chiarezza e dipanare le ambiguità:
 
-* Describe the goals and intentions of the instructor.
+#### **Finalità didattiche**
 
-* State the purpose and goals of the course.
+* Descrivono le finalità e gli obiettivi didattici del formatore
 
-* Focus on content and skills important within the classroom or programme.
+* Stabiliscono propositi e scopi del corso
 
-* May describe what the instructors will do.
+* Sono focalizzate su contenuti e competenze che la classe o il programma ritiene importanti
 
-* Should be specific and detailed.
+* Possono descrivere cosa faranno i formatori
 
-#### **Learning outcomes**
+* Dovrebbero essere specifiche e dettagliate
 
-* Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
+#### **Finalità didattiche**
 
-* Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
+* I risultati di apprendimento conseguiti dagli studenti registrano i “prodotti” complessivi del corso e sono la dimostrazione che gli obiettivi sono stati raggiunti.
 
-* Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete usable knowledge upon completing the course.
+* I risultati di apprendimento sono delle affermazioni che descrivono o elencano le abilità, le competenze e le conoscenze che gli studenti hanno conseguito e che sono in grado di dimostrare una volta completato il corso.
 
-* Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
+* I risultati esprimono capacità di pensiero di livello superiore che integrano i contenuti e le attività del corso e che possono essere osservati in comportamenti, abilità o conoscenze discretamente utilizzabili alla fine del corso.
 
-* An assessable outcome can be displayed or observed and evaluated against criteria.
+* I risultati sono esattamente ciò che le valutazioni sul corso devono dimostrare - ovvero ciò che lo studente sarà in grado di fare al termine del corso.
 
-* Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
+* Un risultato didattico valutabile può essere mostrato o analizzato e valutato in base a dati criteri.
 
-\(Adapted from[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+* I risultati sono criteri chiari e misurabili per guidare l'insegnamento, l'apprendimento e il processo di valutazione nel corso.
 
-For Open Science Learning Objectives, see this FOSTER document: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
+\(Adattato da[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-**Example of a training objective:**
+Per gli obiettivi didattici della scienza aperta, si può consultare questo documento FOSTER: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(vedi pagine 13 e 14\)
 
-* "To learn how to use assessment and feedback in training with maximised effectiveness"
+**Esempio di finalità didattica:**
 
-**Example of a training outcome: **
+* "Imparare ad utilizzare i processi di valutazione e di feedback nell’attività formativa con la massima efficacia”
 
-* "Upon completing the course, the learner will be able to design a training exercise and a strategy to evaluate its effectiveness"
+**Esempio di risultato di apprendimento:**
+
+* "Alla fine del corso lo studente sarà in grado di progettare un esercizio di formazione e una strategia per valutarne l'efficacia"
 
 ## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
-### Motivation & demotivation
+### Motivazione e demotivazione
 
-One of the key components in a training event is to make sure that the lack of confidence that the participants might have when being introduced to a new field \(Open Science, in this instance\) does not discourage them from pushing onwards. Even if some participants are generally familiar with the concepts presented in the training event, it is important to acknowledge when people are becoming confused. Acknowledging that their misunderstandings are valid is key to encouraging a growth mindset and motivating them to accept and endorse the Open Science practices.
+Una delle componenti chiave di un evento di formazione è assicurarsi che la mancanza di fiducia che i partecipanti potrebbero avere quando vengono introdotti in un nuovo campo (la scienza aperta, in questo caso) non li scoraggi dal proseguire. Anche se alcuni partecipanti hanno generalmente familiarità con i concetti presentati nell'evento formativo, è importante percepire l’eventuale presenza di un senso di confusione in alcune persone. Ammettere la leicità dei loro dubbi rappresenta la chiave per incoraggiare una mentalità predisposta alla crescita e accrescere la motivazione ad accettare e sostenere le pratiche della scienza aperta.
 
-There are several strategies that can be employed throughout the training event that can motivate participants. \(Taken from the Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
+Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \(Taken from the Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 
-* **Strategies to establish value**
+* **Strategie per costruire valore**
 
-  * Connect the material to the participants’ interests or values.
+  * Creare un nesso tra il contenuto del corso e gli interessi o valori di chi vi partecipa.
 
-  * Provide authentic, real-world tasks and case studies, ideally matched to the participants background and immediate interests.
+  * Fornire compiti e case study autentici, reali, preferibilmente legati al background e agli interessi diretti dei partecipanti.
 
-  * Show relevance to the participants’ current academic lives.
+  * Fornire agganci rilevanti alle attuali vite accademiche dei partecipanti.
 
-  * Convey your own passion and enthusiasm for Open Science.
+  * Trasmettere passione e entusiasmo per la scienza aperta.
 
-* **Strategies to build positive expectations**
+* **Strategie per costruire aspettative positive**
 
-  * Ensure alignment of objectives, assessments, and instructional strategies.
+  * Accertarsi che obiettivi, valutazioni e strategie didattiche siano allineati e coerenti tra loro
 
-  * Provide early success opportunities by applying the concepts in hands-on exercises and tutorials.
+  * Per avere un immediato riscontro positivo, i concetti devono essere messi in pratica in esercitazione pratiche e tutorial
 
-* **Strategies for self-efficacy**
+* **Strategie per l'autoefficacia**
 
-  * Provide participants with options and the ability to make choices.
+  * Fornire ai partecipanti più opzioni e dare loro la possibilità di operare delle scelte.
 
-  * Give participants an opportunity to reflect and make their own connections between Open Science and their particular work.
+  * Lasciare ai partecipanti degli spazi di riflessione e momenti utili alla creazione di connessioni tra la scienza Aperta e il proprio lavoro.
 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
-## Practical guidance
+## Guida pratica
 
 You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) and the [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
 
