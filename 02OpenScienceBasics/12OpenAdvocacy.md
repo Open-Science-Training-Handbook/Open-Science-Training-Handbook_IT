@@ -1,151 +1,151 @@
 ## <img src="/Images/Icons/shout.png" width="200" height="200" />
 ## 12. Open Advocacy
 
-### What is it?
+### Di che cosa si tratta? 
 
-Advocacy in all its forms seeks to ensure that people, particularly those who are most vulnerable in society, are able to:
+L’advocacy, in tutte le sue forme, cerca di assicurare che le persone e in particolar modo quelle maggiormente vulnerabili all’interno della società, siano in grado di:
 
-* Have their voice heard on issues that are important to them. Advocacy means giving voice to a group.
+* Far sentire chiaramente la loro voce su temi che reputano importanti per loro. Advocacy significa dare voce a un gruppo
 
-* Defend and safeguard their rights.
+* Difendere e salvaguardare i loro diritti
 
-* Have their views and wishes genuinely considered when decisions are being made about their lives.
+* Fare in modo che il loro punto di vista e richieste siano seriamente presi in considerazione in fase di risoluzione su decisioni che avranno un impatto sulle loro vite.
 
-Advocacy include actions of defending, influencing, changing, decision-making, persuading, lobbying, attracting attention.
+L’advocacy include azioni come difendere, influenzare, operare il cambiamento, prendere decisioni, persuadere, fare lobbying, attirare l’attenzione.
 
-Open Advocacy focuses on the movement to promote Open Science at various levels of stakeholders, highlighting and stressing the societal, professional and personal advantages that it entails.
+L’open advocacy trova il suo focus nel movimento che promuove la scienza aperta verso i portatori di interesse ad ogni livello, mettendo in luce ed enfatizzando i vantaggi sociali, professionali e personali che essa comporta..
 
-### Rationale
+### Motivazione
 
-Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
+Delle attività di formazione \(workshop, seminari, presentazioni\) ci si può servire come strumenti di advocacy. Un approccio strutturato nei riguardi delle pratiche di advocacy può essere di aiuto ad affrontare le principali tematiche che il formatore deve tenere presente qualora la formazione sia collegata ad un programma di advocacy della scienza aperta: come usare le strategie di advocacy come strumenti utili a determinare cambiamenti specifici e come costruire quelle competenze di base necessarie per avvalersi degli strumenti tipici dell’advocacy (come, ad esempio, le campagne di sensibilizzazione, incontri con chi si occupa di politiche). La formazione viene intesa come un mezzo per produrre cambiamenti specifici e per costituire una comunità a supporto della scienza aperta. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Finalità didattiche
 
-1. Understand the context and goals of the advocacy program
-2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
+1. Comprendere il contesto e gli obiettivi del programma di advocacy
+2. Saper comunicare efficacemente con un uditorio, saper attirare l’attenzione della comunità su un tema importante e indirizzare i responsabili decisionali verso una risoluzione 
 
-### Key components
+### Elementi chiave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Conoscenza
 
-##### Objectives to achieve
+##### Obiettivi da raggiungere
 
-**SMART** is a way of reminding you that your objectives should be:
+**SMART** è un acronimo dall’inglese per sintetizzare le caratteristiche dell’obiettivo che ci si è posti:
 
-**S**pecific — by this we mean that you need to set a specific objective for your programmes.
+**S**pecifico – vale a dire che è necessario porsi un obiettivo specifico per i propri programmi
 
-**M**easurable — your objective should be measurable.
+**M**isurabile – l’obiettivo dev’essere quantificabile
 
-**A**chievable — the objective should be attainable or practicable.
+**A**ccessibile — l’obiettivo dev’essere raggiungibile o praticabile
 
-**R**ealistic — which also means credible.
+**R**ealistico — ovvero l'obiettivo deve essere credibile
 
-**T**ime-bound — and should be accomplished and achieved within a certain amount of time.
+**T**emporalmente circoscritto – l’obiettivo dev’essere compiuto e raggiunto in un determinato lasso di tempo
 
-Objectives can be long term or short term. Long-term objectives usually focus on changing the policy or practice of institutions, whereas shorter-term objectives can focus on attitude changes, raising awareness, getting an issue on the agenda, building a constituency of support or movement for change. It may be necessary to achieve some of the short-term objectives before you can achieve the longer-term ones.
+Gli obiettivi possono essere a lungo o breve termine. Gli obiettivi a lungo termine normalmente mirano a cambiare le politiche o pratiche istituzionali; gli obiettivi a breve termine invece mirano a cambiare atteggiamenti, sensibilizzare, far inserire in agenda un tema, costituire un gruppo di sostenitori o un movimento per il cambiamento. Prima di poter raggiungere degli obiettivi a lungo termine può essere necessario raggiungere alcuni obiettivi a breve termine.
 
-Main goals of advocacy program:
+I principali obiettivi del programma di advocacy:
 
-* To increase awareness among influential groups and the public
+* Sensibilizzare gruppi di influenza e la pubblica opinione 
 
-* To reduce stigma and fear
+* Contenere la stigmatizzazione e la paura
 
-* To engage and mobilize key stakeholders within the community who will champion the development
+* Ingaggiare e mobilitare i principali operatori all’interno di una comunità come promotori di sviluppo
 
-* To expand advocacy groups, including community volunteers
+* Allargare i gruppi di advocacy, includendo volontari della comunità
 
-* To mobilize resources to support the implementation of key priority \(core\) interventions
+* Mobilizzare risorse a supporto della realizzazione di interventi attorno alle priorità principali
 
-* To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
+* Tenere alta l’attenzione e il coinvolgimento dei responsabili decisionali e della pubblica opinione disseminando informazioni sui risultati attuali e sulle sfide future
 
-##### Steps to good advocacy
+##### Tappe per una buona advocacy
 
-1. Define your goals
-   1. What needs changing?
-   2. What do we want to ask for? Changing legislation, policy, regulation, programs, funding
-2. Understand your audience: different strategies for each target
-3. Build a profile of open access stakeholders and their attitudes
-4. Craft your message: create compelling messages that appeal to stakeholders’ interests
-   1. Be clear on what we are asking for
-   2. Keep it simple and focussed
-   3. Use positive language
-   4. Use evidence - facts carry more weight than anecdotal evidence
-   5. Economic arguments are important
-5. Plan and develop your communication and advocacy campaign
-6. Identify delivery methods:
-   1. Advocacy is relationship building,
-   2. Tactics change by target audience
-7. Identify Resources and Gaps:
-   1. Do a SWOT \(strengths, weaknesses, opportunities and threats\) analysis
-   2. Build on existing resources and opportunities
-8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
-9. Evaluate effectiveness regularly
+1. Definizione degli obiettivi
+   1. Che cosa deve essere cambiato?
+   2. Che cosa si deve chiedere? Cambiare la legislazione, la politica, la regolamentazione, i programmi, i finanziamenti
+2. Conoscere la platea: adottare strategie diverse a seconda dei destinatari
+3. Profilare l’identità dei portatori di interesse per l’accesso aperto e le loro posizioni
+4. Costruire un messaggio: creare messaggi persuasivi perchè stimolino l’attenzione delle parti interessate
+   1. Chiarezza su cosa chiedere
+   2. Semplificazione del messaggio e messaggio mirato 
+   3. Utilizzo di un linguaggio positivo
+   4. Ricorso all’evidenza di dati concreti: sono più significativi degli aneddoti 
+   5. Argomentazioni di tipo economico sono importanti
+5. Pianificare e sviluppare le attività di comunicazione nonché la campagna di sensibilizzazione
+6. Individuare i metodi attraverso i quali trasmettere i messaggi:
+   1. L’advocacy è costruzione di relazioni
+   2. Le tattiche cambiano a seconda dei destinatari
+7. Identificare risorse e punti deboli:
+   1. Con la tecnica dello SWOT analizzare punti di forza, di debolezza, opportunità e rischi
+   2. Costruire sulle risorse e le opportunità esistenti
+8. Pianificare i passi successivi, identificare gli obiettivi raggiungibili in base ai quali fondare un lavoro più ampio: piano/strategia di advocacy
+9. Verificare regolarmente l’efficacia
 
-##### Aspects of advocacy
+##### Aspetti dell’advocacy
 
-* Advocating for your own rights as an author
+* Sostenere e rivendicare i propri diritti in quanto autore
 
-* The basic steps for achieving local culture change ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
+* Fare passi basici per conseguire cambiamenti nella cultura locale ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
 
-* Advocating to your peers: Writing letters and articles advocating for Open
+* Fare advocacy tra i propri pari: scrivere lettere e articoli promuovendo l’accesso aperto
 
-* Talking to journal editors - having the OA conversation with your field
+* Parlare agli editor di riviste – confrontarsi sull’OA con persone dello stesso ambito disciplinare
 
-* Talking to policymakers
+* Parlare con i responsabili decisionali 
 
-##### Tools and methods
+##### Strumenti e metodi
 
-**Indirect**: stimulate participants to take action on their own behalf
+**Indiretto**: Stimolare i partecipanti ad intraprendere delle azioni in difesa dei propri interessi
 
-**Direct:** lobbying before decision makers by representatives on behalf of others
+**Diretto:** fare lobbying dinnanzi a responsabili decisionali rappresentando interessi di terzi 
 
-**Campaigning:** generating a response from the wider public and using a variety of techniques such as:
+**Campagne di sensibilizzazione:** generare una reazione fra un pubblico più ampio facendo ricorso ad una gamma diversificata di tecniche, come:
 
-* Chain e-mail or letter
+* Catene di email o lettere
 
-* Opinion pieces and letters to the editor in newspapers
+* Editoriali o contributi nelle rubriche di opinioni, lettere al direttore nei giornali
 
 * Newsletters
 
-* Celebrity endorsements
+* Supporto alla causa da parte di celebrità
 
-* Media partnerships with newspapers, journalists and film-makers
+* Collaborazioni con riviste, giornalisti e registi 
 
-* Web-based bulletins and online discussions
+* Bollettini su web e discussioni online
 
-* Public events
+* Eventi pubblici
 
-* Large-scale advertising campaigns
+* Campagne pubblicitarie su larga scala
 
-* Use of social media \(Twitter, Facebook\)
+* Uso dei social media \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Competenze
 
-* Write a letter for a newsletter or forum for your scholarly society about Open Access.
+* Scrivere una lettera per una newsletter o un forum sull’accesso aperto per la comunità accademica
 
-* Make your own email template reply about only reviewing for OA journals, etc. Reuse/base it on ones out there already.
+* Predisporre un modello standard di risposta a richieste di revisione aperta tra pari in cui si dichiara la propria disponibilità solo nel caso di riviste ad accesso aperto, ecc. e riutilizzarlo ovvero prenderlo a modello in caso di altre richieste 
 
-* Outline concrete solutions and benefits Open Science can deliver for current headaches university administrators may struggle with.
+* Predisporre soluzioni concrete e la lista di vantaggi che la scienza aperta comporta in ambito accademico per meglio sopportare i grattacapi che i funzionari amministrativi dell’ateneo si trovano a dover combattere per questa
 
-* Find your local advocacy group and volunteer for them!
+* Identificare il gruppo di advocacy più vicino e offrirsi come volontario!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Domande, impedimenti e comuni equivoci
 
-Lack of interest from audiences. Lack of understanding the value.
+Mancanza di interesse da parte del pubblico. Mancanza di comprensione del significato dell’attività di advocacy.
 
-The institution and/or senior management is concerned about the impact of the advocacy efforts.
+La preoccupazione dell’istituzione e/o dei quadri dirigenziali in merito agli effetti degli impegni derivanti dall’attività di advocacy
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Risultati di apprendimento 
 
-The trainer will be able to consider the training event in the context of a program.
+Il formatore sarà in grado di considerare l’evento formativo contestualmente ad un programma
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Letture integrative
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
@@ -174,7 +174,7 @@ The trainer will be able to consider the training event in the context of a prog
 * 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
 
-### Initiatives and projects
+### Iniziative e progetti 
 
 * FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
 
