@@ -1,25 +1,25 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
 ## Aspetti organizzativi
 
-Questo capitolo vi guiderà attraverso quelli che sono i principali aspetti pratici relativamente all’organizzazione di un evento formativo. Ovviamente, ciò di cui avrete effettivamente bisogno e utilizzerete dipende dalla tipologia di evento che state organizzando. La check-list corrispondente dovrà essere adattata di conseguenza. Nel capitolo troverete informazioni sulle singole fasi preparatorie e sulle principali attività indispensabili all’organizzazione. Il capitolo non solo fornisce informazioni fondamentali su come organizzare un evento ma costituisce anche un punto di riferimento nella progettazione della formazione stessa. Gran parte del materiale contenuto in questo capitolo, così come del resto il manuale stesso, mira a fornire informazioni e a preparare coloro che si occupano di organizzare workshop con un orientamento pratico. L’organizzazione di un tipo diverso di evento potrebbe richiedere un’impostazione di diverso tipo rispetto a quella proposta. 
+Questo capitolo costituisce una guida attraverso i principali aspetti pratici relativamente all’organizzazione di un evento formativo. Ovviamente, ciò di cui si ha effettivamente bisogno e si utilizza dipende dalla tipologia di evento che si sta organizzando. La check-list corrispondente deve essere adattata di conseguenza. Nel capitolo si trovano informazioni sulle singole fasi preparatorie e sulle principali attività indispensabili all’organizzazione. Il capitolo non solo fornisce informazioni fondamentali su come organizzare un evento ma costituisce anche un punto di riferimento per la progettazione della formazione stessa. Gran parte del materiale contenuto in questo capitolo, così come del resto il manuale stesso, mira a fornire informazioni e a preparare coloro che si occupano di organizzare workshop dal taglio pratico. L’organizzazione di un tipo diverso di evento potrebbe richiedere un’impostazione di diverso tipo rispetto a quella proposta. 
 
 ## Le basi per l’organizzazione di un evento formativo
 
 ### Il format
 
-Fin dall’inizio, è cruciale decidere quale tipologia di evento si ha intenzione di progettare e coordinare valutando alcuni aspetti ovvero:
+Fin dall’inizio è cruciale decidere quale tipologia di evento si ha intenzione di progettare e coordinare, valutando alcuni dei segunti aspetti vale a dire:
 
-* quale sarà il format dell’evento: workshop, seminario, corso frontale, training online o un ibrido tra seminario on-line e dal vivo?
+* Format dell’evento: workshop, seminario, corso frontale, training a distanza o format ibrido tra seminario a distanza e dal vivo
 
-* Di che tipo di evento si tratterà: di tipo partecipativo, formale o indipendente?
+* Tipologia di evento: partecipativo, formale o indipendente
 
-* L'evento può essere integrato in percorsi formativi già esistenti?
+* E' possibile integrare l'evento in percorsi formativi già esistenti?
 
-* Si prevede di invitare degli esperti esterni? In questo caso, a quali condizioni (ad esempio: quali costi potranno essere coperti)?
+* Si prevede di invitare degli esperti esterni? In tal caso, a quali condizioni (ad esempio: quali costi si potranno sostenere)?
 
-* La partecipazione al seminario sarà obbligatoria oppure facoltativa?
+* Partecipazione al seminario: obbligatoria oppure facoltativa?
 
-* A chi parteciparà, verrà riconosciuta una qualsiasi forma di accreditamento?
+* Ai partecipanti verrà riconosciuta una qualsiasi forma di accreditamento?
 
 * Che tipo di sistemazione logistica è più consona al format prescelto?
 
@@ -28,7 +28,7 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
 <table>
   <tr>
     <td></td>
-    <td>TIPOLOGIE DIVERSE DI EVENTI DI FORMAZIONE</td>
+    <td>TIPOLOGIE DI EVENTI DI FORMAZIONE</td>
     <td></td>
     <td></td>
     <td></td>
@@ -37,8 +37,8 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
     <td></td>
     <td>Workshop dal vivo</td>
     <td>Corsi/classi</td>
-    <td>Corsi frontali</td>
-    <td>Formazione online</td>
+    <td>Lezione frontale</td>
+    <td>Formazione a distanza</td>
   </tr>
   <tr>
     <td>Dimensioni della platea</td>
@@ -83,21 +83,21 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
     <td></td>
   </tr>
   <tr>
-    <td>nessuno</td>
+    <td>nessun finanziamento</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>modici</td>
+    <td>finanziamento modico</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>cospicui</td>
+    <td>finanziamento cospicuo</td>
     <td>x</td>
     <td>x</td>
     <td></td>
@@ -153,14 +153,14 @@ Nella tabella sottostante troverete dei suggerimenti circa la tipologia e le car
     <td></td>
   </tr>
   <tr>
-    <td> Livelli della formazione</td>
+    <td> Livelli di formazione</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Iniziale</td>
+    <td>Principiante</td>
     <td></td>
     <td></td>
     <td>x</td>
@@ -200,7 +200,7 @@ Prima di confermare l’evento è consigliabile definire quali sono i destinatar
 
 Alcune tipologie prevedono la presenza di più formatori. É utile poter contare sul supporto di un collega o di un servizio all’interno della vostra istituzione. Verificate quale tipo di supporto la vostra istituzione può fornirvi (sotto forma, ad esempio, di finanziamenti, aula/e, personale) e contattate il funzionario di riferimento inoltrando la vostra richiesta – ad esempio, potreste richiedere personale di supporto per le operazioni di registrazione dei partecipanti oppure contattare la tipografia o l’ufficio comunicazione per concordare attività promozionali. Accertatevi che i volontari abbiano ricevuto dei ragguagli sufficienti relativamente a tutte le attività in programma e che abbiano bene in mente quali siano le finalità e gli aspetti pratici dell’evento. É bene fare loro presente quanto sia importante stimolare una partecipazione attiva. Potete anche esternalizzare alcuni servizi, sempre che il vostro budget lo consenta.
 
-Valutate l’opportunità di collaborare con altri dipartimenti della vostra istituzione o altre istituzioni locali per mettere in comune le risorse e aumentare l’impatto/collaborazione con altri progetti o programmi. É di fondamentale importanza riflettere su questi aspetti chiave prima di impegnarsi o di annunciare l’evento per garantire lo svolgimento senza intoppi della formazione a vantaggio vostro e  dei partecipanti. Altresì utile può essere anche valutare l’opportunità di inserire l’evento di formazione nel programma di una conferenza o di un evento locale/internazionale accreditato.
+Valutate l’opportunità di collaborare con altri dipartimenti della vostra istituzione o altre istituzioni locali per mettere in comune le risorse e aumentare l’impatto/collaborazione con altri progetti o programmi. É di fondamentale importanza riflettere su questi aspetti chiave prima di impegnarsi o di annunciare l’evento per garantire lo svolgimento senza intoppi della formazione a vantaggio vostro e  dei partecipanti. Altresì utile può essere anche valutare l’opportunità di inserire l’evento di formazione nel programma di una conferenza o di un evento locale/internazionale riconosciuto.
 
 Individuate altri formatori, esperti o relatori esterni che possano esservi di aiuto nell’organizzazione dell’evento. L’ideale è che si tratti di sostenitori della Scienza Aperta all’interno della vostra stessa istituzione o che operino in prossimità della sede dove si svolgerà l’evento. Potrebbe però anche succedere che dobbiate trovare un relatore esterno per il quale si renda necessario avere a disposizione aiuti finanziari per coprire le spese di viaggio. Impegnatevi di essere il più inclusivi possibili (vedi il paragrafo successivo sull’“Inclusività”). Secondo il [The Carpentries](https://software-carpentry.org/workshops/operations/), un workshop con 40 partecipanti ha bisogno di almeno due formatori (e possibilmente di un terzo) che si alternano tra la presentazione e il supporto ai partecipanti e un coadiutore per ogni 5 partecipanti il cui compito è quello di tenere continuamente monitorato l’evento per ogni evenienza. 
 
