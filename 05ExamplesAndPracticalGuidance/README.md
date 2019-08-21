@@ -341,53 +341,53 @@ Piattaforme collaborative</td>
 
 ##### **Esempio 1: In formazione!**
 
-* Format, tempo richiesto  
+* Formato, durata  
 
-    * Esercizio di gruppo, 5–10 minuti
+    * Esercitazione di gruppo, 5–10 minuti
 
 * Argomento 
 
     * Rompere il ghiaccio, con argomenti inerenti o non inerenti alle tematiche del seminario  
 
-* Obiettivi formativi  
+* Finalità didattiche  
 
     * far sentire i partecipanti a proprio agio
 
 * Descrizione dell'esercitazione
 
-    * Immaginate una linea che divide l’aula in due spazi: da una parte "fortemente d'accordo" e dall’altra "fortemente in disaccordo". Uno dei partecipanti, o il moderatore, fa una dichiarazione (rilevante oppure no alla tematica del seminario, ad esempio, "i dati chiusi non devono essere citati" oppure "i leggins non sono pantaloni"). A tutti i partecipanti viene chiesto di prendere posizione lungo la linea immaginaria. Il moderatore chiede poi a qualche partecipante di spiegare il proprio punto di vista (letterale). 
+    * Tracciate una linea immaginaria che divide in due la sala: da una parte "fortemente d'accordo" e dall’altra "fortemente in disaccordo". Uno dei partecipanti o lo stesso moderatore fa una dichiarazione (rilevante oppure no alla tematica del seminario; ad esempio: "i dati chiusi non devono essere citati" oppure "i leggins non sono pantaloni"). A tutti i partecipanti viene chiesto di prendere posizione, collocandosi al di qua o al di là della linea immaginaria. Il moderatore chiede poi a qualcuno dei partecipanti di spiegare il proprio punto di vista (letteralmente). 
 
-* Materiale e strumenti necessari 
+* Materiale e strumenti richiesti 
 
     * Nessuno
 
-* Conoscenze propedeutiche richieste 
+* Conoscenze propedeutiche necessarie 
 
     * Nessuna
     
-* Cose da tenere presente
+* NOta bene
 
     * Fate in modo che non siano sempre gli stessi a prendere la parola; cercate, invece, di coinvolgere e di far parlare anche quelli nelle retrovie perchè espongano il proprio punto di vista. 
 
-* Come adattare per altri finalità 
+* Adattamenti per finalità diverse 
 
-    * La dichiarazione con la quale si sceglie di iniziare, dipende dalla situazione. Se il gruppo si incontra per la prima volta, ci si può permettere di optare anche per una dichiarazione fuori tema o banale; questa tecnica può essere usata anche per testare il terreno su alcuni argomenti controversi in merito alle tematiche del workshop, in special modo se i partecipanti già si conoscono o  hanno lavorato insieme per un po’ (ad esempio, il secondo giorno del workshop).
+    * La dichiarazione con la quale si sceglie di iniziare dipende dalla situazione. Se il gruppo si incontra per la prima volta, ci si può permettere di optare anche per una dichiarazione fuori tema o banale; questa tecnica può essere usata anche per testare il terreno su alcuni argomenti controversi in merito alle tematiche del workshop, in special modo se i partecipanti già si conoscono o  hanno lavorato insieme per un po’ (ad esempio, il secondo giorno di workshop).
 
 ##### **Esempio 2: Prioritizzazione dei bisogni formativi**
 
-* Format, tempo necessario 
+* Formato, durata 
 
     * Sessione plenaria, ~10 minuti
 
 * Argomento
 
-    * [Concetti e principli "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi "Aperti"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche
 
-    * Individuare vuoti di conoscenza / aree in cui i partecipanti ritengono di poter trarre i maggiori benefici dalla formazione 
+    * Individuare eventuali lacune / aree in cui i partecipanti ritengono di poter trarre i maggiori benefici dalla formazione 
 
-    * (opzionale) Individuare le aree in cui i partecipanti si sentono a proprio agio (e possono così condividere le proprie conoscenze).
+    * (opzionale) Individuare gli argomenti in cui i partecipanti si sentono a proprio agio (e possono così condividere le proprie conoscenze).
 
 * Descrizione dell'esercitazione
 
@@ -397,17 +397,17 @@ Piattaforme collaborative</td>
 
     * In alternativa, si può chiedere ai partecipanti che cosa già conoscano (sempre parlando di ambiti relativi alla scienza aperta).
 
-    * I partecipanti aggiungono dei post-it adesivi per ogni domanda su un foglio.
+    * Per ogni domanda, i partecipanti attaccano dei post-it adesivi su un foglio.
 
-    * Tutti i partecipanti aggiungono poi i loro post-it su un cartellone comune.
+    * Tutti i partecipanti aggiungono quindi i loro post-it su un cartellone comune.
 
     * Discutere i risultati con l'intero gruppo. Fate in modo che tutti i partecipanti prendano visione di tutti i post-it in modo che possano rendersi conto di quanto possano imparare anche dagli altri partecipanti.
 
 ![image alt text](/Images/image_7.png)
 
-* Materiali e strumenti necessari
+* Materiali e strumenti richiesti
 
-    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): uno per ogni partecipante e uno comune per tutti 
+    * Stampa del [ciclo della ricerca con le relative attività](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): uno per ogni partecipante e uno comune per tutti 
 
     * Post-it di due colori diversi 
 
@@ -415,13 +415,13 @@ Piattaforme collaborative</td>
 
 * Conoscenze propedeutiche necessarie 
 
-    * Nessuna; può essere utile un po' di dimestischezza con il ciclo della ricerca
+    * Nessuna; può servire conoscere un po' il ciclo della ricerca
 
-* Cose da ricordarsi 
+* Nota bene 
 
     * E’ bene farlo all'inizio di un seminario con un programma lungo e nel corso del quale verranno trattati più argomenti
 
-    * Quando scegliete i post-it, scegliete una combinazione di colori considerando chi è affetto da daltonismo
+    * Quando scegliete i post-it, scegliete una combinazione di colori tenendo in considerazione le esigenze di chi è affetto da daltonismo
 
     * Il numero di attività che si deciderà di svolgere, dipende dal numero di partecipanti (ad esempio, tre per gruppi più piccoli, due per gruppi più grandi).
 
@@ -429,19 +429,19 @@ Piattaforme collaborative</td>
 
     * I cartoncini individuali si possono conservare e tenuti come riferimento durante il resto della formazione
 
-* Come adottare per altre finalità 
+* Adattamenti per finalità diverse
 
-    * Questa esercitazione può essere adattata facilmente per prioritizzare altri argomenti.
+    * Questa esercitazione può essere adattata facilmente per la prioritizzazione di altri argomenti.
 
 ##### **Esempio 3: Selezione di pratiche di scienza aperta**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
-    * gruppo intero, 1–1.5 ore
+    * gruppo completo, 1 ora –1 ora e 30 min.
 
 * Argomento
 
-    * [Concetti e principi "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi "Aperti"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche  
 
@@ -451,23 +451,23 @@ Piattaforme collaborative</td>
 
 * Descrizione dell'esercitazione 
 
-    * Prima dell'esercitazione, è bene posizionare le card secondo la fase di ricerca/attività e disseminarle nell’aula (ad esempio, sui tavoli o su un'ampia sezione del pavimento).
+    * Prima dell'esercitazione, è bene posizionare le carte secondo la fase di ricerca/attività e disseminarle nell’aula (ad esempio, sui tavoli o su un'ampia sezione del pavimento).
 
     * Contrassegnare un'ampia sezione di una parete (possono essere utilizzate anche finestre o bacheche) con le diverse fasi del ciclo della ricerca (es. preparazione, scoperta, analisi, scrittura, pubblicazione, disseminazione, valutazione).
 
-    * Chiedere ai partecipanti di selezionare le pratiche che ritengono veramente importanti per la scienza aperta, e appendere il relativo post-it alla parete, suddivise per fase di ricerca.
+    * Chiedere ai partecipanti di selezionare le pratiche che ritengono veramente importanti per la scienza aperta e attaccare il relativo post-it alla parete, suddivisi per fase di ricerca.
 
-    * Sollecitare i partecipanti ad aggiungere altre pratiche di ricerca che non sono state incluse nelle card
+    * Sollecitare i partecipanti ad aggiungere altre pratiche di ricerca che non sono state incluse nelle carte
 
     * Suddividere i partecipanti in sette gruppi.
 
-    * Ogni gruppo analizza le pratiche selezionate per ogni fase della ricerca e sceglie le due pratiche che ritiene siano *più facilmente implementabili* e le *più efficaci per fare la ricerca più aperta*, spostando le relative card più in alto sulla parete, oppure rimuovendo le altre card. 
+    * Ogni gruppo analizza le pratiche selezionate per ogni fase della ricerca e sceglie le due pratiche che ritiene siano *più facilmente implementabili* e le *più efficaci per fare la ricerca più aperta*, posizionando le carte corripsondenti più in alto sulla parete, oppure rimuovendo le altre carte. 
 
     * Ogni singolo gruppo passa a spiegare agli altri partecipanti le motivazioni della loro scelta.  
 
     * Messe insieme, le pratiche di ricerca selezionate possono costituire un modello procedurale per fare ricerca nell’ambito della scienza aperta.
 
-    * Come esercizio di follow-up, i partecipanti possono discutere i possibili passi successivi per attuare queste pratiche: 
+    * Come esercizio successivo, i partecipanti possono discutere i possibili passi successivi per attuare queste pratiche: 
 
         1. quali strumenti/piattaforme possono essere utilizzate
 
@@ -475,7 +475,7 @@ Piattaforme collaborative</td>
 
         3. che tipo di supporto potrebbe essere necessario 
 
-        4. quali modifiche si renderebbe necessario apportare alle politiche
+        4. quali modifiche si renderebbero necessarie da apportare alle politiche
 
 ![image alt text](/Images/image_9.png)
 
@@ -487,7 +487,7 @@ Piattaforme collaborative</td>
 
     * Pareti di grande dimensione, finestre, oppure una serie di pannelli dove poter appendere del materiale
 
-    * sufficiente spazio per potersi muovere 
+    * spazi sufficientemente grandi per potersi muovere 
 
     * [Carte con le pratiche della scienza aperta](https://doi.org/10.6084/m9.figshare.4627954.v1) (disponibili anche come [diapositive powerpoint stampabili](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
 
@@ -495,33 +495,33 @@ Piattaforme collaborative</td>
 
     * puntine da disegno o nastro adesivo  
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * nessuna, può essere utile un po' di dimestischezza con il ciclo della ricerca
     
-* Cosa da ricordare 
+* Nota bene 
 
-    *  a seconda del numero di partecipanti, gruppi piccoli possono prioritizzare pratiche per più di una fase del ciclo della ricerca 
+    *  a seconda del numero di partecipanti, i gruppi piccoli possono prioritizzare pratiche per più di una fase del ciclo della ricerca 
 
     *  prima di attaccare il nastro adesivo alla parete fate una prova sulla finestra / parete ce ne sono alcuni che sono veramente difficile da togliere :-) 
 
-    * Il gruppo intero potrebbe non essere d'accordo con la selezione di pratiche proposta dal gruppo più piccolo per una determinata fase del ciclo della ricerca. Prima di cominciare è meglio decidere se ci si vuole attenere alle scelte fatte, o se si possa discutere e cambiare consensualmente la selezione di pratiche. 
+    * Il gruppo a completo potrebbe non essere d'accordo con la selezione di pratiche proposta dal gruppo più piccolo per una determinata fase del ciclo della ricerca. Prima di cominciare è meglio decidere se ci si vuole attenere alle scelte fatte, o se si possa discutere e cambiare consensualmente la selezione di pratiche. 
 
-* Come adattare per altre finalità
+* Adattamenti per finalità diverse
 
-    * Questo esercizio può essere modificato spostando l'intersse su altre attività specifiche / una specifica fase del ciclo della ricerca (ad esempio la pubblicazione o la valutazione).
+    * Questo esercizio può essere modificato spostando l'interesse su altre attività specifiche / una specifica fase del ciclo della ricerca (ad esempio la pubblicazione o la valutazione).
 
     * Possono essere utlizzati altri criteri di selezione, ad esempio pratiche che i partecipanti utilizzano loro stessi, oppure pratiche che potrebbero essere migliori (indipendentemente dalla fattibilità/lavoro richiesto).
 
-##### **Esempio 4: Argomenti di discussione sulla Scienza Aperta**
+##### **Esempio 4: Argomenti di discussione sulla scienza aperta**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * in piccoli gruppi, 20–30 minuti 
 
 * Argomento 
 
-    * [Concetti e principi "Open"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi "Aperti"](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche 
 
@@ -545,10 +545,10 @@ Piattaforme collaborative</td>
 
         7. "Le APCs (article processing charges) rappresentano i maggiori ostacoli alla diffusione di pubblicazioni in accesso aperto"
 
-        8. "Abbiamo bisogno di maggiore esplicito sostegno alla scienza aperta da parte degli enti finanziatori e dal governo"
+        8. "Abbiamo bisogno di maggiore esplicito sostegno alla scienza aperta da parte degli enti finanziatori e del governo"
 
         9. "Accettare degli incarichi di revisione aperta tra pari può essere deletereo per giovani ricercatori che vogliono fare carriera"
-        10. "Dovremmo prendere molto più seriamente i citizen scientists, e non considerarli solo dei fornitori di dati"
+        10. "Dovremmo prendere molto più seriamente gli scienziati cittadini e non considerarli solo dei fornitori di dati"
         
         11. "I fattori di impatto sono un sintomo e non la causa della della competitività sfrenata per pubblicare"
 
@@ -564,29 +564,29 @@ Piattaforme collaborative</td>
 
 * Materiali e strumenti richiesti
 
-    * Printouts of discussion topics
+    * Stampe e argomenti di discussione
 
 * Conoscenze propedeutiche necessarie 
 
     *  Può essere utile avere un po' di dimestischezza con il ciclo della ricerca
 
-* Cose da tenere in mente 
+* Nota bene 
 
     * Questa esercitazione è rivolta principalmente ai ricercatori (piuttosto che al personale di supporto), perchè possono trovare attinenza con la loro specifica situazione e parlare per esperienza diretta.
 
-* Come adattare per altre finalità 
+* Adattamenti per finalità diverse 
 
     * Cambiando gli argomenti in discussione, questa esercitazione può adattarsi ad altri argomenti
 
-##### **Esempio 5: LIBER Open Science café**
+##### **Esempio 5: bar LIBER della scienza aperta**
 
-* Format, tempo richiesto
+* Formato, durata
 
-    * in piccoli gruppi, 1.5 ora
+    * in piccoli gruppi, 1 ora - 1 ora e 30 min. 
 
 * Argomento 
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Concetti e principi aperti](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Finalità didattiche
 
@@ -596,33 +596,33 @@ Piattaforme collaborative</td>
 
 * Materiali e strumenti richiesti
 
-    * Ile [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), oppure un plico di affermazioni/prese di posizione scritte sulla base di [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
+    * Un mazzo di carte [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), oppure una pila di affermazioni/prese di posizione scritte sulla base di [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
     * un tavolo per 6-8 persone
 
 * Descrizione dell'esercitazione 
 
-    * Composizione: 6-8 persone riunite intorno ad un tavolo tra cui il moderatore e il protocollista. Per dare il via alla conversazione, gli vengono forniti dei mazzi di card con affermazioni e domande in merito alla scienza aperta e ai relativi progetti. Le affermazioni servono da apripista alla discussione. Uno dei partecipanti prende una card, il gruppo ne parla per un periodo di tempo e quindi proseguono con con un'altra card. Così facendo, le persone si conoscono tra loro e hanno modo cominciare a pensare con una prospettiva più grande. Contemporaneamente, potete raccogliere i punti di vista preziosi da parte di tutte le parti in gioco.
+    * Composizione: 6-8 persone riunite intorno ad un tavolo tra cui il moderatore e il protocollista. Per dare il via alla conversazione, a partecipanti vengono forniti dei mazzi di carte con affermazioni e domande in merito alla scienza aperta e ai relativi progetti. Le affermazioni servono per dare il via alla discussione. Uno dei partecipanti prende una carta, il gruppo ne parla per un tot di tempo e quindi prosegue con un'altra carta. In questo modo, le persone hanno la possibilità di conoscersi tra loro e modo di cominciare a pensare ampliando la loro prospettiva. Contemporaneamente, si possono raccogliere i diversi preziosi punti di vista di chi prende parte al gioco.
 
-    * il protocollista: prende nota di tutti i punti più interessanti emersi durante la discussione in due possibili metodi:
+    * il protocollista: prende nota di tutti i punti più interessanti emersi durante la discussione in due modi:
 
-        17. Le mappe concettuali: potete utilizzare queste carte che attraggono molta attenzione durante la conversazione. Se le cose procedono troppo in frett, non abbiate paura di interrompere la conversazione e di chiedere commenti e reazioni ai partecipanti nei confronti di questa mappa mentale. Prendete nota dell'argomento principale al centro e cominiciate a lavorare da lì. E' difficile trovare delle connessioni? Potete raccogliere anche solo dei pensieri e pareri in ordine sparso in questa fase.
+        17. Le mappe concettuali: potete utilizzare queste carte che attraggono molta attenzione durante la conversazione. Se le cose procedono troppo in fretta, non abbiate paura di interrompere la conversazione e di chiedere i commenti e le reazioni dei partecipanti sulla mappa mentale. Prendete nota dell'argomento principale al centro e cominiciate a lavorare da lì. E' difficile trovare delle connessioni? Potete raccogliere anche solo dei pensieri e pareri in ordine sparso in questa fase.
 
         18. Citazioni e idee brillanti: qualche volta qualcuno dice qualcosa di semplicemente sorprendente, o semplicemente molto pertinente o molto utile in qualche modo. Per questo dovete avere a disposizione la carta delle "idee e delle citazioni brillanti". Ne avete a disposizione solo una quindi dovete essere molto selettivi. Metteteci un asterisco se pensate che qualcosa meriti di essere messo su questa card. 
 
-    * Passati 20-30 minuti, il gruppo deve cambiare tavolo. Moderatori e protocollisti rimangono ai loro posti.
+    * Passati 20-30 minuti, il gruppo deve spostarsi di tavolo. Moderatori e protocollisti rimangono ai loro posti.
 
-    * Alla fine, ogni moderatore riferisce su quanto è stato detto dai diversi gruppi che si sono avvicendati al suo tavolo. 
+    * Alla fine, ogni moderatore riferisce su quanto è stato detto da ciascun gruppo che si è avvicendato al suo tavolo. 
 
 ##### **Esempio 6: Che cosa sono per me i dati della ricerca?**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * da soli/in coppia, 15 minuti
 
 * Argomento 
 
-    * [Dati e materiali open della ricerca](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca aperti](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche 
 
@@ -630,33 +630,33 @@ Piattaforme collaborative</td>
 
 * Descrizione dell'esercitazionen
 
-    * Chiedete ai partecipanti di riflettere sugli ultimi articoli che hanno scritto/letto. Erano corredati da materiale integrativo  (ad esempio tabelle, immagini)? Chiedete loro di scrivere alcuni esempi e alcuni tipi di dati di ricerca nei proprio settore di lavoro. Che tipo di informazione o di dati avrebbero bisogno per ri-analizzare lo studio? Di che cosa avrebbero bisogno per fare in modo che la loro dissertazione/articolo potesse essere compresa nel modo giusto? Chiedetegli di presentare le loro riflessioni conclusive in coppia/in gruppo o poi nella sessione plenaria. 
+    * Chiedete ai partecipanti di riflettere sugli ultimi articoli che hanno scritto/letto. Erano corredati da materiale integrativo  (ad esempio tabelle, immagini)? Chiedete loro di scrivere alcuni esempi e alcuni tipi di dati di ricerca nei proprio settore di lavoro. Che tipo di informazione o di dati avrebbero bisogno per ri-analizzare lo studio? Di che cosa avrebbero bisogno per fare in modo che la loro dissertazione/articolo possa essere compresa nel modo giusto? Chiedetegli di presentare le loro riflessioni conclusive in coppia/in gruppo o poi nella sessione plenaria. 
 
 * Materiali e strumenti richiesti
 
     * Un foglio di carta e una penna
 
-* Conoscenze propedeutiche richieste 
+* Conoscenze propedeutiche necessarie 
 
     * Non sono richieste conoscenze propedeutiche 
 
-* Cose da tenere in mente
+* Nota bene
 
     * Concedete ai partecipanti il tempo necessario per fare brainstorming
 
-* Come adattare ad altre finalità 
+* Adattamenti per finalità diverse 
 
 E' possibile accorciare l'attività saltando la parte del lavoro in coppia/gruppo e passare direttamente alla discussione in formazione plenaria
 
 ##### **Esempio 7: Perchè non condividere i dati**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * piccoli gruppi, ~20 minuti
 
 * Argomenti 
 
-    * [Dati e materiali della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca "aperti"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche 
 
@@ -670,27 +670,27 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * cancelleria per prendere appunti (penna, fogli di carta o un documento online); opzionale: premio 
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * conoscenze pratiche su come lavorare con i dati 
 
-* Cose da tenere a mente 
+* Nota bene 
 
-    * L'esercitazione dovrebbe essere divertente, e i partecipanti dovrebbero essere incoraggiati a riportare degli esempi spassosi non solo esclusivamente seriosi 
+    * L'esercitazione dovrebbe essere divertente e i partecipanti dovrebbero essere incoraggiati a riportare degli esempi spassosi non solo esclusivamente seriosi 
 
-* Come adattare per altre finalità 
+* Adattamentiper finalità diverse 
 
     * Lo stesso formato può essere facilmente adattabile ad altri elementi della scienza aperta, e.g., accesso aperto (perchè non pubblicare ad accesso aperto, etc.)
 
-##### **Esempio 8: La tombola "Le scuse dei dati aperti"**
+##### **Esempio 8: La tombola delle "Le scuse dei dati aperti"**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * Esercizio di gruppo, 20–30 minuti
 
 * Argomento:
 
-    * [Dati e materiali della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca "aperti"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche:
 
@@ -698,33 +698,33 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Descrizione dell'esercitazione 
 
-    * Questo esercizio dovrebbe essere fatto all'inizio di ogni sessione didattica. I partecipanti si suddividono in almeno due p più gruppi (a seconda del numero dei partecipanti). Un esercitatore deve incoraggiare un gruppo a sviluppare argomenti a faovre e contrari. In piccoli gruppi i partecipanti discutono sulle scuse già predisposte alla tombola "Tante scuse agli open data". Si tratta di argomentazioni molto comuni utilizzate dai ricercatori per spiegare i motivi che li spingono a non condividere i loro dati. Negli ultimi 10 minuti i gruppi devono confrontare le loro argomentazioni. Un esercitatore aiuta i partecipanti a sviluppare degli argomenti per rendere i loro dati aperti e per comprendere meglio quale sia l'idea alla base della condivisione dei dati.
+    * Questo esercizio dovrebbe essere fatto all'inizio di ogni sessione didattica. I partecipanti si suddividono in almeno due o più gruppi (a seconda del numero dei partecipanti). Un esercitatore deve incoraggiare un gruppo a sviluppare argomenti pro e contro. In piccoli gruppi i partecipanti discutono sulle scuse già predisposte alla tombola "Tante scuse dei dati aperti". Si tratta di argomentazioni molto comuni utilizzate dai ricercatori per spiegare i motivi che li spingono a non condividere i loro dati. Negli ultimi 10 minuti i gruppi devono confrontare le loro argomentazioni. Un esercitatore aiuta i partecipanti a sviluppare degli argomenti per rendere i loro dati aperti e per comprendere meglio quale sia l'idea alla base della condivisione dei dati.
 
 * Materiali e strumenti richiesti 
 
     * Stampe da [ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
 
-* Conoscenze propedeutiche richieste 
+* Conoscenze propedeutiche necessarie 
 
     * I partecipanti dovrebbero avere avuto precedenti esperienze su come creare/reaccogliere dei dati di ricerca.
 
-* Cose da tenere a mente 
+* Nota bene 
 
-    * Circolate tra i tavoli e date una mano a trovare le argomentazioni laddove necessario; in special modo al gruppo a cui è stato assegnato il compito di sviluppare delle solide argomentazioni a supporto della condivisione dei dati. Questi partecipanti potrebbero aver bisogno di un aiutino extra per poter affrontare il confronto successivo con i partecipanti di un altro gruppo. 
+    * Circolate tra i tavoli e date una mano a trovare le argomentazioni laddove necessario; in special modo sostente il gruppo a cui è stato assegnato il compito di sviluppare delle solide argomentazioni a supporto della condivisione dei dati. Questi partecipanti potrebbero aver bisogno di un aiutino extra per poter affrontare il confronto successivo con i partecipanti di un altro gruppo. 
 
-* Come adattare per altre finalità 
+* Adattamenti per finalità diverse 
 
-    * Questa esercitazione può essere adattata ad altri argomenti (adattando necessariamento anche il materiale)
+    * Questa esercitazione può essere adattata ad altri argomenti (adattando di conseguenza anche il materiale)
 
 ##### **Esempio 9: Io e i miei dati - Datagramma**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * Esercitazione di gruppo, 1–4 ore (se all'interno di un workshop)  
 
 * Argomento
 
-    * [Dati della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati della ricerca "aperti"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche
 
@@ -754,7 +754,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Il gruppo discute sui diversi pacchetti di cartoncini e riflette su quali requisiti debba avere un depositivo o archivio di dati aperto.
 
-* Materiali e strumenti necessari 
+* Materiali e strumenti richiesti
 
     *  Cartoncini e lavagne a fogli mobili, o in alternativa ancora meglio una parete e del materiale per fissare i cartoncini al muro.
 
@@ -762,23 +762,23 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Nessuna fintanto che l'espercitazione inizia con alcune spiegazioni su come descrivere e differenziare i dati. Potrebbero inoltre servire un livello di conoscenza base su dati della ricerca, archivi, etc.
 
-* Cose da tenere a mente 
+* NOta bene 
 
-    * Fate in modo che si proceda passo dopo passo 
+    * Fate in modo che si proceda un passo dopo l'altro 
 
-* Come adattarlo ad altre finalità 
+* Adattamenti per finalità diverse 
 
-    *  non ancora adattato
+    *  non ci sono ancora adattamenti da suggerire
 
 ##### **Esempio 10: Trova il tuo editore di dati**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
-    * da soli / in gruppo, 10–15 minuti
+    * lavoro individuale / in gruppo, 10–15 minuti
 
 * Argomento:
 
-    * [Data della ricerca "open"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Data della ricerca "aperti"](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche:
 
@@ -792,29 +792,29 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Un computer con collegamento ad internet per ogni partecipante (se necessario, anche in coppia)
 
-* Conoscenze propedeutiche richieste:
+* Conoscenze propedeutiche necessarie:
 
     * Conoscere la tipologia di dati che il loro lavoro di ricerca produce
 
     * Gli studenti della laurea triennale sono esclusi da questa esercitazione
 
-* Cose da tenere in mente
+* Noa bene
 
-    * Qualche partecipante potrebbe non trovare un archivio disciplinare, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
+    * Qualche partecipante potrebbe non trovare un archivio disciplinare per la sua materia, pertanto è utlie preparare un lista di archivi generici o archivi istituzionali da mostrare/ distribuire alla fine dell'esercizio
 
-* Come adattare per altre finalità
+* Adattamenti per finalità diverse
 
-    * E' possibile adattare questo esercizio all'Accesso Aperto utilizzando l'elenco alle riviste di Accesso Aperto [DOAJ[https://doaj.org](https://doaj.org)) website
+    * E' possibile adattare questo esercizio all'accesso aperto utilizzando l'elenco alle riviste in accesso aperto [DOAJ[https://doaj.org](https://doaj.org)) website
 
 ##### **Esempio 11: Di che cosa si ha bisogno per una pubblicazione di dati?**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
-    * Esercizio di gruppo, 5–10 minuti (a seconda del numero di partecipanti)
+    * Esercitazione di gruppo, 5–10 minuti (a seconda del numero di partecipanti)
 
 * Argomento:
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati della ricerca aperti](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche:
 
@@ -822,35 +822,35 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Descrizione dell'esercitazione:
 
-    * Questo esercizio dovrebbe essere programmato a conclusione della formazione. Chiedete ai partecipanti di giocare a "Sto preparando le mie valigie" durante il quale viene chiesto loro di elencare gli elementi necessari per una pubblicazione di dati (ad esempio dati di ricerca (files), metadati, parole chiave, documentazione, licenza, ORCID, archivio, un buon titolo, riferimenti bibliografici/fonti, citazione di dati, tempo, e coraggio!) 
+    * Questo esercizio dovrebbe essere programmato a conclusione della formazione. Chiedete ai partecipanti di giocare a "Sto preparando le mie valigie" durante il quale viene chiesto loro di elencare gli elementi necessari per una pubblicazione di dati (ad esempio dati di ricerca (files), metadati, parole chiave, documentazione, licenza, ORCID, archivio, un buon titolo, riferimenti bibliografici/fonti, citazione di dati, tempo e coraggio!) 
 
-* Materiali e strumenti necessari:
+* Materiali e strumenti richiesti:
 
     * Non è richiesto alcun materiale
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
-    * Ai partecipanti è richiesto di conoscere delle nozioni base sulla pubblicazione di dati 
+    * Ai partecipanti è richiesto avere una conoscenza di base su come si pubblicano i dati 
 
-* Cose da tenere in mente
+* Nota bene
 
     * Se i partecipanti si dimenticano di qualche elemento, fornitegli un aiuto o indicazioni utili 
 
     * Proponete solo all'ultimo l'elemento "coraggio"
 
-* Come adattare per altre finalità
+* Adattamenti per finalità diverse
 
     * Può essere adattato anche per il processo di pubblicazione ad accesso aperto
    
 ##### **Esempio 12: La creazione dei metadati**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
-    * da soli / in coppia, 5 minuti
+    * lavoro individuale / in coppia, 5 minuti
 
 * Argomento:
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati della ricerca aperti](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche
 
@@ -860,7 +860,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Chiedete ai partecipanti di selezionare un file a cui stanno lavorando e ponetegli la seguente domanda su un foglio di carta: Chi ha creato il contenuto? Qual'è il contenuto? Quando è stato creato il contenuto? Come è stato creato il contenuto? Perchè è stato creato il contenuto? Quindi discutete insieme quanto emerso dalle loro risposte. E' stato facile o difficile? Sono in grado di ripetere la stessa procedura per tutti i file del loro processo di ricerca?
 
-* Materiali e strumenti necessari:
+* Materiali e strumenti richiesti
 
     * Un foglio di carta (o un foglio predefinito) e una penna
 
@@ -868,25 +868,25 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Non sono richieste conoscenze a priori
 
-* Cose da tenere a mente
+* Nota bene
 
-    * Per accelerare l'esercitazione preparate un modulo e stampatelo o rendetelo disponibile online
+    * Per velocizzare l'esercitazione, preparate un modulo e stampatelo o rendetelo disponibile online
 
     * Per progetti più corposi con molti file mettete a disposizione un modello di dizionario dei dati
 
-* Come adattare per altre finalità:
+* Adattamenti per finalità diverse
 
     * Può essere adattato anche per un'esercitazione sulla documentazione
 
 ##### **Esempio 13: Prepararsi a condividere i software in maniera aperta**
 
-* Format, tempo richiesto 
+* Formato, durata
 
     * Lavoro individuale / a coppie, 20–30 minuti
 
 * Argomento
 
-    * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
+    * [Software e codici della ricerca aperti](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 
 * Finalità didattiche
 
@@ -898,39 +898,39 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Questa esercitazione è rivolta a tutti i ricercatori che useranno un software/codice per il loro lavoro di ricerca, sia che svolgano un lavoro puramente computazionale o sperimentale (quest'ultimo impiega il software per fare analisi, etc.). 
 
-    * In primo luogo, ai partecipanti verrà richiesto di registrarsi ad un [GitHub account](https://github.com/) nel caso in cui già non lo fossero. Questo account libero sarà sufficiente per la lavorare esclusivamente con codici aperti/pubblici, sebbene potete informarli che studenti, docenti e ricercatori possono richiederlo gratuitamente [request a waiver for a free professional account](https://education.github.com/).
+    * In primo luogo, ai partecipanti verrà richiesto di registrarsi ad un [GitHub account](https://github.com/) nel caso in cui già non lo avessero. Questo account libero sarà sufficiente per lavorare esclusivamente con codici aperti/pubblici, sebbene potete informarli che studenti, docenti e ricercatori possono richiederlo gratuitamente [request a waiver for a free professional account](https://education.github.com/).
 
-    * Oltre a ciò, fate in modo che i partecipanti si regitrino a [Zenodo account](https://zenodo.org/), e che colleghino questo con il loro account GitHub.
+    * Oltre a ciò, fate in modo che i partecipanti si registrino a [Zenodo account](https://zenodo.org/), e che colleghino questo con il loro account GitHub.
 
     * Successivamente fate in modo che tutti i partecipanti creino un nuovo archivio pubblico, scegliendo una licenza appropriata sulla base dei permessi desiderati (choosealicense.org can be helpful here). In Zenodo, azionae il [GitHub–Zenodo integration](https://guides.github.com/activities/citable-code/) per questo archivio.
 
-    * i partecipanti dovranno aggiungere il/i loro file sorgente all'archivio, e aggiungere una descrizione del programma/script al file README. Una volta che questi file sono stati aggiunti, scegliete un numero di versione e [create a release](https://help.github.com/articles/creating-releases/) del software.
+    * I partecipanti dovranno aggiungere il/i loro file sorgente all'archivio e aggiungere una descrizione del programma/script al file README. Una volta che questi file sono stati aggiunti, scegliete un numero di versione e [create una versione](https://help.github.com/articles/creating-releases/) del software.
 
     * Passate a Zenodo, e ottenete il DOI che è stato generato per il vostro software 
 
-    * Congratulazioni! Il vostro software adesso può essere citato! Potete aggiungere un sezione al file READMe con il DOI e la citazione suggerita, o aggiungere addirittura il badge DOI fornito da Zenodo.
+    * Congratulazioni! Il vostro software adesso può essere citato! Potete aggiungere una sezione al file READMe con il DOI e la citazione suggerita, o aggiungere addirittura il badge DOI fornito da Zenodo.
 
-* Materiali e strumenti necessari
+* Materiali e strumenti richiesti
 
     * Ogni partecipante deve essere provvisto di un computer con collegamento a internet
 
-    * I partecipanti dovrebbero avere un codice, script, o programma pronto anche se a puntino che vogliono condividere pubblicamente
+    * I partecipanti dovrebbero avere un codice, script, o programma pronto da voler condividere pubblicamente
 
-* Conoscenze propedeutiche richieste
-
-    * Nessuna
-
-* Cose da tenere a mente
+* Conoscenze propedeutiche necessarie
 
     * Nessuna
 
-* Come adattarlo per altre finalità
+* Nota bene
+
+    * Nessuna
+
+* Adattamenti per finalità diverse
 
     * Non può essere adattato
 
 ##### **Esempio 14: Stabilire un flusso di lavoro per l'analisi dei dati reproducibili**
 
-* Format, tempo necessario 
+* Formato, durata 
 
     * Lavoro individuale e in gruppo, 4–8 ore (esempio [QUI](http://reproducible-analysis-workshop.readthedocs.io))
 
@@ -948,137 +948,137 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Ad ogni partecipante viene chiesto di scegliere un set di dati e il corrispondente flusso di lavoro per l'analisi dei dati che hanno attinenza con il suo ambito di specializzazione. Sia il set dei dati sia il processo di analisi devono essere sufficientemente brevi da poter essere processati in pochi minuti. Inoltre, per le finalità di questo esercizio, il linguaggio di programmazione dovrebbe essere il Python o R ma altri linguaggi possono essere adattati con minime modifiche con gli strumenti sottostanti. 
 
-    * Ogni partecipanti esegue il processo inizialmente nella maniera tradizionale, quindi chiede ad un altro partecipante di eseguirll nuovamente senza alcun aiuto esterno. Prendete nota sia del tempo impiegato da un'altra persona per l'intera esecuzione sia degli ostacoli incontrati. 
+    * Ogni partecipante esegue il processo inizialmente nella maniera tradizionale, quindi chiede ad un altro partecipante di eseguirlo nuovamente senza alcun aiuto esterno. Prendete nota sia del tempo impiegato da un'altra persona per l'intera esecuzione sia degli ostacoli incontrati. 
     
     * Adottate lo stesso processo utilizzando l'approccio Jupyter / Git / MyBinder; scrivete il processo con Jupyter notebook, caricate il set di dati e il notebook in un archivio in GitHub, e poi collegate l'archivio a mybinder. Fatto ciò, chiedete alla stessa persona di eseguirlo nuovamente. Verificate le variazioni di durata e di accessibilità.
 
 * Materiali e strumenti richiesti 
 
-    * Jupyter e Git sono necessari (incluso un account a GitHub). A seconda del linguaggio, potrebbe essere necessario installare anche dei kernel Jupyter aggiuntivi. Infine, il formatore può decidere di fornire un esempio unico per tutti oppure chiedere ai partecipanti di portarne uno loro. La differenza sta nella durata richeista per la preparazione così come anche dall'uniformità dei background dei partecipanti. 
+    * Jupyter e Git sono necessari (incluso un account a GitHub). A seconda del linguaggio, potrebbe essere necessario installare anche dei kernel Jupyter aggiuntivi. Infine, il formatore può decidere di fornire un esempio unico per tutti oppure chiedere ai partecipanti di portarne uno loro. La differenza sta nella durata così come anche dall'uniformità dei background dei partecipanti. 
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * Il workshop può richiedere differenti livelli di conoscenze propedeutiche adattandosi per tempo. Ad esempio, si può includere una breve introduzione a Git ma in tutti i casi i partecipanti dovrebbero essere consapevoli dei requisiti computazionali per le loro analisi. 
 
-* Cose da tenere a mente
+* Nota bene
 
-    * Il concetto generale è immediato ma ha una curva di apprendimento delle singole componenti individuali. Per questo motivo potrebbe essere utile prendersi del tempo prima di cominciare per discutere ogni singolo strumento prima di connetterli tutti insieme. 
+    * Il concetto generale è immediato ma ha una curva di apprendimento delle singole componenti individuali. Per questo motivo potrebbe essere utile prendersi del tempo prima di cominciare a discutere ogni singolo strumento prima di connetterli tutti insieme. 
 
     * Riflettete sulla necessità di fornire ai partecipanti una spiegazione dettagliata sul processo di installazione (ad esempio, per Jupyter e Git), prima dell'evento, per ridurre al minimo qualsiasi possibile inconveniente tecnico.
 
-* Come adattare per altre finalità 
+* Adattamenti per finalità diverse 
 
-    * L'evento potrebbe essere esteso per introdurre altri concetti della Scienza Aperta, come identificativi persistenti per software (assegnando un DOI tramite Zenodo all'archicio Git), così come anche per integrare tutti gli aspetti in una piattaforma comune (come OSF).
+    * L'evento potrebbe essere ampliato per introdurre altri concetti della scienza aperta, come identificativi persistenti per software (assegnando un DOI tramite Zenodo all'archicio Git), così come anche per integrare tutti gli aspetti in una piattaforma comune (come OSF).
 
-##### **Esempio 15: Scegliete la versione giusta per l'archivio**
+##### **Esempio 15: Scegliete la versione corretta da archiviare**
 
-* Format, tempo necessario 
+* Formato, durata 
 
     * Lavoro individuale / in coppia, 15–20 minuti
 
 * Argomento
 
-    * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publicazioni
+    * [Accesso aperto alla ricerca pubblicata](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publicazioni
 
 * Finalità didattiche
 
-    * Essere in grado di decidere quale sia la versione permessa per essere archiviata in un archivio e identificare il tipo di diritto di autore
+    * Essere in grado di decidere quale versione possa legittimamente essere archiviata in un archivio e identificare il tipo di diritto di autore
 
 * Descrizione dell'esercitazione
 
-    * Questo esercizio potrebbe rivolgersi a chi gestisce gli archivi. Scegliete cinque pubblicazioni differenti e chiedete ai partecipanti di selezionare quale versione sarebbe ammissibile per quale archivio e quale notifica sul diritto di autore inlcuderebbero: chi detiene i diritti di autore e che tipo di diritti gli competono: tutti i diritti riservati, una licenza, dominio pubblico. Discutete insieme sulle loro conclusioni e mostrate loro gli elementi chiave che servono per definire la soluzione.
+    * Questo esercizio potrebbe rivolgersi a chi gestisce gli archivi. Scegliete cinque pubblicazioni differenti e chiedete ai partecipanti di selezionare quale versione sarebbe ammissibile per quale archivio e quale notifica sul diritto di autore includerebbero: chi detiene i diritti d'autore e che tipo di diritti gli spettano: tutti i diritti riservati, una licenza, dominio pubblico. Discutete insieme sulle loro conclusioni e mostrate loro gli elementi chiave che servono per definire la soluzione.
 
 * Materiali e strumenti richiesti
 
     * Per questo esercizio serve un foglio di carta (o un modulo prestampato) e una penna
 
-    * Lavoro individuale/ in coppia collegamento a internet per accedere ai documenti e alle check policies. In alternativa, potreste fornirgli delle copie cartacee degli articoli.
+    * Lavoro individuale/ in coppia collegamento a internet per accedere ai documenti e alle check policies. In alternativa, potreste fornire gli aritcoli in copia cartacea.
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
-    * Nozioni basiche sul diritto d'autore
+    * Nozioni di base sul diritto d'autore
 
-    * Conoscenza dell'esistenza di differenti versioni di un articolo di ricerca
+    * Essere a conoscenza che esistono differenti versioni di un articolo scientifico
 
-* Cose da tenere a mente
+* Nota bene
 
-    * L'esercizio può essere convertito in versione online se preparate un set di domande.
+    * L'esercizio può essere tradotto in versione online se preparate un set di domande.
 
     * Utilizzate una gamma di pubblicazioni ad esempio articoli pubblicati secondo dei modelli ibridi per dimostrare ai partecipanti che non è sufficiente consultare dei siti contenenti politiche di auto-archiviazione predefinite.
 
     * Il numero di casi determinerà la durata dell'esercizio.
 
-* Come adottare per altre finalità 
+* Adattamenti per finalità diverse 
 
     * Può essere adattato a sessioni formative durante le quali i ricercatori possono utilizzare i loro articoli.
 
 
 
-##### **Esempio 16: Open file formats**
+##### **Esempio 16: Formati di file aperti**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
-    * Esercizio di gruppo, 10–15 minuti
+    * Esercitazione di gruppo, 10–15 minuti
 
 * Argomento:
 
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+    * [Licenze e formati di file](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
 * Finalità didattiche:
 
-    * Acquisire conoscenza sui file formats usati quotidianamente e il loro livello di apertura
+    * Acquisire conoscenza sui formati di file usati quotidianamente e il loro livello di apertura
 
 * Descrizione dell'esercitazione:
 
-    * Let the participants write down on post-its all the file formats they use in their daily work. Then get the post-its and stick them to the whiteboard or flipchart. Try to cluster them as best as you can into categories or groups (text, tabular, statistical, video, image, etc.). Then discuss the results with the audience. Talk about the openness of these file formats and possible alternatives.
+    * Chiedete ai partecipanti di scrivere su un post-it tutti i formati di file che utilizzano quotidianamente per il loro lavoro. Quindi raccogliete i post-it e attaccateli su una lavagna bianca o a fogli mobili. Cercate quindi di raggrupparli in categorie o gruppi (formato testuale, tabulare, statistiche, video, immagini, etc.). Per finire discutete sui risultati con la platea in particolar modo sul grado di apertura di questi formati di file e su possibili alternative.  
 
 * Materiali e strumenti richiesti:
 
-    * Alcuni pacchetti di post-its, penne, una lavagna o una lavagna a fogli mobile
+    * Alcuni pacchetti di post-it, penne, una lavagna o una lavagna a fogli mobile
 
-* Conoscenze propedeutiche richieste:
+* Conoscenze propedeutiche necessarie
 
     * Non è necessario avere conoscenze specifiche a priori
 
-* Cose da tenere a mente:
+* Nota bene
 
-    * Preparatevi per dei formati di file "esotici" specifici di una disciplina o macchina-dipendente oppure lasciate che siano i partecipanti a descriverli.
+    * Preparatevi per dei formati di file "esotici" specifici di una disciplina o macchina-dipendenti oppure lasciate che siano i partecipanti a descriverli.
 
-* Come adattare ad altre finalità 
+* Adattamenti per finalità diverse 
 
-    * Potete usare anche strumenti web come [PINGO](http://trypingo.com) per la raccolta di formati di file oppure lasciate che siano loro a scrivere i loro formati di file su di un foglio di carta e raccogliete questi fogli se non volete usare i post-its
+    * Potete usare anche strumenti web come [PINGO](http://trypingo.com) per la raccolta di formati di file oppure lasciate che siano loro a scrivere i loro formati di file su di un foglio di carta e raccogliete questi fogli se non volete usare i post-it.
 
-##### **Esempio 17: Appaiare le Creative Commons**
+##### **Esempio 17: Combinare le licenze Creative Commons**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
     * Esercitazione di gruppo, 5–10 minuti
 
-* Argomento:
+* Argomento
 
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+    * [Licenze aperte e formati di file](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Finalità didattiche:
+* Finalità didattiche
 
-    * Essere in grado di differenziare tra le diverse licenze Creative Commons e di applicarle ai lavori. 
+    * Essere in grado di differenziare tra le diverse licenze Creative Commons e di applicarle correttamente ai lavori di ricerca. 
 
-* Descrizione dell'esercitazione:
+* Descrizione dell'esercitazione
 
-    * Ai partecipanti sarà chiesto di combinare due licenze. Il gruppo dovrà indovinare quale sia licenza che risulterà da questa combinazione. Ripetete l'esercizio utilizzando altre combinazioni. Prevedete anche un esempio di combinazione che non sarebbe possibile (ad esempio CC BY-SA e CC BY-NC) e evidenziate il trabocchetto. Discutete i risultati con gli altri partecipanti.
+    * Ai partecipanti sarà chiesto di combinare due licenze. Il gruppo dovrà indovinare quale licenza risulterà da questa combinazione. Ripeterete l'esercizio utilizzando altre combinazioni. Prevedete anche un esempio di combinazione impraticabile (ad esempio CC BY-SA e CC BY-NC) evidenziando il trabocchetto. Discutete i risultati con gli altri partecipanti.
 
-* Materiali e strumenti richiesti:
+* Materiali e strumenti richiesti
 
     * Computer con proiettore, lavagna, lavagna con fogli mobile, o dei fogli per tutti i partecipanti
 
-* Conoscenze propedeutiche richieste:
+* Conoscenze propedeutiche necessarie
 
     * I partecipanti dovrebbero conoscere tutte le licenze Creative Commons e/o avere a portata di mano uno schema da consultare
 
-* Cose da tenere a mente:
+* Nota bene
 
-    * Lasciate passare più di tre secondi prima di rispondere. Servirà per permettere ai partecipanti di riflettere più a lungo e riuscierete a includere anche i partecipanti più deboli. 
+    * Lasciate passare più di tre secondi prima di rispondere. Servirà per permettere ai partecipanti di riflettere più a lungo e riuscirete a includere anche i partecipanti che fanno più fatica. 
 
-* Come adattare per altre finalità:
+* Adattamenti per finalità diverse
 
     * Costituite delle coppie e fate in modo che risolvano la combinazione insieme, quindi discuterete la soluzione all'interno del gruppo.
     
