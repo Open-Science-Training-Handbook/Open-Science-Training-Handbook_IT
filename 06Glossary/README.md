@@ -25,9 +25,9 @@
 
 * Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
 
-**Copyright**
+**Diritto d'autore**
 
-* The aspect of Intellectual property that grants creators the right to permit (or not permit) the reproduction of their creations. It is distinct from trademark rights or moral rights.
+* Quell´aspetto della proprietà intellettuale che garantisce agli autori il diritto di permettere (o non permettere) la riproduzione delle loro opere. Si distingue dal diritto sul marchio o dai diritti morali d´autore.
 
 **Creative Commons**
 
