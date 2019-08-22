@@ -1084,17 +1084,17 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
     
     * Uso di altre licenze
 
-##### **Esemmpio 18: OER Remix**
+##### **Esemmpio 18: remix di risorse per l'apprendimento e l'insegnamento aperte**
 
-* Format, tempo richiesto: 
+* Formato, durata 
 
-    * Esercitazione d gruppo, 10–15 minuti
+    * Esercitazione di gruppo, 10–15 minuti
 
 * Argomento:
 
-    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+    * [Licenze aperte e formati di file](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-    * [Open Educational Resources](/02OpenScienceBasics/11OpenEducationalResources.md)
+    * [Risorse per l'apprendimento e l'insegnamento aperte](/02OpenScienceBasics/11OpenEducationalResources.md)
 
 * Finalità didattiche:
 
@@ -1106,81 +1106,81 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Questa è una [versione online](http://www.opencontent.org/game/) e una [versione cartacea](http://www.opencontent.org/game/print/)
 
-    * There is a set of cards marked with a type of content: text, image, music, and video, and each card carries a copyright sign that ranges from all rights reserved to public domain including the set of Creative Commons licenses and the GNU Free Documentation License.
+    * C'è un mazzo di carte con una tipologia di contenuto: testo, immagine, musica e video. Ogni carta è contrassegnata da un simbolo di diritto d'autore che comprende tutti i diritti riservati al dominio pubblico incluse le licenze creative commons e la licenza GNU per la distribuzione di software e materiale didattico.
 
     * Una persona del gruppo prende 12 cartoncini e il resto del gruppo deve combinarle costruendo un materiale con quattro tipi di contenuti: testo, immagine, musica e video. Una volta che hanno scelto la combinazione giusta devono decidere quale sia la possibile licenza per questo nuovo lavoro.  
 
-* Materiali e strumenti necessari:
+* Materiali e strumenti richiesti
 
-    * Per un gioco online: computer videoproiettore
+    * Gioco online: computer videoproiettore
 
-    * Per un gioco cartaceo: il set di cartoncini è disponibile [opencontent.org](http://www.opencontent.org/game/print/) oppure potete creare voi stessi il vostro set di cartoncini 
+    * Gioco cartaceo: il set di cartoncini è disponibile [opencontent.org](http://www.opencontent.org/game/print/) oppure potete creare voi stessi il vostro set di cartoncini 
 
-* Conoscenze propedeutiche richieste:
+* Conoscenze propedeutiche necessarie
 
-    * I partecipanti dovrebbero conoscere gli elementi distintivi delle licenze Creative e avere nozioni di base sul diritto d'autore inclusa la nozione di permesso d'autore
+    * I partecipanti dovrebbero conoscere gli elementi che distinguono le licenze Creative Commons e avere nozioni di base sul diritto d'autore inclusa la nozione di permesso d'autore
 
-* Cose da tenere a mente:
+* NOta bene
 
-    * Se vi servite della versione online potrete eseguire l'esercizio con tutta la vostra platea permettendo un numero di risposte possibile multiplo.
+    * Se vi servite della versione online potrete eseguire l'esercizio con tutta la vostra platea permettendo un numero multiplo di risposte possibili.
 
-* Come adattare per altre finalità:
+* Adattamenti per finalità diverse
 
     * Potete adattarlo ad elementi della ricerca, ad esempio al software licensing
 
     * Potete usare altre licenze, inserire nuove tipologie di contenuti o definire quale contenuti dovrebbe raccogliere il lavoro finale
 
-##### **Esempio 19: Revisione aperta tra pari - revisione aperta dei testi da parte dei partecipanti**
+##### **Esempio 19: Revisione tra pari aperta - i partecipanti rivedono pubblicamente i testi degli altri**
 
-* Format, tempo necessario
+* Formato, durata
 
     * Piccoli gruppi, 90 minuti
 
 * Argomento
 
-    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+    * [Revisione tra pari aperta, metrica e valutazione](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
 * Finalità didattiche
 
     * Esercitazioni pratiche su come scrivere delle revisioni in maniera costruttiva
 
-    * Riflessione critica sugli svantaggi e gli vantaggi della revisione aperta tra pari
+    * Riflessione critica sugli svantaggi e gli vantaggi della revisione tra pari aperta
 
 * Descrizione dell'esercitazione
 
-    * I partecipanti lavorano in gruppi di tre. Ogni partecipanti scrive un breve testo (~300 parole) su cosa pensa della revisione aperta tra pari basandosi su quanto è stato discusso nel corso del workshop. Passano quindi il testo alla persona sulla loro sinistra che deve scrivere una breve revisione sul testo ricevuto. Il testo e la revisione vengono consegnate They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
-
-* Materiale e strumenti necessari
+    * I partecipanti lavorano in gruppi di tre. Ad ogni partecipante viene chiesto di scrivere un breve testo (~300 parole) su cosa pensa della revisione aperta tra pari basandosi su quanto emerso durante la discussione nel corso del workshop. Il testo viene quindi consegnato alla persona alla sinistra che a sua volta deve scrivere una breve revisione sul testo ricevuto. Il testo e la revisione vengono consegnate alla persona seduta alla loro sinistra in modo che tutti abbiano un testo e una revisione scritta da qualcun altro. Questa persona dovrà quindi fornire il suo parere sulla revisione (se è stata scritta in maniera costruttiva, critica, in che cosa potrebbe essere migliorata, etc.). Il gruppo legge infine tutti i testi e discute su come l'entità aperta, le relazioni di revisione aperte abbiano influenzato il modo in cui hanno scritto le loro revisioni e riflette sui riscontri critici ricevuti dagli altri.  
+    
+* Materiale e strumenti richiesti
 
     * Carta e penna
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * Nessuna. Per la stesura dei testi è opportuno però avere seguito i corsi precedenti.
 
-* Cose da tenre a mente
+* Nota bene
 
-    * Questo esercizio prevede che i participanti esprimano in maniera critica la propria opinione riguardo il lavoro svolto da altri; alcune persone potrebbero non sentirsi a proprio agio nel farlo o viceversa qualche persone potrebbe non accettare serenamente queste critiche. Nel caso questo dovesse succedere, è bene incoraggiare i partecipanti a parlarne nel corso della sessione finale.
+    * Questo esercizio prevede che i participanti esprimano in maniera critica la propria opinione riguardo il lavoro svolto da altri; alcune persone potrebbero non sentirsi a proprio agio nel farlo o viceversa qualche persone potrebbe non accettare serenamente le critiche che gli sono rivolte. Nel caso questo dovesse succedere, è bene incoraggiare i partecipanti a parlarne nel corso della sessione finale.
 
-* Come adattare per altre finalità 
+* Adattamenti per finalità diverse 
 
-    * Questo esempio è stato utilizzato per un evento formativo con un ampio spettro didattico rispetto a quello della revisione tra pari parte, può essere utilizzato anche per consolidare le conoscenze acquisite anche altre tematiche relative alla scienza aperta chiedendo ai partecipanti di redigere un testo su questi altri argomenti.
+    * Questa esercitazione può essere fatta in occasione di un evento formativo più ampio e non ristretto al solo aspetto della revisione tra pari; può essere fatta anche per consolidare le conoscenze acquisite in altre tematiche relative alla scienza aperta richiedendo ai partecipanti di scrivere il testo su questi altri argomenti.
 
     * Al posto di carta e penna, questo esercizio si può fare anche utlizzando uno strumento di scrittura collaborativo, come Google Docs, Authorea oppure Overleaf/ShareLaTeX. 
 
-##### **Esempio 20: Revisione tra pari aperta - le tue due lire**
+##### **Esempio 20: Revisione tra pari aperta - il vostri 2 centesimi di contributo**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
-    * Sessione plenaria, ~1.5 ore con discussione
+    * Sessione plenaria, ~1 ora e 30 min. con discussione
 
 * Argomento
 
-    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+    * [Revisione tra pari aperta, metrica e valutazione](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
 * Finalità didattiche 
 
-    * Prendere atto che la revisione tra pari aperta ha molte sfaccettature e imparare tutte le diverse sfaccettature della revisione tar pari aperta
+    * Prendere atto che la revisione tra pari aperta ha molte sfaccettature e imparare tutte le diverse sfaccettature della revisione tra pari aperta
 
     * Farsi un'opinione su quali aspetti della revisione tra pari aperta porti i maggiori vantaggi e benefici alla scienza   
 
@@ -1190,45 +1190,45 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Raccontare quali sono i diversi aspetti della revisione tra pari, inclusi alcuni esempi da giornali/piattaforme dove vengono messi in pratica
 
-    * Ai partecipanti viene chiesto di identificare due/tre aspetti della revisione tra pari aperta che secondo loro potrebbero contribuire maggiormente alla scienza aperta.
+    * Ai partecipanti viene chiesto di identificare due/tre aspetti della revisione tra pari aperta che secondo loro potrebbero contribuire maggiormente alla scienza aperta
 
     * Su un foglio prestampato di grandi dimensioni, i partecipanti posizionano una moneta da 2 centesimi su tutti gli aspetti che hanno scelto nella fase precedente
 
     * Tutti i partecipanti prendono visione dei risultati e identificano gli aspetti che hanno ricevuto il maggior numero di preferenze
 
-    * Vengono formati dei piccoli gruppi all'interno dei quali vengono assegnati ai singoli partecipanti diversi ruoli tra cui quello di lettore, autore o revisore (in tutti i gruppi devono essere presenti tutti e tre questi ruoli). Questi poi discutono uno degli aspetti della revisione tra pari aperta dal punto di vista del ruolo che gli è stato assegnato. Quali sono i benefici e i possibili svantaggi?
+    * Vengono formati dei piccoli gruppi all'interno dei quali ai singoli partecipanti vengono assegnati ruoli diversi tra cui quello di lettore, autore o revisore (in tutti i gruppi devono essere presenti tutti e tre questi ruoli). Questi poi discutono uno degli aspetti della revisione tra pari aperta dal punto di vista del ruolo che gli è stato assegnato. Quali sono i benefici e i possibili svantaggi?
     
-    * In gruppi piccoli poi in sessione plenaria dove si possono discutere altri punti di vista/prospettive 
+    * In gruppi piccoli, poi in sessione plenaria dove si possono discutere altri punti di vista/prospettive 
 
 ![image alt text](/Images/image_13.png)
 
-* Materiali e strumenti necessari
+* Materiali e strumenti richiesti
 
-    * Pannello di grande dimensioni [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): uno per ogni partecipante e uno in comune  ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
+    * Pannello di grande dimensioni [dimensione della revisione tra pari](https://doi.org/10.6084/m9.figshare.4210293): uno per ogni partecipante e uno in comune  ([presentazione con dispositive animate](https://doi.org/10.6084/m9.figshare.4210254) also available)
 
-    * Monete da due centesimi (se esiste nel vostro sistema monetario altrimenti può essere usato qualsiasi altra moneta di valore minimo)
+    * Monete da due centesimi (se esiste nel vostro sistema monetario altrimenti può essere usato qualsiasi altra moneta di poco valore)
 
 ![image alt text](/Images/image_14.png)
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * Nessuna, può essere utile qualche conoscenza del processo tradizionale di revisione tra pari aperta
 
-* Cose da tenere in mente
+* Nota bene
 
-    * Per persone che non conoscono gli ultiimi sviluppi delle procedure di revisione tra pari aperta, potrebbe essere necessario pianificare un lasso di tempo necessario per fornire delle spiegazioni a tale proposito
+    * Per quei partecipanti che non sono al corrente degli ultimi sviluppi delle procedure di revisione tra pari aperta, potrebbe essere utile prevedere un periodo di tempo per fornire delle spiegazioni a tale proposito
 
-    * Nel corso della dibattito, potrebbe risultare difficile tenere distinte le opinioni personali dalle opinioni legate al ruolo assegnato. Sollecitate e ricordate a queste persone, laddove necessario, di attenersi a ciò che comporta ai loro ruoli.
+    * Nel corso della dibattito, potrebbe risultare difficile tenere distinte le opinioni personali dalle opinioni legate al ruolo assegnato. Sollecitate e ricordate a queste persone, laddove necessario, di attenersi a ciò che comporta il loro ruolo.
 
     * il numero di monetine necessarie dipende dal numero dei partecipanti (ad esempio tre per i gruppi più piccoli, due per i gruppi più numerosi)
 
-* Come adattarlo per altre finalità
+* Adattamenti per finalità diverse
 
-    * L'idea di votare con le monetine ("due lire") si può applicare ad altri argomenti; si può altresì decidere di assegnare dei ruoli nei gruppi di discussione di dimensioni ridotte.
+    * L'idea di votare con le monetine ("due centesimi") si può applicare ad altri argomenti; si può altresì decidere di assegnare dei ruoli nei gruppi di discussione di dimensioni ridotte.
 
-##### **Esempio 21: Prendere posizione** 
+##### **Esempio 21: Prendere una posizione** 
 
-* Format, tempo richiesto
+* Formato, durata
 
     * In sessione plenaria, 15 minuti 
 
@@ -1238,9 +1238,9 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Finalità didattiche 
 
-    * Chiedete ai partecipanti di prendere posizione sulle politiche o i principi della scienza aperta
+    * Chiedere ai partecipanti di prendere posizione sulle politiche o i principi della scienza aperta
 
-    * Mettete in risalto opinioni similari o diverse tra i diversi partecipanti 
+    * Mettere in risalto opinioni similari o diverse tra i diversi partecipanti 
 
 * Descrizione dell'esercitazione
 
@@ -1250,53 +1250,53 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Ai partecipanti viene chiesto di votare attraverso uno strumento online, oppure posizionando dei pallini adesivi su un foglio di carta con delle linee che rappresentano i due intervalli di risposta
 
-    * I risultati sono condivisi con il resto del gruppo, e discusse similitudini e divergenze tra le domande, ad esempio, chiedendo ad ogni rappresentante dei due frangenti di spiegare la loro opinione. 
+    * I risultati sono condivisi con il resto del gruppo, e discusse similitudini e divergenze tra le domande, ad esempio, chiedendo ad ogni rappresentante dei due schieramenti di spiegare la loro opinione. 
 
     * Esempi di domande e risultati:
 
-        1. La scienza aperta è di per sè un vantaggio o uno svantaggio per un ricercatore?
+        1. Di per sè la scienza aperta è un vantaggio o uno svantaggio per un ricercatore?
 
-        2. La scienza aperta è meglio che sia un movimento dal basso verso l'alto o dall'alto verso il basso?
+        2. E' meglio che la scienza aperta sia un movimento dalla base verso l'alto o dall'alto verso la base?
 
 ![image alt text](/Images/image_15.png)
 
 * Materiale e strumenti richiesti
 
-    * Accesso ad un Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
+    * Accesso ad uno strumento online come [Mentimeter](https://www.mentimeter.com/); un account a pagamento permette di esportare i risultati ma non è richiesto da questo esercizio
 
-    * Per tutti i participanti, disponibilità di uno smartphone, tablet, o computer con collegamento a internet
+    * Per tutti i participanti, disponibilità di uno smartphone, tablet o computer con collegamento a internet
 
     * Qualora si preferisse lavorare offline un grande foglio di carta con delle assi stampate o disegnate, punti adesivi
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
-    * Nessuna; potrebbe essere utile avere una conoscenza di base sugli argomenti per formarsi un'opinione informata piuttosto che basarsi sulle proprie sensazioni (sebbene sia utile registrare anche quest'ultime)
+    * Nessuna; potrebbe essere utile avere una conoscenza di base degli argomenti per formarsi un'opinione informata piuttosto che basarsi sulle proprie sensazioni (sebbene sia utile tener conto anche quest'ultime)
 
-* Cose da tenere a mente
+* Nota bene
 
     * Se si opta per la versione cartacea, suggeriamo di procedere chiedendo ai partecipanti di scrivere le loro risposte individualmente prima di collocare i punti adesivi nella mappa. In questo modo si previene la pressione/le critiche degli altri partecipanti.
 
-* Coem adattare per altre finalità
+* Adattamenti per finalità diverse
 
     * Questo esercizio si adatta facilmente ad altri argomenti e tematiche
 
-    * Uno strumento online alternativo (he è anche ad accesso aperto) per questo tipo di esercitazioni è SimpleVote ([https://simplevote.ml](https://simplevote.ml))
+    * Uno strumento online alternativo (che oltretutto è anche ad accesso aperto) per questo tipo di esercitazioni è SimpleVote ([https://simplevote.ml](https://simplevote.ml))
 
-    * Se la platea è eterogenea (ad esempio: ricercatori, uffici a supporto della ricerca, analisti politici) è consigliabile procedere distinguendo tra i diversi gruppi ad esempio creando delle domande distinte per ognuno di questi (in Mentimeter), oppure utlizzando adesivi di diverso colore (nella versione cartacea)
+    * Se la platea è eterogenea (ad esempio: ricercatori, uffici a supporto della ricerca, analisti politici) è consigliabile procedere distinguendo tra i diversi gruppi  creando ad esempio delle domande distinte per ognuno di questi (in Mentimeter), oppure utlizzando adesivi di colore diverso (nella versione cartacea)
 
-    * PEr gli adesivi di forma rotonda, optate per una combinazione di colori per chi soffre di daltonismo
+    * Per gli adesivi di forma rotonda, optate per una combinazione di colori che non pregiudichi la partecipazione di chi soffre di daltonismo
 
-##### **Esempio 22: Spiegazioni in Plain language explanations** - in via di definizione
+##### **Esempio 22: Spiegazioni in linguaggio semplice** - in fieri
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * In piccoli gruppi, 2–3 ore
 
 * Argomento 
 
-    * [Citizen Science](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
+    * [Scienza partecipativa](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 
-    * [Collaborative Platforms](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+    * [Piattaforme collaborative](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
 
 * Finalità didattiche 
 
@@ -1304,71 +1304,71 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Materiale e strumentazione richiesta
 
-* Competenze propedeutiche richieste
+* Competenze propedeutiche necessarie
 
-* Cose da tenere a mente
+* NOta bene
 
-* Come adattare ad altre finalità
+* Adattamenti per finalità diverse
 
-##### **Esempio 23: L'avvocato del Diavolo - ovvero convincere gli scettici**
+##### **Esempio 23: L'avvocato del Diavolo - ovvero come convincere gli scettici**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * In piccoli gruppi, 30 minuti
 
 * Argomento
 
-    * [Open Advocacy](/02OpenScienceBasics/12OpenAdvocacy.md)
+    * [Advocacy aperta](/02OpenScienceBasics/12OpenAdvocacy.md)
 
 * Finalità didattiche
 
-    * Formulare argomentazioni contro le più comuni obiezioni alle pratiche di scienza aperta
+    * Formulare argomentazioni contro le più comuni obiezioni alle pratiche della scienza aperta
 
-    * Discussione pratica con persone che non condividono i valori e la rilevanza della scienza aperta
+    * Discussione pratica con persone che non condividono i valori e l'importanza della scienza aperta
 
 * Descrizione dell'esercitazione 
 
-    * Suddivisi in piccoli gruppi di tre o quattro persone, assegnate ad una o due persone il ruolo dello scettico nei confronti della scienza aperta e il ruolo di avvocati del diavolo della Scienza aperta. 
+    * Suddivisi in piccoli gruppi di tre o quattro persone, assegnate ad una o due persone il ruolo di scettico della scienza aperta e il ruolo di avvocati del diavolo della scienza aperta. 
 
-    * Chiedete all'"avvocato del diavolo" di convincere gli "sciettici della scienza aperta”
+    * Chiedete all'"avvocato del diavolo" di convincere gli "scettici della scienza aperta”
 
     * Dopo 10 minuti, scambiate i ruoli e riprendete la discussione (senza ripetere gli stessi argomenti)
 
     * Dopo i primi due cicli, radunate tutti i gruppetti in plenaria e condividete l'esperienza fatta. Quale è risultato essere l'argomento più difficile da confutare? Quale argomentazione è riuscita a convincere maggiormente gli scettici? Secondo i partecipanti queste argomentazioni potrebbero essere utili in situazioni reali?
 
-* Materiale e strumenti necessari
+* Materiale e strumenti richiesti
 
-    * niente in particolare; l'aula dovrebbe essere scelta in base alla possibilità di collocare i gruppi in maniera distanziata nell'aula 
+    * Nulla di specifico; l'aula dovrebbe essere scelta in base alla possibilità di collocare i gruppi distanti gli uni dagli altri nell'aula 
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
     * Dimestichezza con i concetti della scienza aperta
 
-* Cosa da tenere in mente
+* Nota bene
 
     * Incoraggiate gli scettici della scienza aperta ad entrare nel loro ruolo il più possibile. Capita spesso che le persone si divertano molto in questo ruolo!
 
     * Fate in modo di dare a tutti la possibilità di ricoprire entrambi i due ruoli e di incorporare entrambe le due prospettive. 
 
-* Come adattare per altre finalità 
+* Adattabilità per finalità diverse 
 
-    * Questo esercizion potrebbe essere focalizzato su altri specifici aspetti della scienza aperta
+    * Questo esercizio potrebbe riguardare altri specifici aspetti della scienza aperta
 
-##### **Esempio 24: Set up OSF project & link to other platforms - in via di costruzione**
+##### **Esempio 24: Predisposizione di un progetto di piattaforma unica aperta (OSP) e collegamento ad altre piattaforme - in fieri**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * Lavoro individuale o in coppia 
 
 * Argomento 
 
-    * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali della ricerca aperti](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche  
 
 * Descrizione dell'esercizio
 
-   * Create un ambiente OSF collaborativo dai dati alla pubblicazione
+   * Creazione di un ambiente OSF collaborativo a partire dai dati fino alla pubblicazione
    
       * Connetti il tuo progetto OSF a GitHub
 
@@ -1380,56 +1380,57 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 * Conoscenze propedeutiche necessarie
 
-* Cose da tenere in mente
+* Nota bene
 
-* Come adattare per altre finalità 
+* Adattabilità per finalitià diverse 
 
 
-##### **Esempio 25: La trappola The publishing trap - in via di costruzione**
+##### **Esempio 25: La trappola della pubblicazione - in fieri**
 
-* Format, tempo richiesto 
+* Formato, durata 
 
     * Esercitazione in piccoli gruppi, 2 ore
 
 * Argomenti  
 
-    * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+    * [Accesso aperto ai risultati della ricerca pubblicati](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
 * Finalità didattiche 
-   * "Il gioco permette di esplorare l'impatto della comunicazione accademica e di discutere il ruolo della scienza aperta nel settore della ricerca seguendo le vite di quattro ricercatori dalla ricerca dottorale alla loro eredità accademica." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+
+   * "Il gioco permette di esplorare l'impatto della comunicazione accademica e di discutere il ruolo della scienza aperta nell'ambito della ricerca seguendo le vite di quattro ricercatori a partire dalla loro esperienza da dottorandi fino alla loro eredità accademica." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
 * Descrizione dell'esercizio
 
-   * "Si gioca in gruppi da quattro / massimo cinque persone – seduti attorno al gioco da tavolo e consultando la guida del gioco per leggere le istruzioni su come il gruppo debba prendere le decisioni. Il capo-gruppo deve comportarsi da ospite e presenta ai gruppi i diversi scenari durante ogni giro. Ogni giro prevedere tre decisioni relativamente ad altrettante ree decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   * "Si gioca in gruppi da quattro / massimo cinque persone – seduti attorno al gioco da tavolo e consultando la guida del gioco per leggere le istruzioni su come il gruppo debba prendere le decisioni. Il capo-gruppo deve comportarsi da ospite e presenta ai gruppi i diversi scenari durante ogni giro. Ogni giro prevedere tre decisioni relativamente ad altrettante tre decisioni in merito alle opzioni di pubblicazione. Dopo aver ascoltato la descrizione dello scenario, ogni gruppo sceglie tra le opzioni pre-determinate. Alla fine di ogni giro, le squadre disutuno sulla decisione che hanno preso e devono giustificare il perchè delle loro scelte." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
    
-* Materiali e strumenti necessari
+* Materiali e strumenti richiesti
 
-   * Un lavagna, carte, blocknotes, punti e altri oggetti devono essere scaricati, stampati e ritagliati. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+   * Un lavagna, carte, blocknotes, punti e altri oggetti devono essere scaricati, stampati e ritagliati. E' in programma di avere anche un gioco professionale da acquistare. I materiali sono disponibili a questo sito: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
    * Il gioco della trappola è particolarmente indicato per i giovani ricercatori e accademici e comunque anche a tutti coloro che sono interessati a capire come si accede all'informazione e come il sistema della comunicazione accademica a livello universitario funziona. [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
-* Cose da tenere a mente
+* NOta bene
    
    * Laddove necessario, animare la discussione durante il gioco
    
-* Come adattare per altre finalità 
+* Adattamenenti per finalità diverse 
 
 * Licenze 
    
    * Alla versione originale del gioco è stata attribuita una licenza CC attribuzione-Non commerciale-non opere derivate 4.0
    
    
-##### **Esempio 26: - in costruzione**
+##### **Esempio 26: - in fieri**
 
-* Format, tempo richiesto  
+* Formato, durata  
 
     * in piccoli gruppi, 4 giorni (5 ore/giorno)
 
 * Argomento 
 
-    * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Dati e materiali di ricerca aperti](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Finalità didattiche  
    
@@ -1438,74 +1439,74 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 * Descrizione dell'esercizio
 
 1. Conoscenza degli archivi e delle licenze
-2. data assessment: types, sum, sensitivity
-3. setting up a research data management plan using DMPtool
-4. setting up an OSF repository
-5. using Git for version control
-6. integrating GitHub, Google Drive, and other services to OSF project 
-7. using R, R Studio, and R Markdown to create a reproducible research
-8. exercise in creating a citizen science project 
+2. Valutazione dei dati: tipo, sensibilità, quantità
+3. predisporre un piano di gestione dei dati utilizzando DMPtool
+4. predisporre una piattaforma unica OSF
+5. impiego di Git per il controllo delle versioni
+6. integrare GitHub, Google Drive, e altri servizi nella piattaforma OSF 
+7. impiego di R, R Studio, e R Markdown per creare ricerca riprodubile
+8. esercizio per la creazione di un progetto di scienza partecipativa 
 
-* Materiali e strumenti necessari
+* Materiali e strumenti richiesti 
 
-   * Registrazione in: ORCID, OSF, GitHub e DMPTool
-   * Downloading and installing: Git, R, and R Studio
+   * Registrazione in ORCID, OSF, GitHub e DMPTool
+   * Installazione di Git, R e R Studio
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
    * Conoscenze basiche di R, R Studio e Git potrebbero costituire un vantaggio
    
-* Cose da tenere in mente
+* Nota bene
 
-   * Il formatore potrebbe riscontrare la necessità di dedicare un po' più di tempo per spiegare il concetto di dati aperti e le motivazioni per le quali i ricercatori dovrebbero fare uso. La maggior parte di questo dibattito ha luogo in questa fase preliminare.
+   * Il formatore potrebbe riscontrare la necessità di dedicare un po' più di tempo alla spiegazione del concetto di dati aperti e per fornire le motivazioni per le quali i ricercatori dovrebbero rendere i loro dati aperti. La maggior parte di questo dibattito ha luogo in questa fase preliminare.
 
-* Adattare per altre finalità 
+* Adattamenti per finalità diverse 
 
-   * Questa esercitazione è stata pensata in special modo per le scienze geo-spaziali ma per una gran parte può essere adattata a tutte le science inclusi i progetti di citizen science.
+   * Questa esercitazione è stata pensata in special modo per le scienze geo-spaziali ma per gran parte può essere adattata a tutte le science inclusi i progetti di scienza partecipativa.
    
  * Condizioni di licenza
  
    * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
 
-##### **Esempio 27: un gioco di carte per formare-il-formatore della Scienza Aperta**
+##### **Esempio 27: Gioco da tavolo "Forma il formatore" della scienza Aperta**
 
-* Format, tempo necessario  
+* Formato, durata  
 
     * piccoli gruppi, 2 ore
 
 * Argomento 
 
-    * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+    * [Advocacy aperta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
 * Finalità didattiche  
 
-   * Questo gioco può essere scelto dai formatori impegnati in workshop per formare-dei-formatori. I partecipanti dovranno impostare un progetto di formazione vero -che gli servirà per la loro attività di formatori in una fase successiva-  su uno o più argomenti a loro scelta. Questo gioco di carte permette ai partecipanti di poter pre-selezionare il tipo di platea, il numero dei partecipanti, il itpo di formazione e il livello di preparazione della platea. Si possono inoltre aggiungere due circostanze "imprevvedibili": l'umore della platea e "complicazione" (uh-oh!).  A parte il fatto di portarsi a casa un progetto di formazione ben che fatto la platea che partecuiperà a questa attività potrà trarre profitto dai commenti e rilievi nonchè dall'esperienza di tutti gli altri partecipanti.   
+   * Questo gioco può essere scelto dai formatori impegnati in workshop per formare-dei-formatori. I partecipanti dovranno predisporre un progetto di formazione vero e proprio -che potrebbe servirgli per la loro attività di formatori successivamente- su uno o più argomenti a loro scelta. Questo gioco di carte permette ai partecipanti di poter pre-selezionare il tipo di platea, il numero dei partecipanti, il tipo di formazione e il livello di preparazione della platea. Si possono inoltre aggiungere due circostanze "imprevvedibili": l'umore della platea e "complicazione" (uh-oh!).  A parte il fatto di portarsi a casa un progetto di formazione bel che fatto la platea che parteciperà a questa attività potrà trarre profitto dai commenti e rilievi nonchè dall'esperienza di tutti gli altri partecipanti.   
 
 * Descrizione dell'esercitazione 
 
    * ISTRUZIONI: 
-      * Ad ogni gruppo è richiesto di alzare una carta (coperta) per stabilire: il tipo di platea, il numero dei partecipanti, il livello di preparazione preopedeutico e il tipo di formazione. Può accadere che dalle singole carte prescelte si configuri una constellazione impraticabile o che non corrisponda agli interessi del gruppo. In questo caso può essere utile concedere una certa flessibilità e consentire ai partecipanti di cambiare le loro carte o di scambiarsele con un altro gruppo. Nella maggior parte dei casi, ci può essere una carta vuota o un'altra carta che permette di modificare il gioco a seconda dei propri bisogni. 
+      * Ad ogni gruppo è richiesto di alzare una carta (coperta) per stabilire: il tipo di platea, il numero dei partecipanti, il livello di preparazione propedeutico e il tipo di formazione. Può accadere che dalle singole carte prescelte si configuri una constellazione impraticabile o che non corrisponda agli interessi del gruppo. In questo caso può essere utile concedere una certa flessibilità e consentire ai partecipanti di cambiare le loro carte o di scambiarsele con un altro gruppo. Nella maggior parte dei casi, ci può essere una carta vuota o un'altra carta che permette di modificare il gioco a seconda dei propri bisogni. 
       * Distribuire le pagine personali: ognuno dei componenti del gruppo deve creare una persona in base alle condizioni poste dalle carte (non superare i 15 minuti). 
       * Il gruppo ha a disposizione 1 ora e mezza per preparare l'attività di formazione in base alle condizioni stabilite dalle carte tenendo ben presente i destinatari della formazione con l'aiuto delle pagine per persona create. 
-      * Ogni gruppo deve presentare la sua attività di formazione (ben intenso che non gli viene richiesto di simulare la formazione devono semplicemente descrivere quello che faranno!). Agli altri gruppi verrà chiesto di commentare e di criticare il progetto descritto: L'attività di formazione che è stata descritta è coerente con le condizioni poste dalle carte? Che cosa fareste voi di diverso? Ci sono esperienze in tal senso che hanno vissuto e che possono condividere?
+      * Ogni gruppo deve presentare la sua attività di formazione (ben intenso che non gli viene richiesto di simulare la formazione devono semplicemente descrivere quello che faranno!). Agli altri gruppi verrà chiesto di commentare e di criticare il progetto descritto: L'attività di formazione che è stata descritta è coerente con le condizioni poste dalle carte? Che cosa fareste voi di diverso? Ci sono esperienze in tal senso che si sono già sperimentate e che possono condividere?
       * Sfida extra: Come reagirebbero i singoli gruppi se messi di fronte a circostanze imprevvedibili/inaspettate durante la formazione? Poco prima della loro presentazione, ogni gruppo alza una carta (coperta) 'umore della platea' e una carta 'complicazione" e la consegna al moderatore, che durante la presentazione o dopo ne discuterà con l'intero gruppo – permettendo in questo modo alla platea di imparare dall'esperienza dei loro colleghi. 
 
-* Materiali e strumenti necessari 
+* Materiali e strumenti richiesti 
 
    * https://www.fosteropenscience.eu/node/2570
    
    * E' possibile scaricare i documenti in formato pdf e png cliccando su questo link a un dropbox pubblico: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
 
-* Conoscenze propedeutiche richieste
+* Conoscenze propedeutiche necessarie
 
    * Ai participanti si richiede di avere sufficienti conoscenze dell'argomento/argomenti intorno ai quali andranno a costruire la loro attività di formazione 
 
-* Cose da tenere in mente 
+* Nota bene 
 
-   * E' essenziale rispettare i tempi di attuazione; stabilite il limite di durata in cui i partecipanti dovranno lavorare sulla persona e alla predisposizione dell'attività di formazione. Fate in modo che sia ben chiaro che la presentazione deve descrivere tutte le componenti della formazione che hanno progettato, e che non ciò che gli viene richiesto no è di dare una prova di formazione. Fate inoltre in modo che tutti partecipino e diano il proprio contributo in fase di valutazione del gruppo.
+   * E' essenziale rispettare i tempi; stabilite il limite di durata in cui i partecipanti dovranno lavorare sulla persona e alla predisposizione dell'attività di formazione. Fate in modo che sia ben chiaro che la presentazione deve descrivere tutte le componenti della formazione che hanno progettato, e che ciò che gli viene richiesto non è di dare una prova di formazione. Fate inoltre in modo che tutti partecipino e diano il proprio contributo in fase di valutazione del gruppo.
 
-* Adattare ad altre finalità 
+* Adattamenti per finalità diverse 
 
    * In linea di principio, tutti i parametri possono essere adattabili e modificati a seconda delle specificità dell'attività di formazione creando nuove carte, nuove categorie o eliminando quelle preesistenti. 
    
@@ -1518,11 +1519,11 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 #### Quali strumenti & piattaforme è consigliabile utilizzare?
 
-Sono moltissime le piattaforme e gli strumenti a supporto della Scienza Aperta (nell'immagine in calce una selezione di questi). Quali piattaforme o strumenti sia meglio impiegare (o consigliare) dipende da molti fattori, ad esempio: se lo strumento sia o no disponibile(a titolo gratuito o a basso costo o con licenza dell'istituzione di afferenza), se sia o no operativo nel browser o in un altro sistema operativo, se sia disponibile o no nella lingua in uso e se sia compatibile o no con i requisiti di sicurezza e di privacy. In aggiunta a questi criteria di natura tecnica, è opportuno valutare altresì se lo strumento sia compatibile con il modo in cui si lavora. Funziona con gli altri strumenti e piattaforme comunemente usate? I colleghi o le altre persone con le quali collaborate utilizzano lo stesso strumento per la stessa attività, o per lo meno uno che è compatibile con quello che utilizzate? Tenete inoltre ben presente la linea dell'apprendimento: per imparare ad usare bene il nuovo strumento è necessario investire molot tempo, e se questo è il caso, ne vale la pena? Potete contare sul supporto o assistenza (in persona o a distanza) di qualcuno che vi può aiutare ad utilizzare il nuovo strumento? 
+Sono moltissime le piattaforme e gli strumenti a supporto della scienza aperta (nell'immagine in calce una selezione di questi). Quali piattaforme o strumenti sia meglio impiegare (o consigliare) dipende da molti fattori, ad esempio: se lo strumento sia o no disponibile(a titolo gratuito o a basso costo o con licenza dell'istituzione di afferenza), se sia o no operativo nel browser o in un altro sistema operativo, se sia disponibile o no nella lingua in uso e se sia compatibile o no con i requisiti di sicurezza e di privacy. In aggiunta a questi criteri di natura tecnica, è opportuno valutare altresì se lo strumento sia compatibile con il modo in cui si lavora. Funziona con gli altri strumenti e piattaforme comunemente usate? I colleghi o le altre persone con le quali collaborate utilizzano lo stesso strumento per la stessa attività, o per lo meno uno che è compatibile con quello che utilizzate? Tenete inoltre ben presente la linea dell'apprendimento: per imparare ad usare bene il nuovo strumento è necessario investire molto tempo, e se questo è il caso, ne vale la pena? Potete contare sul supporto o assistenza (in persona o a distanza) di qualcuno che vi può aiutare ad utilizzare il nuovo strumento? 
 
-Forese il consiglio più utile è quello di pensare bene a priori a che cosa si vuole fare: qual'è praticamente l'attività legata alla Scienza Aperta che volete fare? Quindi sondate bene quali siano gli strumenti/piattaforme che sono disponibili, quali di queste vengono utilizzate dalla vostra comunità e perchè (chiedete in giro!). Per finire, prendete la vostra decisione. Non abbiate paura di sperimentare e di provare cose nuove! 
+Forse il consiglio più utile è quello di pensare bene a priori a che cosa si vuole fare: qual'è l'attività della scienza aperta che volete fare? Quindi sondate bene quali siano gli strumenti/piattaforme che sono disponibili, quali di queste vengono utilizzate dalla vostra comunità e perchè (chiedete in giro!). Per finire, prendete la vostra decisione. Non abbiate paura di sperimentare e di provare cose nuove! 
 
-Per concludere una riflessione finale: molti strumenti e piattaforme a supporto della scienza aperta non sono aperti o aperti completamente a loro volta. Ad esempio, molti strumenti di uso comune non sono open source, sebbene permettano l'accesso a dei contenuti (publicazioni, dati) che sono aperti. Dovrete seguire il vostro buon senso e valutare per voi se prendere in considerazione queste piattaforme e strumenti oppure no. Un'altra considerazione è se sia possibile esportare tutti i vostri dati qualora decidiate di passare ad un altro strumento, o se siano "rinchiusi"? E avete un'idea di che cosa succederebbe ai vostri dati se la piattaforma dovesse essere dismessa o venduta ad (un'altra) compagnia? 
+Per concludere una riflessione finale: molti strumenti e piattaforme a supporto della scienza aperta non sono aperti o aperti completamente a loro volta. Ad esempio, molti strumenti di uso comune non sono in codice aperto, sebbene permettano l'accesso a dei contenuti (publicazioni, dati) che sono aperti. Dovrete seguire il vostro buon senso e valutare per voi se prendere in considerazione queste piattaforme e strumenti oppure no. Un'altra considerazione è se sia possibile esportare tutti i vostri dati qualora decidiate di passare ad un altro strumento, o se siano "rinchiusi". Avete un'idea di che cosa succederebbe ai vostri dati se la piattaforma dovesse essere dismessa o venduta ad (un'altra) compagnia? 
 
 Alcuni elenchi di strumenti e di piattaforme di ricerca:
 
@@ -1576,11 +1577,11 @@ In attesa di formattazione per conformarsi al modello
 
 PF - 1  Mappe mentali e concettuali 
 
-La concettualizzazione di argomenti estremanemte complessi può trarre un enorme vantaggio visualizzando il sapere e le competenze di recente acquisizione. Ci si può entusiasmare moltissimo utilizzando semplicemente strumenti in open source, sia a livello individuale sia a livello collectivo. Il nome generale di questo gruppo di tecniche è l'idea che sottintende alle mappe mentali e concettuali. Un software relativamente semplice come [X-Mind](http://www.xmind.net/) rappresenta una buona base di partenza e per cominciare. ![image alt text](/Images/image_17.png)
+La concettualizzazione di argomenti estremamente complessi può trarre un enorme vantaggio visualizzando il sapere e le competenze di recente acquisizione. Ci si può entusiasmare moltissimo utilizzando semplicemente strumenti in open source, sia a livello individuale sia a livello collectivo. Il nome generale di questo gruppo di tecniche è l'idea che sottintende alle mappe mentali e concettuali. Un software relativamente semplice come [X-Mind](http://www.xmind.net/) rappresenta una buona base di partenza e per cominciare. ![image alt text](/Images/image_17.png)
 
 Figure X Esempio di una mappa mentale e concettuale per rappresentare il contenuto di un corso di formazione 
 
-Nota bene: potremmo sostituire questa mappa con una realizzata per la Scienza Aperta o per argomenti ad essa collegati
+Nota bene: potremmo sostituire questa mappa con una realizzata per la scienza aperta o per argomenti ad essa collegati
 
-L'impegno dei corsisti aumenta esponenzialmente nel momento in cui questi capiscono che il potere instrinseco della visualizzazione delle idee, collegandole in diagrammi, confrontando i diagrammi tra i compementi del medesimo gruppo, confrontando i diversi gruppi e le mappe dei corsisti con quelle deiformatori, etc.
+L'impegno dei corsisti aumenta esponenzialmente nel momento in cui questi capiscono che il potere instrinseco della visualizzazione delle idee, collegandole in diagrammi, confrontando i diagrammi tra i membri dello stesso gruppo, confrontando i diversi gruppi e le mappe dei corsisti con quelle dei formatori, etc.
 
