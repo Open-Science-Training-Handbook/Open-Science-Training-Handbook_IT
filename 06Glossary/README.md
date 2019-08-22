@@ -45,9 +45,9 @@
 
 * An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
 
-**Digital Object Identifier (DOI)**
+**DOI - Identificatore di oggetto digitale**
 
-* A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+* L´identificatore di oggetto digitale (meglio noto con l'acronimo dall'inglese DOI (Digital Object Identifier) consiste in una stringa di testo unica utilizzata per identificare oggetti digitali come articoli di riviste scientifiche, serie di dati o versioni di software in codice aperto. Il DOI fa parte degli identificativi univoci (cosiddetti “Persistent Identifier”).
 
 **Documentation**
 
