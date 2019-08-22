@@ -61,9 +61,9 @@
 
 * The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
 
-**GDPR**
+**GDPR - Regolamento Generale sulla Protezione dei dati**
 
-* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
+* Il Regolamento Generale sulla Protezione dei Dati, meglio noto con l'acronimo dall'inglese GDPR (General Data Protection Regulation), mira alla creazione di un quadro normativo omogeneo in materia di protezione dei dati, comune a tutti i paesi membri dell´Unione Europea; mira altresí a restituire ai cittadini il controllo dei propri dati personali, imponendo nel contempo norme rigorose a coloro che, in qualsiasi parte del mondo, si occupano di conservare e "trattare" questi dati. Il Regolamento introduce inoltre norme relative alla libera circolazione dei dati personali all'interno e al di fuori dell'UE.
 
 **Impact Factor**
 
