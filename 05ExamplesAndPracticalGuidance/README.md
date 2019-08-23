@@ -236,7 +236,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
   </tr>
   <tr>
     <td>14</td>
-    <td>Stabilire un flusso di lavoro riproducibile per l'analisi dei dati</td>
+    <td>Stabilire un flusso di lavoro per l'analisi di dati riproducibili</td>
     <td>Reproducible Research and Data Analysis</td>
     <td>da soli / in coppia</td>
     <td>4-8 ore</td>
@@ -264,7 +264,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
   </tr>
   <tr>
     <td>18</td>
-    <td>Mix di risorse per l'apprendimento e l'insegnamento aperte</td>
+    <td>Remix di risorse per l'apprendimento e l'insegnamento aperte</td>
     <td>Le licenze aperte e i formati di file
 
 Risorse per l'apprendimento e l'insegnamento aperte</td>
@@ -280,7 +280,7 @@ Risorse per l'apprendimento e l'insegnamento aperte</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>Revisione tra pari aperta - il vostro piccolo contributo</td>
+    <td>Revisione tra pari aperta - i vostri 5 centesimi di contributo</td>
     <td>Revisione tra pari aperta, metrica e valutazione</td>
     <td>gruppo completo</td>
     <td>1 ora e 30 minuti</td>
@@ -433,7 +433,7 @@ Piattaforme collaborative</td>
 
     * Questa esercitazione può essere adattata facilmente per la prioritizzazione di altri argomenti.
 
-##### **Esempio 3: Selezione di pratiche di scienza aperta**
+##### **Esempio 3: Selezione delle pratiche di scienza aperta**
 
 * Formato, durata 
 
@@ -578,7 +578,7 @@ Piattaforme collaborative</td>
 
     * Cambiando gli argomenti in discussione, questa esercitazione può adattarsi ad altri argomenti
 
-##### **Esempio 5: bar LIBER della scienza aperta**
+##### **Esempio 5: Bar LIBER della scienza aperta**
 
 * Formato, durata
 
@@ -614,7 +614,7 @@ Piattaforme collaborative</td>
 
     * Alla fine, ogni moderatore riferisce su quanto è stato detto da ciascun gruppo che si è avvicendato al suo tavolo. 
 
-##### **Esempio 6: Che cosa sono per me i dati della ricerca?**
+##### **Esempio 6: Che cosa sono i dati della ricerca secondo me?**
 
 * Formato, durata 
 
@@ -682,7 +682,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Lo stesso formato può essere facilmente adattabile ad altri elementi della scienza aperta, e.g., accesso aperto (perchè non pubblicare ad accesso aperto, etc.)
 
-##### **Esempio 8: La tombola delle "Le scuse dei dati aperti"**
+##### **Esempio 8: Tombola delle "Scuse dei dati aperti"**
 
 * Formato, durata 
 
@@ -716,7 +716,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Questa esercitazione può essere adattata ad altri argomenti (adattando di conseguenza anche il materiale)
 
-##### **Esempio 9: Io e i miei dati - Datagramma**
+##### **Esempio 9: Io e i miei dati - Datagrammi**
 
 * Formato, durata 
 
@@ -770,7 +770,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     *  non ci sono ancora adattamenti da suggerire
 
-##### **Esempio 10: Trova il tuo editore di dati**
+##### **Esempio 10: Trova l'editore dei tuoi dati**
 
 * Formato, durata 
 
@@ -806,7 +806,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * E' possibile adattare questo esercizio all'accesso aperto utilizzando l'elenco alle riviste in accesso aperto [DOAJ[https://doaj.org](https://doaj.org)) website
 
-##### **Esempio 11: Di che cosa si ha bisogno per una pubblicazione di dati?**
+##### **Esempio 11: Che cosa serve per pubblicare i dati della ricerca?**
 
 * Formato, durata 
 
@@ -842,7 +842,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Può essere adattato anche per il processo di pubblicazione ad accesso aperto
    
-##### **Esempio 12: La creazione dei metadati**
+##### **Esempio 12: Creare metadati**
 
 * Formato, durata 
 
@@ -878,7 +878,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Può essere adattato anche per un'esercitazione sulla documentazione
 
-##### **Esempio 13: Prepararsi a condividere i software in maniera aperta**
+##### **Esempio 13: Prepararsi a condividere i software**
 
 * Formato, durata
 
@@ -928,7 +928,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Non può essere adattato
 
-##### **Esempio 14: Stabilire un flusso di lavoro per l'analisi dei dati reproducibili**
+##### **Esempio 14: Stabilire un flusso di lavoro per l'analisi di dati reproducibili**
 
 * Formato, durata 
 
@@ -970,7 +970,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * L'evento potrebbe essere ampliato per introdurre altri concetti della scienza aperta, come identificativi persistenti per software (assegnando un DOI tramite Zenodo all'archicio Git), così come anche per integrare tutti gli aspetti in una piattaforma comune (come OSF).
 
-##### **Esempio 15: Scegliete la versione corretta da archiviare**
+##### **Esempio 15: Scegliete la versione corretta per l'archivio**
 
 * Formato, durata 
 
@@ -1084,7 +1084,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
     
     * Uso di altre licenze
 
-##### **Esemmpio 18: remix di risorse per l'apprendimento e l'insegnamento aperte**
+##### **Esemmpio 18: Remix di risorse per l'apprendimento e l'insegnamento aperte**
 
 * Formato, durata 
 
@@ -1168,7 +1168,7 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
     * Al posto di carta e penna, questo esercizio si può fare anche utlizzando uno strumento di scrittura collaborativo, come Google Docs, Authorea oppure Overleaf/ShareLaTeX. 
 
-##### **Esempio 20: Revisione tra pari aperta - il vostri 2 centesimi di contributo**
+##### **Esempio 20: Revisione tra pari aperta - i vostri 2 centesimi di contributo**
 
 * Formato, durata 
 
