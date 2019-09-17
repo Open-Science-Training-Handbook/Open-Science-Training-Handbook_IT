@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_science.png" width="200" height="200" />
-## Open Science Basics
+## I principi fondamentali della scienza aperta
 
-L’obiettivo che questo capitolo si pone è di fornire un quadro contestuale più reale possibile nonchè una prospettiva sugli elementi principali della scienza aperta. Il capitolo si apre con i concetti e i principi fondamentali della scienza aperta e prosegue trattando le singole componenti vale a dire i dati della ricerca aperti, l’accesso aperto, la revisione tra pari aperta e le politiche della scienza aperta unitamente ad aspetti più pratici come la riproducibilità della ricerca, software e codici aperti nonché le licenze aperte e i formati dei file.
+L’obiettivo che questo capitolo si pone è di fornire un quadro contestuale più reale possibile nonchè una panoramica sugli aspetti di maggior rilievo che riguardano la scienza aperta. Dopo aver introdotto i concetti e i principi fondamentali della scienza aperta, il capitolo prosegue con argomenti come i dati della ricerca aperti, l’accesso aperto, la revisione tra pari aperta e le politiche della scienza aperta unitamente ad aspetti più pratici come la riproducibilità della ricerca, il software libero nonché le licenze aperte e i formati dei file.
 
-Ogni sessione è strutturata in modo da includere una breve descrizione dell’argomento, la sua rilevanza per la scienza aperta, le finalità didattiche principali che dovrebbero essere messe in evidenza nell’ambito di un evento di formazione, le principali componenti (conoscenza e competenze) che dovrebbero essere incluse, alcune domande/impedimenti e comuni equivoci relativi a quello specifico argomento e per finire i risultati didattici perseguiti dalla sessione nonché la lista di alcune letture integrative.  
+Ogni sessione è strutturata in modo da includere una breve descrizione dell’argomento, la sua rilevanza per la scienza aperta, le finalità didattiche principali che dovrebbero essere messe in evidenza nell’ambito di un evento di formazione, le principali componenti (conoscenza e competenze) che dovrebbero essere interessate, alcune domande/impedimenti e comuni equivoci collegati a quello specifico argomento e per finire i risultati attesi da una sessione didattica nonché alcune proposte di letture integrative.  
 
 ## Capitoli
 
