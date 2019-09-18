@@ -94,19 +94,19 @@ Domanda: Se condivido il mio codice in un archivio online, sarò sommerso da ric
 
 Risposta: Anche se i potenziali utenti possono chiedervi aiuto, sia via e-mail oppure \(ad esempio\) attraverso problemi segnalati nell’archivio online, voi non avete nessun obbligo di fornire assistenza se non volete o non potete farlo. Una licenza appropriata dà anche una protezione legale in questo senso \(ad esempio, la clausola di non garanzia della licenza MIT\) (https://choosealicense.com/licenses/mit/)\).
 
-Common misconception: simply putting code online makes it open-source software. In fact, unless the software is accompanied by a license that grants permission for others to use, copy, modify, and/or distribute, then the developer\(s\) retain exclusive copyright. A open-source license needs to accompany the code to make it open-source software.
+È un equivoco abbastanza comune pensare che il solo fatto di mettere un codice online lo renda “open source”. In realtà, a meno che il software non sia accompagnato da una licenza che conceda ad altri il permesso di usare, copiare, modificare e/o distribuire, lo sviluppatore (o gli sviluppatori) mantengono il copyright esclusivo. Per rendere un software “open source”, questo deve essere accompagnato da una licenza ”open source”.  
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Obiettivi di apprendimento 
 
-1. Be able to share software under the most appropriate license \(i.e., both the tools and the licensing\).
+1. Essere in grado di condividere il software con la licenza più appropriata \(cioè, sapere scegliere sia gli strumenti che la licenza\).
 
-2. Be able to upload, version, and register a piece of code under a persistent identifier.
+2. Essere in grado di caricare, modificare e registrare un elemento di codice con un identificativo permanente.
 
-3. Be able to cite software used for a research article.
+3. Essere in grado di citare il software utilizzato per un articolo di ricerca
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Letture integrative
 
 * Balasegaram et al. (2017). An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
 
