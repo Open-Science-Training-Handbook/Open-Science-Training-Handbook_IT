@@ -3,6 +3,21 @@
 
 ## Authors at the sprint event
 
+
+### Tessa Piazzini
+
+* Univesità degli Studi di Firenze
+* [tessa.piazzini@unifi.it](mailto:tessa.piazzini@unifi.it)
+
+Laureata in Biblioteconomia nel 2003, lavoro nella Biblioteca Biomedica dell’Università di Firenze, dove mi dedico principalmente ai corsi, al reference e all’assistenza per la valutazione della ricerca.
+
+Coordino il gruppo di lavoro che si occupa del supporto all’accesso aperto in Ateneo e faccio parte della Commissione per l’accesso aperto della mia Università. Mi occupo di Open Access praticamente da sempre, da quando il mio contesto lavorativo mi ha mostrato
+tutti i limiti di un sistema di diffusione e di comunicazione della ricerca scientifica assolutamente non funzionale alle esigenze della Scienza stessa.
+
+Ho aderito con entusiasmo a questa iniziativa, perché credo nell’assoluta necessità di formare e informare attraverso tutti gli strumenti possibili tutti coloro che si occupano a vario di titolo di ricerca e di scienza. Il tema della Scienza aperta, complesso e affascinante, potenziale portatore di enormi benefici per l’intera umanità, ha bisogno di essere spiegato, diffuso, indagato, compreso e approfondito, perché possa trovare la sua vera e piena realizzazione. Sono profondamente convinta dell’apporto fondamentale che la Scienza aperta può dare non solo nel contesto accademico e di ricerca, ma all’intera comunità terrestre e all’ecosistema.
+
+Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
+
 ### Laura Testoni 
 
 * Università degli Studi di Genova - ITALIA
