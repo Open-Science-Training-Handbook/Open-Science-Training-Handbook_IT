@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# Conosciamo i traduttori e i revisori volontari che hanno collaborato alla versione italiana del Manuale
+# Traduttori e i revisori volontari che hanno collaborato alla versione italiana del Manuale
 
 ## Authors at the sprint event
 
