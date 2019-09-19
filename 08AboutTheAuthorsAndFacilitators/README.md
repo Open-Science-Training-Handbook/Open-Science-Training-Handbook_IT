@@ -3,11 +3,11 @@
 
 ## Authors at the sprint event
 
-### Sonja Bezjak
+### Laura Testoni 
 
-* University of Ljubljana, Slovenia
-* [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
-* [@sonja\_adp](https://twitter.com/sonja_adp)
+* Università degli Studi di Genova - ITALIA
+* [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)  [testoni@unige.it] (mailto:testoni@unige.it)
+* [@lauratests](https://twitter.com/lauratests)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
