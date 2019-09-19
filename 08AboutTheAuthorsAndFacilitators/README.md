@@ -6,7 +6,7 @@
 
 ### Tessa Piazzini
 
-* Univesità degli Studi di Firenze
+* Università degli Studi di Firenze
 * [tessa.piazzini@unifi.it](mailto:tessa.piazzini@unifi.it)
 
 Laureata in Biblioteconomia nel 2003, lavoro nella Biblioteca Biomedica dell’Università di Firenze, dove mi dedico principalmente ai corsi, al reference e all’assistenza per la valutazione della ricerca.
