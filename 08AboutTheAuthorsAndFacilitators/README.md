@@ -4,7 +4,7 @@
 
 ### Sonja Bezjak
 
-* University of Ljubljana, Slovenia
+* Università di Ljubljana, Slovenia
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
@@ -15,7 +15,7 @@ Durante i miei studi in Sociologia, mi sono stati insegnati i principi su cui si
 
 ### Philipp Conzett
 
-* UiT The Arctic University of Norway, Norway
+* UiT The Arctic University of Norway, Norvegia
 * [philipp.conzett@uit.no ](mailto:philipp.conzett@uit.no )
 * [@philippconzett](https://twitter.com/philippconzett)
 * [0000-0002-6754-7911](https://orcid.org/0000-0002-6754-7911)
@@ -27,7 +27,7 @@ Ci sono due grandi insidie per i formatori della scienza aperta, per come la ved
 
 ### Pedro L. Fernandes
 
-* Instituto Gulbenkian de Ciência, Portugal
+* Instituto Gulbenkian de Ciência, Portogallo
 * [pfern@igc.gulbenkian.pt](mailto:pfern@igc.gulbenkian.pt)
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
@@ -39,7 +39,7 @@ La scienza aperta è una tematica che richiede un periodo di formazione intenso 
 
 ### Edit Görögh
 
-* University of Göttingen, Germany
+* Università di Göttingen, Germania
 * [goeroegh@sub.uni-goettingen.de](mailto:goeroegh@sub.uni-goettingen.de)
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
@@ -51,7 +51,7 @@ Lavorando su progetti di scienza aperta ho avuto l'opportunità di conoscere sia
 
 ### Kerstin Helbig
 
-* Humboldt-Universität zu Berlin, Germany
+* Humboldt-Universität zu Berlin, Germania
 * [kerstin.helbig@cms.hu-berlin.de](mailto:kerstin.helbig@cms.hu-berlin.de)
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
@@ -63,7 +63,7 @@ Per me la sfida più grande della formazione scientifica aperta è mostrare ai r
 
 ### Bianca Kramer
 
-* Utrecht University, Netherlands
+* Università di Utrecht, Paesi Bassi
 * [b.m.r.kramer@uu.nl](mailto:b.m.r.kramer@uu.nl)
 * [@MsPhelps](https://twitter.com/MsPhelps)
 * [0000-0002-5965-6560](https://orcid.org/0000-0002-5965-6560)
@@ -72,7 +72,7 @@ La formazione in scienza aperta è gratificante perché non si tratta solo di in
 
 ### Ignasi Labastida
 
-* Universitat de Barcelona, Catalonia
+* Università di Barcellona, Catalonia
 * [ilabastida@ub.edu](mailto:ilabastida@ub.edu)
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
@@ -84,7 +84,7 @@ Spero che nel prossimo futuro non ci sarà bisogno di formazione sulla scienza a
 
 ### Kyle Niemeyer
 
-* Oregon State University, USA
+* Università statale dell'Oregon, Stati Uniti d'America
 * [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu)
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
@@ -96,7 +96,7 @@ Da studente ho spesso affrontato ostacoli nel condurre le mie ricerche a causa d
 
 ### Fotis Psomopoulos
 
-* Center for Research and Technology Hellas, Greece
+* Centro per la Ricerca e la Tecnologia Hellas, Grecia
 * [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr)
 * [@fopsom](https://twitter.com/fopsom)
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
@@ -119,7 +119,7 @@ Anche se pianificare e organizzare eventi formativi è molto impegnativo, formar
 
 ### René Schneider
 
-* HES//SO - Geneva School of Business Administration, Switzerland
+* HES//SO - Scuola di Amministrazione Aziendale di Ginevra, Svizzera
 * [rene.schneider@hesge.ch](mailto:rene.schneider@hesge.ch)
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
@@ -131,7 +131,7 @@ Ho scoperto di recente il campo della gestione dei dati di ricerca e mi sono imp
 
 ### Jon Tennant
 
-* Open Science MOOC, Germany
+* Open Science MOOC, Germania
 * [jon.tennant.2@gmail.com](mailto:jon.tennant.2@gmail.com)
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
@@ -143,51 +143,55 @@ Penso che l'aspetto più impegnativo della scienza aperta sia l'istruzione. Si t
 
 ### Ellen Verbakel
 
-* 4TU.Centre for Research Data, Netherlands
+* 4TU.Centre for Research Data, Paesi Bassi
 * [p.m.verbakel@tudelft.nl](mailto:p.m.verbakel@tudelft.nl)
 * [@Ellen4TUData](https://twitter.com/Ellen4TUData)
 * [0000-0002-8194-6724](https://orcid.org/0000-0002-8194-6724)
 
-Ellen is a librarian by education. She has a long experience in faculty librarianship at the TU Delft. After that she worked at the Delft University Press and organised peer review process for three journals. She also designed the open access or the journals, back in 2000! As from 2005 she developed the publication repository from TU Delft and she moved to 4TU.Centre for Research Data \(at that time 3TU.Datacentrum\) in 2009. In 2013 she co-designed the training Essentials 4 Data Support, she is since then an enthusiastic trainer.
+Ellen è una bibliotecaria di formazione. Ha una lunga esperienza professionale presso la Facoltà di Biblioteconomia presso la TU Delft. In seguito, ha lavorato alla Delft University Press e ha organizzato i processi di revisione tra pari per tre riviste. Ha anche progettato l'accesso aperto o le riviste nel lontano 2000! Dal 2005 ha sviluppato l'archivio delle pubblicazioni di TU Delft e nel 2009 si è trasferita al 4TU.Centre for Research Data \(all'epoca 3TU.Datacentrum\). Nel 2013 ha co-progettato la formazione Essentials 4 Data Support. Da allora è una formatrice entusiasta.
 
-Where would we be without training? We need to be aware of all aspects of Open Science and be able to enthusiasm many others! This Handbook helps educators to make their training more effective in order to make Open Science the standard.
+Dove saremmo senza formazione? E’ necessario conoscere tutti gli aspetti della scienza aperta ed essere in grado di entusiasmare molti altri! Questo manuale aiuta gli educatori a rendere la loro formazione più efficace per fare della scienza aperta uno metodo standard.
 
-## Authors at the sprint event remotely
+
+## Autori a distanza 
 
 ### April Clyburne-Sherin
 
-* Code Ocean, USA
+* Code Ocean, Stati Uniti d'America
 * [april.clyburne.sherin@gmail.com](mailto:april.clyburne.sherin@gmail.com)
 * [@april\_cs](https://twitter.com/april_cs) & [@methodpodcast](https://twitter.com/methodpodcast)
 * [0000-0002-5401-7751](https://orcid.org/0000-0002-5401-7751)
 
-April is an epidemiologist, methodologist, and expert in open science tools, methods, training, and community stewardship. She holds an MS in Population Medicine (Epidemiology). Since 2014, she has focussed on training scientists in open and reproducible research methods (Center for Open Science, Sense About Science, SPARC). In her current role of Outreach Scientist, she trains scientists in computational reproducibility best practices using Code Ocean.
+April è un epidemiologa, esperta di metodologia ed di strumenti scientifici aperti, metodi, formazione e gestione di comunità. Ha un master in Population Medicine (Epidemiologia). Dal 2014 si è focalizzata sulla formazione per ricercatori su metodi di ricerca aperti e riproducibili (Center for Open Science, Sense About Science, SPARC). Nel suo attuale ruolo di outreach scientist è incaricata di formare i ricercatori circa le migliori pratiche di riproducibilità computazionale utilizzando Code Ocean.
 
-I have been lucky enough to make a living out of training other scientists how to science better. My community of support grows with each workshop and I hope this handbook might help grow the open research training community. Conversations about open research often occur in echo-chambers of well-meaning researchers \(like myself\) and librarians with similar worldviews. Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Adding context and new perspectives to open research conversations is the only way to make knowledge work for everyone. The content we captured during this sprint is limited by our own experiences, but as other authors add and edit based on their own experiences, we can aim for a handbook that can improve how we talk and train others in open research.
+Ho avuto la fortuna di guadagnarmi da vivere con la formazione di altri scienziati su come migliorare la scienza. La mia comunità di supporto cresce ad ogni workshop e spero che questo manuale possa aiutare ulteriormente a far crescere la comunità di formatori sulla ricerca aperta. Le conversazioni sulla ricerca aperta spesso avvengono in camere dell’eco a cui partecipano ricercatori di buona volontà (come me) e bibliotecari con visioni del mondo simili. La formazione sulla ricerca aperta può allo stesso modo essere differenziata tra prospettive occidentali o settentrionali che vengono insegnate come se fossero universali. Aggiungere contesto e nuove prospettive alle conversazioni sulla ricerca aperta è l'unico modo per far funzionare la conoscenza per tutti. Il contenuto che abbiamo catturato durante questo sprint è circoscritto alle nostre esperienze personali, ma come altri autori aggiungono e modificano sulla base delle loro esperienze, possiamo puntare a un manuale che può migliorare il modo in cui parliamo e formiamo gli altri sulla ricerca aperta.
 
-## Facilitators on site
+
+## Facilitatori 
 
 ### Helene Brinken
 
-* University of Göttingen, State and University Library, Germany
+* Università di Göttingen, Bibilioteca statale e universitaria, Germania
 * [brinken@sub.uni-goettingen.de](mailto:brinken@sub.uni-goettingen.de)
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
-Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
+Responsabile del progetto FOSTER presso l'Università di Göttingen dal maggio 2017. Laureata in Scienza dell’Informazione con specializzazione in e-learning, usabilità e esperienza utente, attualmente mi occupo di sviluppare materiali didattici e di facilitare workshop.
 
-Before working for FOSTER I worked with young activists engaging for worldwide education and against social injustice. I learned how important group dynamics are and what can be achieved when combining forces. Culture change starts at the level of individuals. Bringing together the researchers interested in Open Science can be a great step forward to foster OS at your institution. If they get support, meet other enthusiasts and learn they can soon be multiplicators themselves.
+Prima di lavorare per FOSTER ho lavorato con giovani attivisti impegnati per favorire l’istruzione a livello mondiale e contro l'ingiustizia sociale. Ho imparato quanto siano importanti le dinamiche di gruppo e cosa si può ottenere unendo le forze. Il cambiamento culturale inizia a livello individuale. Riunire i ricercatori interessati alla scienza aperta può essere un grande passo avanti per promuovere la scienza aperta presso un’istituzione. Se vengono sostenuti e incontrano altri appassionati imparano molto presto che possono diventare loro stessi dei moltiplicatori.
+
 
 ### Lambert Heller
 
-* TIB - German National Library of Science and Technology, Hannover, Germany
+* TIB - Biblioteca nazionale per la Scienza e la Tecnologia, Hannover, Germania
 * [lambert.heller@tib.eu](mailto:lambert.heller@tib.eu)
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
 
-With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
+Laureato in Scienze Sociali, sono bibliotecario di formazione. Ho lavorato come specialista in materia presso una biblioteca universitaria per diversi anni e nel 2013 ho dato il via all'Open Science Lab presso la TIB (Biblioteca Nazionale Tedesca per la Scienza e la Tecnologia). Attualmente sto gestendo diversi progetti di finanziamento. Dal 2014 mi occupo di facilitare e consigliare i book sprint. Ho contribuito alla creazione di VIVO, un sistema informativo gratuito di ricerca (CRIS\(CRIS\) basato interamente su Linked Open Data diffuso e conosciuto in Germania. Ho dato il via ad alcune discussioni in libraryland e altrove, ad esempio sulla Blockchain for Science.
 
-When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
+Quando si tengono dei workshop (ad esempio, un workshop di mezza giornata per dottorandi e postdoc presso la Leibniz Research Association in Germania nel 2017 sulla questione del profilo scientifico e dei servizi di scrittura collaborativa) è sempre un piacere stimolare la curiosità degli studenti. Anche lo studente dai molteplici impegni, ha esperienze, si chiede e immagina come le cose potrebbero funzionare meglio. Mi piace attingere a questa energia positiva! E rende molto più facile per un formatore condurre una sessione di formazione.
+
 
 # Traduttori e i revisori volontari che hanno collaborato alla versione italiana del Manuale
 
