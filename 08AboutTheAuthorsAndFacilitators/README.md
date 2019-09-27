@@ -199,6 +199,7 @@ Quando si tengono dei workshop (ad esempio, un workshop di mezza giornata per do
 
 * Università degli Studi di Trento
 * [roberta.moscon@unitn.it](mailto:roberta.moscon@unitn.it)
+* [@openscienceit](https://twitter.com/openscienceit)
 
 Ho avuto la grande opportunità di sperimentare diversi settori ed istituzioni in Italia e all’estero occupandomi di programmi di mobilità internazionale, di programmi di dottorato e di policies per la promozione della collaborazione tra università e industria nonchè per l’innovazione e l’imprenditorialità nelle istituzioni universitarie, seguendo il fil rouge della diversità: di lingua (sono traduttrice di formazione), di prospettiva (da funzionario amministrativo/gestionale a analista politica) e di approcci culturali (proattivi o conservatori) nei confronti del lavoro e al lavoro. 
 
