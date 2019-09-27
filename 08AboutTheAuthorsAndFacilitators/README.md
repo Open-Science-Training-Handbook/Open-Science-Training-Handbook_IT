@@ -195,6 +195,21 @@ Quando si tengono dei workshop (ad esempio, un workshop di mezza giornata per do
 
 # Traduttori e i revisori volontari che hanno collaborato alla versione italiana del Manuale
 
+### Roberta Moscon
+
+* Università degli Studi di Trento
+* [roberta.moscon@unitn.it](mailto:roberta.moscon@unitn.it)
+
+Ho avuto la grande opportunità di sperimentare diversi settori ed istituzioni in Italia e all’estero occupandomi di programmi di mobilità internazionale, di programmi di dottorato e di policies per la promozione della collaborazione tra università e industria nonchè per l’innovazione e l’imprenditorialità nelle istituzioni universitarie, seguendo il fil rouge della diversità: di lingua (sono traduttrice di formazione), di prospettiva (da funzionario amministrativo/gestionale a analista politica) e di approcci culturali (proattivi o conservatori) nei confronti del lavoro e al lavoro. 
+
+Nella ricerca di mantenere uno sguardo su come fanno e sono gli altri, ho partecipato al programma Erasmus+ staff training nel 2019 traendo ispirazione dalle molte iniziative in atto a livello europeo per promuovere la scienza aperta e per la trasmissione di conoscenze e competenze sul trattamento dei dati della ricerca e su come rendere accessibile la ricerca. Da alcuni mesi infatti sono stata inserita nello staff del sistema bibliotecario dell’Università degli Studi di Trento, Ufficio Pubblicazioni scientifiche - Open Access, Anagrafe Ricerca, Editoria e il portale del programma FOSTER con la sua offerta di corsi e di approfondimenti mi ha aiutata ad entrare in questo ambito nuovo per me e forse in Italia ancora troppo poco conosciuto e supportato. 
+
+Ho incontrato giovani ricercatori entusiasti e molto impegnati ma anche ottimi colleghi aperti verso la collaborazione e l’innovazione. Tra questi mi piace menzionare Gareth O’Neill all’epoca Presidente di EURODOC che ha appoggiato e facilitato subito il mio progetto e Ivo Grigorov, ex ricercatore e borsista ERC nonché parte dello staff di supporto alla ricerca presso la TDU. Gareth e Ivo sono solo una piccolissima parte di entusiasti della scienza aperta che a livello europeo si battono con impegno e passione per un cambiamento culturale dell’accademia nei confronti della ricerca e per una diffusione della ricerca senza monopoli e barriere.
+
+Ivo in particolare mi ha suggerito di far partecipare al mio progetto di traduzione tutti coloro che avessero espresso l’intenzione di farlo tramite un a campagna di reclutamento via social. Ora che il lavoro è stato concluso grazie al contributo di molti è un piacere poter aggiungere alle versioni inglese, spagnola, portoghese del manuale anche quella italiana in attesa di quella francese e tedesca. 
+
+Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione sulla scienza aperta per allargare sempre di più la platea di chi la pratica; a parte gli aspetti economici che come contribuente mi aspetterei venissero chiariti definitivamente, i vantaggi dell’accesso aperto alle pubblicazioni, ai dati grezzi della ricerca sono talmente evidenti che mi auguro che queste pratiche diventino al più presto routine. E bibliotecari e bibliotecarie saranno pronti ad aiutare a farle conoscere in maniera efficace ed efficiente anche tramite questo Manuale.   
+
 ### Tessa Piazzini
 
 * Università degli Studi di Firenze
@@ -233,6 +248,9 @@ Giorgio F. Signorini si è laureato in Chimica all’Università di Firenze nel 
 In questo campo ha partecipato a più di 40 progetti di ricerca italiani e internazionali nel periodo 1991-2018, pubblicando articoli su riviste internazionali, e curando lo sviluppo del programma ORAC per simulazioni MD avanzate di sistemi molecolari in campi di forze atomistici. Nella Facoltà (ora Scuola) di Scienze Matematiche, Fisiche e Naturali dell’Università di Firenze ha curato corsi e moduli curricolari su vari argomenti tra cui chimica teorica, struttura e dinamica di proteine, struttura dei materiali vetrosi, strumenti informatici per chimici. Fa parte, dal 1991, del personale del Dipartimento di Chimica della stessa Università, dove si occupa come tecnico di Elevata Professionalità della gestione di risorse per il calcolo scientifico. Nei vari campi della sua attività, sostiene la diffusione del software open source sia per la ricerca e la didattica che per la gestione tecnica e amministrativa degli atenei.
 
 Signorini fa parte dal 2016 del gruppo “UniFI sostenibile”, all’interno del quale segue in particolare la diffusione del modello open source come mezzo per favorire il trasferimento di conoscenza necessario per uno sviluppo sostenibile.
+
+
+
 
 
 
