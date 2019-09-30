@@ -459,229 +459,230 @@ Predisponete un rapporto per il vostro finanziatore o istituzione e, se necessar
 
 <table>
   <tr>
-    <td>What</td>
-    <td>When and who?</td>
-    <td>Done?</td>
+    <td>Cosa</td>
+    <td>Quando e chi?</td>
+    <td>Fatto?</td>
   </tr>
   <tr>
-    <td>Equipment/media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Determine what technical equipment is needed</td>
+    <td>Attrezzature elettroniche/media</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if enough power outlets are available</td>
+    <td>Stabilire il tipo di apparecchiature elettroniche necessarie</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order WiFi for participants</td>
+    <td>Verificare che ci siano un numero di prese di corrente sufficiente</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize video recording and taking pictures</td>
+    <td>Richiedere un collegamento WiFi per i partecipanti</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Test equipment a few days before the training</td>
+    <td>Organizzare le registrazioni video e il servizio fotografico</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Print out handouts, feedback forms and material for exercises or publish them online</td>
+    <td>Testare l’equipaggiamento alcuni giorni prima dell’evento di formazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare flip charts and pinboards</td>
+    <td>Stampare il materiale da distribuire tra i partecipanti, i questionari di gradimento e di feedback nonché il materiale per le esercitazioni; in alternativa, renderli disponibili e scaricabili in rete</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Venue</td>
+    <td>Preparare lavagne con fogli mobili</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check elevator access, accessible entrances, ramps</td>
+    <td>Luogo dell’evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check public transport and parking availability</td>
+    <td>Controllare ascensori, entrate di accesso, rampe</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Locate maternity room, prayer room and gender neutral washrooms</td>
+    <td>Verificate trasporti pubblici e la disponibilità di parcheggi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Clear, legible signs</td>
+    <td>Individuare la stanza della maternità, la stanza per la preghiera e servizi igienici di genere neutro </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Brief your helpers before the event</td>
+    <td>Segnaletica chiare e leggibile</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Marketing/advertising</td>
+    <td>Prima dell’evento fare il punto della situazione con i collaboratori</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify communication channels</td>
+    <td>Marketing/pubblicità </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up online presence</td>
+    <td>Individuare i canali di comunicazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send event information to mailing lists</td>
+    <td>Configurare la presenza online</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform about your event in social media</td>
+    <td>Inviare informazioni sull’evento alle mailing list</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Registration</td>
+    <td>Fornire informazioni sull’evento attraverso i social media</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up registration module</td>
+    <td>Registrazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Collect information on dietary needs and allergies</td>
+    <td>Predisporre un modulo di registrazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ask for childcare needs</td>
+    <td>Raccogliere informazioni su eventuali esigenze alimentari e intolleranze </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide hotel information for events over several days</td>
+    <td>Verificare se qualcuno abbia delle particolari richieste di assistenza per bambini</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send confirmations/invitations to attendees and provide clear text and image instructions to the venue</td>
+    <td>Fornire informazioni alberghiere per l’evento distribuite su più giorni</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send a reminder 1 or 2 days before the event</td>
+    <td>Inviare conferme/inviti ai partecipanti e fornire informazioni/istruzioni chiare e istruzioni sulla sede dell’evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare name tags and print participants list</td>
+    <td>Inviare un promemoria 1 o 2 giorni prima dell’evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare a registration desk</td>
+    <td>Preparare le targhette e stampare la lista dei partecipanti </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize a wardrobe checkroom for larger events</td>
+    <td>Preparare il balcone per la registrazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Catering</td>
+    <td>Predisporre un guardaroba o spogliatoio nel caso di eventi maggiori</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify catering options and needs</td>
+    <td>Catering/rinfresco</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order catering </td>
+    <td>Individuare le opzioni e le esigenze per il catering</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if meals are clearly labeled (especially regarding dietary needs and allergies)</td>
+    <td>Ordinare il catering </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Communication during event</td>
+    <td>Verificare che il cibo offerto riporti chiaramente le etichette (in special modo in merito ad esigenze alimentari e intolleranze)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform the participants where to find emergency exits, food/beverages and restrooms etc.</td>
+    <td>La comunicazione durante l’evento </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out consent forms for video recordings, live streaming and/or photos</td>
+    <td>Fornire informazioni ai partecipanti su dove trovare le uscite di emergenza, distributori automatici di bevande e cibo, toilette, etc. </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Post event dissemination</td>
+    <td>Distribuire moduli di consenso per registrazioni video, riprese in diretta e/o foto </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Make photos of flip charts and other non-digital material or results</td>
+    <td>Disseminazione post-evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or send certificates of attendance</td>
+    <td>Fare foto dei fogli dei cartelloni e altri materiali non digitali prodotti durante la formazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide or send training material (slides, notes, video recordings) to the attendees</td>
+    <td>Distribuire o inviare certificati di frequenza</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide a report for your funder or institution</td>
+    <td>Distribuire o inviare ai partecipanti il materiale formativo (presentazione power point, appunti, registrazioni video) </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Evaluation</td>
+    <td>Predisporre una relazione conclusiva per i finanziatori dell’evento o per la propria istituzione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or provide an online or printed form for feedback</td>
+    <td>Valutazione 
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distribuire o fornire un formulario di gradimento cartaceo o online per raccogliere il feedback da parte dei partecipanti </td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## References
+## Bibliografia
 
 * Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
@@ -693,7 +694,7 @@ Predisponete un rapporto per il vostro finanziatore o istituzione e, se necessar
 
 * Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
-**Inspirations**
+**Fonti di ispirazione
 
 * International Council on Archives (2010). Organising training workshops and seminars: Guidelines for professional association. [PDF](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
