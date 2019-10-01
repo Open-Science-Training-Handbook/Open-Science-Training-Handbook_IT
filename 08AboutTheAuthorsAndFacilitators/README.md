@@ -212,6 +212,8 @@ Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione
 
 ### Tessa Piazzini
 
+![Foster_Tessa_Piazzini (5)](https://user-images.githubusercontent.com/48010221/65977596-83ca7900-e472-11e9-8d7a-27f6ef24e2fb.jpg)
+
 * Università degli Studi di Firenze
 * [tessa.piazzini@unifi.it](mailto:tessa.piazzini@unifi.it)
 
