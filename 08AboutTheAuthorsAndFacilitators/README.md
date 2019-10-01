@@ -228,6 +228,8 @@ Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
 ### Laura Testoni 
 
+![testoni-foto (3)](https://user-images.githubusercontent.com/48010221/65978367-e112fa00-e473-11e9-909a-7debefbfd631.jpg)
+
 * Università degli Studi di Genova - ITALIA
 * [testoni@unige.it](mailto:testoni@unige.it)
 * [@lauratests](https://twitter.com/lauratests)
