@@ -12,6 +12,7 @@ Sono impiegata presso l'Archivio dati delle Scienze Sociali” dove mi occupo pr
 
 Durante i miei studi in Sociologia, mi sono stati insegnati i principi su cui si fonda la scienza, tra cui la trasparenza e la riproducibilità. Ma solo più tardi dai miei amici, un fisico e un ingegnere, sono venmuta a sapere del movimento Open Source. Ho subito capito quanto sia importante diffondere l'idea che non è giusto nascondere le proprie intuizioni e scoperte ma che serve condividerle con gli altri il più presto possibile. Solo quando ho iniziato a lavorare presso l'Archivio dati delle Scienze Sociali (Università di Lubiana, Slovenia) e sono stato fortemente coinvolta nel progetto Open data mi sono resa conto di quanto impegno fosse necessario per cambiare la cultura ed essere in grado di superare le barriere della non condivisione aperta dei risultati della ricerca. Spero che questo manuale aiuti a rendere la scienza il più possibile aperta e comprensibile.
 
+<img src="/Images/Foster_Tessa_Piazzini.png" 
 
 ### Philipp Conzett
 
