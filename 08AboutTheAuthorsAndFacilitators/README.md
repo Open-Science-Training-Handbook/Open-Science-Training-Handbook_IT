@@ -244,8 +244,6 @@ Come bibliotecaria e documentalista credo che l'Accesso aperto (e più in genera
 
 ### Giorgio Signorini
 
-![Giorgio Signorini foto](https://user-images.githubusercontent.com/48010221/65978765-8fb73a80-e474-11e9-86dc-bdf3fc1a6356.jpg)
-
 * Università di Firenze - Dipartimento di Chimica 
 * [giorgio.signoriniunifi.it](mailto:giorgio.signorini@unifi.it)
 
