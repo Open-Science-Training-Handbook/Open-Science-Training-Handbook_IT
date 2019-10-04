@@ -21,7 +21,7 @@ Gli obiettivi e le ipotesi alla base della motivazione che spinge a mettere in p
 
 * **Scuola della valutazione:** traendo la propria motivazione  dal fatto che le metriche tradizionali per misurare l'impatto scientifico sono risultate  discutibili (per esempio, troppo incentrate sulle pubblicazioni, e spesso solo a livello di rivista), questo filone cerca delle "metriche alternative" che possano trarre vantaggio dalle  nuove funzionalità che gli  strumenti digitali in rete mettono a disposizione per tracciare e misurare l'impatto della ricerca attraverso attività che prima erano invisibili.
 
-### Motivazione
+### Fondamenti 
 
 La scienza aperta, secondo la definizione di cui sopra, include un numero enorme di potenziali cambiamenti strutturali nella pratica accademica, un ambiente spesso gerarchico e conservatore. Laddove, inoltre, anche i ricercatori siano in sintonia con gli obiettivi della Scienza Aperta, potrebbero non percepirne del tutto i vantaggi nel farli propri dato che i meccanismi di incentivazione esistenti non rispecchiano la  nuova cultura di apertura e collaborazione. Di conseguenza, convincere i ricercatori della necessità di cambiare le proprie pratiche richiede una buona comprensione non solo dei benefici etici, sociali ed accademici ma anche di come l'adozione delle pratiche di Scienza Aperta può essere di loro aiuto concretamente per avere successo nel loro lavoro. Questa sezione descrive alcuni concetti, principi, attori e pratiche fondamentali nella Scienza Aperta e come questi interagiscano tra loro nel più ampio ecosistema della ricerca.
 
@@ -74,7 +74,7 @@ La scienza aperta, secondo la definizione di cui sopra, include un numero enorme
   * Generalmente i risultati della ricerca aperti sono concessi con licenze aperte per massimizzare il loro riutilizzo consentendo tuttavia all’autore di detenere la proprietà e l’accreditamento del proprio lavoro.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, impedimenti ed equivoci comuni
+### Domande, intoppi e comuni equivoci 
 
 Domanda: Che differenza c’è tra Scienza Aperta e scienza?
 
