@@ -3,9 +3,9 @@
 
 ### Di che cosa si tratta?
 
-Il concetto di “software di ricerca aperto”, o “software di ricerca open source” (a codice sorgente aperto), si riferisce all’uso e sviluppo di software di ricerca (per analisi, simulazione, visualizzazione, etc.) il  cui codice sorgente è interamente disponibile; in aggiunta a questo, però, secondo la [definizione di “Open Source”](https://opensource.org/osd), il software “open source” deve essere distribuito in formato sorgente e/o compilato \(nel secondo caso, con possibilità di accesso al codice sorgente\) e deve essere reso disponibile con una licenza che ne consenta il libero uso, la modifica, e la ri-distribuzione .
+Il concetto di “software di ricerca aperto” o “software di ricerca open source” (a codice sorgente aperto), si riferisce all’uso e sviluppo di software di ricerca (per analisi, simulazione, visualizzazione, etc.) il  cui codice sorgente è interamente disponibile; in aggiunta a questo, però, secondo la [definizione di “Open Source”](https://opensource.org/osd), il software “open source” deve essere distribuito in formato sorgente e/o compilato \(nel secondo caso, con possibilità di accesso al codice sorgente\) e deve essere reso disponibile con una licenza che ne consenta il libero uso, la modifica, e la ri-distribuzione.
 
-### Motivazione
+### Fondamenti
 
 La ricerca moderna si basa sul software; per portare avanti una certa ricerca -o riprodurne i risultati- è necessario poter accedere al codice sorgente del software usato \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). Come dicono Buckheit e Donoho, parafrasando Jon Claerbout, "Un articolo su un risultato computazionale è pubblicità, non scienza. La vera scienza sta nell’ambiente software completo, codice e dati, che ha prodotto quel risultato" \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Tra l’altro, l’accesso libero al codice sorgente del software scientifico aumenta l’impatto della ricerca prodotta \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
@@ -18,7 +18,7 @@ Oltre all’aspetto della riproducibilità, la condivisione aperta del software 
 
 1. Apprendere le caratteristiche del software “open source”; approfondire gli aspetti etici, legali, economici e quelli relativi all’impatto sulla ricerca, sia a favore sia contro il software  “open source”, nonché comprendere i requisiti di qualità del codice aperto.
 
-2. Imparare ad usare i programmi “open source” esistenti e a farne un’attribuzione appropriata \(citazione\).
+2. Imparare ad usare i programmi “open source” esistenti e a fare un’attribuzione appropriata \(citazione\).
 
 3. Imparare ad utilizzare i più comuni strumenti e servizi di condivisione aperta dei codici di ricerca.
 
@@ -78,7 +78,7 @@ I principi “open source” descritti sopra si applicano anche all'hardware. I 
 * Citare correttamente il software utilizzato per un articolo
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, impedimenti ed equivoci comuni
+### Domande, intoppi e comuni equivoci
 
 Domanda: "Non me la sento di condividere il mio software - è troppo disordinato / non ha una buona documentazione / non ho inserito abbastanza commenti!”
 
