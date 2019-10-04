@@ -146,7 +146,7 @@ Risposta: Questo è uno dei luoghi comuni più comuni. Perfino quando metodi e f
 
 Domanda: “Non ho il tempo per imparare e per stabilire un flusso di lavoro riproducibile”
 
-Risposta: In aggiunta ad un numero significativo di servizi online liberamente disponibili che possono essere combinati e che facilitano l’impostazione di un intero flusso di lavoro, il dispendio di tempo e lavoro spesi per metterli insieme contribuiranno a migliorare sia la validità scientifica dei risultati finali sia a ridurre al minimo il tempo di ri-esecuzione o a prolungarlo in studi successivi. 
+Risposta: In aggiunta ad un numero significativo di servizi online liberamente disponibili che possono essere combinati e che facilitano l’impostazione di un intero flusso di lavoro, il dispendio di tempo e lavoro spesi per metterli insieme contribuirà a migliorare sia la validità scientifica dei risultati finali sia a ridurre al minimo il tempo di ri-esecuzione o a prolungarlo in studi successivi. 
 
 Domanda: “Le terminologie che descrivono la riproducibilità sono laboriose.
 
