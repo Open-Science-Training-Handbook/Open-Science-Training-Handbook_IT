@@ -21,10 +21,9 @@ Sei interessato a partecipare o a tenere dei corsi o webinar basati sul Manuale?
 
 Ricordati di cita il manuale quando utilizzi il suo contenuto. Per la citazione, ti consigliamo di utilizzare le due seguenti formule:
 
-*https://book.fosteropenscience.eu/*, dove il testo é disponibile nei formati piú facilmente consultabili (in formato PDF, ePub e Mobi), per commentare o suggerire delle modifiche,
-(https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) and [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), per commentare e per suggerire delle modifiche
+*https://book.fosteropenscience.eu/*, dove il testo é disponibile nei formati piú facilmente consultabili (disponibile anche in formato [PDF](https://book.fosteropenscience.eu/en/book.pdf) e in [ePub](https://book.fosteropenscience.eu/en/book.epub)) per commentare o suggerire delle modifiche oppure,
 
-oppure, in alternativa,
+in alternativa,
 
 *https://doi.org/10.5281/zenodo.1212496*, é possibile fare riferimento a questo DOI (non facilmente comprensibile) che rimanda ad un archivio discarica.
 
