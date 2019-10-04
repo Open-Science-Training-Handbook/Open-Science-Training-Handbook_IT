@@ -71,7 +71,7 @@ I principi “open source” descritti sopra si applicano anche all'hardware. I 
 
 * Creare un archivio GitHub e attivare l’integrazione con Zenodo. Coniare la prima versione del software.
 
-*	Selezionare una licenza di software utilizzando ad esempio [choosealicense] (https://choosealicense.com) oppure [Open Source Initiative] (https://opensource.org/licenses).
+*	Selezionare una licenza di software utilizzando ad esempio [choosealicense](https://choosealicense.com) o [Open Source Initiative](https://opensource.org/licenses).
 
 * Creare la documentazione per un pacchetto software, inclusi README, commenti ed esempi.
 
