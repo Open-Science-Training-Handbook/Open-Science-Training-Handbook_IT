@@ -28,7 +28,7 @@ in alternativa,
 *https://doi.org/10.5281/zenodo.1212496*, é possibile fare riferimento a questo DOI (non facilmente comprensibile) che rimanda ad un archivio discarica.
 
 ## Book spring co-autori e facilitatori 
-Vuoi conoscere meglio i co-autori e i facilitatori che hanno partecipanto allo book sprint, le loro esperienze e fonti di ispirazione, avere informazioni sulle loro istituzioni di afferenza, su come contattarli, quali sono i loro profili twitter e ORCID? Consulta l´ultimo [capitolo del manuale] (./08AboutTheAuthorsAndFacilitators) e vi troverai tutte queste informazioni. 
+Vuoi conoscere meglio i co-autori e i facilitatori che hanno partecipanto allo book sprint, le loro esperienze e fonti di ispirazione, avere informazioni sulle loro istituzioni di afferenza, su come contattarli, quali sono i loro profili twitter e ORCID? Consulta l´ultimo [capitolo del manuale](./08AboutTheAuthorsAndFacilitators) e vi troverai tutte queste informazioni. 
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
