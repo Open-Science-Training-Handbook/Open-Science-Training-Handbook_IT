@@ -48,7 +48,7 @@ Vuoi conoscere meglio i co-autori e i facilitatori che hanno partecipanto allo b
 
 Il Manuale per Formatori della Scienza Aperta è una risorsa didattica aperta, ed è quindi disponibile sotto la [Creative Commons Public Domain Dedication] \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). Non è pertanto necessario richiedere alcun permesso per ri-utilizzare e copiare le informazioni che sono contenute nel manuale. Alcuni dei testi inclusi nelle risorse bibliografiche a cui si fa riferimento nel manuale -é bene notare- potrebbero essere protetti da copyright; in tal caso, nel testo troverete un'indicazione in tal senso.
 
-Abbiamo cercato di dare il giusto accreditamento a tutte le nostre fonti. Se, per qualsiasi motivo, non ci fosse stato possibile farlo in maniera adeguata, non lo abbiamo fatto intenzionalmente. Non esitate a contattarci all'indirizzo: [elearning@fosteropenscience.eu] (mailto:elearning@fosteropenscience.eu) per segnalarci eventuali correzioni.
+Abbiamo cercato di dare il giusto accreditamento a tutte le nostre fonti. Se, per qualsiasi motivo, non ci fosse stato possibile farlo in maniera adeguata, non lo abbiamo fatto intenzionalmente. Non esitate a contattarci all'indirizzo: [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) per segnalarci eventuali correzioni.
 
 ## Finanziamenti
 
