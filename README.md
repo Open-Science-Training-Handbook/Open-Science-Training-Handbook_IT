@@ -9,7 +9,7 @@ Il manuale raccoglie metodi, tecniche e pratiche e vuole supportare i formatori 
 
 ## Aiutaci a migliorare il manuale
 
-Commenti e critiche, da parte di tutti i lettori, sono sempre ben accetti, indipendentemente da quali siano le specifiche compentenze e  background. Per lasciare un vostro commento la procedura piú semplice é ricorrere a [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). È altresí possibile creare una richiesta da Gitbook \(website o app\) o attraverso un qualsiasi altro strumento. Il contenuto del manuale é manutentato nell´archivio [this GitHub repository] (https://github.com/Open-Science-Training-Handbook).
+Commenti e critiche, da parte di tutti i lettori, sono sempre ben accetti, indipendentemente da quali siano le specifiche compentenze e  background. Per lasciare un vostro commento la procedura piú semplice é ricorrere a [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). È altresí possibile creare una richiesta da Gitbook \(website o app\) o attraverso un qualsiasi altro strumento. Il contenuto del manuale é manutentato nell´[archivio GitHub] (https://github.com/Open-Science-Training-Handbook).
 
 ## Ti interessa tenere un seminario insieme a noi?
 
