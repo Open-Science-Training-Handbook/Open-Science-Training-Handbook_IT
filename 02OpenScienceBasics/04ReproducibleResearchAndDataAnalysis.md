@@ -135,7 +135,7 @@ Applicate una licenza al codice per fornire indicazioni su come può essere \(ri
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Presenta i risultati della tua ricerca in modo trasparente**
 
-Segnalate e pubblicate i vostri metodi e interventi in modo esplicito, trasparente e completo per consentirne la riproduzione. Le linee guida di [Equator Network](http://www.equator-network.org/), strumenti come [Protocols.io](https://www.protocols.io/) o processi come [Registered Reports] (https://cos.io/rr/) possono aiutarti a documentare per la riproducibilità. Ricordatevi di pubblicare i risultati sulla piattaforma di registrazione pubblica \(come [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o il [SocialScienceRegistry])(https://www.socialscienceregistry.org/)\ entro un anno dalla conclusione dello studio, indipendentemente dalla natura o dal corso dei risultati.
+Segnalate e pubblicate i vostri metodi e interventi in modo esplicito, trasparente e completo per consentirne la riproduzione. Le linee guida di [Equator Network](http://www.equator-network.org/), strumenti come [Protocols.io](https://www.protocols.io/) o processi come [Registered Reports](https://cos.io/rr/) possono aiutarti a documentare per la riproducibilità. Ricordatevi di pubblicare i risultati sulla piattaforma di registrazione pubblica \(come [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) entro un anno dalla conclusione dello studio, indipendentemente dalla natura o dal corso dei risultati.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Domande, impedimenti e comuni equivoci
