@@ -5,7 +5,7 @@ Nel mese di febbraio del 2018, un gruppo di 14 esperti internazionali in Scienza
 
 Dopo essersi reciprocamente scambiati esperienze e competenze acquisite durante la loro attivitá di training sui principi della Scienza Aperta, gli autori \[(in calce i nomi] (#the-authors-and-the-book-sprint-facilitators)\) hanno prodotto uno strumento di conoscenza aperta e una risorsa didattica aperta utile per l´insegnamento sul campo. L´enfasi posta da questo nuovo strumento non é di divulgazione delle idee sulla Scienza Aperta ma di dare dimostrazione su **come** trasmetterle nella maniera piú efficace possibile. Conferire a questo nuovo strumento la forma di un libro, nato da un processo di scrittura collettivo ha portato a massimizzare creativitá e innovazione, e ha permesso di produrre un risultato encomiabile nel giro di solo pochi giorni.
 
-Il manuale raccoglie metodi, tecniche e pratiche e vuole supportare i formatori della Scienza Aperta. Il prodotto finale é un´utile guida su come meglio fare conoscere i principi della Scienza Aperta al tutta la nostra rete di contatti, istituzioni, colleghi e studenti. I formatori troveranno ispirazione e informazioni su come conseguire il massimo della qualitá e dell´impegno. Mettendo in evidenza le sfide ma anche fornendo le soluzioni, il manuale vuole rafforzare la comunitá dei formatori della Scienza Aperta impegnata a formarsi, informarsi e a trovare la giusta ispirazione.
+Il manuale raccoglie metodi, tecniche e pratiche e vuole supportare i formatori della Scienza Aperta. Il prodotto finale é un´utile guida su come meglio fare conoscere i principi della Scienza Aperta a tutta la nostra rete di contatti, istituzioni, colleghi e studenti. I formatori troveranno ispirazione e informazioni su come conseguire il massimo della qualitá e dell´impegno. Mettendo in evidenza le sfide ma anche fornendo le soluzioni, il manuale vuole rafforzare la comunitá dei formatori della Scienza Aperta impegnata a formarsi, informarsi e a trovare la giusta ispirazione.
 
 ## Aiutaci a migliorare il manuale
 
@@ -19,7 +19,7 @@ Sei interessato a partecipare o a tenere dei corsi o webinar basati sul Manuale?
 
 ## Riferimenti bibliografici
 
-Ricordati di cita il manuale quando utilizzi il suo contenuto. Per la citazione, ti consigliamo di utilizzare le due seguenti formule:
+Ricordati di citare il manuale quando utilizzi il suo contenuto. Per la citazione, ti consigliamo di utilizzare una delle due seguenti formule:
 
 *https://book.fosteropenscience.eu/*, dove il testo é disponibile nei formati piú facilmente consultabili (disponibile anche in formato [PDF](https://book.fosteropenscience.eu/en/book.pdf) e in [ePub](https://book.fosteropenscience.eu/en/book.epub)) per commentare o suggerire delle modifiche oppure,
 
@@ -27,7 +27,7 @@ in alternativa,
 
 *https://doi.org/10.5281/zenodo.1212496*, é possibile fare riferimento a questo DOI (non facilmente comprensibile) che rimanda ad un archivio discarica.
 
-## Book spring co-autori e facilitatori 
+## Co-autori e facilitatori che hanno partecipato al Book Sprint
 Vuoi conoscere meglio i co-autori e i facilitatori che hanno partecipanto allo book sprint, le loro esperienze e fonti di ispirazione, avere informazioni sulle loro istituzioni di afferenza, su come contattarli, quali sono i loro profili twitter e ORCID? Consulta l´ultimo [capitolo del manuale](./08AboutTheAuthorsAndFacilitators) e vi troverai tutte queste informazioni. 
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
