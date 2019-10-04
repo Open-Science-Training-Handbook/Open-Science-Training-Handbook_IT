@@ -54,6 +54,6 @@ Speriamo che la lettura del manuale vi possa essere di aiuto e auguriamo a tutti
 
 Il Manuale di Formazione sulla Scienza Aperta è stato scritto come risorsa didattica ad accesso aperto per permetterne l’uso migliore possibile.  Questo lavoro è quindi accessibile con licenza [Creative Commons Public Domain Dedication (CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Non è necessario chiedere alcun permesso nè per il ri-uso nè per copiare informazioni da questo manuale. È possibile utilizzare tutte le informazioni contenute per presentazioni power point sia tutte le immagini per i corsi di formazione. È bene tener presente che alcuni dei materiali citati in questo libro possono tuttavia essere protetti da diritto d’autore. In tal caso, nel testo è presente la corrispondente indicazione. Citate questo manuale, quando usate i suoi contenuti.
 
-Tutte le fonti sono state citate. Qualora, per qualsiasi ragione, ne avessimo dimenticate qualcuna è escluso che sia stato fatto intenzionalmente. Per segnalare eventuali sviste o emendamenti ci potete contattare al seguente indirizzo: [elearning@fosteropenscience.eu] (mailto:elearning@fosteropenscience.eu)
+Tutte le fonti sono state citate. Qualora, per qualsiasi ragione, ne avessimo dimenticate qualcuna è escluso che sia stato fatto intenzionalmente. Per segnalare eventuali sviste o emendamenti ci potete contattare al seguente indirizzo: [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu)
 
 
