@@ -125,7 +125,8 @@ Evitate i file supplementari, optate per una licenza permissiva plausibile e con
 
 ###### Materiali 
 
-Condividete il vostro materiale perchè possa essere ri-utilizzato. Depositate i reagenti in archivi come [Addgene] (https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) e [ATCC] (https://www.atcc.org/) al fine di renderli facilmente accessibili agli altri ricercatori. Maggiori informazioni sono disponibili al paragrafo [Dati e materiali di ricerca aperti] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
+Condividete il vostro materiale perchè possa essere ri-utilizzato. Depositate i reagenti in archivi come 
+Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) e [ATCC](https://www.atcc.org/) al fine di renderli facilmente accessibili agli altri ricercatori. Maggiori informazioni sono disponibili al paragrafo [Dati e materiali di ricerca aperti] [Dati e materiali di ricerca aperti] (https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials)
 
 ###### Software, notebook e contenitori
 
