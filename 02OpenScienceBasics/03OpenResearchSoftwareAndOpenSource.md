@@ -64,7 +64,7 @@ Vi sono ulteriori concetti, un po’ più complicati, tra cui: test automatici e
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" />
 ##### Hardware “open source”
 
-I principi “open source” descritti sopra si applicano anche all'hardware. I ricercatori spesso usano per la loro ricerca strumentazioni o hardware proprietario che non sono liberamente accessibili, riutilizzabili o adattabili. L'hardware scientifico comprende tutto, dagli strumenti per il sequenziamento, ai microscopi, alle apparecchiature di analisi specializzate, agli acceleratori di particelle. La comunità dell'Open Science Hardware \(OScH\), ad esempio, sta spingendo il movimento open source a occuparsi anche di strumenti scientifici, hardware e infrastrutture di ricerca attraverso la loro [Global Open Science Hardware Roadmap] (http://openhardware.science/global-open-science-hardware-roadmap/).
+I principi “open source” descritti sopra si applicano anche all'hardware. I ricercatori spesso usano per la loro ricerca strumentazioni o hardware proprietario che non sono liberamente accessibili, riutilizzabili o adattabili. L'hardware scientifico comprende tutto, dagli strumenti per il sequenziamento, ai microscopi, alle apparecchiature di analisi specializzate, agli acceleratori di particelle. La comunità dell'Open Science Hardware \(OScH\), ad esempio, sta spingendo il movimento open source a occuparsi anche di strumenti scientifici, hardware e infrastrutture di ricerca attraverso la loro [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
