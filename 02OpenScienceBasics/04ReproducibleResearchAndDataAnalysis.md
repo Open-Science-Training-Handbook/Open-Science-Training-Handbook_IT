@@ -24,9 +24,9 @@ Per ognuna di queste fasi si dovrebbe riuscire a produrre una documentazione chi
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
-### Motivazione
+### Fondamenti
 
-Alcuni fattori generali possono contribuire ulteriormente alla causa della non-riproducibilità ma possono anche condurre all’adozione di misure specifiche che rispondono direttamente a queste cause. La cultura e l’ambiente in cui la ricerca ha luogo è un importante fattore generale dall’alto al basso. Da una prospettiva “dal basso verso l’alto” l’educazione continua e la formazione per ricercatori può far accrescere la consapevolezza nonché la divulgazione di buone prassi. 
+Alcuni fattori generali possono contribuire ulteriormente alla causa della non-riproducibilità ma possono anche condurre all’adozione di misure specifiche che rispondono direttamente a queste cause. La cultura e l’ambiente in cui la ricerca ha luogo è un importante fattore generale, dall’alto verso il basso. Da una prospettiva “dal basso verso l’alto”, l’educazione continua e la formazione per ricercatori può far accrescere la consapevolezza nonché la divulgazione di buone prassi. 
 
 Se da una parte è importante capire l’ampia gamma di fattori che contribuiscono alla riproducibilità, è però altrettanto difficile scomporre questi fattori in fasi che possono essere adottate immediatamente in un programma di ricerca esistente e migliorare immediatamente la sua riproducibilità. Uno dei primi passi è determinare lo stato dell’arte corrente e tenerne costantemente monitorato il miglioramento dato che per aumentare sempre di più la riproducibilità vengono prese in continuazione nuove misure. Alcune delle problematiche più comuni in merito alla riproducibilità della ricerca sono illustrate nella figura sottostante:
 
@@ -49,7 +49,7 @@ Sono tre gli obiettivi principali che è necessario menzionare in questa sede:
 
 1. Comprendere quanto sia importante creare ricerca riproducibile.
 
-2. Comprendere in generale il sistema della ricerca riproducibile 1(compresa la progettazione del flusso di lavoro, la gestione dei dati e una reportistica dinamica\).
+2. Comprendere in generale il sistema della ricerca riproducibile (compresa la progettazione del flusso di lavoro, la gestione dei dati e una reportistica dinamica\).
 
 3. Conoscere i singoli passaggi che compongono il processo di riproducibilità nonchè le risorse corrispondenti che possono essere impiegate. 
 
@@ -77,7 +77,7 @@ L’elenco che segue contiene i punti che indicativamente si devono tenere prese
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
 
-Ci sono alcuni consigli pratici in materia di riproducibilità a cui tutti dovrebbero fare riferimento nel momento in cui si definiscono le particolari competenze necessarie per poterla garantire. In generale, le prassi migliori in materia di riproducibilità possono essere prese in prestito dalle pratiche della scienza aperta ma la loro integrazione offre dei vantaggi agli stessi singoli ricercatori sia che scelgano di condividere la loro ricerca oppure no. La ragione per cui integrare le prassi migliori di riproducibilità sia un vantaggio per il singolo ricercatore è che queste migliorano la pianificazione, l’organizzazione e la documentazione della ricerca. Di seguito, ecco un esempio di come si possa tradurre in pratica il concetto di riproducibilità nel flusso della ricerca con rimandi a queste pratiche contenute in questo manuale. 
+Ci sono alcuni consigli pratici in materia di riproducibilità a cui tutti dovrebbero fare riferimento nel momento in cui si definiscono le particolari competenze necessarie per poterla garantire. In generale, le prassi migliori in materia di riproducibilità possono essere prese in prestito dalle pratiche della Scienza Aperta ma la loro integrazione offre dei vantaggi agli stessi singoli ricercatori sia che scelgano di condividere la loro ricerca oppure no. La ragione per cui integrare le prassi migliori di riproducibilità sia un vantaggio per il singolo ricercatore è che queste migliorano la pianificazione, l’organizzazione e la documentazione della ricerca. Di seguito, ecco un esempio di come si possa tradurre in pratica il concetto di riproducibilità nel flusso della ricerca con rimandi a queste pratiche contenute in questo manuale. 
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
 ##### **1. La riproducibilità si pianifica prima di iniziare**
@@ -92,7 +92,7 @@ Selezionate degli anticorpi che funzionano utilizzando un motore di ricerca anti
 
 ###### Pianificate un progetto riproducibile
 
-Accentrate e organizzate la gestione del progetto utilizzando una piattaforma elettronica, un archivio o cartelle centrali per tutti i documenti della ricerca. Potete utilizzare GitHub come luogo dove depositare tutti insieme i file o gestire il tutto utilizzando un notebook lab elettronico come [Benchling](https://benchling.com/), [Labguru] (https://www.labguru.com/),o [SciNote](https://scinote.net/) Nel merito del vostro progetto centralizzato, seguite le pratiche migliori separando i dati dal codice in diverse cartelle. Gestite i vostri dati grezzi in sola lettura e teneteli separati dai dati processati \(rif. Gestione dei dati\)
+Accentrate e organizzate la gestione del progetto utilizzando una piattaforma elettronica, un archivio o cartelle centrali per tutti i documenti della ricerca. Potete utilizzare GitHub come luogo dove depositare tutti insieme i file o gestire il tutto utilizzando un notebook lab elettronico come [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) o [SciNote](https://scinote.net/). Nel merito del vostro progetto centralizzato, seguite le pratiche migliori separando i dati dal codice in diverse cartelle. Gestite i vostri dati grezzi in sola lettura e teneteli separati dai dati processati \(rif. Gestione dei dati\)
 
 Quando salvate o eseguite il back up di un vostro file di ricerca, optate per dei nomi di formati o file informativi che permettono il ri-uso. I nomi dei file dovrebbero essere leggibili sia dalle macchine sia dalle persone \(rif. Gestione dei dati\). Nelle vostre analisi e codici software usate dei percorsi relativi. Evitate dei formati di file proprietari e utilizzate dei formati di file aperti \(rif. Licenze aperte e formati di file\).
 
@@ -114,7 +114,7 @@ Documentate tutto ciò che fate manualmente in un file README. Create un diziona
 
 ###### Il paradigma della programmazione alfabetizzata
 
-Valutate la possibilità di utilizzare [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave] (https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) o altri strumenti di programmazione “alfabetizzata” per integrare il vostro codice nella vostra narrativa e documentazione. 
+Valutate la possibilità di utilizzare [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) o altri strumenti di programmazione “alfabetizzata” per integrare il vostro codice nella vostra narrativa e documentazione. 
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 ##### **3. Condividete e applicate una licenza alla vostra ricerca**
