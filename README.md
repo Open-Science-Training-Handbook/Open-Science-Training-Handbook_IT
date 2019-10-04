@@ -13,7 +13,7 @@ Commenti e critiche, da parte di tutti i lettori, sono sempre ben accetti, indip
 
 ## Ti interessa tenere un seminario insieme a noi?
 
-Sei interessato a partecipare o a tenere dei corsi o webinar basati sul Manuale? Contattaci a questo indirizzo [elearning@fosteropenscience.eu] (mailto:elearning@fosteropenscience.eu) 
+Sei interessato a partecipare o a tenere dei corsi o webinar basati sul Manuale? Contattaci a questo indirizzo [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) 
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
