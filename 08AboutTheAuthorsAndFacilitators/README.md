@@ -216,8 +216,7 @@ Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione
 
 * Anna Maria Pastorini
 *	Università degli Studi di Genova
-*	[annamp@unige.it] (mailto:annamp@unige.it)
-
+* [annamp@unige.it](mailto:annamp@unige.it)
 
 Bibliotecaria dal 2002, ho studiato Biblioteconomia e Storia del libro antico a Genova e Indicizzazione digitale a Roma.
 
@@ -249,7 +248,7 @@ Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
 ![testoni-foto (3)](https://user-images.githubusercontent.com/48010221/65978367-e112fa00-e473-11e9-909a-7debefbfd631.jpg)
 
-* Università degli Studi di Genova - ITALIA
+* Università degli Studi di Genova 
 * [testoni@unige.it](mailto:testoni@unige.it)
 * [@lauratests](https://twitter.com/lauratests)
 
