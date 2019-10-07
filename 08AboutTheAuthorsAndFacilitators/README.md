@@ -210,6 +210,24 @@ Ivo in particolare mi ha suggerito di far partecipare al mio progetto di traduzi
 
 Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione sulla scienza aperta per allargare sempre di più la platea di chi la pratica; a parte gli aspetti economici che come contribuente mi aspetterei venissero chiariti definitivamente, i vantaggi dell’accesso aperto alle pubblicazioni, ai dati grezzi della ricerca sono talmente evidenti che mi auguro che queste pratiche diventino al più presto routine. E bibliotecari e bibliotecarie saranno pronti ad aiutare a farle conoscere in maniera efficace ed efficiente anche tramite questo Manuale.   
 
+### Anna Maria Pastorini
+
+
+* Anna Maria Pastorini
+*	Università degli Studi di Genova
+*	annamp@unige.it [annamp@unige.it] (mailto:annamp@unige.it)
+
+
+Bibliotecaria dal 2002, ho studiato Biblioteconomia e Storia del libro antico a Genova e Indicizzazione digitale a Roma.
+
+In biblioteca mi sono occupata di catalogazione e ho coordinato sia i servizi al pubblico che quelli di back-office. Dal 2018 lavoro presso l’ufficio centrale del Sistema Bibliotecario di Ateneo come bibliotecaria di sistema. Mi occupo di Open Access cooperando con lo staff dell’Area ricerca alla gestione dell’Archivio istituzionale di Ateneo, in particolar modo per il deposito delle Tesi di dottorato. Sono redattrice del portale openscience.unige.it
+
+Credo nell’importanza dell’informazione e della sensibilizzazione e sono convinta che la traduzione sia uno strumento essenziale per relazionarsi con tutto il mondo accademico e per consolidare l’importanza delle pratiche di Scienza aperta, aprendone le porte anche alla cittadinanza.
+
+È vitale che il mondo accademico italiano prenda consapevolezza dell’urgenza di cambiare rotta e della necessità di modificare i propri schemi di lavoro per rimanere al passo con le sfide del futuro.
+Open Science, per me, è equità nei diritti. Diritto all’informazione, diritto all’accesso, diritto alla condivisione, diritto al giusto compenso, diritto alla Scienza, vera.
+
+
 ### Tessa Piazzini
 
 ![Foster_Tessa_Piazzini (5)](https://user-images.githubusercontent.com/48010221/65977937-1408be00-e473-11e9-8a8a-642126e1e164.jpg)
