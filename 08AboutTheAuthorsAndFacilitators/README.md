@@ -212,7 +212,7 @@ Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione
 
 ### Anna Maria Pastorini
 
-
+![annamp (1)](https://user-images.githubusercontent.com/48010221/66304959-9d4e4380-e8fe-11e9-9b09-7d9107ea4a6e.jpg)
 
 * Anna Maria Pastorini
 *	Università degli Studi di Genova
