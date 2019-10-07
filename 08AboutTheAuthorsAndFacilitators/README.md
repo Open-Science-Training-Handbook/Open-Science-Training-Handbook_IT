@@ -212,10 +212,11 @@ Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione
 
 ### Anna Maria Pastorini
 
+![annamp (1)](https://user-images.githubusercontent.com/48010221/66304774-42b4e780-e8fe-11e9-9f05-2155ca06053b.jpg)
 
 * Anna Maria Pastorini
 *	Università degli Studi di Genova
-*	annamp@unige.it [annamp@unige.it] (mailto:annamp@unige.it)
+*	[annamp@unige.it] (mailto:annamp@unige.it)
 
 
 Bibliotecaria dal 2002, ho studiato Biblioteconomia e Storia del libro antico a Genova e Indicizzazione digitale a Roma.
