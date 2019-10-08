@@ -229,7 +229,6 @@ Open Science, per me, è equità nei diritti. Diritto all’informazione, diritt
 
 ### Susanna Pedrotti
 
-![Susanna Pedrotti](https://user-images.githubusercontent.com/48010221/66377025-11492400-e9b1-11e9-964b-21b167280c02.jpg)
 
 * Università degli Studi di Trento
 * [susanna.pedrotti@unitn.it](mailto:susanna.pedrotti@unitn.it)
