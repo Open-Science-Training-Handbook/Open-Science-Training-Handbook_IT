@@ -229,6 +229,11 @@ Open Science, per me, è equità nei diritti. Diritto all’informazione, diritt
 
 ### Susanna Pedrotti
 
+![Susanna Pedrotti](https://user-images.githubusercontent.com/48010221/66377025-11492400-e9b1-11e9-964b-21b167280c02.jpg)
+
+* Università degli Studi di Trento
+* [susanna.pedrotti@unitn.it](mailto:susanna.pedrotti@unitn.it)
+
 Catalogatrice e bibliotecaria dal 1999. Lavoro presso il Sistema Bibliotecario di Ateneo dell’Università degli studi di Trento. Mi sono occupata di catalogazione di libro antico e moderno, prestito interbibliotecario nazionale e internazionale e fornitura documenti, reference, formazione all’utenza. Sono membro del gruppo di lavoro IOSSG. 
 
 Mi dedico di Open Access, in particolar modo per il deposito delle tesi di dottorato, ma anche validando le pubblicazioni scientifiche accademiche per le varie valutazioni della ricerca, abilitazioni, accreditamento dottorati, …
