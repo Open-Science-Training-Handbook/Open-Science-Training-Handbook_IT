@@ -1,29 +1,29 @@
 ## <img src="/Images/Icons/shout.png" width="200" height="200" />
-## 12. Open Advocacy
+## 12. L'advocacy aperta
 
 ### Di che cosa si tratta? 
 
 L’advocacy, in tutte le sue forme, cerca di assicurare che le persone e in particolar modo quelle maggiormente vulnerabili all’interno della società, siano in grado di:
 
-* Far sentire chiaramente la loro voce su temi che reputano importanti per loro. Advocacy significa dare voce a un gruppo
+* far sentire chiaramente la loro voce su temi che reputano importanti per loro. Advocacy significa dare voce a un gruppo;
 
-* Difendere e salvaguardare i loro diritti
+* difendere e salvaguardare i loro diritti
 
-* Fare in modo che il loro punto di vista e richieste siano seriamente presi in considerazione in fase di risoluzione su decisioni che avranno un impatto sulle loro vite.
+* fare in modo che il loro punto di vista e richieste siano seriamente presi in considerazione in fase di risoluzione su decisioni che avranno un impatto sulle loro vite.
 
 L’advocacy include azioni come difendere, influenzare, operare il cambiamento, prendere decisioni, persuadere, fare lobbying, attirare l’attenzione.
 
-L’open advocacy trova il suo focus nel movimento che promuove la scienza aperta verso i portatori di interesse ad ogni livello, mettendo in luce ed enfatizzando i vantaggi sociali, professionali e personali che essa comporta..
+L’advocacy aperta trova il suo focus nel movimento che promuove la Scienza Aperta verso i portatori di interesse ad ogni livello, mettendo in luce ed enfatizzando i vantaggi sociali, professionali e personali che essa comporta.
 
-### Motivazione
+### Fondamenti
 
-Delle attività di formazione \(workshop, seminari, presentazioni\) ci si può servire come strumenti di advocacy. Un approccio strutturato nei riguardi delle pratiche di advocacy può essere di aiuto ad affrontare le principali tematiche che il formatore deve tenere presente qualora la formazione sia collegata ad un programma di advocacy della scienza aperta: come usare le strategie di advocacy come strumenti utili a determinare cambiamenti specifici e come costruire quelle competenze di base necessarie per avvalersi degli strumenti tipici dell’advocacy (come, ad esempio, le campagne di sensibilizzazione, incontri con chi si occupa di politiche). La formazione viene intesa come un mezzo per produrre cambiamenti specifici e per costituire una comunità a supporto della scienza aperta. 
+Delle attività di formazione \(workshop, seminari, presentazioni\) ci si può servire come strumenti di advocacy. Un approccio strutturato nei riguardi delle pratiche di advocacy può essere di aiuto ad affrontare le principali tematiche che il formatore deve tenere presente qualora la formazione sia collegata ad un programma di advocacy della Scienza Aperta: come usare le strategie di advocacy come strumenti utili a determinare cambiamenti specifici e come costruire quelle competenze di base necessarie per avvalersi degli strumenti tipici dell’advocacy (come, ad esempio, le campagne di sensibilizzazione, incontri con chi si occupa di politiche). La formazione viene intesa come un mezzo per produrre cambiamenti specifici e per costituire una comunità a supporto della Scienza Aperta. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Finalità didattiche
 
-1. Comprendere il contesto e gli obiettivi del programma di advocacy
-2. Saper comunicare efficacemente con un uditorio, saper attirare l’attenzione della comunità su un tema importante e indirizzare i responsabili decisionali verso una risoluzione 
+1. Comprendere il contesto e gli obiettivi del programma di advocacy.
+2. Saper comunicare efficacemente di fronte ad una platea; saper attrarre l’attenzione della comunità su un tema importante e indirizzare i responsabili decisionali verso una risoluzione. 
 
 ### Elementi chiave
 
@@ -32,7 +32,7 @@ Delle attività di formazione \(workshop, seminari, presentazioni\) ci si può s
 
 ##### Obiettivi da raggiungere
 
-**SMART** è un acronimo dall’inglese per sintetizzare le caratteristiche dell’obiettivo che ci si è posti:
+**SMART** è un acronimo dall’inglese per sintetizzare le caratteristiche dell’obiettivo che ci si pone:
 
 **S**pecifico – vale a dire che è necessario porsi un obiettivo specifico per i propri programmi
 
@@ -52,13 +52,13 @@ I principali obiettivi del programma di advocacy:
 
 * Contenere la stigmatizzazione e la paura
 
-* Ingaggiare e mobilitare i principali operatori all’interno di una comunità come promotori di sviluppo
+* Ingaggiare e mobilizzare i principali operatori all’interno di una comunità come promotori di sviluppo
 
 * Allargare i gruppi di advocacy, includendo volontari della comunità
 
 * Mobilizzare risorse a supporto della realizzazione di interventi attorno alle priorità principali
 
-* Tenere alta l’attenzione e il coinvolgimento dei responsabili decisionali e della pubblica opinione disseminando informazioni sui risultati attuali e sulle sfide future
+* Tenere alta l’attenzione e il coinvolgimento dei responsabili decisionali e della pubblica opinione disseminando informazioni sui risultati correnti e sulle sfide future
 
 ##### Tappe per una buona advocacy
 
@@ -71,10 +71,10 @@ I principali obiettivi del programma di advocacy:
    1. Chiarezza su cosa chiedere
    2. Semplificazione del messaggio e messaggio mirato 
    3. Utilizzo di un linguaggio positivo
-   4. Ricorso all’evidenza di dati concreti: sono più significativi degli aneddoti 
+   4. Ricorso all’evidenza con dati concreti: sono più significativi degli aneddoti 
    5. Argomentazioni di tipo economico sono importanti
-5. Pianificare e sviluppare le attività di comunicazione nonché la campagna di sensibilizzazione
-6. Individuare i metodi attraverso i quali trasmettere i messaggi:
+5. Pianificare e sviluppare attività di comunicazione nonché campagne di sensibilizzazione
+6. Individuare i metodi attraverso i quali trasmettere il proprio messaggio:
    1. L’advocacy è costruzione di relazioni
    2. Le tattiche cambiano a seconda dei destinatari
 7. Identificare risorse e punti deboli:
@@ -91,7 +91,7 @@ I principali obiettivi del programma di advocacy:
 
 * Fare advocacy tra i propri pari: scrivere lettere e articoli promuovendo l’accesso aperto
 
-* Parlare agli editor di riviste – confrontarsi sull’OA con persone dello stesso ambito disciplinare
+* Parlare agli editori di riviste – confrontarsi sull’accesso aperto con persone dello stesso ambito disciplinare
 
 * Parlare con i responsabili decisionali 
 
@@ -103,11 +103,11 @@ I principali obiettivi del programma di advocacy:
 
 **Campagne di sensibilizzazione:** generare una reazione fra un pubblico più ampio facendo ricorso ad una gamma diversificata di tecniche, come:
 
-* Catene di email o lettere
+* Invio di e-mail o lettere
 
-* Editoriali o contributi nelle rubriche di opinioni, lettere al direttore nei giornali
+* Editoriali o contributi in rubriche di opinione, lettere al direttore dei giornali
 
-* Newsletters
+* Newsletter
 
 * Supporto alla causa da parte di celebrità
 
@@ -124,25 +124,25 @@ I principali obiettivi del programma di advocacy:
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
 
-* Scrivere una lettera per una newsletter o un forum sull’accesso aperto per la comunità accademica
+* Scrivere una lettera per una newsletter o un forum sull’accesso aperto destinato alla comunità accademica.
 
-* Predisporre un modello standard di risposta a richieste di revisione aperta tra pari in cui si dichiara la propria disponibilità solo nel caso di riviste ad accesso aperto, ecc. e riutilizzarlo ovvero prenderlo a modello in caso di altre richieste 
+* Predisporre un modello standard di risposta a richieste di revisione aperta tra pari in cui si dichiara la propria disponibilità solo nel caso di riviste ad accesso aperto, ecc. e riutilizzarlo ovvero prenderlo a modello in caso di altre richieste. 
 
-* Predisporre soluzioni concrete e la lista di vantaggi che la scienza aperta comporta in ambito accademico per meglio sopportare i grattacapi che i funzionari amministrativi dell’ateneo si trovano a dover combattere per questa
+* Predisporre soluzioni concrete e un elenco dei pro che la Scienza Aperta può portare in ambito accademico per meglio sopportare i grattacapi con i quali i funzionari amministrativi dell’ateneo dovranno confrontarsi a causa della Scienza Aperta.
 
-* Identificare il gruppo di advocacy più vicino e offrirsi come volontario!
+* Identificare il gruppo di advocacy più vicino e offrirsi come volontari!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, impedimenti e comuni equivoci
+### Domande, intoppi ed equivoci comuni
 
-Mancanza di interesse da parte del pubblico. Mancanza di comprensione del significato dell’attività di advocacy.
+Mancanza di interesse da parte della platea. Mancanza di comprensione del significato dell’attività di advocacy.
 
-La preoccupazione dell’istituzione e/o dei quadri dirigenziali in merito agli effetti degli impegni derivanti dall’attività di advocacy
+La preoccupazione dell’istituzione e/o dei quadri dirigenziali in merito agli effetti degli impegni derivanti dall’attività di advocacy.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Risultati di apprendimento 
 
-Il formatore sarà in grado di considerare l’evento formativo contestualmente ad un programma
+Il formatore è in grado di pianificare l’evento formativo all'interno di un programma.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
