@@ -47,9 +47,9 @@ Un aspetto importante in questo contesto è la natura strettamente disciplinare 
 
 ![](/Images/Icons/datamining.png)
 
-Alcune biblioteche stanno già offrendo dei VRE personalizzati su progetti specifici. La [Biblioteca dell'Università di Leiden] (https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools), ad esempio, offre VRE per tutti i progetti finanziati da terzi con uno staff di almeno cinque ricercatori.
+Alcune biblioteche stanno già offrendo dei VRE personalizzati su progetti specifici. La [Leiden University library](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools), ad esempio, offre VRE per tutti i progetti finanziati da terzi con uno staff di almeno cinque ricercatori.
 
-Una piattaforma collaborativa di particolare importanza nel contesto della scienza aperta è la [Open Science Framework] (https://osf.io/) \(OSF\). Basata su tecnologie di open source e creata dal [Center for Open Science] (https://cos.io/) (centro no profit), l'OSF si propone come "uno spazio accademico comune per collegare l'intero ciclo di ricerca". L'OSF consente ai ricercatori di lavorare su progetti in privato e con un numero ristretto di collaboratori e di rendere pubblico il loro progetto in toto o parzialmente. L’OSF si interfaccia direttamente con molti altri sistemi collaborativi come Dropbox, GitHub e Google Docs e può essere utilizzato per archiviare e conservare dati, protocolli e materiali di ricerca.
+Una piattaforma collaborativa di particolare importanza nel contesto della scienza aperta è la [Open Science Framework](https://osf.io/) \(OSF\). Basata su tecnologie di open source e creata dal [Center for Open Science](https://cos.io/), l'OSF si propone come "uno spazio accademico comune per collegare l'intero ciclo di ricerca". L'OSF consente ai ricercatori di lavorare su progetti in privato e con un numero ristretto di collaboratori e di rendere pubblico il loro progetto in toto o parzialmente. L’OSF si interfaccia direttamente con molti altri sistemi collaborativi come Dropbox, GitHub e Google Docs e può essere utilizzato per archiviare e conservare dati, protocolli e materiali di ricerca.
 
 **Piattaforme di scrittura collaborativa**
 
