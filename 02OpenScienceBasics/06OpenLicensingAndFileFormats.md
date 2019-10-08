@@ -7,13 +7,13 @@ Una licenza è un documento legale che concede specifici diritti all’utilizzat
 
 [Le licenze](https://en.wikipedia.org/wiki/List_of_free_content_licenses) [a contenuto aperto](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sono licenze che concedono il permesso di accedere, riusare e ridistribuire del materiale con minime o alcuna restrizione. Queste licenze variano da molto aperte a molto restrittive. Maggiori sono le restrizioni, più complicato diventa combinare contenuti vincolati a licenze diverse –precludendo di fatto la loro interoperabilità.
 
-Il formato di un file è la modalità standard con la quale l’informazione è codificata per essere memorizzata in un file di computer; tuttavia, non tutti i formati hanno i documenti con specifiche liberamente disponibili, in parte perché alcuni sviluppatori vedono i loro documenti con le specifiche come segreti commerciali.
+Il formato di un file è la modalità standard con la quale l’informazione è codificata per essere salvata in un file di computer; tuttavia, non tutti i formati hanno i documenti con specifiche liberamente disponibili, in parte perché alcuni sviluppatori considerano i loro documenti con specifiche alla stregua di segreti commerciali.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
-### Motivazione
+### Fondamenti
 
-Applicare una licenza aperta ad un lavoro scientifico (sia che si tratti di un articolo, di un set di dati o di un qualsiasi altro tipo di prodotto della ricerca) è un modo per il detentore del diritto d’autore di esplicitare le condizioni entro le quali si può accedere, riutilizzare e modificare al suo lavoro.
+Applicare una licenza aperta ad un lavoro scientifico (sia che si tratti di un articolo, di un set di dati o di un qualsiasi altro tipo di prodotto della ricerca) è un modo per il detentore del diritto d’autore di esplicitare le condizioni entro le quali si può accedere, riutilizzare e modificare il suo lavoro.
 
 È importante fare presente che una licenza si costruisce sulla base di norme già esistenti sul diritto d’autore. In altre parole, si può concedere una licenza su un contenuto solo se, se ne possiedono i diritti; non si può dare in licenza alcuna forma di ri-uso se questa non è prevista dalle norme sul diritto d’autore già in vigore.
 
@@ -22,7 +22,7 @@ Quando si condivide un contenuto aperto non è sufficiente optare per una licenz
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Finalità didattiche
 
-1. Apprendere gli elementi distintivi di ciascuna licenza; come queste si adattino ad alcune definizioni e requisiti della scienza aperta e come si combinino ai diversi prodotti della ricerca.
+1. Apprendere gli elementi distintivi di ciascuna licenza; come queste si adattino ad alcune definizioni e requisiti della Scienza Aperta e come si combinino ai diversi prodotti della ricerca.
 
 2. Apprendere le diverse componenti delle licenze: attribuzione, \(non-\)commerciale, opere derivate, etc.
 
@@ -30,16 +30,16 @@ Quando si condivide un contenuto aperto non è sufficiente optare per una licenz
 
 4. Apprendere le differenze tra i diversi formati di file: formati proprietari e aperti, e come questi possano precludere o facilitare la riusabilità e l’interoperabilità dei contenuti.
 
-### Elementi chiave
+### Finalità chiave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Conoscenze e competenze
 
 Per comprendere come funzionano le licenze è necessario conoscere i concetti di base del diritto d’autore. Poiché le leggi sul diritto d’autore non sono armonizzate a livello internazionale bisogna fare riferimento alle leggi vigenti nel quadro del proprio contesto.
 
-Tra la gamma di licenze a contenuto aperto, c’è il sistema di licenze con permesso d’autore (copyleft) create dalla comunità dei software liberi. Queste licenze consentono un ampio ri-uso dei materiali in base al principio per cui a qualsiasi materiale derivato da un materiale preesistente deve essere applicata una licenza uguale a quella dell’originale. Questo ha causato qualche problema di interoperabilità superato dalle nuove versioni per le quali è previsto che ai materiali derivati deve essere applicata una licenza con gli stessi termini della licenza originale.
+Tra la gamma di licenze a contenuto aperto, c’è il sistema di licenze con permesso d’autore (copyleft) create dalla comunità dei software liberi. Queste licenze consentono un ampio ri-uso dei materiali in base al principio per cui, a qualsiasi materiale derivato da un materiale preesistente, deve essere applicata una licenza uguale a quella dell’originale. Questo ha causato qualche problema di interoperabilità, risolto dalle nuove versioni, per le quali è previsto che, ai materiali derivati, deve essere applicata una licenza con gli stessi termini della licenza originale.
 
-Le licenze più diffuse per contenuti scientifici sono le licenze [Creative Commons](https://creativecommons.org/licenses/). Generalmente, una licenza CC BY \(che richiede solo l’attribuzione\) è una buona opzione per articoli, libri, documenti di lavoro e rapporti; una dedicazione in pubblico dominio, con licenza CC Zero (CC0) è consigliabile per set di dati e banche dati (NB: negli USA e nell’Unione Europea i fatti individuali non sono soggetti a diritto d’autore mentre lo possono essere le collezioni di fatti che hanno subito una selezione creativa o un’organizzazione. Nell’Unione Europea c’è inoltre un diritto sui generis concesso a chi realizza una banca dati a ragione del lavoro svolto per la sua compilazione, anche nel caso in cui questo non abbia implicato alcuno sforzo creativo). Le licenze Creative Commons non dovrebbero essere usate come licenze per il software perché non sono state ideate a questo scopo, come ha specificato la stessa organizzazione dei CC. I programmatori di software dovrebbero adottare invece delle licenze apposite come quelle raccolte dalla [Open Source Initiative](https://opensource.org/licenses) o dalla [Free Software Foundation](https://www.fsf.org/licensing/). Possibili opzioni sono disponibili al sito [choosealicense](https://choosealicense.com). 
+Le licenze più diffuse per contenuti scientifici sono le licenze [Creative Commons](https://creativecommons.org/licenses/). Generalmente, una licenza CC BY \(che richiede solo l’attribuzione\) è una buona opzione per articoli, libri, documenti di lavoro e rapporti; una dedicazione in pubblico dominio, con licenza CC Zero (CC0) è consigliabile per set di dati e banche dati (NB: negli Stati Uniti e nell’Unione Europea i fatti individuali non sono soggetti a diritto d’autore mentre lo possono essere le collezioni di fatti che sono stati trattati attraverso una selezione creativa o una ri-organizzazione. Nell’Unione Europea c’è inoltre un diritto sui generis concesso a chi realizza una banca dati a ragione del lavoro svolto per la sua compilazione, anche nel caso in cui questo non abbia implicato alcuno sforzo creativo). Le licenze Creative Commons non dovrebbero essere usate come licenze per il software perché non sono state ideate a questo scopo, come ha specificato la stessa organizzazione dei CC. I programmatori di software dovrebbero adottare invece delle licenze apposite come quelle raccolte dalla [Open Source Initiative](https://opensource.org/licenses) o dalla [Free Software Foundation](https://www.fsf.org/licensing/). Possibili opzioni sono disponibili al sito [choosealicense](https://choosealicense.com). 
 
 In origine la CC0 venne creata come strumento legale per rilasciare banche dati scientifiche senza restrizioni e in special modo per svincolarsi dai differenti trattamenti di tutela legale previsti qualora una banca dati venisse resa pubblica. La CC0 è stata percepita come un modo per destinare i lavori scientifici al pubblico dominio ma è più di una cessazione di diritti. La CC0 è uno strumento in tre fasi costruito per permettere il suo uso in giurisdizioni in cui la dedicazione in pubblico dominio completo non è possibile \(per esempio in molti paesi dell’Europa continentale\). Primo, usando la CC0 il detentore del diritto d’autore rinuncia ad ogni diritto entro i limiti consentiti dalla legge vigente. Secondo, se ci sono rimanenti diritti a cui non si può rinunciare, la CC0 agisce come una licenza che concede qualunque diritto rimanente senza restrizioni o obblighi. E infine, il detentore del diritto d’autore asserisce di non rivendicare nessun diritto a cui non sia possibile rinunciare o concedere in base alla legge applicabile. Il concetto che sta alla base della CC0 è quello di convincere i ricercatori a seguire le regole della comunità invece di usare le licenze per materiali i cui contenuti, come nei database, in molti casi non sono assoggettabili al diritto d’autore
 
@@ -78,7 +78,7 @@ In un contesto di scienza aperta e per un’archiviazione ottimale sul lungo ter
 Alcuni formati di file non possono essere convertiti in formati aperti, ma vengono comunque archiviati. Sono spesso specifici per un determinato dispositivo elettronico ma hanno un’ampia comunità di utenti. È consigliabile verificare se l’archivio in cui si vuole depositare una pubblicazione dispone di una lista di formati preferiti.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, impedimenti e comuni equivoci
+### Domande, intoppi e equivoci comuni
 
 Domanda: “Perché dovrei usare una licenza CC-BY per il mio contenuto scritto/creativo?
 
