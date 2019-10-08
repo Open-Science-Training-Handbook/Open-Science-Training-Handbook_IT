@@ -20,7 +20,7 @@ La scienza partecipativa è allo stesso tempo uno scopo e uno strumento della sc
 
 2. Comprendere i concetti e le prospettive fondamentali degli attori coinvolti nella comunicazione scientifica.
 
-3. Gestione della proprietà intellettuale nei progetti di scienza partecipativa. Una guida è disponibile [qui] (https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf). Management of intellectual property in citizen science projects. A guide for this is available [here]
+3. Gestione della proprietà intellettuale nei progetti di scienza partecipativa. Una guida è disponibile [qui](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
 
 4. Gestione dei [dati raccolti attraverso la scienza partecipativa](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
 
@@ -35,7 +35,7 @@ La scienza partecipativa è allo stesso tempo uno scopo e uno strumento della sc
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Conoscenza
 
-La European Citizen Science Association \(ECSA\) ha creato una guida delle migliori pratiche su che cosa costituisca una buona scienza partecipativa e ha steso i [10 principi della scienza partecipativa] [https://ecsa.citizen-science.net/sites/default/files/ecsa_ten_principles_of_citizen_science_it_0.pdf]. Ad oggi questa dichiarazione è stata tradotta in molte lingue. I 10 principi offrono una guida delle migliori pratiche per qualsiasi progetto basato sulla scienza partecipativa.
+La European Citizen Science Association \(ECSA\) ha creato una guida delle migliori pratiche su che cosa costituisca una buona scienza partecipativa e ha steso i [10 Principi della Scienza Partecipativa](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). Ad oggi questa dichiarazione è stata tradotta in molte lingue. I 10 principi offrono una guida delle migliori pratiche per qualsiasi progetto basato sulla scienza partecipativa.
 
 Nell’intraprendere un progetto di scienza partecipativa è necessario tenere presente alcuni elementi chiave: come si intendono coinvolgere i cittadini? Come verrà garantita la qualità dei dati? Come verranno affrontati gli aspetti etici e legali?
 
