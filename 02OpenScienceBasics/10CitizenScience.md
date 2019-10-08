@@ -39,7 +39,7 @@ La European Citizen Science Association \(ECSA\) ha creato una guida delle migli
 
 Nell’intraprendere un progetto di scienza partecipativa è necessario tenere presente alcuni elementi chiave: come si intendono coinvolgere i cittadini? Come verrà garantita la qualità dei dati? Come verranno affrontati gli aspetti etici e legali?
 
-Sebbene il dibattito su come valutare alcune attività di scienza partecipativa sia ancora aperto, ci sono già degli esempi da tenere in considerazione nel caso di impatto sociale in rapporti valutativi, tra questi i [casi di studio] (http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22)tratti dal UK Research Excellence Framework.
+Sebbene il dibattito su come valutare alcune attività di scienza partecipativa sia ancora aperto, ci sono già degli esempi da tenere in considerazione nel caso di impatto sociale in rapporti valutativi, tra questi i [Casi di studio](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) tratti dal UK Research Excellence Framework.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
