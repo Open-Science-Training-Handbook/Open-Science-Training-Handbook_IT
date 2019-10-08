@@ -22,7 +22,7 @@ Gli ambienti virtuali di ricerca \(Virtual Research Environment)\ e le piattafor
 
 3. Identificare eventuali criticità collegate alla collaborazione tramite queste piattaforme e trovare il modo di superarle.
 
-### Elementi chiave 
+### Componenti chiave 
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Conoscenze e competenze
