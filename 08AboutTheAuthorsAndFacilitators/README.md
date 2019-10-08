@@ -227,6 +227,14 @@ Credo nell’importanza dell’informazione e della sensibilizzazione e sono con
 È vitale che il mondo accademico italiano prenda consapevolezza dell’urgenza di cambiare rotta e della necessità di modificare i propri schemi di lavoro per rimanere al passo con le sfide del futuro.
 Open Science, per me, è equità nei diritti. Diritto all’informazione, diritto all’accesso, diritto alla condivisione, diritto al giusto compenso, diritto alla Scienza, vera.
 
+### Susanna Pedrotti
+
+Catalogatrice e bibliotecaria dal 1999. Lavoro presso il Sistema Bibliotecario di Ateneo dell’Università degli studi di Trento. Mi sono occupata di catalogazione di libro antico e moderno, prestito interbibliotecario nazionale e internazionale e fornitura documenti, reference, formazione all’utenza. Sono membro del gruppo di lavoro IOSSG. 
+
+Mi dedico di Open Access, in particolar modo per il deposito delle tesi di dottorato, ma anche validando le pubblicazioni scientifiche accademiche per le varie valutazioni della ricerca, abilitazioni, accreditamento dottorati, …
+
+Partecipare alla traduzione di The Open Science Training Handbook mi ha permesso di approfondire meglio alcuni concetti chiave della Scienza aperta e di conseguenza farli conoscere e  trasmetterli ai dottorandi, ricercatori e professori.
+La Scienza aperta è un bene comune che interessa l’intera società, in particolare la comunità scientifica. Spetta a noi, addetti ai lavori, farla conoscere in modo trasparente, farne capire i vantaggi e tutti gli aspetti positivi che ne derivano
 
 ### Tessa Piazzini
 
@@ -244,6 +252,19 @@ Ho aderito con entusiasmo a questa iniziativa, perché credo nell’assoluta nec
 
 Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
+### Giorgio Signorini
+
+![Giorgio Signorini foto](https://user-images.githubusercontent.com/48010221/65979067-fd636680-e474-11e9-8fe8-f67608350ca2.jpg)
+
+* Università di Firenze - Dipartimento di Chimica 
+* [giorgio.signoriniunifi.it](mailto:giorgio.signorini@unifi.it)
+
+Giorgio F. Signorini si è laureato in Chimica all’Università di Firenze nel 1985 e ha conseguito il dottorato di ricerca in Chimica Fisica dello Stato Solido presso lo stesso ateneo nel 1989 con una tesi su “Proprietà dinamiche e processi di rilassamento in sistemi molecolari condensati”. Da allora ha lavorato nel campo della chimica fisica e della chimica computazionale, in particolare su tecniche avanzate di simulazione di sistemi allo stato condensato. 
+
+In questo campo ha partecipato a più di 40 progetti di ricerca italiani e internazionali nel periodo 1991-2018, pubblicando articoli su riviste internazionali, e curando lo sviluppo del programma ORAC per simulazioni MD avanzate di sistemi molecolari in campi di forze atomistici. Nella Facoltà (ora Scuola) di Scienze Matematiche, Fisiche e Naturali dell’Università di Firenze ha curato corsi e moduli curricolari su vari argomenti tra cui chimica teorica, struttura e dinamica di proteine, struttura dei materiali vetrosi, strumenti informatici per chimici. Fa parte, dal 1991, del personale del Dipartimento di Chimica della stessa Università, dove si occupa come tecnico di Elevata Professionalità della gestione di risorse per il calcolo scientifico. Nei vari campi della sua attività, sostiene la diffusione del software open source sia per la ricerca e la didattica che per la gestione tecnica e amministrativa degli atenei.
+
+Signorini fa parte dal 2016 del gruppo “UniFI sostenibile”, all’interno del quale segue in particolare la diffusione del modello open source come mezzo per favorire il trasferimento di conoscenza necessario per uno sviluppo sostenibile.
+
 ### Laura Testoni 
 
 ![testoni-foto (3)](https://user-images.githubusercontent.com/48010221/65978367-e112fa00-e473-11e9-909a-7debefbfd631.jpg)
@@ -258,22 +279,6 @@ Attualmente Bibliotecaria (delibera E/2014/0178 Associazione Italiana Bibliotech
 
 Ho partecipato alla traduzione di The Open Science Training Handbook perché ritengo che tradurre sia uno degli strumenti per diffondere in modo capillare i contenuti e perché i contenuti dell'Handbook possano far crescere la consapevolezza intorno ai temi chiave della Scienza aperta. Ho trovato molto positivo lavorare in un team dinamico che ha svolto tutte le attività online in modo efficace e rapido.
 Come bibliotecaria e documentalista credo che l'Accesso aperto (e più in generale la Scienza aperta), sia vantaggioso per gli utenti delle biblioteche, che attraverso esso possono traguardare la loro mission di diffusione dell'informazione verso tutti. L'accesso aperto, inoltre promuove l'eccellenza dell'attività scientifica dell'Istituzione e facilita i giovani ricercatori permettendo loro di far conoscere i risultati della ricerca.
-
-
-### Giorgio Signorini
-
-![Giorgio Signorini foto](https://user-images.githubusercontent.com/48010221/65979067-fd636680-e474-11e9-8fe8-f67608350ca2.jpg)
-
-* Università di Firenze - Dipartimento di Chimica 
-* [giorgio.signoriniunifi.it](mailto:giorgio.signorini@unifi.it)
-
-Giorgio F. Signorini si è laureato in Chimica all’Università di Firenze nel 1985 e ha conseguito il dottorato di ricerca in Chimica Fisica dello Stato Solido presso lo stesso ateneo nel 1989 con una tesi su “Proprietà dinamiche e processi di rilassamento in sistemi molecolari condensati”. Da allora ha lavorato nel campo della chimica fisica e della chimica computazionale, in particolare su tecniche avanzate di simulazione di sistemi allo stato condensato. 
-
-In questo campo ha partecipato a più di 40 progetti di ricerca italiani e internazionali nel periodo 1991-2018, pubblicando articoli su riviste internazionali, e curando lo sviluppo del programma ORAC per simulazioni MD avanzate di sistemi molecolari in campi di forze atomistici. Nella Facoltà (ora Scuola) di Scienze Matematiche, Fisiche e Naturali dell’Università di Firenze ha curato corsi e moduli curricolari su vari argomenti tra cui chimica teorica, struttura e dinamica di proteine, struttura dei materiali vetrosi, strumenti informatici per chimici. Fa parte, dal 1991, del personale del Dipartimento di Chimica della stessa Università, dove si occupa come tecnico di Elevata Professionalità della gestione di risorse per il calcolo scientifico. Nei vari campi della sua attività, sostiene la diffusione del software open source sia per la ricerca e la didattica che per la gestione tecnica e amministrativa degli atenei.
-
-Signorini fa parte dal 2016 del gruppo “UniFI sostenibile”, all’interno del quale segue in particolare la diffusione del modello open source come mezzo per favorire il trasferimento di conoscenza necessario per uno sviluppo sostenibile.
-
-
 
 
 
