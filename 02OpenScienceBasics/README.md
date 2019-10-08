@@ -18,5 +18,5 @@ Ogni sessione è strutturata in modo da includere una breve descrizione dell’a
 * [9. Politiche e scienza aperta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
 * [10. Citizen Science – la scienza di tutti](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 * [11. Risorse aperte per l’insegnamento e l’apprendimento](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
-* [12. Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+* [12. L'advocacy aperta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
