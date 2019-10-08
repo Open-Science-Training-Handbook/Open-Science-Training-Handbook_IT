@@ -119,7 +119,7 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 
 6. Il numero dei partecipanti:
 
-   1. Definisci un numero massimo di partecipanti in base allo spazio disponibile/capacità e al tempo disponibile per le esercitazioni pratiche 
+   1. Definisci un numero massimo di partecipanti in base allo spazio disponibile/capacità e al tempo disponibile per le esercitazioni pratiche. 
 
    2. Il numero dei partecipanti avrà un impatto sul modo in cui interagiranno tra loro e affronteranno il processo di apprendimento.
 
@@ -148,7 +148,7 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 ### Insegnare agli adulti
 
-La ricerca accademica è svolta da persone adulte pertanto chi partecipa a qualsiasi corso sulla scienza aperta è molto probabilmente un uomo/donna adulto, spesso con una formazione di alto livello alle spalle. È quindi interessante vedere come l'insegnamento a bambini o adolescenti \(pedagogia) differisce da quello degli adulti \(andragogia\). Il “Canadian Literacy and Learning Network” ha svolto un lavoro interessante su questa differenza e lo ha ricapitolato in sette principi:
+La ricerca accademica è svolta da persone adulte pertanto chi partecipa a qualsiasi corso sulla Scienza Aperta è molto probabilmente un uomo/donna adulto, spesso con una formazione di alto livello alle spalle. È quindi interessante vedere come l'insegnamento a bambini o adolescenti \(pedagogia) differisce da quello degli adulti \(andragogia\). Il “Canadian Literacy and Learning Network” ha svolto un lavoro interessante su questa differenza e lo ha ricapitolato in sette principi:
 
 1. **Gli adulti devono voler imparare.** Ciò vuol dire che la motivazione personale e le aspettative sono decisive e potrebbe valere la pena conoscerle prima dell’inizio del corso. 
 
@@ -160,19 +160,19 @@ La ricerca accademica è svolta da persone adulte pertanto chi partecipa a quals
 
 5. **L'esperienza influisce sull'apprendimento degli adulti.** Gli adulti hanno più esperienza dei bambini, sia negativa che positiva. Puoi usare questo bagaglio di esperienze cercando di evitare associazioni negative.
 
-6. **6.	Gli adulti imparano meglio in una situazione informale.** Di solito, i giovani in età scolastica devono seguire un curriculum. Spesso gli adulti imparano solo ciò che sentono di dover sapere. Si dovrebbe quindi cercare di coinvolgere la platea nel processo di apprendimento. Per fare questo, è necessario creare un ambiente rilassato, informale e stimolante.
+6. **Gli adulti imparano meglio in una situazione informale.** Di solito, i giovani in età scolastica devono seguire un curriculum. Spesso gli adulti imparano solo ciò che sentono di dover sapere. Si dovrebbe quindi cercare di coinvolgere la platea nel processo di apprendimento. Per fare questo, è necessario creare un ambiente rilassato, informale e stimolante.
 
-7. **7.	Gli adulti vogliono una guida.** Gli adulti vogliono informazioni che li aiutino a migliorare la loro situazione o risolvere i problemi, non che gli venga detto cosa fare. Preferiscono scegliere in base alle proprie esigenze.
+7. **Gli adulti vogliono una guida.** Gli adulti vogliono informazioni che li aiutino a migliorare la loro situazione o risolvere i problemi, non che gli venga detto cosa fare. Preferiscono scegliere in base alle proprie esigenze.
 
 I formatori saranno pertanto tenuti a 
 
-* fornire indicazioni su dove i ricercatori potranno trovare informazioni, strumenti e supporto 
+* Fornire indicazioni su dove i ricercatori potranno trovare informazioni, strumenti e supporto. 
 
-* preparare materiale online con indicazioni chiare, comprensibili e aggiornate
+* Preparare materiale online con indicazioni chiare, comprensibili e aggiornate.
 
-* raccogliere degli strumenti (o dei modelli per crearli) efficaci, utilizzabili (e reperibili)
+* Raccogliere degli strumenti (o dei modelli per crearli) efficaci, utilizzabili (e reperibili).
 
-Riassumendo, l’interesse degli adulti è focalizzato sull’accrescimento delle proprie conoscenze e considerano la formazione come una pratica ad personam e utile ad ampliare le proprie competenze. Agli adulti piace essere rispettati in quanto tali e che le loro aspettative siano soddisfatte una per una, nel modo più esaustivo possibile.
+Riassumendo, l’interesse degli adulti è focalizzato sull’ampliamento delle proprie conoscenze e considerano la formazione come una pratica ad personam, utile ad ampliare le proprie competenze. Agli adulti piace essere rispettati in quanto tali e che le loro aspettative siano soddisfatte una per una, nel modo più esaustivo possibile.
 
 ### La Tassonomia di Bloom
 
