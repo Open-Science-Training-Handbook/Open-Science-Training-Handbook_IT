@@ -3,13 +3,13 @@
 
 ### Di che cosa si tratta?
 
-Le piattaforme collaborative online permettono ai ricercatori geograficamente lontani tra loro di entrare in contatto e di collaborare in maniera continuativa ad un lavoro di ricerca, condividendo oggetti di studio, idee ed esperienze. In genere, le piattaforme collaborative mettono a disposizione dei servizi online in un ambiente virtuale al quale più utenti possono collegarsi simultaneamente e lavorare alla stessa attività. Sono compresi sia ambienti di ricerca virtuali grandi \(VRE)\ che comprendono una serie di strumenti atti a facilitare la condivisione e la collaborazione - fra cui forum virtuali e wiki, servizi di archiviazione collaborativa di documenti (file hosting) e strumenti disciplinari come l'analisi o la visualizzazione dei dati – così come anche singoli strumenti specifici che consentono ai ricercatori di lavorare insieme in tempo reale su particolari aspetti collegati alla ricerca \(come la stesura o l'analisi)\.
+Le piattaforme collaborative online permettono ai ricercatori geograficamente lontani tra loro di entrare in contatto e di collaborare in maniera continuativa ad un lavoro di ricerca, condividendo oggetti di studio, idee ed esperienze. In genere, le piattaforme collaborative mettono a disposizione dei servizi online in un ambiente virtuale al quale più utenti possono collegarsi simultaneamente e lavorare alla stessa attività. Sono compresi sia ambienti di ricerca virtuali grandi \(VRE)\ che comprendono una serie di strumenti atti a facilitare la condivisione e la collaborazione - tra cui forum virtuali e wiki, servizi di archiviazione collaborativa di documenti (file hosting) e strumenti disciplinari come l'analisi o la visualizzazione dei dati – così come anche singoli strumenti specifici che consentono ai ricercatori di lavorare insieme in tempo reale su particolari aspetti collegati alla ricerca \(come la stesura o l'analisi)\.
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
 ### Fondamenti 
 
-La tendenza a collaborare tra coloro che fanno ricerca sta crescendo in maniera esponenziale e anche i gruppi di ricerca stanno diventando sempre più interdisciplinari; sempre più frequentemente inoltre i ricercatori operano in consorzi internazionali ed interdisciplinari per fare in modo di favorire una maggiore molteplicità prospettica su specifici argomenti di ricerca. Promuovere la ricerca collaborativa a livello nazionale ed internazionale sta diventando sempre di più prioritario per gli enti finanziatori. Il Commissario europeo per la ricerca, Carlos Moedas, ad esempio, l’ha posta alla base della sua strategia, con il motto: ["Scienza aperta, innovazione aperta, apertura al mondo"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+La tendenza a collaborare tra coloro che fanno ricerca sta crescendo in maniera esponenziale e anche i gruppi di ricerca stanno diventando sempre più interdisciplinari; sempre più frequentemente inoltre i ricercatori operano in consorzi internazionali ed interdisciplinari per fare in modo di favorire una maggiore molteplicità di prospettive su specifici argomenti di ricerca. Promuovere la ricerca collaborativa a livello nazionale ed internazionale sta diventando sempre più prioritario per gli enti finanziatori. Il Commissario europeo per la ricerca, Carlos Moedas, ad esempio, l’ha posta alla base della sua strategia, con il motto: ["Scienza aperta, innovazione aperta, apertura al mondo"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
 Gli ambienti virtuali di ricerca \(Virtual Research Environment)\ e le piattaforme collaborative consentono una collaborazione che va oltre i confini tra continenti, fusi orari e discipline. In questo modulo sarà possibile conoscere meglio le piattaforme collaborative attualmente operative e come queste possano migliorare notevolmente l’andamento del lavoro di ricerca.
 
@@ -57,7 +57,7 @@ La stesura per iscritto della ricerca, in modo particolare nell’attuale sentir
 
 **Gestione e recupero delle citazioni**
 
-Esistono numerosi strumenti che consentono ai gruppi di ricerca di archiviare e gestire le citazioni,  ad esempio [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/)e [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) contiene uno strumento di gestione delle citazioni che può essere condiviso, nonché un social network e strumenti di visualizzazione degli articoli. Analogalmente, [BibSonomy](http://www.bibsonomy.org/)consente ai ricercatori di condividere segnalibri ed elenchi di letteratura.
+Esistono numerosi strumenti che consentono ai gruppi di ricerca di archiviare e gestire le citazioni,  ad esempio [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/)e [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) contiene uno strumento di gestione delle citazioni che può essere condiviso, nonché un social network e strumenti di visualizzazione degli articoli. Analogalmente, [BibSonomy](http://www.bibsonomy.org/) consente ai ricercatori di condividere segnalibri ed elenchi di letteratura.
 
 **Annotazione e revisione**
 
@@ -69,20 +69,20 @@ Le potenzialità del web consentono nuove modalità di revisione collaborativa s
 Da molto tempo i ricercatori utilizzano la rete per fare networking, sia per mezzo di social network generalisti come [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/) e [Linkedin](https://www.linkedin.com/) sia per mezzo di reti accademiche dedicate come [ResearchGate](https://www.researchgate.net/), [Academia.edu] e [Loop](http://community.frontiersin.org/).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, impedimenti e comuni equivoci
+### Domande, intoppi e comuni equivoci
 
-D: Perché dovrei complicare ancora di più il mio modo di gestire le attività collaborative? Il fatto di condividere i file in formato .doc dovrebbe essere già più che sufficiente! 
+Domanda: Perché dovrei complicare ancora di più il modo in cui gestisco le mie attività in maniera collaborativa? Il fatto di condividere i file in formato .doc dovrebbe essere già più che sufficiente! 
 
-R: Non è proprio così. Potrà anche sembrare di sommare strumenti e piattaforme ad altri strumenti e piattaforme al proprio ciclo di lavoro, in realtà questi servono a risolvere problemi di comunicazione di cui molto probabilmente non ci si rendeva conto all’inizio. Il fatto, ad esempio, di utilizzare solo e semplicemente dei file .doc (tenendo più o meno traccia delle modifiche), mostra solo lo stadio più avanzato delle informazioni e generalmente quello che arriva alla fine dell'intero processo scientifico. Il lavoro che invece si svolge in un contesto di ambiente collaborativo che va dalla progettazione fino alla redazione del report finale si fonda su una comunicazione chiara e su una descrizione adeguata delle fonti, della storia ed evoluzione delle informazioni.
+Risposta: Non è proprio così. Potrà anche sembrare di aggiungere strumenti e piattaforme ad altri strumenti e piattaforme al proprio ciclo di lavoro, in realtà questi servono a risolvere problemi di comunicazione di cui molto probabilmente non ci si rendeva conto all’inizio. Il fatto, ad esempio, di utilizzare solo e semplicemente dei file .doc (tenendo più o meno traccia delle modifiche), mostra solo lo stadio più avanzato delle informazioni e generalmente quello che arriva alla fine dell'intero processo scientifico. Il lavoro che invece si svolge in un contesto di ambiente collaborativo che va dalla progettazione fino alla redazione del report finale si fonda su una comunicazione chiara e su una descrizione adeguata delle fonti, della storia ed evoluzione delle informazioni.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Risultati dell’apprendimento
 
-1. Il ricercatore acquisirà familiarità con la gamma di opzioni disponibili a supporto della ricerca collaborativa.
+1. Il ricercatore acquisisce familiarità con la gamma di opzioni disponibili a supporto della ricerca collaborativa.
 
-2. Dopo aver individuato la soluzione ottimale per il proprio flusso di lavoro, il ricercatore sarà in grado di utilizzare strumenti collaborativi come GitHub e Open Science Framework per migliorare la collaborazione nel processo di ricerca, redazione / creazione e condivisione dei risultati.
+2. Dopo aver individuato la soluzione ottimale per il proprio flusso di lavoro, il ricercatore è in grado di utilizzare strumenti collaborativi come GitHub e Open Science Framework per migliorare la collaborazione nel processo di ricerca, redazione / creazione e condivisione dei risultati.
 
-3. Il ricercatore sarà in grado di collaborare con i colleghi nella stesura di documenti congiuntamente, di annotare articoli e condividere commenti e discussioni.
+3. Il ricercatore è in grado di collaborare con i colleghi nella stesura di documenti congiuntamente, di annotare articoli e condividere commenti e discussioni.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
