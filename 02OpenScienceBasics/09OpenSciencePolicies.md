@@ -3,11 +3,11 @@
 
 ### Di che cosa si tratta? 
 
-Una definizione verosimile di “politiche sulla Scienza Aperta” potrebbe leggersi in questi termini: strategie e azioni rivolte a promuovere i principi della Scienza Aperta e l´apprendimento di pratiche che hanno come oggetto la Scienza Aperta. Generalmente si tratta di politiche disegnate da enti di ricerca, enti finanziatori della ricerca, governi nazionali ed editori, scaturite, in origine, dalla richiesta di disseminazione dei risultati della ricerca partendo dal presupposto che i risultati ottenuti dalla ricerca finanziata con fondi pubblici debba essere resa disponibile al pubblico, senza alcuna restrizione. Le finalitá di queste politiche sono molte di piú ora ed é possibile trovare politiche nazionali a sostegno delle pratiche di Scienza Aperta ad ogni stadio del processo di ricerca. E`inoltre possibile trovare specifiche prescrizioni anche in altre leggi -vigenti o nuove- in regolamenti o direttive. 
+Una definizione verosimile di “politiche sulla Scienza Aperta” potrebbe leggersi in questi termini: strategie e azioni rivolte a promuovere i principi della Scienza Aperta e l´apprendimento di pratiche che hanno come oggetto la Scienza Aperta. Generalmente si tratta di politiche disegnate da enti di ricerca, enti finanziatori della ricerca, governi nazionali ed editori, scaturite, in origine, dalla richiesta di disseminazione dei risultati della ricerca partendo dal presupposto che i risultati ottenuti dalla ricerca finanziata con fondi pubblici debba essere resa disponibile al pubblico, senza alcuna restrizione. Le finalitá di queste politiche sono molte di piú ora ed é possibile trovare politiche nazionali a sostegno delle pratiche di Scienza Aperta ad ogni stadio del processo di ricerca. E` inoltre possibile trovare specifiche prescrizioni anche in altre leggi -vigenti o nuove- in regolamenti o direttive. 
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
-### Motivazioni
+### Fondamenti 
 
 Partendo dal principio che sono le politiche correnti, stabilite da istituzioni, enti finanziatori, governi e editori a orientare maggiormente la Scienza Aperta, é importante capire quanto queste siano impattanti per il lavoro di ogni ricercatore. Nel processo di pianificazione di una politica per l´adozione e il riconoscimento delle pratiche in un contesto di Scienza Aperta é importante conoscere le politiche vigenti per evitare qualsiasi sovrapposizione o contrapposizione. Per questo motivo, ricercatori e analisti politici dovrebbere conoscere le politiche correnti e dovrebbero essere in grado di comprendere quale sia l´impatto che queste politiche hanno su di loro. 
 
@@ -16,14 +16,14 @@ Partendo dal principio che sono le politiche correnti, stabilite da istituzioni,
 
 1.	Gli obiettivi formativi di ogni sessione didattica differiscono a seconda dei partecipanti. In linea di massima, é possibile fare una distinzione approssimativa tra ricercatori \(in senso lato\) e analisti politici \(di un´organizzazione o ente finanziatore – in senso lato\).
 
-2.	Se il training é, in prevalenza, rivolto a ricercatori -a tutti i livelli-, in tal caso l´obiettivo principale é quello di verificare in che modo la Scienza Aperta si ripercuota nel loro lavoro.
+2.	Se il training é, in prevalenza, rivolto a ricercatori -a tutti i livelli-, in tal caso l´obiettivo principale é quello di verificare in che modo la Scienza Aperta si ripercuota sul loro lavoro.
 
 3.	Se il training é destinato ad analisti politici, dovreste focalizzare la vostra attenzione sulla definizione ed implementazione di una politica a sostegno della Scienza Aperta.
 
-4.	Se lo scopo é formare personale di enti finanziatori o analisti politici all´interno di un´istituzione in tal caso é importante dimostrare come si delinea, sviluppa e viene monitorata una politica.
+4.	Se lo scopo é formare personale di enti finanziatori o analisti politici all´interno di un´istituzione, in tal caso, é importante dimostrare come si delinea, sviluppa e viene monitorata una politica.
 
 
-### Elementi chiave
+### Componenti chiave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Sapere
@@ -32,18 +32,18 @@ Il formatore deve prendere in esame tutte le politiche che possono interessare a
 
 In secondo luogo, é opportuno prendere in esame qualsiasi politica o legge nazionale che puó interessare i ricercatori che praticano la Scienza Aperta, in particolare le leggi che contengono indicazioni sull´accesso aperto o decreti che hanno un effetto diretto su tesi di dottorato, candidature per progetti, etc.
 
-A livello nazionale, potrebbero esserci delle leggi o dei decreti che -direttamente o indirettamente- possono condizionare una politica o porre qualche requisito. A questo proposito, é possibile prendere visione delle politiche sull´Accesso Aperto nei paesi membri dell´Unione Europea in [OpenAIRE](https://www.openaire.eu/member-states-overview).
+A livello nazionale, potrebbero esserci delle leggi o dei decreti che -direttamente o indirettamente- possono condizionare una politica o imporre qualche requisito. A questo proposito, é possibile prendere visione delle politiche sull´Accesso Aperto nei paesi membri dell´Unione Europea in [OpenAIRE](https://www.openaire.eu/member-states-overview).
 
 Per il fatto che la Scienza é per sua natura internazionale, é necessario prendere atto dell´esistenza o meno di politiche internazionali che possono riguardare i partecipanti, in particolare quelle poste da enti finanziatori internazionali. A livello europeo, ci sono le politiche incluse in  [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) e che si riferiscono alla disseminazione dei prodotti della ricerca ma potrebbero esserci anche altre politiche che interessano altre fasi del ciclo della ricerca.
 
-Sempre a livello internazionale, anche alcuni editori hanno introdotto alcune nuove politiche che riguardano in particolare la pubblicazione dei dati della ricerca in concomitanza alla presentazione di un articolo.
+Sempre a livello internazionale, anche alcuni editori hanno introdotto alcune nuove politiche che riguardano in particolare la pubblicazione dei dati della ricerca in concomitanza con la presentazione di un articolo.
 
-Se i partecipanti al corso desiderano definire una scaletta o un programma per l´implementazione di una politica di Scienza Aperta a livello nazionale é consigliabile rintracciare ció che é stato fatto in altri stati. Come punto di partenza, la [2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) potrebbe contenere alcuni degli argomenti che devono necessariamente essere presi in considerazione e chi sono i destinatari. Ci sono esempi dai [Paesi Bassi](https://www.openscience.nl/), dal [Portogallo](http://www.ciencia-aberta.pt) o [Finlandia](https://openscience.fi/) che possono fornire spunti su come programmare delle politiche nazionali, delineare qualche azione e trovare informazioni su come si possano misurare nel momento in cui vengono messe in pratica. 
+Se i partecipanti al corso desiderano definire un'agenda o un programma per l´implementazione di una politica di Scienza Aperta a livello nazionale é consigliabile rintracciare ció che é stato fatto in altri Stati. Come punto di partenza, la [2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) potrebbe contenere alcuni degli argomenti che devono necessariamente essere presi in considerazione e chi siano i destinatari. Ci sono esempi dai [Paesi Bassi](https://www.openscience.nl/), dal [Portogallo](http://www.ciencia-aberta.pt) o [Finlandia](https://openscience.fi/) che possono fornire spunti su come programmare delle politiche nazionali, delineare qualche azione e trovare informazioni su come si possano misurare nel momento in cui vengono messe in pratica. 
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
 
-I participanti dovrebbe individuare le caratteristiche principali di ogni politica: principalmente chi sono i destinatari, quali i requisiti e in che modo coincidono gli uno con gli altri. 
+I participanti dovrebbe individuare le caratteristiche principali di ogni politica: principalmente chi sono i destinatari, quali i requisiti e in che modo coincidono gli uni con gli altri. 
 
 Il formatore puó mostrare come i ricercatori possono ottemperare alle diverse politiche: quali sono i servizi e gli strumenti che la loro istituzione puó fornirgli ma anche dove possono trovare delle possibili alternative. Ad esempio, potrebbe capitare che un´istituzione non metta a disposizione un´infrastruttura per il deposito e la pubblicazione dei dati della ricerca ma puó segnalare delle soluzione esterne che possono soddisfare questo requisito. È altresì utile confrontare queste soluzioni con altre opzioni esterne che non soddisfano le caratteristiche richieste.
 
@@ -51,7 +51,7 @@ Nel momento in cui ai participanti viene chiesto di prefigurare una politica di 
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Domande, ostacoli e frequenti fraintendimenti 
+### Domande, intoppi ed equivoci comuni 
 
 Esiste un modo per ottemperare ai requisiti posti, senza perdere la libertá, ad esempio, di decidere dove pubblicare é la domanda piú frequente che viene posta dai ricercatori  durante la formazione. Nel vostro ruolo di formatori, dovreste poter descrivere tutte le opzioni che i ricercatori hanno a disposizione dato che, in generale, le politiche sulla Scienza Aperta lasciano aperte una serie di opzioni.
 
@@ -64,10 +64,10 @@ Quando si progetta una politica é importante avere bene in mente ció che si in
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Risultati di apprendimento 
 
-1.	I partecipanti avranno imparato ad identificare i requisiti di ogni politica che potrebbe riguardarli in attivitá connesse alla Scienza Aperta.
-2.	Saranno in grado di distinguere tra politiche generali come diritto d´autore o protezione dei dati e altre politiche specifiche collegate alla Scienza Aperta ,ad esempio, in relazione alle procedure previste per la disseminazione dei prodotti della ricerca.
-3.	Saranno in grado di riconoscere le fasi attuative di una determinata politica
-4.	I partecipanti che avranno seguito un la sessione sul policy making saranno in grado di pianificare una politica di Scienza Aperta stabilendo obiettivi e indicatori per misurare il livello di attuazione. 
+1.	I partecipanti imparano ad identificare i requisiti di ogni politica che potrebbe riguardarli in attivitá connesse alla Scienza Aperta.
+2.	Sono in grado di distinguere tra politiche generali come il diritto d´autore o la protezione dei dati e altre politiche specifiche collegate alla Scienza Aperta, in relazione, ad esempio, alle procedure previste per la disseminazione dei prodotti della ricerca.
+3.	Sono in grado di riconoscere le fasi attuative di una determinata politica.
+4.	I partecipanti che avranno seguito un la sessione sul policy making saranno in grado di pianificare una politica di Scienza Aperta stabilendo obiettivi e indicatori per misurare il livello di implementazione. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
