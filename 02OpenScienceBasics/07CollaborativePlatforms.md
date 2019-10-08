@@ -29,7 +29,7 @@ Gli ambienti virtuali di ricerca \(Virtual Research Environment)\ e le piattafor
 
 **Ambienti di ricerca virtuali \(VREs)\**
 
-Gli ambienti di ricerca virtuali si possono definire come "ambienti innovativi, dinamici e onnipresenti, di supporto alla ricerca, attraverso i quali degli scienziati distanti gli uni dagli altri possono accedere senza alcuna difficoltà a dati, software e risorse di elaborazione gestite da diversi sistemi in distinti domini amministrativi attraverso il loro browser" \[Candela, Castelli and Pagano, 2013]\(https://doi.org/10.2481/dsj.GRDI-013)\).
+Gli ambienti di ricerca virtuali si possono definire come "ambienti innovativi, dinamici e onnipresenti, di supporto alla ricerca, attraverso i quali degli scienziati distanti gli uni dagli altri possono accedere senza alcuna difficoltà a dati, software e risorse di elaborazione gestite da diversi sistemi in distinti domini amministrativi attraverso il loro browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\). 
 
 Un aspetto importante in questo contesto è la natura strettamente disciplinare di molti di questi strumenti. La Commissione europea ha finanziato una serie di VRE specifici per le varie comunità scientifiche nell'ambito del flusso di finanziamento e-Infrastructure, per consentire ai ricercatori di svolgere in modo collaborativo attività complesse come l'integrazione di dati eterogenei da più fonti, la realizzazione di modelli, la simulazione, l’esplorazione, l’estrazione e la visualizzazione dei dati:
 
