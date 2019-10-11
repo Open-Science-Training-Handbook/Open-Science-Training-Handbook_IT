@@ -259,7 +259,7 @@ Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
 ### Katia Piccoli
 
-
+![Katia Piccoli_03](https://user-images.githubusercontent.com/48010221/66644041-47d8a600-ec20-11e9-83ba-76cc935bdf04.jpg)
 
 * Università degli studi di Trento. Direzione Ricerca e Sistema Bibliotecario di Ateneo
 * [katia.piccoli@unitn.it](mailto:katia.piccoli@unitn.it)
