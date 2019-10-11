@@ -257,7 +257,7 @@ Ho aderito con entusiasmo a questa iniziativa, perché credo nell’assoluta nec
 
 Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
-### Piccoli Katia
+### Katia Piccoli
 
 ![Katia Piccoli_03](https://user-images.githubusercontent.com/48010221/66643816-d26cd580-ec1f-11e9-9bd7-368f9c9787ae.jpg)
 
