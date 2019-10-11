@@ -8,6 +8,8 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
+
 Sono impiegata presso l'Archivio dati delle Scienze Sociali” dove mi occupo principalmente di questioni relative all'accesso aperto dei dati della ricerca. Uno dei miei compiuti è quello di formare persone interessate ad approfondire tematiche come le politiche per i dati di ricerca, la pianificazione della gestione dei dati di ricerca, la citazione dei dati, le pubblicazioni di dati, ecc. Come membro del gruppo di formazione CESSDA ERIC cerco di condividere le mie conoscenze ed esperienze a livello internazionale.
 
 Durante i miei studi in Sociologia, mi sono stati insegnati i principi su cui si fonda la scienza, tra cui la trasparenza e la riproducibilità. Ma solo più tardi dai miei amici, un fisico e un ingegnere, sono venmuta a sapere del movimento Open Source. Ho subito capito quanto sia importante diffondere l'idea che non è giusto nascondere le proprie intuizioni e scoperte ma che serve condividerle con gli altri il più presto possibile. Solo quando ho iniziato a lavorare presso l'Archivio dati delle Scienze Sociali (Università di Lubiana, Slovenia) e sono stato fortemente coinvolta nel progetto Open data mi sono resa conto di quanto impegno fosse necessario per cambiare la cultura ed essere in grado di superare le barriere della non condivisione aperta dei risultati della ricerca. Spero che questo manuale aiuti a rendere la scienza il più possibile aperta e comprensibile.
@@ -31,6 +33,8 @@ Ci sono due grandi insidie per i formatori della scienza aperta, per come la ved
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/r9k729JROEE/0.jpg)](http://www.youtube.com/watch?v=r9k729JROEE "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
+
 Dal 1999 gestisco un programma di formazione in Bioinformatica presso l'Instituto Gulbenkian de Ciência, a Oeiras. In 19 anni sono state più di 5000 le persone che hanno preso parte ai corsi. Per raggiungere meglio gli studenti del 21° secolo abbiamo ampliato l’attività con l’insegnamento a distanza e con l'e-learning,.  Sono un sostenitore dell'accesso aperto, dei dati aperti della ricerca, del software libero e della scienza aperta e colgo ogni possibile occasione per trasmettere il senso di queste istanze nei miei corsi di formazione. Sono consapevole che questo movimento ha bisogno di crescere e raggiungere anche i non scienziati, quindi sono molto interessato alla sua divulgazione e diffusione.
 
 La scienza aperta è una tematica che richiede un periodo di formazione intenso ma fattibile. I sostenitori come me hanno bisogno di unire le forze perché si attualizzi ogni giorno. La formazione in scienza aperta è necessaria a molti livelli. Per affrontare il livello principianti, nel 2017, insieme a Rutger A.Vos abbiamo preparato l'e-book gratuito "Open Science, Open Data, Open Source" ([http://osodos.org](http://osodos.org)\). Più advocacy e formazione nel mio futuro.
@@ -43,6 +47,8 @@ La scienza aperta è una tematica che richiede un periodo di formazione intenso 
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
+
 Attualmente lavoro all'Università di Göttingen come responsabile del progetto OpenUP, un progetto finanziato dall'UE che mira a sviluppare un quadro coerente per nuovi metodi, indicatori e strumenti per la revisione tra pari, la diffusione dei risultati della ricerca e la misurazione dell'impatto. Da oltre 10 anni mi occupo di gestione della conoscenza e di programmi correlati alla scienza/accesso aperti.
 
 Lavorando su progetti di scienza aperta ho avuto l'opportunità di conoscere sia l’eterogenea comunità dei sostenitori di scienza aperta che gruppi di ricercatori e decision maker riluttanti e scettici, in entrambi i casi mi sono sentito motivato ad approfondire maggiormente il discorso della scienza aperta, a seguirne gli sviluppi e a conoscerne gli strumenti e i metodi per parlare efficacemente dei benefici e delle sfide che dobbiamo affrontare nel mondo in continua evoluzione della comunicazione scientifica.
@@ -54,6 +60,8 @@ Lavorando su progetti di scienza aperta ho avuto l'opportunità di conoscere sia
 * [kerstin.helbig@cms.hu-berlin.de](mailto:kerstin.helbig@cms.hu-berlin.de)
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig](http://img.youtube.com/vi/uC02v5JuTlo/0.jpg)](http://www.youtube.com/watch?v=uC02v5JuTlo "Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig")
 
 Sono coordinatore per la gestione dei dati di ricerca presso la Humboldt-Universität zu Berlin. In qualità di consulente, assisto i ricercatori nella gestione dei loro dati di ricerca e organizzo corsi di formazione e sessioni informative.
 
@@ -76,6 +84,8 @@ La formazione in scienza aperta è gratificante perché non si tratta solo di in
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
+
 Ho conseguito un dottorato di ricerca in Fisica presso l’Università di Barcellona (UB) nel 2000. Adesso, mi dedico alla scienza aperta nella veste di Responsabile dell'Ufficio per la diffusione della conoscenza (http://crai.ub.edu/en/crai-services/intellectual-property) presso il CRAI dell'UB e come leader pubblico dei Creative Commons in Spagna dal 2003 quando furono introdotti.
 
 Spero che nel prossimo futuro non ci sarà bisogno di formazione sulla scienza aperta perché quelle pratiche, ora descritte qui, saranno quelle applicate di default; che non sarà più necessario attaccare l'open tag e che i ricercatori dovranno giustificare perché non danno accesso ad alcuni dei loro risultati o attività. Penso che questo libro possa contribuire a raggiungere questa situazione ottimale mettendo in evidenza molte prassi consolidate e esempi fattibili per fare ricerca in maniera aperta.
@@ -88,6 +98,8 @@ Spero che nel prossimo futuro non ci sarà bisogno di formazione sulla scienza a
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
+[![Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer](http://img.youtube.com/vi/93CERDH4Lq0/0.jpg)](http://www.youtube.com/watch?v=93CERDH4Lq0 "Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer")
+
 Sono assistente professore di Ingegneria Meccanica presso la Oregon State University di Corvallis, Oregon, USA. Il mio gruppo di ricerca studia la combustione e i flussi di fluidi utilizzando simulazioni al computer, e sviluppa metodi numerici e strategie di calcolo parallelo. Sostenitore della scienza aperta!
 
 Da studente ho spesso affrontato ostacoli nel condurre le mie ricerche a causa di software non condivisi apertamente; ora, come leader di un gruppo di ricerca, i miei studenti ed io affrontiamo le sfide poste dalla disponibilità di dati e dalla formattazione quando lavoriamo con i risultati in letteratura. Tuttavia, mostrare semplicemente agli altri quanto sia facile condividere apertamente i prodotti della ricerca può essere sufficiente a catalizzare il cambiamento, così come può esserlo dare l’esempio.
@@ -99,6 +111,8 @@ Da studente ho spesso affrontato ostacoli nel condurre le mie ricerche a causa d
 * [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr)
 * [@fopsom](https://twitter.com/fopsom)
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
 Fotis è un bioinformatico presso l'Istituto di Bioscienze Applicate (INAB\(INAB\|CERTH\) a Salonicco. Ha conseguito il dottorato di ricerca in Ingegneria Elettrica e Informatica nel 2010 con specializzazione in Bioinformatica e infrastrutture elettroniche ed è particolarmente interessato ai metodi aperti e riproducibili. Dedica molto tempo ad attività di formazione, sia all'interno di strutture accademiche formali che in eventi organizzati da Carpentries come istruttore e formatore certificato. Sul suo sito web si diverte tra bit.
 
@@ -123,6 +137,8 @@ Anche se pianificare e organizzare eventi formativi è molto impegnativo, formar
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by René Schneider](http://img.youtube.com/vi/PoaqS3cp6PI/0.jpg)](http://www.youtube.com/watch?v=PoaqS3cp6PI "Writing the Open Science Training Handbook - an author's perspective by René Schneider")
+
 René Schneider è professore di Scienze dell'informazione presso la Scuola di amministrazione aziendale di Ginevra (che parte della Scuola universitaria professionale della Svizzera occidentale). Formatosi inizialmente come linguista computazionale, si interessa principalmente ai dati e a tutti i loro aspetti.
 
 Ho scoperto di recente il campo della gestione dei dati di ricerca e mi sono impegnato soprattutto a causa della complessità e dell'alto potenziale della scienza aperta. Dopo aver gestito un progetto su come formare i bibliotecari a diventare istruttori per la gestione dei dati di ricerca (www.researchdatamanagement.ch\\), mi sono reso conto che la scienza aperta apre le porte, porta ad una migliore comprensione e riutilizzo dei risultati scientifici e infine collega la torre d'avorio accademica al mondo esterno.
@@ -134,6 +150,8 @@ Ho scoperto di recente il campo della gestione dei dati di ricerca e mi sono imp
 * [jon.tennant.2@gmail.com](mailto:jon.tennant.2@gmail.com)
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
 Jon ha terminato il suo pluripremiato dottorato di ricerca in Paleontologia all'Imperial College di Londra nel 2017 e nel 2015 per due anni è stato direttore della comunicazione di ScienceOpen. Attualmente, sta continuando in modo indipendente la sua ricerca sull'evoluzione dei dinosauri, mentre lavora alla costruzione di un MOOC a scienza aperta per aiutare a formare la prossima generazione di ricercatori in pratiche aperte. Ha pubblicato articoli su Open Access e Peer Review, è attualmente a capo dello sviluppo del documento Foundations for Open Science Strategy, ed è il fondatore della piattaforma di editoria digitale paleorXiv. Jon è anche ambasciatore di ASAPbio e del Center for Open Science, mentore di Mozilla Open Leadership e co-governatore dell'Open Science di Berlino. È anche un comunicatore e consulente scientifico freelance, e ha scritto un libro per bambini chiamato Excavate Dinosaurs.
 
@@ -167,6 +185,8 @@ Ho avuto la fortuna di guadagnarmi da vivere con la formazione di altri scienzia
 
 
 ## Facilitatori 
+
+[![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
 ### Helene Brinken
 
