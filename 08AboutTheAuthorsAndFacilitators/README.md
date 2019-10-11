@@ -259,19 +259,17 @@ Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
 ### Piccoli Katia
 
+![Katia Piccoli_03](https://user-images.githubusercontent.com/48010221/66643566-46f34480-ec1f-11e9-85ab-7a44b822c1ac.jpg)
 
+* Università degli studi di Trento. Direzione Ricerca e Sistema Bibliotecario di Ateneo
+* [katia.piccoli@unitn.it](mailto:katia.piccoli@unitn.it)
 
-Università degli studi di Trento. Direzione Ricerca e Sistema Bibliotecario di Ateneo
-katia.piccoli@unitn.it
-
- 
-Sono catalogatrice e bibliotecaria dal 1996 e da allora ho lavorato in varie biblioteche della Provincia di Trento, sia pubbliche che specialistiche. Dal 2001 lavoro presso il Sistema bibliotecario dell'ateneo di Trento, Ufficio Pubblicazioni scientifiche - Open Access, Anagrafe Ricerca, Editoria.
+ Sono catalogatrice e bibliotecaria dal 1996 e da allora ho lavorato in varie biblioteche della Provincia di Trento, sia pubbliche che specialistiche. Dal 2001 lavoro presso il Sistema bibliotecario dell'ateneo di Trento, Ufficio Pubblicazioni scientifiche - Open Access, Anagrafe Ricerca, Editoria.
 
 Mi occupo in particolare del catalogo IRIS, l'archivio istituzionale della ricerca ad accesso aperto, facendo manutenzione e mantenendo i contatti con Cineca, preparando la manualistica, monitorando inserimenti e validando le pubblicazioni, facendo helpdesk ai docenti e supportandoli in relazione alle diverse valutazioni (es. Accreditamento collegio dottorati, VQR, ASN, SUA-RD etc.). La consulenza ai docenti mira anche a promuovere l'Accesso Aperto e a dare supporto affinché i risultati delle loro ricerche possano essere disseminati e diffusi al di fuori degli interessi economici dei grandi colossi editoriali.
 
 Ho contribuito alla traduzione dell’Open Science Training Handbook perché credo nella Scienza Aperta e credo che anche la traduzione di questo manuale contribuisca a rafforzare l'importanza del superamento delle barriere di un sapere chiuso e legato a interessi economici a favore di una scienza universale e di un sapere libero e partecipativo.
 D'altra parte la mission di un bibliotecario è proprio quella di contribuire alla diffusione dell'informazione, della cultura e del sapere in modo libero democratico e gratuito, favorendo e promuovendo l'incremento della conoscenza e dell'integrazione.
-
 
 ### Giorgio Signorini
 
