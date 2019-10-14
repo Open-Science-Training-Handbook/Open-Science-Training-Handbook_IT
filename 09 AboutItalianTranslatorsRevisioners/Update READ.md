@@ -2,6 +2,8 @@
 
 ### Roberta Moscon
 
+![Roberta Mosconb](https://user-images.githubusercontent.com/48010221/66735061-9925a700-ee65-11e9-9618-97acad5074d6.jpg)
+
 * Università degli Studi di Trento
 * [roberta.moscon@unitn.it](mailto:roberta.moscon@unitn.it)
 * [@openscienceit](https://twitter.com/openscienceit)
