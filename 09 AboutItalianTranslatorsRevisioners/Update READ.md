@@ -2,6 +2,8 @@
 
 ### Benedetta Calonaci 
 
+![Benedetta Calonaci](https://user-images.githubusercontent.com/48010221/66735313-4f898c00-ee66-11e9-81e4-31f74854ecd6.jpg)
+
 * Università di Firenze – Biblioteca di scienze sociali
 * [benedetta.calonaci@unifi.it](mailto:benedetta.calonaci@unifi.it)
 
