@@ -15,6 +15,8 @@ Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'acc
 
 ### Rossana Morriello
 
+![Rossana_Morriello_edited_edited](https://user-images.githubusercontent.com/48010221/66735601-17367d80-ee67-11e9-9139-a54186d50863.jpg)
+
 * Politecnico di Torino 
 * [rossana.morriello@upolito.it](mailto:rossana.morriello@polito.it) 
 * @rox_more
