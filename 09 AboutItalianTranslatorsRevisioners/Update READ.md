@@ -1,5 +1,16 @@
 ## Traduttori e revisori che hanno collaborato alla versione italiana del Manuale
 
+### Benedetta Calonaci 
+
+* Università di Firenze – Biblioteca di scienze sociali
+* [benedetta.calonaci@unifi.it](mailto:benedetta.calonaci@unifi.it)
+
+Dopo la laurea in Lettere antiche all'Università di Pisa nel 1996, ho conseguito il Diploma presso la Scuola Vaticana di Biblioteconomia. Ho cominciato a lavorare come bibliotecaria nel 1999 presso la biblioteca Formez di Roma. Successivamente, sono stata Librarian per l'UNICEF Innocenti Research Centre e, dal 2006, Bibliotecaria all'Università di Firenze, nella Biblioteca di scienze sociali, dove mi occupo principalmente della gestione delle risorse elettroniche e sono documentalista per il Centro di documentazione europea.
+
+Nel mio percorso lavorativo ho avuto l'opportunità di confrontarmi con tutti gli aspetti della biblioteconomia, dalla catalogazione all'information literacy, dal reference ai servizi agli utenti, e mi sono convinta del ruolo strategico dei bibliotecari nel promuovere una scienza aperta, inclusiva e sostenibile. Per questo ho aderito con entusiasmo al progetto di traduzione del Foster Manual, per poter dare il mio contributo alla diffusione di uno strumento a supporto di quanti vogliano intraprendere un percorso di formazione sui temi della Scienza aperta.
+
+Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'accesso aperto, e del Gruppo di lavoro APRE - Open Science; nell'ambito delle attività della Biblioteca di scienze sociali e del Centro di documentazione europea porto avanti iniziative ed eventi per promuovere l’Open access nella mia comunità accademica.
+
 ### Roberta Moscon
 
 ![Roberta Mosconb](https://user-images.githubusercontent.com/48010221/66735061-9925a700-ee65-11e9-9618-97acad5074d6.jpg)
