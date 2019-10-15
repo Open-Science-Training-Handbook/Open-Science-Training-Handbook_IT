@@ -134,6 +134,17 @@ Attualmente Bibliotecaria (delibera E/2014/0178 Associazione Italiana Bibliotech
 Ho partecipato alla traduzione di The Open Science Training Handbook perché ritengo che tradurre sia uno degli strumenti per diffondere in modo capillare i contenuti e perché i contenuti dell'Handbook possano far crescere la consapevolezza intorno ai temi chiave della Scienza aperta. Ho trovato molto positivo lavorare in un team dinamico che ha svolto tutte le attività online in modo efficace e rapido.
 Come bibliotecaria e documentalista credo che l'Accesso aperto (e più in generale la Scienza aperta), sia vantaggioso per gli utenti delle biblioteche, che attraverso esso possono traguardare la loro mission di diffusione dell'informazione verso tutti. L'accesso aperto, inoltre promuove l'eccellenza dell'attività scientifica dell'Istituzione e facilita i giovani ricercatori permettendo loro di far conoscere i risultati della ricerca.
 
+### NIcoletta Zar
+
+* The Abdus Salam International Centre for Theoretical Physics - Marie Curie Library
+* [zar@icpt.it](mailto: zar@icpt.it)
+
+Nicoletta Zar, triestina, di formazione umanistica ha lavorato in ambito editoriale e bibliotecario. Da metà 2017 è responsabile dei servizi bibliotecari al Centro Internazionale di Fisica Teorica “Abdus Salam” di Trieste (ICTP), dove da trent'anni si è occupata di periodici e risorse elettroniche, e di iniziative per favorire l’accesso libero all'informazione scientifica con particolare riguardo ai ricercatori che lavorano nei paesi più poveri.
+
+La Marie Curie Library dell’ICTP è una biblioteca specializzata in fisica, matematica, fisica del sistema terra, fisica applicata e scienze quantitative della vita. Con la sua ricca collezione serve gli oltre 5.000 scienziati che da tutto il mondo ogni anno visitano l'ICTP, oltre che ricercatori della comunità scientifica triestina. L’ICTP è un istituto internazionale, fondato nel 1964 su un accordo tripartito (Governo Italiano - IAEA - UNESCO) e porta avanti una doppia missione: condurre ricerca di alto livello e offrire opportunità di formazione per promuovere la scienza nei paesi in via di sviluppo. 
+
+A contatto giornaliero con ricercatori che lavorano nei paesi più poveri ho appreso da loro difficoltà ed ostacoli che il non avere accesso all'informazione scientifica comporta, e di quanto la scienza chiusa contribuisca ad approfondire il divario tra mondi con diverse possibilità. Dopo decenni di discussioni, mi auguro che gli sviluppi recenti in tema di scienza aperta possano eliminare le differenze tra i mondi e che tutti possano accedere e contribuire all'informazione scientifica sulla base di un modello rispettoso degli Obiettivi di Sviluppo Sostenibile dell'Agenda 2030, perché nessuno sia lasciato indietro e perché tutti possano contribuire al progresso
+
 
 
 
