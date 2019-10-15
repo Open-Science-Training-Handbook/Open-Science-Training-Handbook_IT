@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 ## Processi di apprendimento e formazione
 
-Questo capitolo fornisce un quadro di riferimento delle strategie didattiche, una guida pratica per la progettazione di un corso e una panoramica delle teorie pedagogiche, focalizzandosi su tre concetti chiave della didattica e della formazione:
+Questo capitolo fornisce un quadro di riferimento delle strategie didattiche, una guida pratica per la progettazione di un corso e una panoramica delle teorie pedagogiche, focalizzandosi su tre seguenti concetti chiave della didattica e della formazione:
 
 1. Preparazione
 
@@ -9,17 +9,17 @@ Questo capitolo fornisce un quadro di riferimento delle strategie didattiche, un
 
 3. Riflessione
 
-Prima ancora del corso in sé stesso, ciò di cui insegnamento e formazione si occupano è la fase di preparazione. Questa include la selezione dei contenuti e dei metodi didattici più appropriati e della loro organizzazione al fine di ottenere la massima efficacia ed impatto dal percorso di formazione. Solo in un secondo momento, l'insegnamento consiste nell'erogazione del corso (il modo in cui si agisce e interagisce con i partecipanti). Anche nel caso in cui si  fosse perfettamente preparati su un certo argomento, è preferibile evitare di iniziare il corso prima di aver terminato la fase di preparazione. Potrebbe inoltre essere necessario testare il contenuto, in particolare le esercitazioni pratiche. Durante il corso sarà necessaria molta flessibilità, perché di rado le cose vanno secondo le proprie aspettative. Per finire, la didattica riguarda anche la valutazione e l'autovalutazione a fine corso. Con molta probabilità è necessario dedicarsi allo stesso corso o ad un corso simile più volte, in particolare se la valutazione risulta positiva.
+Prima ancora del corso in sé stesso, ciò di cui insegnamento e formazione si occupano è la fase di preparazione. Questa include la selezione dei contenuti e dei metodi didattici più appropriati e della loro organizzazione al fine di ottenere la massima efficacia ed impatto dal percorso di formazione. Solo in un secondo momento, l'insegnamento consiste nell'erogazione del corso (il modo in cui si agisce e interagisce con i partecipanti). Anche nel caso in cui si  fosse perfettamente preparati su un certo argomento, è preferibile evitare di iniziare il corso prima di aver terminato la fase di preparazione. Potrebbe inoltre essere necessario testare il contenuto, in particolare le esercitazioni pratiche. Durante il corso sarà necessaria molta flessibilità, perché di rado le cose vanno secondo le proprie aspettative. Per finire, la didattica riguarda anche la valutazione e l'autovalutazione a fine corso. Con molta probabilità è necessario dedicarsi allo stesso corso o ad un corso similare più volte, in particolare se la valutazione risulta positiva.
 
-Per una migliore preparazione, è opportuno riflettere su ciò che è andato bene e su ciò che invece non ha funzionato e usare questa valutazione per calibrare la preparazione e l’erogazione dei corsi strada facendo. In breve, in ogni corso c'è un "prima", un "durante" e un "dopo", in una sorta di processo ciclico come avviene per il processo scientifico stesso. Questo capitolo fornisce una guida pratica per i formatori su come preparare e svolgere un corso destinati a tipologie di pubblico diversi: quali sono i principali ostacoli da superare e quali sono i principali problemi da tenere presenti quando si prepara un evento di formazione.
+Per una migliore preparazione, è opportuno riflettere su ciò che è andato bene e su ciò che invece non ha funzionato e usare questa valutazione per calibrare la preparazione e l’erogazione dei corsi strada facendo. In breve, in ogni corso c'è un "prima", un "durante" e un "dopo", in una sorta di processo ciclico come avviene per il processo scientifico stesso. Questo capitolo fornisce una guida pratica per i formatori su come preparare e tenere dei corsi destinati a tipologie di platea diversi: quali sono i principali ostacoli da superare e quali sono i principali problemi da tenere presenti quando si prepara un evento di formazione.
 
 ## Alcune riflessioni prima di iniziare
 
-I paragrafi che seguono vertono principalmente sul primo aspetto \(la preparazione)\; in seguito verranno fornite indicazioni su come pianificare e gestire il corso. Per cominciare, verranno presentate alcune questioni teoriche per dare un'idea di cosa significa insegnare e apprendere e di quanto l'insegnamento degli adulti differisca dall'insegnamento degli adolescenti o ai bambini.
+I paragrafi che seguono vertono principalmente sul primo aspetto \(la preparazione)\; in seguito verranno fornite indicazioni su come pianificare e gestire il corso. Per cominciare, verranno presentate alcune questioni teoriche per dare un'idea di cosa significa insegnare e apprendere e di quanto l'insegnamento degli adulti differisca dall'insegnamento degli adolescenti o dei bambini.
 
-### Formazione vs. insegnamento
+### Formazione Vs.insegnamento
 
-* L'insegnamento, rispetto alla formazione, si basa maggiormente su concetti teorici; la formazione invece rimanda all'applicazione pratica della conoscenza \(ovvero allo sviluppo di compentenze)\.
+* L'insegnamento, rispetto alla formazione, si basa prevalentemente su concetti teorici; la formazione invece rimanda all'applicazione pratica della conoscenza \(ovvero allo sviluppo di competenze)\.
 
 * L'insegnamento cerca di trasmettere conoscenze nuove; la formazione correda invece la teoria che si è appresa con strumenti e tecniche finalizzate all’acquisizione di un determinato set di competenze.
 
@@ -33,15 +33,15 @@ Comunque...
 
 * L'insegnamento può includere anche attività e obiettivi tipici della formazione, come sessioni pratiche e dimostrazioni.
 
-* Anche se le tecniche didattiche possono a volte variare tra loro, la differenza tra formazione e insegnamento non dipende dal processo stesso, ma dal focus che nella formazione di solito è più specifico.
+* Anche se le tecniche didattiche possono a volte variare tra loro, la differenza tra formazione e insegnamento non dipende dal processo stesso, ma dal focus, che nella formazione -di solito- è più specifico.
 
-* Al fine di sviluppare competenze come professionista, una persona ha bisogno di comprendere i concetti teorici e avere una esposizione orientata alla pratica. Pertanto, l'insegnamento e la formazione sono concetti educativi ugualmente importanti e complementari.
+* Al fine di sviluppare competenze da professionista, una persona ha bisogno di comprendere i concetti teorici e avere una esposizione orientata alla pratica. Pertanto, l'insegnamento e la formazione sono concetti educativi ugualmente importanti e complementari.
 
 ![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
 
 ### Strategie
 
-Ci sono diversi approcci teorici alla didattica e alla formazione, a volte influenzati anche dalla cultura in cui ci si trova. Ad alcune persone piace parlare e tenere conferenze. Ad altri piace ascoltare, ad altri no. Alcuni esercizi sono semplici e richiedono risposte chiare. Altri sono incentrati sul problem solving e si concentrano sul dare ai partecipanti tempo e spazio per riflettere e trovare soluzioni. Alcuni corsi di formazione, infine, sono progettati per offrire ai partecipanti la massima libertà e permettere loro di essere il più creativi possibile. Valutare quanto un corso di questi sia stato più o meno di successo è più difficile da valutare.
+Ci sono diversi approcci teorici alla didattica e alla formazione, a volte influenzati anche dalla cultura in cui ci si trova. Ad alcune persone piace parlare e tenere conferenze. Ad altri piace ascoltare, ad altri no. Alcuni esercizi sono semplici e richiedono risposte chiare. Altri sono incentrati sulla risoluzione dei problemi e si concentrano sul dare ai partecipanti tempo e spazio per riflettere e trovare soluzioni. Alcuni corsi di formazione, infine, sono progettati per offrire ai partecipanti la massima libertà e permettere loro di essere il più creativi possibile. Valutare quanto un corso di questi sia stato più o meno di successo è più difficile da valutare.
 
 Le quattro teorie dell'apprendimento più note sono: comportamentismo, cognitivismo, connettivismo e costruttivismo. Ognuna di queste descrive una diversa prospettiva su come le persone apprendono.
 
@@ -59,11 +59,11 @@ Per capire i processi di apprendimento può essere di aiuto anche il lavoro di S
 
 ### Il “Connected Curriculum Framework”
 
-Il recente movimento "Connected Curriculum Framework" si è prefissato l’obiettivo di modernizzare i metodi didattici e di adattarli allo studente del XXI secolo. Il fine generale del framework è di migliorare le relazioni tra la didattica rivolta agli studenti e i processi della ricerca scientifica, abbattendo inutili divisioni. Il Connected Curriculum Framework valuta gli scambi costruttivi, la ricerca attiva, la collaborazione e le interazioni tra studenti e ricercatori, oltre a quelle con università e comunità più ampie. Ciò porta interessanti spunti negli ambiti della scienza aperta, della scienza partecipativa e del crowdsourcing, ecc.  Puoi leggere il “Connected Curriculum”qui: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+Il recente movimento "Connected Curriculum Framework" si è prefissato l’obiettivo di modernizzare i metodi didattici e di adattarli allo studente del XXI secolo. Il fine generale del framework è di migliorare le relazioni tra la didattica rivolta agli studenti e i processi della ricerca scientifica, abbattendo inutili divisioni. Il Connected Curriculum Framework valuta gli scambi costruttivi, la ricerca attiva, la collaborazione e le interazioni tra studenti e ricercatori, oltre a quelle con università e comunità più ampie. Ciò porta interessanti spunti negli ambiti della scienza aperta, della scienza partecipativa e del crowdsourcing, ecc.  Puoi consultare il “Connected Curriculum” qui: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
 #### Quanto tutto questo può esserti utile?
 
-E’ importante sapere che ci sono approcci differenti e che non c’è alcun obbligo a seguire una sola strategia; si può piuttosto decidere quale pratica didattica applicare in qualsiasi momento del corso di formazione per poi quindi valutarla.
+E’ importante sapere che ci sono approcci differenti e che non si è obbligati a seguire una sola strategia; si può piuttosto decidere quale pratica didattica applicare in qualsiasi momento del corso di formazione per poi quindi valutarla.
 
 Alla fin fine ciò che conta è la pratica. Potrebbe essere utile controllare il contenuto del corso e le esercitazioni pratiche in rapporto ad uno degli approcci teorici per scoprire se sono appropriati in un determinato momento e con un particolare platea.
 
