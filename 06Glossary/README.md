@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
-## Glossary
+## Glossario
 
 **Altmetrics**
 
@@ -189,7 +189,7 @@
 
 * Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
 
-## Additional Resources
+## Risorse aggiuntive
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
 
