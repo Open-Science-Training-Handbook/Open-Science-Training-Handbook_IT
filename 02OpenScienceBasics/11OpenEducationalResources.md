@@ -7,7 +7,7 @@ Le risorse aperte per l’insegnamento e l’apprendimento (OEC - Open Education
 
 ### Fondamenti 
 
-In molti casi, le risorse aperte per l’insegnamento e l’apprendimento sono create sulla base dei risultati della ricerca. Chi pratica la Scienza Aperta dovrebbe coerentemente mantenere lo stesso livello di apertura della ricerca anche per le risorse didattiche. Altri formatori potrebbero inoltre usare il materiale per l’elaborazione di nuove risorse o per adattare quelle esistenti. La creazione di risorse per l’insegnamento e l’apprendimento può essere infatti considerata alla stregua del ciclo di ricerca: trovare, comporre, adattare, usare, e condividere ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle] wikieducator.org/OER_Handbook/educator/OER_Lifecycle))
+In molti casi, le risorse aperte per l’insegnamento e l’apprendimento sono create sulla base dei risultati della ricerca. Chi pratica la Scienza Aperta dovrebbe coerentemente mantenere lo stesso livello di apertura della ricerca anche per le risorse didattiche. Altri formatori potrebbero inoltre usare il materiale per l’elaborazione di nuove risorse o per adattare quelle esistenti. La creazione di risorse per l’insegnamento e l’apprendimento può essere infatti considerata alla stregua del ciclo di ricerca: trovare, comporre, adattare, usare, e condividere  ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Risultati dell’apprendimento 
