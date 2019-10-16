@@ -164,7 +164,7 @@ Risposta: "Non per forza tanto! Rendere i dati FAIR non è solo responsabilità 
 
 Domanda: "Voglio condividere i miei dati. Quale licenza è meglio che io scelga?
 
-Risposta: "Questa è una buona domanda. Prima di tutto dovete domandarvi di chi sono i dati: dell’ente finanziatore della ricerca o dell'istituzione presso la quale lavorate? Pensate poi alla paternità. Applicare una licenza adeguata ai dati è fondamentale per renderli riutilizzabili. Per maggiori informazioni sulle licenze, [cfr. Capitolo 6. Licenze aperte e formati di file](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats)
+Risposta: "Questa è una buona domanda. Prima di tutto dovete domandarvi di chi sono i dati: dell’ente finanziatore della ricerca o dell'istituzione presso la quale lavorate? Pensate poi alla paternità. Applicare una licenza adeguata ai dati è fondamentale per renderli riutilizzabili. Per maggiori informazioni sulle licenze, ([cfr. Capitolo 6. Licenze aperte e formati di file](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats)).
 
 Domanda: "Non posso rendere i miei dati subito disponibili - sono troppi per poterli condividere facilmente / hanno restrizioni di riservatezza. Cosa devo fare?
 
