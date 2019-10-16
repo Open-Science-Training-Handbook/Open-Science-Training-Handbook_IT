@@ -1,39 +1,33 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Open Research Data and Materials
+## 2. Dati della ricerca e materiali aperti 
 
-### What is it?
+### Di che cosa si tratta?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
-
+I dati della ricerca aperti sono dati accessibili, ri-utilizzabili, modificabili e ri-distribuibili liberamente per finalità accademiche, didattiche e non solo. Idealmente, i dati aperti possono essere ri-utilizzati o ri-distribuiti senza restrizioni, qualora la licenza lo permetta. In casi eccezionali, ad esempio per proteggere l’identità delle persone fisiche, sono stabilite delle restrizioni speciali o limitazioni all’accesso ai dati. La condivisione aperta dei dati ne aumenta l’esposizione contribuendo in questo modo a creare i presupposti per la verifica e la riproducibilità della ricerca nonché all’avvio di nuovi percorsi per una più ampia collaborazione. Al massimo, i dati aperti possono essere soggetti all'obbligo di attribuzione e condivisione \(cfr.[Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
+### Fondamenti 
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
-
+I dati della ricerca sono spesso il risultato più prezioso di molti progetti di ricerca, possono infatti essere utilizzati come fonti primarie a sostegno della ricerca scientifica e consentono di estrapolare risultati sia teorici sia applicativi. Al fine di rendere replicabili, o almeno riproducibili o riutilizzabili in qualsiasi altro modo \(see [Riproducibilità della ricerca e analisi dei dati](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) i dati della ricerca, la pratica migliore per il loro trattamento, deve essere il più possibile aperta e [FAIR](https://www.force11.org/fairprinciples), tenendo conto dei vincoli etici, commerciali e di riservatezza del trattamento di dati sensibili o dei dati chiusi.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
-### Learning objectives
+### Finalità didattiche 
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Essere in grado di convertire un insieme di dati "chiuso" in un insieme di dati "aperto", mettendo in atto le misure necessarie in un piano di gestione dei dati, con una gestione responsabile dei dati e dei metadati.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Essere in grado di utilizzare il piano di gestione dei dati di ricerca e di rendere i risultati della ricerca reperibili ed accessibili, anche se contengono dati sensibili.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Comprendere i pro e i contro della condivisione aperta delle diverse tipologie di dati (ad esempio, riservatezza, dati sensibili, anonimizzazione, accesso mediato).
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Comprendere l'importanza di servirsi di metadati appropriati per un'archiviazione sostenibile dei dati della ricerca.
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Comprendere i processi di lavoro di base nonchè gli strumenti per la condivisione dei dati della ricerca.
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
-
-7. Understand the basic workflows and tools for sharing research data.
-
-### Key components
+### Componenti chiave 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
+#### Conoscenze e competenze
+##### I principi FAIR 
 
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
 
