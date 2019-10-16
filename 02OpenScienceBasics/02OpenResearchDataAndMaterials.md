@@ -29,7 +29,7 @@ I dati della ricerca sono spesso il risultato più prezioso di molti progetti di
 #### Conoscenze e competenze
 ##### I principi FAIR 
 
-Nel 2014 vennero elaborati un gruppo di principi fondamentali, denominati i principi dei dati [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples), per ottimizzare la riutilizzabilità dei dati della ricerca. Essi rappresentano un insieme di linee guida e migliori pratiche sviluppate dalla comunità per garantire che i dati o qualsiasi oggetto digitale sia **F**indable / Rintracciabile, **A**ccessible / Accessibile, **I**nteroperable / Interoperabile e **R**e-usable / Riutilizzabile:
+Nel 2014 vennero elaborati un gruppo di principi fondamentali, denominati [principi dei dati FAIR](https://www.force11.org/group/fairgroup/fairprinciples), per ottimizzare la riutilizzabilità dei dati della ricerca. Essi rappresentano un insieme di linee guida e migliori pratiche sviluppate dalla comunità per garantire che i dati o qualsiasi oggetto digitale sia **F**indable / Rintracciabile, **A**ccessible / Accessibile, **I**nteroperable / Interoperabile e **R**e-usable / Riutilizzabile:
 
 **Rintracciabili:** La prima cosa da fare per rendere i dati e i metadati riutilizzabili è renderli rintracciabili facilitandone la ricerca sia per gli esseri umani che per i computer. Il recupero automatico e affidabile di set di dati e servizi dipende dagli identificatori persistenti \(PID\) e dai metadati leggibili dalle macchine.
 
