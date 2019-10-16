@@ -133,7 +133,7 @@ Oltre alla condivisione dei dati, l'apertura della ricerca si basa sulla condivi
 
 ###### Reagenti
 
-Un reagente è una sostanza, un composto o una miscela che può essere aggiunta ad un sistema per creare una reazione chimica o di qualsiasi altro tipo. I reagenti possono essere aggiunti in depositi come [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) per renderli facilmente accessibili ad altri ricercatori. Applicate una licenza ai vostri materiali di ricerca in modo che possano essere riutilizzati da altri ricercatori.
+Un reagente è una sostanza, un composto o una miscela che può essere aggiunta ad un sistema per creare una reazione chimica o di qualsiasi altro tipo. I reagenti possono essere aggiunti in depositi come [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), e [ATCC](https://www.atcc.org/) per renderli facilmente accessibili ad altri ricercatori. Applicate una licenza ai vostri materiali di ricerca in modo che possano essere riutilizzati da altri ricercatori.
 
 ###### Protocolli
 
