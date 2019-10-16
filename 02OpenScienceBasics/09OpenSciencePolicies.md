@@ -67,7 +67,7 @@ Quando si progetta una politica é importante avere bene in mente ció che si in
 1.	I partecipanti imparano ad identificare i requisiti di ogni politica che potrebbe riguardarli in attivitá connesse alla Scienza Aperta.
 2.	Sono in grado di distinguere tra politiche generali come il diritto d´autore o la protezione dei dati e altre politiche specifiche collegate alla Scienza Aperta, in relazione, ad esempio, alle procedure previste per la disseminazione dei prodotti della ricerca.
 3.	Sono in grado di riconoscere le fasi attuative di una determinata politica.
-4.	I partecipanti che avranno seguito un la sessione sul policy making saranno in grado di pianificare una politica di Scienza Aperta stabilendo obiettivi e indicatori per misurare il livello di implementazione. 
+4.	I partecipanti che avranno seguito la sessione sul policy making saranno in grado di pianificare una politica di Scienza Aperta stabilendo obiettivi e indicatori per misurare il livello di implementazione. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
