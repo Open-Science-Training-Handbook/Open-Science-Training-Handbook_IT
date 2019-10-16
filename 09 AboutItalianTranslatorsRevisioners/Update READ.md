@@ -17,7 +17,7 @@ Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'acc
 
 ![Rossana_Morriello_edited_edited](https://user-images.githubusercontent.com/48010221/66735601-17367d80-ee67-11e9-9139-a54186d50863.jpg)
 
-* Politecnico di Torino 
+* Politecnico di Torino - Servizio Programmazione Sviluppo e Qualità
 * [rossana.morriello@upolito.it](mailto:rossana.morriello@polito.it) 
 * @rox_more
 * 0000-0002-9990-9243
@@ -35,24 +35,22 @@ Credo che in Italia ci siano ancora molti pregiudizi e circoli sovente informazi
 
 ![Roberta Mosconb](https://user-images.githubusercontent.com/48010221/66735061-9925a700-ee65-11e9-9618-97acad5074d6.jpg)
 
-* Università degli Studi di Trento
+* Università degli Studi di Trento - Direzione Ricerca e Sistema Bibliotecario di Ateneo
 * [roberta.moscon@unitn.it](mailto:roberta.moscon@unitn.it)
 * [@openscienceit](https://twitter.com/openscienceit)
 
-Ho avuto la grande opportunità di sperimentare diversi settori ed istituzioni in Italia e all’estero occupandomi di programmi di mobilità internazionale, di programmi di dottorato e di policies per la promozione della collaborazione tra università e industria nonchè per l’innovazione e l’imprenditorialità nelle istituzioni universitarie, seguendo il fil rouge della diversità: di lingua (sono traduttrice di formazione), di prospettiva (da funzionario amministrativo/gestionale a analista politica) e di approcci culturali (proattivi o conservatori) nei confronti del lavoro e al lavoro. 
+Ho avuto la grande opportunità di sperimentare diversi settori ed istituzioni italiani e all’estero occupandomi di programmi di mobilità internazionale, di dottorato e di policies per la promozione della collaborazione università/industria nonchè per l’innovazione e l’imprenditorialità nelle istituzioni universitarie, seguendo il fil rouge della diversità: di lingua (sono traduttrice di formazione), di prospettiva (da funzionario amministrativo/gestionale a analista politica) e di approcci culturali (proattivi o conservatori) nei confronti del lavoro e al lavoro. 
 
-Nella ricerca di mantenere uno sguardo su come fanno e sono gli altri, ho partecipato al programma Erasmus+ staff training nel 2019 traendo ispirazione dalle molte iniziative in atto a livello europeo per promuovere la scienza aperta e per la trasmissione di conoscenze e competenze sul trattamento dei dati della ricerca e su come rendere accessibile la ricerca. Da alcuni mesi infatti sono stata inserita nello staff del sistema bibliotecario dell’Università degli Studi di Trento, Ufficio Pubblicazioni scientifiche - Open Access, Anagrafe Ricerca, Editoria e il portale del programma FOSTER con la sua offerta di corsi e di approfondimenti mi ha aiutata ad entrare in questo nuovo movimento. 
+Nella ricerca di mantenere uno sguardo su come fanno e sono gli altri, ho partecipato al programma Erasmus+ staff training nel 2019 traendo ispirazione dalle molte iniziative in atto a livello europeo per promuovere la Scienza Aperta e per la trasmissione di conoscenze e competenze sul trattamento dei dati della ricerca e su come rendere accessibile la ricerca. Tra queste, il portale del programma FOSTER, con la sua offerta di corsi e di approfondimenti mi ha aiutata a conoscere meglio questo nuovo movimento che è solo in piccola parte "pratico" aspirando soprattutto ad un cambiamento culturale dell'Accademia.
 
-Ho incontrato giovani ricercatori entusiasti e molto impegnati ma anche ottimi colleghi aperti verso la collaborazione e l’innovazione. Tra questi mi piace menzionare Gareth O’Neill all’epoca Presidente di EURODOC che ha appoggiato e facilitato subito il mio progetto e Ivo Grigorov, ex ricercatore e borsista ERC nonché parte dello staff di supporto alla ricerca presso la TDU. Gareth e Ivo sono solo una piccolissima parte di entusiasti della Scienza Aperta che a livello europeo si battono con impegno e passione per un cambiamento culturale dell’Accademia nei confronti della ricerca e per una diffusione della ricerca senza monopoli e barriere.
-
-Il manuale offre molti spunti ed esempi di come organizzare eventi di formazione sulla Scienza Aperta per allargare sempre di più la platea di chi la pratica; a parte gli aspetti economici che come contribuente mi aspetterei venissero chiariti definitivamente, i vantaggi dell’accesso aperto alle pubblicazioni, ai dati grezzi della ricerca sono talmente evidenti che mi auguro che queste pratiche diventino al più presto routine. E bibliotecari e bibliotecarie saranno pronti ad aiutare a farle conoscere in maniera efficace ed efficiente anche tramite questo Manuale.   
+Il manuale FOSTER inoltre, offre molti contenuti nonchè spunti ed esempi di come organizzare eventi di formazione sulla Scienza Aperta per allargare sempre di più la platea di chi la pratica; a parte gli aspetti economici che come contribuente mi aspetterei venissero chiariti definitivamente, i vantaggi dell’accesso aperto alle pubblicazioni, ai dati grezzi della ricerca sono talmente evidenti che mi auguro che queste pratiche diventino al più presto prassi consolidata. E i bibliotecari e le bibliotecarie investiti di questo nuovo ruolo saranno pronti a formare la Comunità scientifica e far conoscere la Scienza Aperta in maniera efficace ed efficiente anche tramite questo Manuale.   
 
 ### Anna Maria Pastorini
 
 ![annamp (1)](https://user-images.githubusercontent.com/48010221/66304959-9d4e4380-e8fe-11e9-9b09-7d9107ea4a6e.jpg)
 
 * Anna Maria Pastorini
-* Università degli Studi di Genova
+* Università degli Studi di Genova - Sistema Bibliotecario di Ateneo
 * [annamp@unige.it](mailto:annamp@unige.it)
 
 Bibliotecaria dal 2002, ho studiato Biblioteconomia e Storia del libro antico a Genova e Indicizzazione digitale a Roma.
@@ -66,7 +64,7 @@ Credo nell’importanza dell’informazione e della sensibilizzazione e sono con
 
 ![Susanna Pedrotti](https://user-images.githubusercontent.com/48010221/66377302-9c2a1e80-e9b1-11e9-8a37-e72b952f017c.jpg)
 
-* Università degli Studi di Trento
+* Università degli Studi di Trento -  - Direzione Ricerca e Sistema Bibliotecario di Ateneo
 * [susanna.pedrotti@unitn.it](mailto:susanna.pedrotti@unitn.it)
 
 Catalogatrice e bibliotecaria dal 1999. Lavoro presso il Sistema Bibliotecario di Ateneo dell’Università degli studi di Trento. Mi sono occupata di catalogazione di libro antico e moderno, prestito interbibliotecario nazionale e internazionale e fornitura documenti, reference, formazione all’utenza. Sono membro del gruppo di lavoro IOSSG. 
@@ -80,7 +78,7 @@ La Scienza aperta è un bene comune che interessa l’intera società, in partic
 
 ![Foster_Tessa_Piazzini (5)](https://user-images.githubusercontent.com/48010221/65977937-1408be00-e473-11e9-8a8a-642126e1e164.jpg)
 
-* Università degli Studi di Firenze
+* Università degli Studi di Firenze - Biblioteca Biomedica
 * [tessa.piazzini@unifi.it](mailto:tessa.piazzini@unifi.it)
 
 Laureata in Biblioteconomia nel 2003, lavoro nella Biblioteca Biomedica dell’Università di Firenze, dove mi dedico principalmente ai corsi, al reference e all’assistenza per la valutazione della ricerca.
@@ -96,7 +94,7 @@ Condivido in pieno il motto “Scienza aperta: solo scienza fatta bene!”
 
 ![image](https://user-images.githubusercontent.com/48010221/66737903-77302280-ee6d-11e9-9aae-c551fae0631d.png)
 
-* Università degli studi di Trento. Direzione Ricerca e Sistema Bibliotecario di Ateneo
+* Università degli studi di Trento - Direzione Ricerca e Sistema Bibliotecario di Ateneo
 * [katia.piccoli@unitn.it](mailto:katia.piccoli@unitn.it)
 
  Sono catalogatrice e bibliotecaria dal 1996 e da allora ho lavorato in varie biblioteche della Provincia di Trento, sia pubbliche che specialistiche. Dal 2001 lavoro presso il Sistema bibliotecario dell'ateneo di Trento, Ufficio Pubblicazioni scientifiche - Open Access, Anagrafe Ricerca, Editoria.
@@ -123,7 +121,7 @@ Signorini fa parte dal 2016 del gruppo “UniFI sostenibile”, all’interno de
 
 ![testoni-foto (3)](https://user-images.githubusercontent.com/48010221/65978367-e112fa00-e473-11e9-909a-7debefbfd631.jpg)
 
-* Università degli Studi di Genova 
+* Università degli Studi di Genova - Biblioteca di Scienze Sociali
 * [testoni@unige.it](mailto:testoni@unige.it)
 * [@lauratests](https://twitter.com/lauratests)
 
