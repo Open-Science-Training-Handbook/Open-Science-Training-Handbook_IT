@@ -144,52 +144,52 @@ Un protocollo descrive la memoria formale o ufficiale di osservazioni scientific
 L'analisi riproducibile è supportata dall'uso di una programmazione alfabetizzata, di tecnologie dei container e virtualizzazione. Oltre a condividere il codice e i dati, è possibile condividere anche i notebook Jupyter, le immagini Docker o altri materiali di analisi o dipendenze software. I notebook possono essere condivisi tramite i servizi aperti come [mybinder](http://mybinder.org) che consentono la visualizzazione pubblica e l'esecuzione dell'intero notebook su risorse condivise. Contenitori e notebook possono essere condivisi con [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Il software e l'hardware utilizzati per le vostre ricerche devono essere condivisi seguendo le migliori pratiche per la documentazione, come indicato nel [Capitolo 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). I protocolli di sola lettura devono essere depositati nel registro delle discipline come [ClinicalTrials.gov](https://clinicaltrials.gov/) e [SocialScienceRegistry](https://www.socialscienceregistry.org/) o in un registro generale come [Open Science](https://osf.io/)[ Framework](https://osf.io/). Molte riviste, come [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), o [Bio-Protocol](https://bio-protocol.org/) pubblicano i protocolli. Le migliori pratiche per la pubblicazione del protocollo ad accesso aperto sono le stesse della pubblicazione della relazione aperta \(cfr.[Capitolo 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Domande, intoppi ed equivoci comuni
 
-Q: "Is it sufficient to make my data openly available?"
+Domanda: Può bastare rendere i dati della ricerca disponibili apertamente?
 
-A: "No—openness is a necessary but not sufficient condition for maximum reuse. Data have to be FAIR in addition to open."
+Risposta: No, l’apertura è una condizione necessaria ma non sufficiente per ottenere il massimo ri-utilizzo. I dati devono essere FAIR oltre ad essere aperti.
 
-Q: "What do the FAIR principles mean/imply for different stakeholders/audiences?"
+Domanda: In che modo i diversi attori/platee percepiscono/sottintendono quando parlano di principi FAIR?
 
-A: "This is a great topic for discussion!"
+Risposta: Questo è un argomento interessantissimo su cui discutere!
 
-Obstacle: Researchers may be reluctant to share their data because they are afraid that others will reuse them before they have extracted the maximum usage from them, or that others might not fully understand the data and therefore mis-use them.
+Ostacolo: I ricercatori possono essere riluttanti a condividere i loro dati perché temono che altri li riutilizzino prima di averne estrapolato il massimo potenziale di utilizzo, o che altri non possano comprendere del tutto questi dati e quindi abusarne.
 
-\(suggested\) A: You may publish your data to make them findable with metadata, but set an embargo period on the data to make sure that you can publish your own article\(s\) first.
+\(suggerito\) Risposta: Potete pubblicare i vostri dati per renderli reperibili con metadati, ma fissate un periodo di embargo sui dati per essere sicuri di poter pubblicare prima i vostri articoli.
 
-Q: "Is making my data FAIR a lot of extra work?"
+Domanda: "Quanto lavoro extra implica fare in modo che i dati di ricerca siano FAIR?"
 
-A: "Not necessarily! Making data FAIR is not only the responsibility of the individual researchers but of the whole group. The best way to ensure that your data is FAIR is to create a Data Management Plan and plan everything beforehand. During the data collection and data processing follow the discipline standards and measures recommended by a repository.
+Risposta: "Non per forza tanto! Rendere i dati FAIR non è solo responsabilità dei singoli ricercatori ma dell'intero gruppo di ricerca. Il modo migliore per garantire che i vostri dati siano FAIR è quello di creare un piano di gestione dei dati e pianificare tutto in anticipo. Durante la raccolta e l'elaborazione dei dati seguire gli standard disciplinari e le misure raccomandate dall’archivio.
 
-Q: "I want to share my data. How should I license them?"
+Domanda: "Voglio condividere i miei dati. Quale licenza è meglio che io scelga?
 
-A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+Risposta: "Questa è una buona domanda. Prima di tutto dovete domandarvi di chi sono i dati: dell’ente finanziatore della ricerca o dell'istituzione presso la quale lavorate? Pensate poi alla paternità. Applicare una licenza adeguata ai dati è fondamentale per renderli riutilizzabili. Per maggiori informazioni sulle licenze, [Capitolo 6. Licenze aperte e formati di file](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats)
 
-Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
+Domanda: "Non posso rendere i miei dati subito disponibili - sono troppi per poterli condividere facilmente / hanno restrizioni di riservatezza. Cosa devo fare?
 
-A: "You should talk to experts in domain specific repositories on how to provide sufficient instructions to make your data findable and accessible."
+Risposta: Dovresti consultarti con personale esperto in archivi disciplinari o settoriali e chiedere come puoi fornire indicazioni sufficienti per rendere i tuoi dati reperibili e accessibili.
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Risultati di apprendimento
 
-1. Understand the characteristics of open data, and in particular the FAIR principles.
+1. Comprensione delle caratteristiche specifiche dei dati della ricerca aperti, in particolare secondo i principi FAIR.
 
-2. Be familiar with some of the arguments for and against open data.
+2. Padroneggiare alcune argomentazioni pro e contro circa i dati aperti.
 
-3. Be able to differentiate and address sensitive data and opFAIR data; these two categories are not necessarily incompatible.
+3. Essere in grado di distinguere e trattare i dati sensibili e i dati opFAIR; queste due categorie non sono necessariamente incompatibili.
 
-4. Be able to transform a dataset into one that is sufficient for open sharing \(non-proprietary format\), meets the standards of the FAIR principles, and is designed for maximized accessibility, transparency and re-use by providing sufficient metadata.
+4. Essere in grado di trasformare un set di dati in un set di dati condivisibili apertamente (in formato non chiuso), in grado di soddisfare gli standard dei principi FAIR, progettato per massimizzare accessibilità, trasparenza e riutilizzo con un numero minimo di metadati.
 
-5. Know the difference between raw and processed \(or cleaned\) data, and the importance of version labels.
+5. Conoscere la differenza tra i dati grezzi e quelli elaborati (o puliti) e l'importanza delle etichette di versione.
 
-6. Know commonly used file formats and community standards for maximum re-usability.
+6. Conoscere i formati di file comunemente usati e gli standard comunitari per ottenere il massimo livello di riutilizzabilità.
 
-7. Be able to write a data management plan.
+7. Essere in grado di scrivere un piano di gestione dei dati.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Letture integrative
 * Averkamp et al. (2018). Data packaging guide. [github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md).
 
 * Barend et al. (2017). Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud. [doi.org/10.3233/ISU-170824](https://doi.org/10.3233/ISU-170824)
@@ -217,7 +217,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 * Wilkinson et al. (2918). A design framework and exemplar metrics for FAIRness. [doi.org/10.1038/sdata.2018.118](https://doi.org/10.1038/sdata.2018.118)
 
 
-#### Initiatives and projects
+#### Iniziative e progetti
 
 * DANS GDPR DataTags. [zingtree.com](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)
 
