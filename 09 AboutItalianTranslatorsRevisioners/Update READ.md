@@ -13,6 +13,17 @@ Nel mio percorso lavorativo ho avuto l'opportunità di confrontarmi con tutti gl
 
 Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'accesso aperto, e del Gruppo di lavoro APRE - Open Science; nell'ambito delle attività della Biblioteca di scienze sociali e del Centro di documentazione europea porto avanti iniziative ed eventi per promuovere l’Open access nella mia comunità accademica.
 
+### Silvia Molteni
+
+In attesa di discutere la tesi in Scienze Politiche all’Università degli Studi di Milano ho iniziato, “quasi per caso”, a lavorare come catalogatrice... e ho continuato per undici anni, catalogando presso le principali biblioteche di università e di enti di ricerca a Milano, Firenze e Bologna. 
+
+Per otto anni ho poi lavorato presso il Settore monitoraggio e supporto alla valutazione della   ricerca   dell’Università di Bologna, dove ho maturato esperienza nella gestione dei repository istituzionali e nelle procedure di valutazione della ricerca.
+Dalla primavera del 2018 sono bibliotecaria nella Biblioteca di Scienze Sociali dell’Università di Firenze.
+Qui mi occupo principalmente di gestione dei periodici e di supporto alla valorizzazione della ricerca scientifica, mettendo a frutto, approfondendo e ampliando tutte le competenze che ho acquisito in questi anni.
+
+Penso che questo progetto sia molto prezioso perché risponde a due esigenze fondamentali che tutti sentiamo: avere dei formatori capaci di trasmettere le loro conoscenze e diffondere la scienza aperta in tutti gli ambiti della nostra vita. 
+
+
 ### Rossana Morriello
 
 ![Rossana_Morriello_edited_edited](https://user-images.githubusercontent.com/48010221/66735601-17367d80-ee67-11e9-9139-a54186d50863.jpg)
