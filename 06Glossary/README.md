@@ -29,7 +29,7 @@
 
 * Quell´aspetto della proprietà intellettuale che garantisce agli autori il diritto di permettere (o non permettere) la riproduzione delle loro opere. Si distingue dal diritto sul marchio o dai diritti morali d´autore.
 
-**Le licenze creative commons**
+**Le licenze "Creative Commons"**
 
 * Si tratta di un pacchetto di licenze standardizzate che consentono ai titolari di diritto d’autore di concedere alcuni diritti agli utenti secondo uno schema predefinito. Le licenze CC sono ampiamente utilizzate, semplici da usare, leggibili a macchina; sono state create da esperti legali. Esistono diverse licenze CC, ognuna delle quali utilizza una o più clausole. Alcune licenze sono compatibili con l'accesso aperto ai sensi della Dichiarazione di Budapest (CC0 o con licenze BY, SA e ND), mentre altre non lo sono (licenza NC).  
 
@@ -101,7 +101,7 @@
 
 * Si basa sul concetto di scrittura sulla ricerca ad intervalli regolari, tale che appunti e dati della ricerca sono raccolti e pubblicati online non appena vengono prodotti.
 
-**Materiali aperti*
+**Materiali aperti**
 
 * La condivisione dei materiali della ricerca, per esempio campioni biologici o geologici, è un’altra pratica della Scienza Aperta.
 
@@ -129,7 +129,7 @@
 
 * Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
 
-**Manoscritto non referato - preprint **
+**Manoscritto non referato / preprint**
 
 * Bozza di manoscritto non ancora sottoposta a revisione formale fra pari, condivisa per ottenere dei riscontri dai colleghi nella fase iniziale della ricerca.
 
@@ -145,9 +145,9 @@
 
 * Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
-**Archivio digitale / repository**
+**Archivio digitale**
 
-* Si definisce archivio digitale, “repository”, l’infrastruttura e il relativo supporto che consente la conservazione  persistente, efficiente e sostenibile di oggetti digitali (come documenti, dati e codice).
+* Si definisce archivio digitale \(repository\), l’infrastruttura e il relativo supporto che consente la conservazione  persistente, efficiente e sostenibile di oggetti digitali (come documenti, dati e codice).
 
 **Ricerca riproducibile**
 
