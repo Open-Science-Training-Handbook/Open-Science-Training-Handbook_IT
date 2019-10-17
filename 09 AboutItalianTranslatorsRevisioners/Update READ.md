@@ -15,14 +15,17 @@ Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'acc
 
 ### Silvia Molteni
 
+![Molteni Silvia-1](https://user-images.githubusercontent.com/48010221/66989478-bad09980-f0c4-11e9-9b61-1b51854ef3a6.jpg)
+
+* Università di Firenze - Biblioteca di scienze sociali
+* [silvia.molteni@unifi.it](mailto:silvia.molteni@unifi.it)
+
 In attesa di discutere la tesi in Scienze Politiche all’Università degli Studi di Milano ho iniziato, “quasi per caso”, a lavorare come catalogatrice... e ho continuato per undici anni, catalogando presso le principali biblioteche di università e di enti di ricerca a Milano, Firenze e Bologna. 
 
-Per otto anni ho poi lavorato presso il Settore monitoraggio e supporto alla valutazione della   ricerca   dell’Università di Bologna, dove ho maturato esperienza nella gestione dei repository istituzionali e nelle procedure di valutazione della ricerca.
-Dalla primavera del 2018 sono bibliotecaria nella Biblioteca di Scienze Sociali dell’Università di Firenze.
+Per otto anni ho poi lavorato presso il Settore monitoraggio e supporto alla valutazione della ricerca dell’Università di Bologna, dove ho maturato esperienza nella gestione dei repository istituzionali e nelle procedure di valutazione della ricerca. Dalla primavera del 2018 sono bibliotecaria nella Biblioteca di Scienze Sociali dell’Università di Firenze.
 Qui mi occupo principalmente di gestione dei periodici e di supporto alla valorizzazione della ricerca scientifica, mettendo a frutto, approfondendo e ampliando tutte le competenze che ho acquisito in questi anni.
 
 Penso che questo progetto sia molto prezioso perché risponde a due esigenze fondamentali che tutti sentiamo: avere dei formatori capaci di trasmettere le loro conoscenze e diffondere la scienza aperta in tutti gli ambiti della nostra vita. 
-
 
 ### Rossana Morriello
 
