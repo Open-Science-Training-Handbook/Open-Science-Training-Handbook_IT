@@ -133,7 +133,7 @@
 
 * Bozza di manoscritto non ancora sottoposta a revisione formale fra pari, condivisa per ottenere dei riscontri dai colleghi nella fase iniziale della ricerca.
 
-**Pre-registratione**
+**Pre-registrazione**
 
 * Prima di iniziare uno studio, i ricercatori hanno la possibilità, o viene loro richiesto, di inserire in un registro pubblico delle informazioni importanti relative al loro studio (ad esempio: motivazione della ricerca, ipotesi, progettazione e strategia analitica). La pre-registrazione può essere utile alla segnalazione di eventuali errori di valutazione.
 
