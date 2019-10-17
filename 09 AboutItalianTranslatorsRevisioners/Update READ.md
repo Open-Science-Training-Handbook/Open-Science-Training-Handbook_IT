@@ -160,7 +160,7 @@ Come bibliotecaria e documentalista credo che l'Accesso aperto (e più in genera
 ![N Zar](https://user-images.githubusercontent.com/48010221/66808340-4d3d3580-ef2b-11e9-9809-7cf38f0f38c8.jpg)
 
 * The Abdus Salam International Centre for Theoretical Physics - Marie Curie Library
-* [zar@icpt.it](mailto: zar@icpt.it)   [zar@icpt.it](mailto:zar@icpt.it)
+* [zar@icpt.it](mailto:zar@icpt.it)
 
 Nicoletta Zar, triestina, di formazione umanistica ha lavorato in ambito editoriale e bibliotecario. Da metà 2017 è responsabile dei servizi bibliotecari al Centro Internazionale di Fisica Teorica “Abdus Salam” di Trieste (ICTP), dove da trent'anni si è occupata di periodici e risorse elettroniche, e di iniziative per favorire l’accesso libero all'informazione scientifica con particolare riguardo ai ricercatori che lavorano nei paesi più poveri.
 
