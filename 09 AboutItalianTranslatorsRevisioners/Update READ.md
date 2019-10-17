@@ -15,6 +15,8 @@ Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'acc
 
 ### Paola Coppola
 
+![coppola](https://user-images.githubusercontent.com/48010221/66991558-9ecef700-f0c8-11e9-9956-aebc4b303fa7.png)
+
 * Università degli Studi di Roma Tor Vergata - Biblioteca Area Economica Vilfredo Pareto
 * [coppola@economia.uniroma2.it](mailto:coppola@economia.uniroma2.it)
 
