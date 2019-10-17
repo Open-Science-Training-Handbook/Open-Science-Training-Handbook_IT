@@ -125,9 +125,9 @@
 
 * Un identificativo persistente (anche PID) è una denominazione univoca e stabile (riferimento) di una risorsa digitale (esempio dati della ricerca) attraverso l’assegnazione di un codice che può essere persistentemente ed esplicitamente referenziato in internet.
 
-**Persistent/Preferred File Formats**
+**Formati di file persistenti/preferiti**
 
-* Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
+* Formati non proprietari che seguono standard internazionali documentati, sono comunemente usati dalla comunità della ricerca, utilizzano la codifica di caratteri standard (come ASCI, UFT-8), e la compressione, se usata, non implica la perdita di dati.
 
 **Manoscritto non referato / preprint**
 
