@@ -13,6 +13,13 @@ Nel mio percorso lavorativo ho avuto l'opportunità di confrontarmi con tutti gl
 
 Con lo stesso spirito, faccio parte del Gruppo SBA-UniFI per il supporto all'accesso aperto, e del Gruppo di lavoro APRE - Open Science; nell'ambito delle attività della Biblioteca di scienze sociali e del Centro di documentazione europea porto avanti iniziative ed eventi per promuovere l’Open access nella mia comunità accademica.
 
+### Paola Coppola
+
+* Università degli Studi di Roma Tor Vergata - Biblioteca Area Economica Vilfredo Pareto
+* [coppola@economia.uniroma2.it](mailto:coppola@economia.uniroma2.it)
+
+Responsabile della Biblioteca della Facoltà di Economia dell'Università degli Studi di Roma "Tor Vergata". Nel periodo 2007-13 membro del GdL CRUI sull'Accesso Aperto. Referente di Ateneo per l'Open Access e componente del GdL dell'Archivio Istituzionale della Ricerca. Membro dell’Open Science Working Group YERUN. Co-coordinatore (con Corrado Cerruti) del neocostituito GdL di Ateneo su Open Science. 
+
 ### Silvia Molteni
 
 ![Molteni Silvia-1](https://user-images.githubusercontent.com/48010221/66989478-bad09980-f0c4-11e9-9b61-1b51854ef3a6.jpg)
