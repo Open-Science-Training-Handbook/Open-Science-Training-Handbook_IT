@@ -141,9 +141,9 @@
 
 * E’ un file in cui i dati della propria ricerca vengono documentati. La documentazione dovrebbe essere sufficiente per permettere agli altri ricercatori di comprendere, replicare o riprodurre i dati o riutilizzarli in qualsiasi altro modo.
 
-**Reporting Bias**
+**Parzialità nella pubblicazione**
 
-* Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Si verifica quando alcuni aspetti di uno studio non vengono sistematicamente riportati in maniera trasparente, creando spreco e ridondanza attraverso relazioni selettive o non pubblicate. 
 
 **Archivio digitale**
 
