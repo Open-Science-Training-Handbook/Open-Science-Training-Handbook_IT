@@ -97,7 +97,7 @@
 
 * Lo sviluppo di un sistema o di un protocollo di valutazione imparziale delle candidature per progetti di ricerca, basato sulla trasparenza del processo e degli attori che ne sono coinvolti.
 
-**Lab Notebook aperti**
+**Lab notebook aperti**
 
 * Si basa sul concetto di scrittura sulla ricerca ad intervalli regolari, tale che appunti e dati della ricerca sono raccolti e pubblicati online non appena vengono prodotti.
 
