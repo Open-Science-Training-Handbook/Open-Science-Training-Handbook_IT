@@ -1,13 +1,13 @@
 ## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Esempi & guida pratica: adotta, adatta, sviluppa
 
-Questo capitolo raccoglie un fornitissimo repertorio di materiali didattici utili a coinvolgere attivamente i partecipanti ai seminari di formazione e per fare in modo che affrontino in maniera critica i vari aspetti che riguardano la scienza aperta. 
+Questo capitolo raccoglie un fornitissimo repertorio di materiali didattici utili a coinvolgere attivamente i partecipanti ai seminari di formazione e per fare in modo che affrontino in maniera critica i vari aspetti che riguardano la Scienza Aperta. 
 
-Nel confrontarvi con questo materiale, è bene che teniate in considerazione il motto: “Adotta, adatta e sviluppa” vale a dire che, laddove sia possibile, è bene **utilizzare** ciò che c’è già. Prima, quindi, di mettervi a creare delle risorse didattiche ex novo, dovreste verificare che non esistano già delle risorse di cui potete già disporre. Di seguito, troverete alcuni esempi e relativi consigli su come potrebbero essere ri-arragiate alle vostre esigenze nonché dei collegamenti a siti internet e strategie su come andare a cercare dell’altro materiale. In alcuni casi, le risorse didattiche già esistenti possono essere utilizzate come sono, senza bisogno di adattamenti. Ad esempio, potreste segnalare il link ad un video tutorial ad accesso aperto sui formati dei file aperti. In altri casi, potreste dover **adattare** delle risorse già esistenti perché rispondano agli obiettivi formativi che intendete perseguire. Ad esempio, potreste aver bisogno di aggiungere/sostituire dei riferimenti specifici ad istituzioni o nazioni a seconda dei requisiti di scienza aperta stabiliti dai finanziatori della ricerca. Solo in ultimissima istanza, dovreste ricorrere alla predisposizione di risorse didattiche **ex novo**. Se siete intenzionati a creare da voi il vostro materiale didattico, fate in modo di creare delle risorse didattiche aperte per permettere ad altri formatori di riutilizzarle o riadattarle.   
+Nel confrontarvi con questo materiale, è bene che teniate in considerazione il motto: “Adotta, adatta e sviluppa” vale a dire che, laddove sia possibile, è bene **utilizzare** ciò che già c’è. Prima, quindi, di mettervi a creare delle risorse didattiche ex novo, dovreste verificare che non esistano già delle risorse di cui potete già disporre. Di seguito, troverete alcuni esempi e relativi consigli su come potrebbero essere ri-adattate alle vostre esigenze nonché dei collegamenti a siti internet e strategie su come andare a cercare dell’altro materiale. In alcuni casi, le risorse didattiche già esistenti possono essere utilizzate come sono, senza bisogno di adattamenti. Ad esempio, potreste segnalare il link ad un video tutorial ad accesso aperto sui formati dei file aperti. In altri casi, potreste dover **adattare** delle risorse già esistenti perché rispondano agli obiettivi formativi che intendete perseguire. Ad esempio, potreste aver bisogno di aggiungere/sostituire dei riferimenti specifici ad istituzioni o nazioni a seconda dei requisiti di Scienza Aperta stabiliti dai finanziatori della ricerca. Solo in ultimissima istanza, dovreste ricorrere alla predisposizione di risorse didattiche **ex novo**. Se siete intenzionati a creare da voi il vostro materiale didattico, fate in modo di creare delle risorse didattiche aperte per permettere ad altri formatori di riutilizzarle o riadattarle.   
 
 ### Alcuni esempi di gruppi organizzati per la formazione
 
-**Open Science Meet-ups Göttingen **presso la biblioteca universitaria di Göttingen** (3 ore)**
+**"Open Science Meet-ups - Göttingen" presso la biblioteca universitaria di Göttingen** (3 ore)**
 
 Il gruppo “Open Science” di Göttingen, costituito da ricercatori e bibliotecari sostenitori della scienza aperta nonché dello scambio reciproco di conoscenza, organizza regolarmente degli incontri nel corso dei quali si discute sui principali argomenti collegati alla scienza aperta. La rete raccoglie tutte le persone che all'interno dell’Università di Göttingen si interessa a vario titolo di scienza aperta ed è aperta a tutti gli interessati. Sono diventati degli appuntamenti molto popolari e riescono ad attrarre studiosi di svariate discipline, altamente motivati a condividere le proprie esperienze sull’open scholarship e ad imparare nuovi metodi, strumenti e pratiche. I relatori invitati di solito introducono l’argomento soltanto, mentre in maniera più approfondita viene poi trattato all'interno di gruppi più piccoli.  
 
@@ -31,7 +31,7 @@ Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concret
 
 **I workshop "Carpentry" (2 giorni)**
 
-Un workshop carpentry è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I workshop data carpentry prendono a riferimento le best practices che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I workshopdata carpentry sono rivolti a principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. I workshop software carpentry sono rivolti a professionisti che devono imparare a programmare nel modo più efficace possibile per poter risolvere i loro specifici problemi computazionali, non sono ristretti ad una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante.
+Un workshop carpentry è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I workshop data carpentry prendono a riferimento le migliori pratiche che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I workshopdata carpentry sono rivolti a principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. I workshop software carpentry sono rivolti a professionisti che devono imparare a programmare nel modo più efficace possibile per poter risolvere i loro specifici problemi computazionali, non sono ristretti ad una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante.
 
 * [Software Carpentry](https://software-carpentry.org)
 
@@ -39,13 +39,13 @@ Un workshop carpentry è un evento, ad orientamento pratico, della durata di due
 
 **EIFL Programma di corsi per "Formare-i-formatori" (4 giorni)**
 
-L’EIFL ha organizzato un programma di formazione per formatori in cinque università dislocate nei paesi partner di EIFL (Etiopia, Ghana, Zimbawe, Tanzania e Nepal) che si sono impegnate ad introdurre l’accesso aperto, la scienza aperta e i dati grezzi della ricerca aperti nei loro corsi di dottorato. Nel primo giorno di formazione, si è discusso di accesso aperto e dati aperti; il secondo e il terzo giorno sono stati dedicati alla scienza aperta attraverso il ciclo della ricerca incluse anche le pratiche in uso presso le università partner. Il quarto giorno i partecipanti hanno predisposto ed elaborato un loro programma di formazione personalizzato. 
+L’EIFL ha organizzato un programma di formazione per formatori in cinque università dislocate nei paesi partner di EIFL (Etiopia, Ghana, Zimbawe, Tanzania e Nepal) che si sono impegnate ad introdurre l’accesso aperto, la scienza aperta e i dati grezzi della ricerca aperti nei loro corsi di dottorato. Nel primo giorno di formazione, si è discusso di accesso aperto e dati aperti; il secondo e il terzo giorno sono stati dedicati alla Scienza Aperta attraverso il ciclo della ricerca incluse anche le pratiche in uso presso le università partner. Il quarto giorno i partecipanti hanno predisposto ed elaborato un loro programma di formazione personalizzato. 
 
 * [EIFL programma di formazione per formatori](https://osf.io/qf76a/) (Addis Ababa, 2017, programma e materiali)
 
 **Scuola estiva sulla Scienza Aperta (5 giorni)**
 
-Parecchie università europee organizzano delle scuole estive sulla scienza aperta della durata di una settimana, principalmente destinate a giovani ricercatori. Questi eventi coprono una varietà di argomenti nel corso dei cinque giorni, generalmente prevedono molte attività pratiche e l’adozione dei principi della scienza aperta nella pratica quotidiana. 
+Parecchie università europee organizzano delle scuole estive sulla Scienza Aperta della durata di una settimana, principalmente destinate a giovani ricercatori. Questi eventi coprono una varietà di argomenti nel corso dei cinque giorni, generalmente prevedono molte attività pratiche e l’adozione dei principi della scienza aperta nella pratica quotidiana. 
 
 * [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, programma)
 
@@ -66,7 +66,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
 * Formato, durata 
 
-* Argomento \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+* Argomento \([cfr. I principi fondamentali della Scienza Aperta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
 * Finalità didattiche 
 
@@ -84,12 +84,11 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
 #### Tipi di esercitazione 
 
+    * Riscaldamento veloce / esercizi di breve durata
 
-    * riscaldamento veloce / esercizi di durata breve 
+    * Esercitazioni in piccoli gruppi 
 
-    * esercitazioni in piccoli gruppi 
-
-        * gioco di ruolo
+        * giochi di ruolo
 
         * discussione su argomenti/posizioni della scienza aperta
 
@@ -99,7 +98,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
         * ...
 
-    * esercitazioni in plenaria
+    * Esercitazioni in plenaria
 
         * mappatura collaborativa
 
@@ -109,9 +108,9 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
         * giochi con le carte
 
-    * presentazioni
+    * Presentazioni
 
-        * gioco di ruolo
+        * giochi di ruolo
 
         * presentazione di casi/esempi concreti e reali (con la partecipazione della platea)
 
@@ -121,7 +120,7 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
 
         * ...
 
-    * esercitazioni pratiche (da soli o in coppia)
+    * Esercitazioni pratiche (da soli o in coppia)
 
         * visualizzazione 
 
@@ -148,32 +147,32 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>In formazione!</td>
     <td>generale</td>
     <td>gruppo al completo</td>
-    <td>5-10 min</td>
+    <td>5-10 min.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Prioritizzazione dei bisogni formativi</td>
     <td>Concetti e principi aperti</td>
     <td>gruppo al completo</td>
-    <td>10 min</td>
+    <td>10 min.</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Selezione delle pratiche di scienza aperta</td>
+    <td>Selezione delle pratiche di Scienza Aperta</td>
     <td>Concetti e principi aperti</td>
     <td>gruppo al completo</td>
     <td>1 - 1 ora e 30 min.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Argomenti di discussione sulla scienza aperta</td>
-    <td>Concentti e pricipi paerti</td>
+    <td>Argomenti di discussione sulla Scienza Aperta</td>
+    <td>Concetti e pricipi aperti</td>
     <td>in piccoli gruppi</td>
-    <td>20-30 min</td>
+    <td>20-30 min.</td>
   </tr>
   <tr>
     <td>5</td>
-    <td> Bar LIBER della scienza aperta</td>
+    <td> Bar LIBER della Scienza Aperta</td>
     <td>Concetti e principi aperti</td>
     <td>in piccoli gruppi</td>
     <td>1 ora e 30 min.</td>
@@ -183,21 +182,21 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>Che cosa sono i dati della ricerca secondo me?</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>da soli / in coppia</td>
-    <td>15 min</td>
+    <td>15 min.</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Perchè non condividere i dati?</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>in piccoli gruppi</td>
-    <td>20 min</td>
+    <td>20 min.</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Tombola delle "Scuse dei dati aperti"</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>gruppo intero</td>
-    <td>20-30 min</td>
+    <td>20-30 min.</td>
   </tr>
   <tr>
     <td>9</td>
@@ -211,18 +210,18 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>Trova l'editore per i tuoi dati</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>da soli / in coppia</td>
-    <td>10-15 min</td>
+    <td>10-15 min.</td>
   </tr>
   <tr>
     <td>11</td>
     <td>Che cosa serve per pubblicare i dati della ricerca?</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>gruppo completo</td>
-    <td>10 min</td>
+    <td>10 mi.n</td>
   </tr>
   <tr>
     <td>12</td>
-    <td>Creare metadata</td>
+    <td>Creare metadati</td>
     <td>Dati e materiali della ricerca aperti</td>
     <td>da soli / in coppia</td>
     <td>5 min</td>
@@ -232,12 +231,12 @@ Parecchie università europee organizzano delle scuole estive sulla scienza aper
     <td>Prepararsi a condividere i software</td>
     <td>Software di ricerca liberi / codici aperti</td>
     <td>da soli / in coppia</td>
-    <td>20-30 min</td>
+    <td>20-30 min.</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Stabilire un flusso di lavoro per l'analisi di dati riproducibili</td>
-    <td>Reproducible Research and Data Analysis</td>
+    <td>Riproducibilità della ricerca e analisi dei dati</td>
     <td>da soli / in coppia</td>
     <td>4-8 ore</td>
   </tr>
