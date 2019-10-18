@@ -182,8 +182,7 @@ Il fatto di dettagliare i risultati rientra nella concezione che la formazione s
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-La versione aggiornata 1(al 2001\) è disponibile qui:[https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
-
+La versione aggiornata 1(al 2001\) è disponibile [qui] (https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 La tassonomia di Bloom è una classificazione a sei livelli ed è utile perché da un supporto concreto a chi voglia costruire una solida attività didattica e formativa. In aggiunta alla tassonomia di Bloom si possono trovare diversi tipi di supporto alla progettazione di un’attività didattica, come le terminologie annotate, verbi da utilizzare o da evitare nella pianificazione del corso e nella composizione di test di valutazione, ecc.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
