@@ -468,7 +468,7 @@ Il [Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.co
 
 * Distribuire ai partecipanti una stampa della struttura generale del metodo scientifico e chiedere loro di associare ad ogni fase gli strumenti/metodi di scienza aperta appropriati.
 
-* A seconda del tempo a disposizione, è anche possibile chiedere ai partecipanti di creare un’ipotetico scenario di ricerca e di procedere a definire i protocolli di scienza aperta necessari per la sua attuazione.
+* A seconda del tempo a disposizione, è anche possibile chiedere ai partecipanti di creare un ipotetico scenario di ricerca e di procedere a definire i protocolli di scienza aperta necessari per la sua attuazione.
 
 ### Rielaborazione del corso
 
@@ -479,7 +479,7 @@ E’ bene essere consapevoli del fatto che ci possono volere anche tre corsi int
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ## Risultati di apprendimento di questo capitolo
 
-Dopo aver letto questo capitolo, si dovrebbe essere in grado di pianificare e fornire corsi di formazione sulla scienza aperta a una platea specifica.
+Dopo aver letto questo capitolo, si dovrebbe essere in grado di pianificare e fornire corsi di formazione sulla Scienza Aperta a una platea specifica.
 
 **Esercizio**
 
@@ -499,7 +499,7 @@ Immaginati la seguente situazione ipotetica: sei stato invitato a formare i prin
 
 * Elenca tre domande che potresti fare per verificare se i partecipanti hanno apprezzato il corso
 
-* Preparati ad interagire con strumenti come sli.do \(sli.do or some other tool\) o simili, che creano word-cloud spontanei: non aver paura di lavorare insieme ai partecipanti, impara a giocare con le tue conoscenze \(e ammetti pure di avere qualche perplessità, è del tutto normale!\)
+* Preparati ad interagire con strumenti come \(sli.do o qualche altro strumento\) o simili, che creano word-cloud spontanei: non aver paura di lavorare insieme ai partecipanti, impara a giocare con le tue conoscenze \(e ammetti pure di avere qualche perplessità, è del tutto normale!\)
 
 Esercizi simili possono essere applicati per eventi di formazione rivolti a audience diverse, con le quali si può usare lo stesso modo per valutare le tue conoscenze.
 
@@ -542,7 +542,7 @@ Esercizi simili possono essere applicati per eventi di formazione rivolti a audi
 * Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
 
-Per un approfondimento dei temi trattati (con riferimento alla bibliografia italiana):
+**Per un approfondimento dei temi trattati (con riferimento alla bibliografia italiana)**:
 
 * Alberici, A. (2002). L’educazione degli adulti. Roma: Carrocci 2002 (*) Informazioni aggiunte nella versione italiana
 * Batini, F. (2013). Insegnare per competenze. Torino: Loescher. Available online: www.laricerca.loescher.it/quaderno_02/ (*) Informazioni aggiunte nella versione italiana
