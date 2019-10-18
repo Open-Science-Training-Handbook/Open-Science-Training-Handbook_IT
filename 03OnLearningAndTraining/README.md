@@ -331,7 +331,7 @@ A seconda da quante persone è costituita la platea, dalla quantità di tempo di
 
 Non è assolutamente necessario adattare il contenuto del corso seduta stante; sarà sufficiente però chiarire a tutti i partecipanti che cosa verrà tralasciato.
 
-[Ancora una volta, le informazioni fornite da Software Carpentry potrebbero essere utili per creare l'ambiente giusto](https://carpentries.github.io/instructor-training/08-motivation/) 
+Ancora una volta, le informazioni fornite da [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/)  potrebbero essere utili per creare l'ambiente giusto.
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="400" height="300" />
 #### Rompere il ghiaccio
