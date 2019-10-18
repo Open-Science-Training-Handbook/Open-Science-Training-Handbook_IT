@@ -337,7 +337,7 @@ Ancora una volta, le informazioni fornite da [Software Carpentry](https://carpen
 
 Iniziare la sessione di formazione con un’attività utile a rompere il ghiaccio può servire a stimolare i partecipanti e permettergli di conoscere il docente e gli altri membri del gruppo. Creare un ambiente didattico accogliente, amichevole e positivo consente alle persone di partecipare e imparare meglio nonché ad aiutarli a sentirsi più a proprio agio.
 
-Mentre un’atmosfera positiva può essere favorita dalla scelta della migliore attività per rompere il ghiaccio, utilizzarne una non adeguata può essere causa di nervosismo e disagio; per questo motivo è consigliabile analizzare con attenzione i partecipanti e le potenziali dinamiche di un gruppo quando si opera una scelta. Le persone non dovrebbero sentirsi in imbarazzo o essere costrette a rivelare informazioni personali che non desiderano condividere. I gruppi possono essere sensibilmente eterogenei per età, status all’interno dell’ente di appartenza, estrazione culturale e livello di istruzione. Tutte queste differenze incidono su quanto hanno in comune i membri dell’intero gruppo. È pertanto utile cercare di correlare le attività preliminari ai risultati didattici previsti. (Esempi sono disponibili al paragrafo [Letture integrative](#further-reading) section for examples.
+Mentre un’atmosfera positiva può essere favorita dalla scelta della migliore attività per rompere il ghiaccio, utilizzarne una non adeguata può essere causa di nervosismo e disagio; per questo motivo è consigliabile analizzare con attenzione i partecipanti e le potenziali dinamiche di un gruppo quando si opera una scelta. Le persone non dovrebbero sentirsi in imbarazzo o essere costrette a rivelare informazioni personali che non desiderano condividere. I gruppi possono essere sensibilmente eterogenei per età, status all’interno dell’ente di appartenza, estrazione culturale e livello di istruzione. Tutte queste differenze incidono su quanto hanno in comune i membri dell’intero gruppo. È pertanto utile cercare di correlare le attività preliminari ai risultati didattici previsti. (Esempi sono disponibili al paragrafo [Letture integrative](#further-reading).
 
 ### Durante il corso di formazione
 
@@ -542,7 +542,7 @@ Esercizi simili possono essere applicati per eventi di formazione rivolti a audi
 * Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
 
-Per un approfondimento dei temi trattati::
+Per un approfondimento dei temi trattati (con riferimento alla bibliografia italiana):
 
 * Alberici, A. (2002). L’educazione degli adulti. Roma: Carrocci 2002 (*) Informazioni aggiunte nella versione italiana
 * Batini, F. (2013). Insegnare per competenze. Torino: Loescher. Available online: www.laricerca.loescher.it/quaderno_02/ (*) Informazioni aggiunte nella versione italiana
