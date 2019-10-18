@@ -331,7 +331,7 @@ A seconda da quante persone è costituita la platea, dalla quantità di tempo di
 
 Non è assolutamente necessario adattare il contenuto del corso seduta stante; sarà sufficiente però chiarire a tutti i partecipanti che cosa verrà tralasciato.
 
-[Ancora una volta, le informazioni fornite da Software Carpentry potrebbero essere utili per creare l'ambiente giusto. [Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) 
+[Ancora una volta, le informazioni fornite da Software Carpentry potrebbero essere utili per creare l'ambiente giusto](https://carpentries.github.io/instructor-training/08-motivation/) 
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="400" height="300" />
 #### Rompere il ghiaccio
@@ -465,7 +465,7 @@ Il [Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.co
 
 * All'inizio e alla fine del corso, assegnare un semplice esercizio, sempre lo stesso, e verificare se le risposte sono cambiate.
 
-* Parole-chiave: preparare dei foglietti con diversi concetti chiave della scienza aperta. Suddividere i partecipanti in gruppi (di almeno 3 persone ciascuno) e lasciare che ciascuno di essi lo spieghi agli altri con 2-3 parole-chiave..
+* Parole-chiave: preparare dei foglietti con diversi concetti chiave della scienza aperta. Suddividere i partecipanti in gruppi (di almeno 3 persone ciascuno) e lasciare che ciascuno di essi lo spieghi agli altri con 2-3 parole-chiave.
 
 * Distribuire ai partecipanti una stampa della struttura generale del metodo scientifico e chiedere loro di associare ad ogni fase gli strumenti/metodi di scienza aperta appropriati.
 
