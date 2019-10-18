@@ -263,7 +263,7 @@ Accertatevi che tutte le attrezzature, le strumentazioni e i materiali siano per
 
 Assicuratevi di stampare per tempo tutti gli opuscoli cartacei e di averne in un numero sufficiente da distribuire. Se avete intenzione di distribuire molto materiale, prendete in considerazione la possibilità di fornire cartelle o techette per facilitare la distribuzione. In alternativa, prendete in considerazione la possibilità di rendere disponibile tutto il vostro materiale in formato elettronico caricandolo sul sito web dell'evento.
 
-Predisporre un’ampia gamma di attività e di materiale può essere di aiuto per coinvolgere una platea con stili di apprendimento diversi. È necessario preparare in anticipo tutti i sussidi didattici (ad es. lavagne, esercizi pratici, giochi). Portate blocknotes, taccuini, post-it, penne, puntine. Se i partecipanti hanno bisogno di un computer, assicuratevidi provvedere in anticipo.
+Predisporre un’ampia gamma di attività e di materiale può essere di aiuto per coinvolgere una platea con stili di apprendimento diversi. È necessario preparare in anticipo tutti i sussidi didattici (ad es. lavagne, esercizi pratici, giochi). Portate blocknotes, taccuini, post-it, penne, puntine. Se i partecipanti hanno bisogno di un computer, assicuratevi di provvedere per tempo.
 
 #### Durante l’evento
 
@@ -320,7 +320,7 @@ Avete il consenso dei partecipanti a ri-utilizzare o condividere i loro dati per
 
 Preparate e spedite inviti formali ai partecipanti, agli ospiti e ai relatori.
 
-Create un sito web per l'evento formativo, utilizzando, ade sempio, le pagine di GitHub o un sito web istituzionale. [link ad esempi/template]
+Create un sito web per l'evento formativo, utilizzando, ad esempio, le pagine di GitHub o un sito web istituzionale. 
 
 Assicuratevi che tutte le risorse fondamentali siano visibili e accessibili, laddove sia necessario. Se volete che i partecipanti portino con sé esempi di prodotti della ricerca (ad esempio, documenti, codice, dati) per le esercitazioni, informateli per tempo perché possano prepararsi (prendete in considerazione la possibilità di renderlo facoltativo).
 
@@ -341,7 +341,7 @@ Inviate un promemoria su come raggiungere e avere accesso alla sede dell’event
 Dedicate un po' di tempo per allestire le cose all'inizio del vostro evento. Scrivete hashtag e password WiFi.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
-### Catering
+### Servizio di catering
 
 #### Molti prima dell'evento
 
@@ -400,7 +400,7 @@ Chiedete ai partecipanti se hanno bisogno di un attestato di partecipazione.
 Se è richiesta una scheda firmata, assicuratevi di fare un controllo durante il giorno o chiedete di completarla all'atto dell'iscrizione. 
 
 ## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
-### Signaletica
+### Segnaletica
 
 #### Molto prima dell'evento 
 
@@ -444,7 +444,7 @@ Confrontati con gli altri formatori/relatori per una valutazione interna dell'an
 
 ### Valutazione 
 
-Inviate un questionario post-formazione a tutti i partecipanti (vedi [valutazione della formazione] (/03OnLearningAndTraining.md/#training-evaluation)) oppure distribuite un modulo di valutazione durante l’evento per essere sicuri che i partecipanti ve lo consegnino alla fine. 
+Inviate un questionario post-formazione a tutti i partecipanti (cfr. [Valutazione dell'evento di formazione](/03OnLearningAndTraining.md/#training-evaluation)) oppure distribuite un modulo di valutazione durante l’evento per essere sicuri che i partecipanti ve lo consegnino alla fine. 
 
 Leggete e contate le domande del modulo di valutazione. Fate una vostra auto-valutazione.  
 
