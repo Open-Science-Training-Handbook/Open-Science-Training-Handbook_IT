@@ -392,7 +392,7 @@ Durante le discussioni \(in gruppi più grandi\) si dovrebbero evitare i microfo
 
 * Essere pronti a gestire studenti difficili e cercare consigli su come risolvere i problemi, prima dell’inizio del corso.  
 
-Si possono trovare delle indicazioni in tal senso nella [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
+Si possono trovare delle indicazioni in tal senso nella [Guida per faciitatori MozFest2017](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#). 
 Si dovrebbe in ogni caso avere un'idea di cosa fare nel caso in cui emerga una conversazione parallela o quando qualcuno è costantemente maleducato o disattento, ecc. E’ bene sapere che ci sono modi verbali e non verbali per affrontare queste situazioni.
 
 * Riepilogo / al termine del corso vale la pena di informare i partecipanti su ciò che il formatore ha fatto e perché è stato fatto. Questo renderà la valutazione anche più semplice 
