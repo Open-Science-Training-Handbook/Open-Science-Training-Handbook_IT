@@ -55,8 +55,8 @@ Tratto da:
 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry] (https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
-
+Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry]  (https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training)
+ 
 ### Il “Connected Curriculum Framework”
 
 Il recente movimento "Connected Curriculum Framework" si è prefissato l’obiettivo di modernizzare i metodi didattici e di adattarli allo studente del XXI secolo. Il fine generale del framework è di migliorare le relazioni tra la didattica rivolta agli studenti e i processi della ricerca scientifica, abbattendo inutili divisioni. Il Connected Curriculum Framework valuta gli scambi costruttivi, la ricerca attiva, la collaborazione e le interazioni tra studenti e ricercatori, oltre a quelle con università e comunità più ampie. Ciò porta interessanti spunti negli ambiti della scienza aperta, della scienza partecipativa e del crowdsourcing, ecc.  Il “Connected Curriculum” è consultabile al seguente [link](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
