@@ -694,7 +694,7 @@ Predisponete un rapporto per il vostro finanziatore o istituzione e, se necessar
 
 * Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
-**Fonti di ispirazione
+## Fonti di ispirazione
 
 * International Council on Archives (2010). Organising training workshops and seminars: Guidelines for professional association. [PDF](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
