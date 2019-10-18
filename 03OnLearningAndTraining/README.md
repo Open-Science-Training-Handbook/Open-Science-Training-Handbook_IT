@@ -107,7 +107,7 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 
 **Cosa devi sapere sulla platea:**
 
-1. Perché un qualsiasi evento formativo sia costruttivo, è importante mantenere un ambiente inclusivo e tenere in considerazione i diversi background dei potenziali partecipanti. Come rendere un workshop inclusivo? Consulta la [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+1. Perché un qualsiasi evento formativo sia costruttivo, è importante mantenere un ambiente inclusivo e tenere in considerazione i diversi background dei potenziali partecipanti. Come rendere un workshop inclusivo? Consulta la [Lista di controllo per l'organizzazione di una conferenza redatta da SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 2. Il fatto che i partecipanti si conoscano a priori o meno può impattare sulla dinamica del gruppo e sul tipo di attività che si vogliono condurre.
 
@@ -182,7 +182,7 @@ Il fatto di dettagliare i risultati rientra nella concezione che la formazione s
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-La versione aggiornata 1(al 2001\) è disponibile [qui] (https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+La versione aggiornata 1(al 2001\) è disponibile [qui](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 La tassonomia di Bloom è una classificazione a sei livelli ed è utile perché da un supporto concreto a chi voglia costruire una solida attività didattica e formativa. In aggiunta alla tassonomia di Bloom si possono trovare diversi tipi di supporto alla progettazione di un’attività didattica, come le terminologie annotate, verbi da utilizzare o da evitare nella pianificazione del corso e nella composizione di test di valutazione, ecc.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
