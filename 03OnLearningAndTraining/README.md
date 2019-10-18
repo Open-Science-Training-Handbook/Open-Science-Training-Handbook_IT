@@ -192,8 +192,6 @@ Questi due termini sono spesso usati come sinonimi dalla comunità dei formatori
 
 Durante la progettazione del corso è bene concentrarsi in primo luogo sugli obiettivi didattici e solo in seguito descrivere i risultati che la platea dovrebbe conseguire. Potrebbero sovrapporsi qua e là o se, come nella maggior parte dei casi, un obiettivo didattico racchiude uno o più risultati. E’ opportuno che le esercitazioni pratiche vengano progettate intorno a risultati specifici.
 
-
-
 Cerchiamo di fare chiarezza e dipanare le ambiguità:
 
 #### **Finalità didattiche**
@@ -280,7 +278,7 @@ La tecnica SMART è utile per specificare gli obiettivi da raggiungere ed è uti
 
 * •	L’obiettivo è **semplice** se può essere compreso da una persona che non ha familiarità con l'argomento. E’ opportuno spiegare a priori ai partecipanti cosa stanno per imparare: di solito è una buona idea presentare gli obiettivi didattici all'inizio di una lezione. Semplice significa che l'obiettivo può essere riassunto in un’unica breve frase.
 
-* L’obiettivo è **misurabile** se è possibile determinarne il raggiungimento con obiettività. La misurabilità impedisce obiettivi vaghi come "gli studenti devono comprendere la scienza aperta", troppo ampio e difficile da misurare viste le molte diverse componenti. Usare viceversa dei verbi che indicano azioni fattibili: identificare, disegnare, nominare, spiegare, calcolare ecc. I verbi utili ad una stesura efficace degli obiettivi didattici sono stati classificati dalla tassonomia di Bloom \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La misurabilità è utile al formatore e ai partecipanti dei corsi a valutare o autovalutare i progressi fatti. 
+* L’obiettivo è **misurabile** se è possibile determinarne il raggiungimento con obiettività. La misurabilità impedisce obiettivi vaghi come "gli studenti devono comprendere la scienza aperta", troppo ampio e difficile da misurare viste le molte diverse componenti. Usare viceversa dei verbi che indicano azioni fattibili: identificare, disegnare, nominare, spiegare, calcolare ecc. I verbi utili ad una stesura efficace degli obiettivi didattici sono stati classificati dalla [tassonomia di Bloom](clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml). La misurabilità è utile al formatore e ai partecipanti dei corsi a valutare o autovalutare i progressi fatti. 
 
 * L’ obiettivo è **ambizioso** se riesce a mettere alla prova i partecipanti del corso: ci sono dei vantaggi concreti nel raggiungerlo? Si vuole che il corso serva ad ampliare gli orizzonti dei partecipanti? In che modo può rappresentare un vantaggio? Essere ambiziosi significa poter rispondere alla domanda: che cosa si può imparare che non potrebbe essere appreso altrove? Se si desidera prendere posizione e difendere il proprio punto di vista, probabilmente l’obiettivo che ci si è posti è ambizioso.
 
