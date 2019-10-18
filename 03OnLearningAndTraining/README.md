@@ -206,7 +206,7 @@ Cerchiamo di fare chiarezza e dipanare le ambiguità:
 
 * Dovrebbero essere specifiche e dettagliate
 
-#### **Finalità didattiche**
+#### **Risultati d'apprendimento**
 
 * I risultati di apprendimento conseguiti dagli studenti registrano i “prodotti” complessivi del corso e sono la dimostrazione che gli obiettivi sono stati raggiunti.
 
