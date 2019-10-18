@@ -237,8 +237,7 @@ Per gli obiettivi didattici della scienza aperta, si può consultare questo [doc
 
 Una delle componenti chiave di un evento di formazione è assicurarsi che la mancanza di fiducia che i partecipanti potrebbero avere quando vengono introdotti in un nuovo campo (la scienza aperta, in questo caso) non li scoraggi dal proseguire. Anche se alcuni partecipanti hanno generalmente familiarità con i concetti presentati nell'evento formativo, è importante percepire l’eventuale presenza di un senso di confusione in alcune persone. Ammettere la leicità dei loro dubbi rappresenta la chiave per incoraggiare una mentalità predisposta alla crescita e accrescere la motivazione ad accettare e sostenere le pratiche della scienza aperta.
 
-Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \([Tratto da the Carpentry Instructor Training](https://carpentries.github.io/instructor-training/08-motivation/\)
-
+Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \(Tratto da "The Carpentry Instructor Training [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 * **Strategie per costruire valore**
 
   * Creare un nesso tra il contenuto del corso e gli interessi o valori di chi vi partecipa.
