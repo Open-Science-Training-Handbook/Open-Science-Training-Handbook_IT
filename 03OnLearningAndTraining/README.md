@@ -409,7 +409,7 @@ Un altro modo per ottenere un feedback istantaneo, specialmente in momenti prede
 
 Sarebbe auspicabile che questi metodi venissero testati prima di usarli con una vera platea e che si iniziasse con i sistemi con cui è più facile familiarizzare, come [Socrative](https://www.socrative.com/) e [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html),[Polleverywhere](https://www.polleverywhere.com/), [Directpoll](http://directpoll.com/). 
 
-Si possono trovare altre strategie di feedback immediato nel sito [teachthought.com] (https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)  
+Si possono trovare altre strategie di feedback immediato nel sito [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
 ### La valutazione del corso di formazione
