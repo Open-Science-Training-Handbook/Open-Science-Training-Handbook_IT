@@ -294,7 +294,7 @@ Si tratta di adottare il metodo di progettazione a ritroso, nota come Backward d
 
 1. Si inizi con le finalità didattiche 
 
-2. Si stabilisca che cosa dimostra che gli obiettivi sono stati raggiunti (valutazione sommativa, vedi sotto, il paragrafo “Valutazione post-formazione”) [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
+2. Si stabilisca quali aspetti si prenderanno in considerazione per dimostrare che gli obiettivi sono stati raggiunti (valutazione sommativa, cfr. il paragrafo [Valutazione post-formazione](#heading=h.jppdc2zcwj8d) che segue\).
 
 3. Si scelga il format migliore e progetta il contenuto per preparare i partecipanti a ciò che dovranno fare durante la valutazione sommativa.
 
