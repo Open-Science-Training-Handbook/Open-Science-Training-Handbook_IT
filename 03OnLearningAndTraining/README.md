@@ -55,7 +55,7 @@ Tratto da:
 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry (https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry] (https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
 ### Il “Connected Curriculum Framework”
 
