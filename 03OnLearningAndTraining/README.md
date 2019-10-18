@@ -55,7 +55,7 @@ Tratto da:
 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry]  https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+Per capire i processi di apprendimento può essere di aiuto anche il [lavoro di Software Carpentry](https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
  
 ### Il “Connected Curriculum Framework”
 
@@ -222,9 +222,9 @@ Cerchiamo di fare chiarezza e dipanare le ambiguità:
 
 * I risultati sono criteri chiari e misurabili per guidare l'insegnamento, l'apprendimento e il processo di valutazione nel corso.
 
-\(Adattato da[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+\(Adattato da [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-Per gli obiettivi didattici della scienza aperta, si può consultare questo documento FOSTER: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(vedi pagine 13 e 14\)
+Per gli obiettivi didattici della scienza aperta, si può consultare questo [documento FOSTER](https://doi.org/10.5281/zenodo.15603) \(vedi pagine 13 e 14\)
 
 **Esempio di finalità didattica:**
 
@@ -239,7 +239,7 @@ Per gli obiettivi didattici della scienza aperta, si può consultare questo docu
 
 Una delle componenti chiave di un evento di formazione è assicurarsi che la mancanza di fiducia che i partecipanti potrebbero avere quando vengono introdotti in un nuovo campo (la scienza aperta, in questo caso) non li scoraggi dal proseguire. Anche se alcuni partecipanti hanno generalmente familiarità con i concetti presentati nell'evento formativo, è importante percepire l’eventuale presenza di un senso di confusione in alcune persone. Ammettere la leicità dei loro dubbi rappresenta la chiave per incoraggiare una mentalità predisposta alla crescita e accrescere la motivazione ad accettare e sostenere le pratiche della scienza aperta.
 
-Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \(Taken from the Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
+Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \([Tratto da the Carpentry Instructor Training](https://carpentries.github.io/instructor-training/08-motivation/\)
 
 * **Strategie per costruire valore**
 
@@ -255,7 +255,7 @@ Ci sono diverse strategie che possono essere utilizzate durante l'evento di form
 
   * Accertarsi che obiettivi, valutazioni e strategie didattiche siano allineati e coerenti tra loro
 
-  * Per avere un immediato riscontro positivo, i concetti devono essere messi in pratica in esercitazione pratiche e tutorial
+  * Per avere un immediato riscontro positivo, i concetti devono essere messi in pratica in esercitazioni pratiche e tutorial
 
 * **Strategie per l'autoefficacia**
 
@@ -266,7 +266,7 @@ Ci sono diverse strategie che possono essere utilizzate durante l'evento di form
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Guida pratica
 
-Maggiori e concrete informazioni sulla pianificazione e l'esecuzione di un corso di formazione sulla scienza aperta sono disponibili nei capitoli [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) e [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
+Maggiori e concrete informazioni sulla pianificazione e l'esecuzione di un corso di formazione sulla scienza aperta sono disponibili nei capitoli [Aspetti organizzativi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) e [Esempi & guida pratica: adotta, adatta, sviluppa](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
 
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
