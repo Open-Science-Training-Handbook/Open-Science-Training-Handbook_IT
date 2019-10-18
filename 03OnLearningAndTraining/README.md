@@ -312,7 +312,7 @@ L'idea nella “progettazione a ritroso” è quella di puntare alla "meta final
 
 Prima di iniziare ad insegnare, è opportuno raccogliere e preparare i contenuti. Oggigiorno di contenuti ce ne sono a disposizione in grande quantità, e il problema non è tanto quello di trovare o creare contenuti quanto quello di trovare contenuti appropriati o rendere il contenuto proposto adeguato alle proprie esigenze e alle capacità della platea.
 
-Si consulti il capitolo [Esempi & guida pratica: adotta, adatta, sviluppa] (https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) che contiene delle informazioni utili su come adottare, adattare e sviluppare il contenuto.
+Si consulti il capitolo [Esempi&guida pratica: adotta, adatta, sviluppa](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) che contiene delle informazioni utili su come adottare, adattare e sviluppare il contenuto.
 
 #### La concentrazione dei contenuti
 
