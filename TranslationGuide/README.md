@@ -1,10 +1,10 @@
 ### Translators and Revisioners - Chapters' allocation 
 
 <table>
-     <td>###Capitolo</td>
-    <td>###Traduttore</td>
-    <td>###Numero di parole</td>
-    <td>###Revisore</td>
+     <td>Capitolo</td>
+    <td>Traduttore</td>
+    <td>Numero di parole</td>
+    <td>Revisore</td>
   </tr>
   <tr>
     <td>Sommario</td>
