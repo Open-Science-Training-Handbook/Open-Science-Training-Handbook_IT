@@ -1,5 +1,3 @@
-Open Peer Review, Metrics and Evaluation	Rossana Morriello 	 1.137		Roberta Moscon 	
-Open Science Policies	                        Roberta Moscon	         917		Roberta Moscon	
 Citizen Science	                                Nicoletta Zar	         922	        Roberta Moscon 
 Open Educational Resources	                Laura Testoni	         693	        Roberta Moscon 	 
 Open Advocacy	                                Laura Testoni	         1.015		Roberta Moscon	
@@ -82,5 +80,22 @@ Glossary	                                Silvia Molteni/Roberta Moscon 	1.753	Ro
     <td>Piattaforme collaborative</td>
     <td>Rossanna Morriello</td>
     <td>1005</td>
-    <td>Benedetta Calonaci</td>
-    
+    <td>Roberta Moscon</td>
+    </tr>
+  <tr>
+    <td>Revisione tra pari aperta, metriche e valutazione</td>
+    <td>Rossanna Morriello</td>
+    <td>1137</td>
+    <td>Roberta Moscon</td>
+    </tr>
+  <tr>
+    <td>Politiche e Scienza Aperta</td>
+    <td>Roberta Moscon</td>
+    <td>917</td>
+    <td>Giulia Malaguarnera</td>
+    </tr>
+  <tr>
+    <td>Citizen Science - la scienza di tutti</td>
+    <td>Nicoletta Zar</td>
+    <td>922</td>
+    <td>Roberta Moscon</td>
