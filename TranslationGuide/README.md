@@ -24,3 +24,18 @@ Glossary	                                Silvia Molteni/Roberta Moscon 	1.753	Ro
 
 
 
+<table>
+  <tr>
+    <td></td>
+    <td>Capitolo</td>
+    <td>Traduttore</td>
+    <td>Numero di parole</td>
+    <td>Revisore</td>
+  </tr>
+  <tr>
+    <td>Sommario</td>
+    <td>Roberta Moscon</td>
+    <td>86</td>
+    <td>-.-.-</td>
+  </tr>
+  <tr>
