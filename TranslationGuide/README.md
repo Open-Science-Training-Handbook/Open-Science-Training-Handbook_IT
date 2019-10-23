@@ -1,12 +1,4 @@
-Citizen Science	                                Nicoletta Zar	         922	        Roberta Moscon 
-Open Educational Resources	                Laura Testoni	         693	        Roberta Moscon 	 
-Open Advocacy	                                Laura Testoni	         1.015		Roberta Moscon	
-On Learning and Training	                Anna Maria Pastorini	 6.319		Roberta Moscon 
-Organizational Aspects	                        Roberta Moscon 	         4.095   	Roberta Moscon 	
-Examples and Practical Guidance	                Roberta Moscon	         10.355 	Roberta Moscon 	
-Glossary	                                Silvia Molteni/Roberta Moscon 	1.753	Roberta Moscon 	
-
-
+### Translators and Revisioners - Chapters' allocation 
 
 <table>
   <tr>
@@ -99,3 +91,41 @@ Glossary	                                Silvia Molteni/Roberta Moscon 	1.753	Ro
     <td>Nicoletta Zar</td>
     <td>922</td>
     <td>Roberta Moscon</td>
+     </tr>
+  <tr>
+    <td>Risorse aperte per l'insegnamento e l'apprendimento</td>
+    <td>Laura Testoni</td>
+    <td>693</td>
+    <td>Roberta Moscon</td>
+    </tr>
+  <tr>
+    <td>L'advocacy aperta</td>
+    <td>Laura Testoni</td>
+    <td>1015</td>
+    <td>Roberta Moscon</td>
+    /tr>
+  <tr>
+    <td>Processi di apprendimento e formazione</td>
+    <td>Anna Maria Pastorini</td>
+    <td>6319</td>
+    <td>Roberta Moscon</td>
+     /tr>
+  <tr>
+    <td>Aspetti organizzativie</td>
+    <td>Roberta Moscon</td>
+    <td>4095</td>
+    <td>Roberta Moscon</td>
+     /tr>
+  <tr>
+    <td>Esempi & guida pratica: adotta, adatta, sviluppa</td>
+    <td>Roberta Moscon</td>
+    <td>10355</td>
+    <td>Roberta Moscon</td>
+     /tr>
+  <tr>
+    <td>Glossario</td>
+    <td>Silvia Molteni e Roberta Moscon</td>
+    <td>1753</td>
+    <td>Roberta Moscon</td>
+    <tr>
+    <table>
