@@ -1,4 +1,4 @@
-### Translators and Revisioners - Chapters' allocation 
+### Traduttore e revisori - Adozione dei capitoli 
 
 <table>
      <td>Capitolo</td>
