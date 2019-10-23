@@ -1,10 +1,10 @@
 ### Translators and Revisioners - Chapters' allocation 
 
 <table>
-     <td>#Capitolo</td>
-    <td>#Traduttore</td>
-    <td>#Numero di parole</td>
-    <td>#Revisore</td>
+     <td>###Capitolo</td>
+    <td>###Traduttore</td>
+    <td>###Numero di parole</td>
+    <td>###Revisore</td>
   </tr>
   <tr>
     <td>Sommario</td>
@@ -125,6 +125,5 @@
     <td>Silvia Molteni e Roberta Moscon</td>
     <td>1753</td>
     <td>Roberta Moscon</td>
-    <tr>
-          /tr>
-    <table>
+      </tr>
+</table>
