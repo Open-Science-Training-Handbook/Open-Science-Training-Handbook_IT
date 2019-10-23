@@ -41,7 +41,7 @@ Penso che questo progetto sia molto prezioso perché risponde a due esigenze fon
 ![Rossana_Morriello_edited_edited](https://user-images.githubusercontent.com/48010221/66735601-17367d80-ee67-11e9-9139-a54186d50863.jpg)
 
 * Politecnico di Torino - Servizio Programmazione Sviluppo e Qualità
-* [rossana.morriello@upolito.it](mailto:rossana.morriello@polito.it) 
+* [rossana.morriello@polito.it](mailto:rossana.morriello@polito.it) 
 * @rox_more
 * 0000-0002-9990-9243
 * http://staff.polito.it/rossana.morriello/
