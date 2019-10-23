@@ -1,5 +1,4 @@
 ### Traduttore e revisori - Adozione dei capitoli 
-
 <table>
      <td>Capitolo</td>
     <td>Traduttore</td>
