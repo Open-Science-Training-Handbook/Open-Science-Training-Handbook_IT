@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
 ## Bibliografia
 
-Una bibliografia che raccoglie quanto è stato prodotto in ambito italiano sull'accesso aperto è disponibile in [wiki OA Italia](http://wikimedia.sp.unipi.it/index.php/OA_Italia/Bibliografia_in_lingua_italiana)
-
 > *Note:* This bibliography is collaboratively maintained by the *Open Science Training Handbook* community at https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
+
+**Una bibliografia che raccoglie quanto è stato prodotto in ambito italiano sull'accesso aperto è disponibile in [wiki OA Italia](http://wikimedia.sp.unipi.it/index.php/OA_Italia/Bibliografia_in_lingua_italiana)
 
 Balasegaram, Manica, Peter Kolb, John McKew, Jaykumar Menon, Piero Olliaro,
 Tomasz Sablinski, Zakir Thomas, Matthew H. Todd, Els Torreele, and John
