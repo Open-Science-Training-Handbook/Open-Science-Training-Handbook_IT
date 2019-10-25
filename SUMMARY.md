@@ -21,5 +21,9 @@
 * [Glossario](06Glossary/README.md)
 * [Riferimenti bibliografici](07References/README.md)
 * [Presentazione degli autori&facilitatori](08AboutTheAuthorsAndFacilitators/README.md)
+
+* [Capitolo aggiunto alla versione italiana:]
+
 * [Traduttori e revisori che hanno collaborato alla versione italiana del manuale](09AboutItalianTranslatorsRevisioners/README.md)
-* [Altre lingue](Languages/README.md)
+
+
