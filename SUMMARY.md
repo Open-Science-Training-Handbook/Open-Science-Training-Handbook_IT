@@ -22,7 +22,7 @@
 * [Riferimenti bibliografici](07References/README.md)
 * [Presentazione degli autori&facilitatori](08AboutTheAuthorsAndFacilitators/README.md)
 
-* [Capitolo aggiunto alla versione italiana:]
+* [Capitolo aggiunto alla versione italiana:](06Glossary/README.md)
 
 * [Traduttori e revisori che hanno collaborato alla versione italiana del manuale](09AboutItalianTranslatorsRevisioners/README.md)
 
