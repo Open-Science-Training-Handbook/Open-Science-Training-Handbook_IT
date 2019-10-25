@@ -1,5 +1,7 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
-## References
+## Bibliografia
+
+Una bibliografia che raccoglie quanto è stato prodotto in ambito italiano sull'accesso aperto è disponibile in [wiki OA Italia](http://wikimedia.sp.unipi.it/index.php/OA_Italia/Bibliografia_in_lingua_italiana)
 
 > *Note:* This bibliography is collaboratively maintained by the *Open Science Training Handbook* community at https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
 
@@ -250,3 +252,5 @@ Wilson, Paul M, Mark Petticrew, Mike W Calnan, and Irwin Nazareth.
 ‘Disseminating Research Findings: What Should Researchers Do? A Systematic
 Scoping Review of Conceptual Frameworks’. *Implementation Science* 5, no. 1
 (December 2010). https://doi.org/10/cprfmr.
+
+
