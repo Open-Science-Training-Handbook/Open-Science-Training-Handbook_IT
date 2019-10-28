@@ -1,6 +1,6 @@
 ## <img src="/Images/Icons/book.png" width="200" height="200" />
 
-## Le finalità del libro
+## Le finalità del manuale
 
 _**"Quando tutti i ricercatori sapranno che cos’è la Scienza Aperta, quando saranno stati tutti formati, saranno supportati e guidati alla pratica della Scienza Aperta ad ogni stadio della loro carriera, allora il modo in cui la ricerca verrà condotta e disseminata cambierà, promuovendo un ecosistema scientifico in cui la ricerca godrà di una visibilità sempre maggiore, sarà condivisa efficientemente e verrà fatta con maggiore integrità."**_ [Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
 
