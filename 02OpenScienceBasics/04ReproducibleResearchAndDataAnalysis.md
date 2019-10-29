@@ -34,9 +34,9 @@ Se da una parte è importante capire l’ampia gamma di fattori che contribuisco
 
 Fonte: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) evidenziano come in epidemiologia, biologia computazionale, economia e sperimentazione clinica, per riproducibilità si intende spesso come:
+[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) evidenziano come in epidemiologia, biologia computazionale, economia e sperimentazione clinica, per riproducibilità si intende spesso
 
-_" “l’abilità di un ricercatore di duplicare i risultati di uno studio precedente utilizzando gli stessi materiali utilizzati dal primo ricercatore. In questo modo, il secondo ricercatore può utilizzare gli stessi dati grezzi e ricostruire le stesse analisi e utilizzare la stessa analisi statistica nel tentativo di ottenere gli stessi risultati”._
+_“l’abilità di un ricercatore di duplicare i risultati di uno studio precedente utilizzando gli stessi materiali utilizzati dal primo ricercatore. In questo modo, il secondo ricercatore può utilizzare gli stessi dati grezzi e ricostruire le stesse analisi e utilizzare la stessa analisi statistica nel tentativo di ottenere gli stessi risultati”._
 
 Si tratta di qualcosa di diverso dalla replicabilità: _“che si riferisce all’abilità di un ricercatore di duplicare i risultati di uno studio precedente se segue le stesse procedure ma raccoglie nuovi dati”_. Per semplicità si può pensare che la riproducibilità è orientata al metodo mentre la replicabilità è orientata al risultato. 
 
@@ -72,19 +72,19 @@ L’elenco che segue contiene i punti che indicativamente si devono tenere prese
 
 * Ambienti di analisi riproducibili \(virtualizzazione\)
 
-* Prendere a riferimento la "Researcher Degrees of Freedom" \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* Riferimento alla "Researcher Degrees of Freedom" \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competenze
 
-Ci sono alcuni consigli pratici in materia di riproducibilità a cui tutti dovrebbero fare riferimento nel momento in cui si definiscono le particolari competenze necessarie per poterla garantire. In generale, le prassi migliori in materia di riproducibilità possono essere prese in prestito dalle pratiche della Scienza Aperta ma la loro integrazione offre dei vantaggi agli stessi singoli ricercatori sia che scelgano di condividere la loro ricerca oppure no. La ragione per cui integrare le prassi migliori di riproducibilità sia un vantaggio per il singolo ricercatore è che queste migliorano la pianificazione, l’organizzazione e la documentazione della ricerca. Di seguito, ecco un esempio di come si possa tradurre in pratica il concetto di riproducibilità nel flusso della ricerca con rimandi a queste pratiche contenute in questo manuale. 
+Ci sono alcuni consigli pratici in materia di riproducibilità a cui tutti dovrebbero fare riferimento nel momento in cui si definiscono le particolari competenze necessarie per poterla garantire. In generale, le prassi migliori in materia di riproducibilità possono essere prese in prestito dalle pratiche della Scienza Aperta ma la loro integrazione offre dei vantaggi agli stessi singoli ricercatori sia che scelgano di condividere la loro ricerca oppure no. La ragione per cui integrare le prassi migliori di riproducibilità sia un vantaggio per il singolo ricercatore è che queste migliorano la pianificazione, l’organizzazione e la documentazione della ricerca. Di seguito, ecco un esempio di come si possa tradurre in pratica il concetto di riproducibilità nel flusso della ricerca con rimandi alle pratiche contenute in questo manuale. 
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
 ##### **1. La riproducibilità si pianifica prima di iniziare**
 
-###### Create un piano o protocollo di studio.
+###### Create un piano o protocollo di studio
 
-Iniziate la documentazione fin dall’inizio dello studio predisponendo un piano o protocollo di studio che includa struttura e metodi dello studio proposto. Laddove opportuno, utilizzate le linee guida per la reportistica contenute in [Equator Network](http://www.equator-network.org/) Tenete traccia di tutte le variazioni al piano o protocollo di lavoro utilizzando strumenti per il controllo versione \(rif. controllo versione\). Calcolate la potenza o le dimensioni del campione e riportate queste informazioni nel protocollo poiché gli studi sottodimensionati tendono alla non-riproducibilità. 
+Iniziate a tenere la documentazione di ricerca fin dall’inizio del vostro studio predisponendo un piano o protocollo di studio che includa struttura e metodi dello studio proposto. Laddove opportuno, utilizzate le linee guida per la reportistica contenute in [Equator Network](http://www.equator-network.org/). Tenete traccia di tutte le variazioni al piano o protocollo di lavoro utilizzando strumenti per il controllo versione \(rif. controllo versione\). Calcolate la potenza o le dimensioni del campione e riportate queste informazioni nel protocollo poiché gli studi sottodimensionati tendono alla non-riproducibilità. 
 
 ###### Scegliete strumenti e materiali riproducibili
 
@@ -94,7 +94,7 @@ Selezionate degli anticorpi che funzionano utilizzando un motore di ricerca anti
 
 Accentrate e organizzate la gestione del progetto utilizzando una piattaforma elettronica, un archivio o cartelle centrali per tutti i documenti della ricerca. Potete utilizzare GitHub come luogo dove depositare tutti insieme i file o gestire il tutto utilizzando un notebook lab elettronico come [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) o [SciNote](https://scinote.net/). Nel merito del vostro progetto centralizzato, seguite le pratiche migliori separando i dati dal codice in diverse cartelle. Gestite i vostri dati grezzi in sola lettura e teneteli separati dai dati processati \(rif. Gestione dei dati\)
 
-Quando salvate o eseguite il back up di un vostro file di ricerca, optate per dei nomi di formati o file informativi che permettono il ri-uso. I nomi dei file dovrebbero essere leggibili sia dalle macchine sia dalle persone \(rif. Gestione dei dati\). Nelle vostre analisi e codici software usate dei percorsi relativi. Evitate dei formati di file proprietari e utilizzate dei formati di file aperti \(rif. Licenze aperte e formati di file\).
+Quando salvate o eseguite il back up di un vostro file di ricerca, optate per dei nomi di formati o file informativi che ne permettano il ri-uso. I nomi dei file dovrebbero essere leggibili sia dalle macchine sia dalle persone \(rif. Gestione dei dati\). Nelle vostre analisi e codici software usate dei percorsi relativi. Evitate dei formati di file proprietari e utilizzate dei formati di file aperti \(rif. Licenze aperte e formati di file\).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
 ##### **2. Tenete traccia di tutto**
@@ -125,28 +125,27 @@ Evitate i file supplementari, optate per una licenza permissiva plausibile e con
 
 ###### Materiali 
 
-Condividete il vostro materiale perchè possa essere ri-utilizzato. Depositate i reagenti in archivi come 
-Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) e [ATCC](https://www.atcc.org/) al fine di renderli facilmente accessibili agli altri ricercatori. Maggiori informazioni sono disponibili al paragrafo [Dati e materiali di ricerca aperti](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
+Condividete il vostro materiale perchè possa essere ri-utilizzato. Depositate i reagenti in archivi come [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) e [ATCC](https://www.atcc.org/) al fine di renderli facilmente accessibili agli altri ricercatori. Maggiori informazioni sono disponibili al paragrafo [Dati e materiali di ricerca aperti](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
 ###### Software, notebook e contenitori
 
 Applicate una licenza al codice per fornire indicazioni su come può essere \(ri\)utilizzato. Condividete i notebook con servizi come [mybinder](http://mybinder.org) che consentono la visibilità pubblica e l'esecuzione del notebook integrale su risorse condivise. Condividete contenitori o notebook con servizi come [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Seguite le buone prassi descritte in Software e codice della ricerca aperto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### **4. Presenta i risultati della tua ricerca in modo trasparente**
+##### **4. Presentate i risultati della vostra ricerca in modo trasparente**
 
-Segnalate e pubblicate i vostri metodi e interventi in modo esplicito, trasparente e completo per consentirne la riproduzione. Le linee guida di [Equator Network](http://www.equator-network.org/), strumenti come [Protocols.io](https://www.protocols.io/) o processi come [Registered Reports](https://cos.io/rr/) possono aiutarti a documentare per la riproducibilità. Ricordatevi di pubblicare i risultati sulla piattaforma di registrazione pubblica \(come [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) entro un anno dalla conclusione dello studio, indipendentemente dalla natura o dal corso dei risultati.
+Segnalate e pubblicate i vostri metodi e interventi in modo esplicito, trasparente e completo per consentirne la riproduzione. Le linee guida di [Equator Network](http://www.equator-network.org/), strumenti come [Protocols.io](https://www.protocols.io/) o processi come [Registered Reports](https://cos.io/rr/) possono aiutarvi a documentare ai fini della riproducibilità. Ricordatevi di pubblicare i risultati sulla piattaforma di registrazione pubblica come [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o [SocialScienceRegistry](https://www.socialscienceregistry.org/) entro un anno dalla conclusione dello studio, indipendentemente dalla natura o dal corso dei risultati.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Domande, intoppi e comuni equivoci
 
-Domanda: “Tutto quello che serve è scritto nell’articolo; chiunque può riprodurre la ricerca basta che si leggano quello!”
+Domanda: “Tutto quello che serve è scritto nell’articolo; chiunque può riprodurre la ricerca. Basta che si leggano quello!”
 
 Risposta: Questo è uno dei luoghi comuni più comuni. Perfino quando metodi e flussi di lavoro utilizzati per raggiungere il risultato finale sono stati descritti in maniera estremamente dettagliata non sempre questo è sufficiente -nella maggior parte dei casi- perché venga riprodotto. Ciò può essere dovuto a diversi aspetti incluso ambienti computazionali diversi, differenze nelle versioni del software, errori impliciti non chiaramente indicati, ecc.
 
 Domanda: “Non ho il tempo per imparare e per stabilire un flusso di lavoro riproducibile”
 
-Risposta: In aggiunta ad un numero significativo di servizi online liberamente disponibili che possono essere combinati e che facilitano l’impostazione di un intero flusso di lavoro, il dispendio di tempo e lavoro spesi per metterli insieme contribuirà a migliorare sia la validità scientifica dei risultati finali sia a ridurre al minimo il tempo di ri-esecuzione o a prolungarlo in studi successivi. 
+Risposta: In aggiunta ad un numero significativo di servizi online liberamente disponibili che possono essere combinati e che facilitano l’impostazione di un intero flusso di lavoro, il dispendio di tempo e lavoro impiegati per metterli insieme contribuirà a migliorare sia la validità scientifica dei risultati finali sia a ridurre al minimo il tempo di ri-esecuzione o ad estenderlo negli studi successivi. 
 
 Domanda: “Le terminologie che descrivono la riproducibilità sono laboriose.
 
@@ -157,9 +156,9 @@ Risposta: Si veda Barba (2018) per una discussione sulla terminologia che descri
 
 1. Comprendere la necessità della riproducibilità della ricerca e le sue argomentazioni.
 
-2. Essere in grado di stabilire un flusso di lavoro riproducibile all’interno di un contesto di un esercizio-esempio.
+2. Essere in grado di stabilire un flusso di lavoro riproducibile all’interno di un contesto di un esercizio-modello.
 
-3. Conoscere gli strumenti che possono supportare la riproducibilità della ricerca
+3. Conoscere gli strumenti che possono supportare la riproducibilità della ricerca.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
