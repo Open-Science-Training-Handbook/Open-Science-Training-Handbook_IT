@@ -3,7 +3,7 @@
 
 ### Di che cosa si tratta?
 
-Le piattaforme collaborative online permettono ai ricercatori geograficamente lontani tra loro di entrare in contatto e di collaborare in maniera continuativa ad un lavoro di ricerca, condividendo oggetti di studio, idee ed esperienze. In genere, le piattaforme collaborative mettono a disposizione dei servizi online in un ambiente virtuale al quale più utenti possono collegarsi simultaneamente e lavorare alla stessa attività. Sono compresi sia ambienti di ricerca virtuali grandi \(VRE)\ che comprendono una serie di strumenti atti a facilitare la condivisione e la collaborazione - tra cui forum virtuali e wiki, servizi di archiviazione collaborativa di documenti (file hosting) e strumenti disciplinari come l'analisi o la visualizzazione dei dati – così come anche singoli strumenti specifici che consentono ai ricercatori di lavorare insieme in tempo reale su particolari aspetti collegati alla ricerca \(come la stesura o l'analisi)\.
+Le piattaforme collaborative online permettono ai ricercatori geograficamente lontani tra loro di entrare in contatto e di collaborare in maniera continuativa ad un lavoro di ricerca, condividendo oggetti di studio, idee ed esperienze. In genere, le piattaforme collaborative mettono a disposizione dei servizi online in un ambiente virtuale al quale più utenti possono collegarsi simultaneamente e lavorare alla stessa attività. Sono compresi sia ambienti di ricerca virtuali grandi \(VRE\) che comprendono una serie di strumenti atti a facilitare la condivisione e la collaborazione - tra cui forum virtuali e wiki, servizi di archiviazione collaborativa di documenti (file hosting) e strumenti disciplinari come l'analisi o la visualizzazione dei dati – così come anche singoli strumenti specifici che consentono ai ricercatori di lavorare insieme in tempo reale su particolari aspetti collegati alla ricerca \(come la stesura o l'analisi)\.
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
@@ -71,7 +71,7 @@ Da molto tempo i ricercatori utilizzano la rete per fare networking, sia per mez
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Domande, intoppi e comuni equivoci
 
-Domanda: Perché dovrei complicare ancora di più il modo in cui gestisco le mie attività in maniera collaborativa? Il fatto di condividere i file in formato .doc dovrebbe essere già più che sufficiente! 
+Domanda: Perché dovrei complicare ancora di più il modo in cui gestisco le mie attività e farlo in maniera collaborativa? Il fatto di condividere i file in formato .doc dovrebbe essere già più che sufficiente! 
 
 Risposta: Non è proprio così. Potrà anche sembrare di aggiungere strumenti e piattaforme ad altri strumenti e piattaforme al proprio ciclo di lavoro, in realtà questi servono a risolvere problemi di comunicazione di cui molto probabilmente non ci si rendeva conto all’inizio. Il fatto, ad esempio, di utilizzare solo e semplicemente dei file .doc (tenendo più o meno traccia delle modifiche), mostra solo lo stadio più avanzato delle informazioni e generalmente quello che arriva alla fine dell'intero processo scientifico. Il lavoro che invece si svolge in un contesto di ambiente collaborativo che va dalla progettazione fino alla redazione del report finale si fonda su una comunicazione chiara e su una descrizione adeguata delle fonti, della storia ed evoluzione delle informazioni.
 
