@@ -5,7 +5,7 @@
 
 Una licenza è un documento legale che concede specifici diritti all’utilizzatore relativamente al ri-uso e alla ri-distribuzione -a certe condizioni- di un determinato materiale. Qualsiasi diritto che non sia stato concesso dal licenziante per mezzo di una licenza predefinita può essere richiesto. Le licenze si possono applicare a qualsiasi materiale (ad esempio, a suoni, testi, immagini, materiali multimediali, software) laddove esistano diritti di sfruttamento o di uso.
 
-[Le licenze](https://en.wikipedia.org/wiki/List_of_free_content_licenses) [a contenuto aperto](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sono licenze che concedono il permesso di accedere, riusare e ridistribuire del materiale con minime o alcuna restrizione. Queste licenze variano da molto aperte a molto restrittive. Maggiori sono le restrizioni, più complicato diventa combinare contenuti vincolati a licenze diverse –precludendo di fatto la loro interoperabilità.
+[Le licenze](https://en.wikipedia.org/wiki/List_of_free_content_licenses) [a contenuto aperto](https://en.wikipedia.org/wiki/List_of_free_content_licenses) sono licenze che concedono il permesso di accedere, riusare e ridistribuire del materiale con minime o alcuna restrizione. Queste licenze variano da molto aperte a molto restrittive. Maggiori sono le restrizioni, più complicato diventa combinare contenuti vincolati a licenze diverse –precludendo di fatto la loro interoperabilità-.
 
 Il formato di un file è la modalità standard con la quale l’informazione è codificata per essere salvata in un file di computer; tuttavia, non tutti i formati hanno i documenti con specifiche liberamente disponibili, in parte perché alcuni sviluppatori considerano i loro documenti con specifiche alla stregua di segreti commerciali.
 
@@ -65,7 +65,7 @@ In un contesto di Scienza Aperta e per un’archiviazione ottimale a lungo termi
 
 * Testo: TXT, ODT, PDF/A, XML
 
-* Dati tabullari: CSV, TSV
+* Dati tabulari: CSV, TSV
 
 * Immagine: TIFF, PNG, JPG 2000, SVG, WebP
 
