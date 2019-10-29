@@ -7,11 +7,11 @@ L’advocacy, in tutte le sue forme, cerca di assicurare che le persone e in par
 
 * far sentire chiaramente la loro voce su temi che reputano importanti per loro. Advocacy significa dare voce a un gruppo;
 
-* difendere e salvaguardare i loro diritti
+* difendere e salvaguardare i loro diritti;
 
 * fare in modo che il loro punto di vista e richieste siano seriamente presi in considerazione in fase di risoluzione su decisioni che avranno un impatto sulle loro vite.
 
-L’advocacy include azioni come difendere, influenzare, operare il cambiamento, prendere decisioni, persuadere, fare lobbying, attirare l’attenzione.
+L’advocacy include azioni come difendere, influenzare, operare il cambiamento, prendere decisioni, persuadere, fare lobbying, attirare attenzione.
 
 L’advocacy aperta trova il suo focus nel movimento che promuove la Scienza Aperta verso i portatori di interesse ad ogni livello, mettendo in luce ed enfatizzando i vantaggi sociali, professionali e personali che essa comporta.
 
