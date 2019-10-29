@@ -9,7 +9,7 @@ Questo capitolo fornisce un quadro di riferimento delle strategie didattiche, un
 
 3. Riflessione
 
-Prima ancora del corso in sé stesso, ciò di cui insegnamento e formazione si occupano è la fase di preparazione. Questa include la selezione dei contenuti e dei metodi didattici più appropriati e della loro organizzazione al fine di ottenere la massima efficacia ed impatto dal percorso di formazione. Solo in un secondo momento, l'insegnamento consiste nell'erogazione del corso (il modo in cui si agisce e interagisce con i partecipanti). Anche nel caso in cui si  fosse perfettamente preparati su un certo argomento, è preferibile evitare di iniziare il corso prima di aver terminato la fase di preparazione. Potrebbe inoltre essere necessario testare il contenuto, in particolare le esercitazioni pratiche. Durante il corso sarà necessaria molta flessibilità, perché di rado le cose vanno secondo le proprie aspettative. Per finire, la didattica riguarda anche la valutazione e l'autovalutazione a fine corso. Con molta probabilità è necessario dedicarsi allo stesso corso o ad un corso similare più volte, in particolare se la valutazione risulta positiva.
+Prima ancora del corso in sé stesso, ciò di cui insegnamento e formazione si occupano è la preparazione. Questa include la selezione dei contenuti e dei metodi didattici più appropriati e della loro organizzazione al fine di ottenere la massima efficacia ed impatto dal percorso di formazione. Solo in un secondo momento, l'insegnamento consiste nell'erogazione del corso (il modo in cui si agisce e interagisce con i partecipanti). Anche nel caso in cui si  fosse perfettamente preparati su un certo argomento, è preferibile evitare di iniziare il corso prima di aver terminato la fase di preparazione. Potrebbe inoltre essere necessario testare il contenuto, in particolare le esercitazioni pratiche. Durante il corso sarà necessaria molta flessibilità, perché di rado le cose vanno secondo le proprie aspettative. Per finire, la didattica riguarda anche la valutazione e l'autovalutazione a fine corso. Con molta probabilità è necessario dedicarsi allo stesso corso o ad un corso similare più volte, in particolare se la valutazione risulta positiva.
 
 Per una migliore preparazione, è opportuno riflettere su ciò che è andato bene e su ciò che invece non ha funzionato e usare questa valutazione per calibrare la preparazione e l’erogazione dei corsi strada facendo. In breve, in ogni corso c'è un "prima", un "durante" e un "dopo", in una sorta di processo ciclico come avviene per il processo scientifico stesso. Questo capitolo fornisce una guida pratica per i formatori su come preparare e tenere dei corsi destinati a tipologie di platea diversi: quali sono i principali ostacoli da superare e quali sono i principali problemi da tenere presenti quando si prepara un evento di formazione.
 
@@ -70,7 +70,7 @@ Alla fin fine ciò che conta è la pratica. Potrebbe essere utile controllare il
 ## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
 ### Aspettative sul formatore
 
-Chi partecipa ad un corso ha delle aspettative, che ne sia consapevole o meno. Oltre a quelle inter alia sui metodi didattici, i contenuti e le conoscenze pregresse\), ci sono anche aspettative specifiche sul formatore.
+Chi partecipa ad un corso ha delle aspettative, che ne sia consapevole o meno. Oltre a quelle inter alia sui metodi didattici, i contenuti e le conoscenze pregresse, ci sono anche aspettative specifiche sul formatore.
 
 La maggior parte degli studenti si aspetta che il formatore:
 
@@ -84,20 +84,20 @@ La maggior parte degli studenti si aspetta che il formatore:
 
 * Conosca i diversi tipi di processi di ricerca e di output che possono essere condivisi, inclusi dati, codice e software, documenti, comunicazione, flussi di lavoro, domande di finanziamento e piani di gestione dei dati. 
 
-* Sia consapevole delle politiche, dei regolamenti e delle leggi che potrebbero influenzare i ricercatori nel mettere in pratica la scienza aperta.
+* Sia consapevole delle politiche, dei regolamenti e delle leggi che potrebbero influenzare i ricercatori nel mettere in pratica la Scienza Aperta.
 
 * Comprenda le pressioni che derivano da politiche istituzionali, o dalla loro mancanza, che modellano il modo in cui i ricercatori gestiscono dati e risultati, dalla fase di acquisizione a quella di condivisione e disseminazione.
 
 * Capisca le aspettative che emergono dal tessuto sociale riguardo all'uso delle risorse e dei risultati delle attività scientifiche, così come il loro impatto sulla scienza partecipativa, la loro corretta divulgazione pubblica, l'influenza che possono avere su docenti e formatori. 
 
-Sia in grado di insegnare e che abbia una profonda conoscenza della scienza aperta \(in realtà, questo è ciò di cui tratta questo manuale\).
+Sia in grado di insegnare e che abbia una profonda conoscenza della Scienza Aperta \(in realtà, questo è ciò di cui tratta questo manuale\).
 
 * Fornisca link a documenti e risorse online che supportino i principianti.
 
 ## <img src="/Images/Icons/target.png" width="150" height="150" />
 ### Destinatari del corso
 
-Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è rivolgersi a un pubblico che abbia già qualche informazione e/o sia già interessato all'argomento. Generalmente, queste persone potrebbero essere più aperte all'idea di scienza aperta. Iniziare la formazione con una platea motivata ha diversi vantaggi:
+Un modo costruttivo per iniziare un percorso formativo sulla Scienza Aperta è rivolgersi a un pubblico che abbia già qualche informazione e/o sia già interessato all'argomento. Generalmente, queste persone potrebbero essere più aperte all'idea di Scienza Aperta. Iniziare la formazione con una platea motivata ha diversi vantaggi:
 
 * Sapere che la platea è interessata per davvero all'argomento facilita l’introduzione ad una nuova area / argomento di formazione. Si prenda in considerazione l’idea di svolgere un sondaggio per valutare questo aspetto a priori.
 
@@ -105,7 +105,7 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 
 * Destinatari motivati possono diventare degli ambasciatori del corso di formazione.
 
-**Cosa devi sapere sulla platea:**
+**Cosa dovete sapere sulla platea:**
 
 1. Perché un qualsiasi evento formativo sia costruttivo, è importante mantenere un ambiente inclusivo e tenere in considerazione i diversi background dei potenziali partecipanti. Come rendere un workshop inclusivo? Consulta la [Lista di controllo per l'organizzazione di una conferenza redatta da SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
@@ -119,19 +119,19 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 
 6. Il numero dei partecipanti:
 
-   1. Definisci un numero massimo di partecipanti in base allo spazio disponibile/capacità e al tempo disponibile per le esercitazioni pratiche. 
+   1. Definite un numero massimo di partecipanti in base allo spazio disponibile/capacità e al tempo disponibile per le esercitazioni pratiche. 
 
    2. Il numero dei partecipanti avrà un impatto sul modo in cui interagiranno tra loro e affronteranno il processo di apprendimento.
 
    3. Se si tende ad una platea più ampia, è opportuno prendere in considerazione l’opportunità di creare dei sotto-gruppi e valutare le necessità logistiche ad essa collegate.
 
-7. È opportuno valutare se l’evento sarà aperto al pubblico o ristretto ai membri afferenti all’ente ospitante. Un evento pubblico può aiutare ad aumentare e diversificare la partecipazione, mentre limitarne l’accesso può concentrare l’attenzione su argomenti specifici. Per i partecipanti afferenti ad una stessa istituzione c’è maggiore probabilità di conoscersi già tra loro.
+7. È opportuno valutare se l’evento sarà aperto al pubblico o ristretto ai membri afferenti all’ente ospitante. Un evento pubblico può aiutare ad aumentare e diversificare la partecipazione, mentre limitarne l’accesso può concentrare l’attenzione su argomenti specifici. Per i partecipanti afferenti ad una stessa istituzione c’è maggiore probabilità che si conoscano già tra loro.
 
 8. È opportuno prendere in considerazione il ricorso a videoconferenze / webinar, per raggiungere un pubblico più ampio. È concretamente più facile mantenere viva l’attenzione in un piccolo gruppo in presenza e creare e approfittare di un sentimento di autentica connessione.
 
-9.	Si valuti quale sia il modo migliore per avvicinarsi a target di pubblico diversi \(meeting, workshop faccia a faccia, webinar, newsletter, social media, ecc.\)
+9.	Valutate quale sia il modo migliore per avvicinarsi a target di pubblico diversi \(meeting, workshop faccia a faccia, webinar, newsletter, social media, ecc.\)
 
-10. In presenza di un pubblico eterogeneo, per soddisfare le diverse esigenze si devono tenere presente /conoscenze e/o responsabilità delle parti interessate 
+10. In presenza di un pubblico eterogeneo, per soddisfare le diverse esigenze dovete tenere presente /conoscenze e/o responsabilità delle parti interessate 
 
     1. finanziatori, istituzioni/datori di lavoro, ricercatori (studente, dottorando, ricercatore, responsabile del progetto)
 
@@ -141,9 +141,9 @@ Un modo costruttivo per iniziare un percorso formativo sulla scienza aperta è r
 
 **Al termine del corso, i partecipanti dovrebbero:**
 
-1. avere acquisito una migliore comprensione pratica dei concetti chiave e delle corrispondenti applicazioni della scienza aperta
-2. fare consono uso di quanto appreso durante la formazione, aumentando così il loro impatto nel proprio ambiente professionale.
-3. essere capaci di fare rete con i rappresentanti/sostenitori delle diverse discipline e di agire all’interno di un'iniziativa globale di scienza aperta.
+1. avere acquisito una migliore comprensione pratica dei concetti chiave e delle corrispondenti applicazioni della Scienza Aperta
+2. fare consono uso di quanto appreso durante la formazione, aumentando così l'impatto nel proprio ambiente professionale.
+3. essere capaci di fare rete con i rappresentanti/sostenitori delle diverse discipline e di agire all’interno di un'iniziativa globale di Scienza Aperta.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 ### Insegnare agli adulti
@@ -182,8 +182,8 @@ Il fatto di dettagliare i risultati rientra nella concezione che la formazione s
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-La versione aggiornata 1(al 2001\) è disponibile [qui](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
-La tassonomia di Bloom è una classificazione a sei livelli ed è utile perché da un supporto concreto a chi voglia costruire una solida attività didattica e formativa. In aggiunta alla tassonomia di Bloom si possono trovare diversi tipi di supporto alla progettazione di un’attività didattica, come le terminologie annotate, verbi da utilizzare o da evitare nella pianificazione del corso e nella composizione di test di valutazione, ecc.
+La versione aggiornata (al 2001\) è disponibile [qui](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+La tassonomia di Bloom è una classificazione a sei livelli ed è utile perché dà un supporto concreto a chi voglia costruire una solida attività didattica e formativa. In aggiunta alla tassonomia di Bloom si possono trovare diversi tipi di supporto alla progettazione di un’attività didattica, come le terminologie annotate, verbi da utilizzare o da evitare nella pianificazione del corso e nella composizione di test di valutazione, ecc.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Finalità didattiche e risultati di apprendimento
@@ -222,7 +222,7 @@ Cerchiamo di fare chiarezza e dipanare le ambiguità:
 
 \(Adattato da [http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-Per gli obiettivi didattici della scienza aperta, si può consultare questo [documento FOSTER](https://doi.org/10.5281/zenodo.15603) \(vedi pagine 13 e 14\)
+Per gli obiettivi didattici della Scienza Aperta, si può consultare questo [documento FOSTER](https://doi.org/10.5281/zenodo.15603) \(vedi pagine 13 e 14\)
 
 **Esempio di finalità didattica:**
 
@@ -235,7 +235,7 @@ Per gli obiettivi didattici della scienza aperta, si può consultare questo [doc
 ## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
 ### Motivazione e demotivazione
 
-Una delle componenti chiave di un evento di formazione è assicurarsi che la mancanza di fiducia che i partecipanti potrebbero avere quando vengono introdotti in un nuovo campo (la scienza aperta, in questo caso) non li scoraggi dal proseguire. Anche se alcuni partecipanti hanno generalmente familiarità con i concetti presentati nell'evento formativo, è importante percepire l’eventuale presenza di un senso di confusione in alcune persone. Ammettere la leicità dei loro dubbi rappresenta la chiave per incoraggiare una mentalità predisposta alla crescita e accrescere la motivazione ad accettare e sostenere le pratiche della scienza aperta.
+Una delle componenti chiave di un evento di formazione è assicurarsi che la mancanza di fiducia che i partecipanti potrebbero avere quando vengono introdotti in un nuovo campo (la Scienza Aperta, in questo caso) non li scoraggi dal proseguire. Anche se alcuni partecipanti hanno generalmente familiarità con i concetti presentati nell'evento formativo, è importante percepire l’eventuale presenza di un senso di confusione in alcune persone. Ammettere la liceità dei loro dubbi rappresenta la chiave per incoraggiare una mentalità predisposta alla crescita e accrescere la motivazione ad accettare e sostenere le pratiche della Scienza Aperta.
 
 Ci sono diverse strategie che possono essere utilizzate durante l'evento di formazione per motivare i partecipanti. \(Tratto da ["The Carpentry Instructor Training](https://carpentries.github.io/instructor-training/08-motivation/).
 * **Strategie per costruire valore**
@@ -246,24 +246,24 @@ Ci sono diverse strategie che possono essere utilizzate durante l'evento di form
 
   * Fornire agganci rilevanti alle attuali vite accademiche dei partecipanti.
 
-  * Trasmettere passione e entusiasmo per la scienza aperta.
+  * Trasmettere passione e entusiasmo per la Scienza Aperta.
 
 * **Strategie per costruire aspettative positive**
 
-  * Accertarsi che obiettivi, valutazioni e strategie didattiche siano allineati e coerenti tra loro
+  * Accertarsi che obiettivi, valutazioni e strategie didattiche siano allineati e coerenti tra loro.
 
-  * Per avere un immediato riscontro positivo, i concetti devono essere messi in pratica in esercitazioni pratiche e tutorial
+  * Per avere un immediato riscontro positivo, i concetti devono essere messi in pratica in esercitazioni pratiche e tutorial.
 
 * **Strategie per l'autoefficacia**
 
   * Fornire ai partecipanti più opzioni e dare loro la possibilità di operare delle scelte.
 
-  * Lasciare ai partecipanti degli spazi di riflessione e momenti utili alla creazione di connessioni tra la scienza Aperta e il proprio lavoro.
+  * Lasciare ai partecipanti degli spazi di riflessione e momenti utili alla creazione di connessioni tra la Scienza Aperta e il proprio lavoro.
 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Guida pratica
 
-Maggiori e concrete informazioni sulla pianificazione e l'esecuzione di un corso di formazione sulla scienza aperta sono disponibili nei capitoli [Aspetti organizzativi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/tree/master/04OrganizationalAspects) e [Esempi & guida pratica: adotta, adatta, sviluppa](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/tree/master/05ExamplesAndPracticalGuidance).
+Maggiori e concrete informazioni sulla pianificazione e l'esecuzione di un corso di formazione sulla Scienza Aperta sono disponibili nei capitoli [Aspetti organizzativi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/tree/master/04OrganizationalAspects) e [Esempi & guida pratica: adotta, adatta, sviluppa](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_IT/tree/master/05ExamplesAndPracticalGuidance).
 
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
@@ -291,13 +291,13 @@ Adattato da [SMART Goals, How to create objective, measurable project goals](htt
 
 Si tratta di adottare il metodo di progettazione a ritroso, nota come Backward design, una tecnica per pianificare le lezioni che enfatizza i risultati: 
 
-1. Si inizi con le finalità didattiche 
+1. Si inizi con le finalità didattiche. 
 
 2. Si stabilisca quali aspetti si prenderanno in considerazione per dimostrare che gli obiettivi sono stati raggiunti (valutazione sommativa, cfr. il paragrafo [Valutazione post-formazione](#heading=h.jppdc2zcwj8d) che segue\).
 
 3. Si scelga il format migliore e progetta il contenuto per preparare i partecipanti a ciò che dovranno fare durante la valutazione sommativa.
 
-4. Il contenuto deve essere strutturato in maniera via via sempre più complessa ed essere quindi somministrato ai partecipanti insieme alla motivazione necessaria per colmare il divario tra ciò che sanno e ciò che devono imparare per completare la valutazione sommativa.  \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. Il contenuto deve essere strutturato in maniera via via sempre più complessa ed essere quindi somministrato ai partecipanti insieme alla motivazione necessaria per colmare il divario tra ciò che sanno e ciò che devono imparare per completare la valutazione sommativa.  \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\).
 
 La progettazione a ritroso ribalta lo schema progettuale "tradizionale". Nella pianificazione tradizionale del curriculum, viene creato e/o selezionato un elenco di contenuti che verranno insegnati. [\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) Nella progettazione a ritroso, il formatore inizia con gli obiettivi didattici, crea o pianifica le [valutazioni](https://en.wikipedia.org/wiki/Educational_assessment) e solo alla fine formula il vero e proprio [programma delle lezioni](https://en.wikipedia.org/wiki/Lesson_plan). I sostenitori del backward design hanno paragonato questo procedimento all'utilizzo di una "road map" [\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In questo caso, la destinazione viene scelta per prima e quindi la mappa viene utilizzata per pianificare il viaggio verso la meta desiderata. Al contrario, nella pianificazione tradizionale non esiste formalmente una destinazione stabilita a priori.
 
