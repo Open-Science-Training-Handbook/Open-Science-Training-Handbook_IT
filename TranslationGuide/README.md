@@ -52,7 +52,7 @@
     <td>La riproducibilità della ricerca e l'analisi dei dati</td>
     <td>Roberta Moscon</td>
     <td>1671</td>
-    <td>Giuia Dore</td>
+    <td>Giulia Dore</td>
         </tr>
   <tr>
     <td>Accesso aperto ai risultati della ricerca pubblicati</td>
