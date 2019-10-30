@@ -1,6 +1,3 @@
-###Traduttori e revisori###
-Curatela: Roberta Moscon
-
 <table>
      <td>Capitolo</td>
     <td>Traduttore</td>
