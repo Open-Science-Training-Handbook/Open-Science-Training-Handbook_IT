@@ -1,5 +1,5 @@
-### Traduttore e revisori - Adozione dei capitoli 
-###Curatela###: Roberta Moscon
+###Traduttori e revisori###
+Curatela: Roberta Moscon
 
 <table>
      <td>Capitolo</td>
