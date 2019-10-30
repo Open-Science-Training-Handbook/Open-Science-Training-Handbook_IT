@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
 ## Aspetti organizzativi
 
-Questo capitolo costituisce una guida attraverso i principali aspetti pratici legati all’organizzazione di un evento formativo. Ovviamente, ciò di cui si ha effettivamente bisogno e che si utilizza dipende dalla tipologia di evento che si sta organizzando. La check-list corrispondente deve essere adattata di conseguenza. Nel capitolo si trovano informazioni sulle singole fasi preparatorie e sulle principali attività indispensabili all’organizzazione. Il capitolo non solo fornisce informazioni fondamentali su come organizzare un evento ma costituisce anche un punto di riferimento per la progettazione della formazione stessa. Gran parte del materiale contenuto in questo capitolo, così come del resto il manuale stesso, mira a fornire informazioni e a preparare coloro che si occupano di organizzare workshop dal taglio pratico. L’organizzazione di un tipo diverso di evento potrebbe richiedere un’impostazione di diverso tipo rispetto a quella proposta. 
+Questo capitolo costituisce una guida attraverso i principali aspetti pratici legati all’organizzazione di un evento formativo. Ovviamente, ciò di cui si ha effettivamente bisogno e che si utilizza dipende dalla tipologia di evento che si sta organizzando. La lista di controllo corrispondente deve essere adattata di conseguenza. Nel capitolo si trovano informazioni sulle singole fasi preparatorie e sulle principali attività indispensabili all’organizzazione. Il capitolo non solo fornisce informazioni fondamentali su come organizzare un evento ma costituisce anche un punto di riferimento per la progettazione della formazione stessa. Gran parte del materiale contenuto in questo capitolo, così come del resto il manuale stesso, mira a fornire informazioni e a preparare coloro che si occupano di organizzare workshop dal taglio pratico. L’organizzazione di un tipo diverso di evento potrebbe richiedere un’impostazione di diverso tipo rispetto a quella proposta. 
 
 ## Le basi per l’organizzazione di un evento formativo
 
@@ -13,7 +13,7 @@ Fin dall’inizio è cruciale decidere quale tipologia di evento si ha intenzion
 
 * Tipologia di evento: partecipativo, formale o indipendente
 
-* E' possibile integrare l'evento in percorsi formativi già esistenti?
+* E'possibile integrare l'evento in percorsi formativi già esistenti?
 
 * Si prevede di invitare degli esperti esterni? In tal caso, a quali condizioni (ad esempio: quali costi si è pronti a sostenere)?
 
@@ -35,13 +35,13 @@ Nella tabella sottostante si trovano dei suggerimenti circa la tipologia e le ca
   </tr>
   <tr>
     <td></td>
-    <td>Workshop dal vivo</td>
+    <td>Workshop in presenza</td>
     <td>Corso/classe</td>
     <td>Lezione frontale</td>
     <td>Formazione a distanza</td>
   </tr>
   <tr>
-    <td>Dimensioni della platea</td>
+    <td>Numero dei partecipanti</td>
     <td></td>
     <td></td>
     <td></td>
@@ -118,14 +118,14 @@ Nella tabella sottostante si trovano dei suggerimenti circa la tipologia e le ca
     <td></td>
   </tr>
   <tr>
-    <td> meno del ½ al giorno</td>
+    <td>lmeno di mezza giornata</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 giorno</td>
+    <td>mezza giornata - 1 giorno</td>
     <td>x</td>
     <td></td>
     <td></td>
@@ -160,36 +160,34 @@ Nella tabella sottostante si trovano dei suggerimenti circa la tipologia e le ca
     <td></td>
   </tr>
   <tr>
-    <td>Principiante</td>
+    <td>principiante</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Consapevole</td>
+    <td>consapevole</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Intermedio</td>
+    <td>intermedio</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Avanzato</td>
+    <td>avanzato</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
 </table>
-
-
 
 ### La platea dei partecipanti, i relatori esterni e i partner
 
@@ -198,7 +196,7 @@ Prima di confermare l’evento è consigliabile definire quali sono i destinatar
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Collaborare con gli altri 
 
-Alcune tipologie prevedono la presenza di più formatori. É utile poter contare sul supporto di un collega o di un servizio all’interno dell'istituzione di appartenenza. Verificate quale tipo di supporto la vostra istituzione può fornirvi (sotto forma, ad esempio, di finanziamenti, aula/e, personale) e contattate il funzionario di riferimento inoltrando la vostra richiesta – ad esempio, potreste richiedere personale di supporto per le operazioni di registrazione dei partecipanti oppure contattare la tipografia o l’ufficio comunicazione per concordare attività promozionali. Accertatevi che i volontari abbiano ricevuto dei ragguagli sufficienti relativamente a tutte le attività in programma e che abbiano bene in mente quali siano le finalità e gli aspetti pratici dell’evento. É bene fare loro presente quanto sia importante stimolare una partecipazione attiva. Potete anche esternalizzare alcuni servizi, sempre che il vostro budget lo consenta.
+Alcune tipologie di corso prevedono la presenza di più formatori. É utile poter contare sul supporto di un collega o di un servizio all’interno dell'istituzione di appartenenza. Verificate quale tipo di supporto la vostra istituzione può fornirvi (sotto forma, ad esempio, di finanziamenti, aula/e, personale) e contattate il funzionario di riferimento inoltrando la vostra richiesta – ad esempio, potreste richiedere personale di supporto per le operazioni di registrazione dei partecipanti oppure per contattare la tipografia o l’ufficio comunicazione al fine di concordare le attività promozionali. Accertatevi che i volontari abbiano ricevuto dei ragguagli sufficienti relativamente a tutte le attività in programma e che abbiano bene in mente quali siano le finalità e gli aspetti pratici dell’evento. É bene fare loro presente quanto sia importante stimolare una partecipazione attiva. Potete anche esternalizzare alcuni servizi, sempre che il vostro budget lo consenta.
 
 Valutate l’opportunità di collaborare con altri dipartimenti della vostra istituzione o altre istituzioni locali per mettere in comune le risorse e aumentare l’impatto/collaborazione con altri progetti o programmi. É di fondamentale importanza riflettere su questi aspetti chiave prima di impegnarsi o di annunciare l’evento per garantire lo svolgimento senza intoppi della formazione a vantaggio vostro e  dei partecipanti. Altresì utile può essere anche valutare l’opportunità di inserire l’evento di formazione nel programma di una conferenza o di un evento locale/internazionale consolidato.
 
@@ -208,12 +206,12 @@ Individuate altri formatori, esperti o relatori esterni che possano esservi di a
 
 Affinché un evento formativo abbia successo, è importante assicurare un ambiente inclusivo. Per questo fate in modo che ogni elemento del vostro programma sia rappresentativo di una varietà di background diversi. Lo staff della segreteria organizzativa, i relatori e i formatori devono essere rappresentativi di ogni genere, disciplina, gruppi svantaggiati, appartenenza etnica e provenienza geografica (nel caso in cui vogliate aprire l’evento anche a partecipanti non locali).
 
-Fate in modo di invitare formatori e relatori appartenenti a gruppi sotto-rappresentati; discutete insieme a loro su quali siano le loro esigenze e obiettivi e inseriteli nella pianificazione dell’evento. Per un approfondimento sui formatori si rimanda al capitolo Su Imparare e formare) e al sotto-paragrafo [Le aspettative nei riguardi del formatore](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Provvedete a riservare una percentuale di posti a partecipanti di appartenenza etnica, identità di genere, discipline e aree geografiche diverse (si veda [Coinvolgimento inclusivo](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). Per un approfondimento su come rendere il vostro workshop più inclusivo ed accogliente si veda la [Lista di controllo per l'organizzazione di una conferenza predisposta da SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Fate in modo di invitare formatori e relatori appartenenti a gruppi sotto-rappresentati; discutete insieme a loro su quali siano le loro esigenze e obiettivi e inseriteli nella pianificazione dell’evento. Per un approfondimento sui formatori si rimanda al capitolo sui Processi di apprendimento e formazione e al sotto-paragrafo [Le aspettative nei riguardi del formatore](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Provvedete a riservare una percentuale di posti a partecipanti di appartenenza etnica, identità di genere, discipline e aree geografiche diverse (si veda [Coinvolgimento inclusivo](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). Per un approfondimento su come rendere il vostro workshop più inclusivo ed accogliente si veda la [Lista di controllo per l'organizzazione di una conferenza predisposta da SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Sede dell'evento di formazione 
 
-Prima di organizzare un evento di formazione è consigliabile considerare alcuni aspetti relativamente alla sede dove si terrà la formazione. Servirà a non incappare o a limitare eventuali complicazioni: 
+Prima di organizzare un evento di formazione è consigliabile considerare alcuni aspetti relativamente alla sede dove si terrà la formazione. Servirà a non incappare o a limitare eventuali complicazioni. 
 
 La sede dovrebbe essere facilmente raggiungibile dai partecipanti; dovrebbe avere un ascensore, entrate accessibili e rampe di entrata così come anche una segnaletica di chiara leggibilità. É altresì opportuno verificare che la sede sia altrettanto facilmente raggiungibile sia con i mezzi pubblici sia da autovetture private (verifcare la disponibilità di parcheggi) e che non sia ubicata troppo lontano dalla stazione o dall’aeroporto. Una checklist delle caratteristiche che una sede debba avere per essere accessibile è disponibile online [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) oppure la [Lista di controllo per l'organizzazione di una conferenza predisposta da SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html) Nella sede prescelta, individuate un’area dove poter accogliere i partecipanti e che permetta ai partecipanti di muoversi liberamente e fare conoscenza tra di loro. Dovrebbe, inoltre, disporre di uno spazio a sé stante per il rinfresco. Verificate inoltre che ci sia uno spazio protetto per l’allattamento ed altre necessità sanitarie, una sala per la preghiera e un bagno bisex. 
 
