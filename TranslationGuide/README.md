@@ -1,5 +1,4 @@
-### Traduttori e revisori volontari della versione italiana
-Adozione dei capitoli 
+### Traduttori e revisori volontari della versione italiana (adozione dei capitoli)
 
 <table>
     <td>Capitolo</td>
