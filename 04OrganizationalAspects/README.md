@@ -220,7 +220,7 @@ La sala seminari deve essere sufficientemente attrezzata (vedi attrezzature e me
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Tempistica
 
-La durata dell’evento dipende dal contenuto e dal livello di approfondimento che intendete fornire. A priori dovrete aver stimato la durata di ogni singola sessione. Accertatevi di aver definito il programma o lo scadenziario includendo anche i convenevoli iniziali e le introduzioni. Programmate sia le pause pranzo sia le pause caffè di una durata ragionevole; questo vale anche per gli orari di inizio e di fine dell’evento (cfr. capitolo [Inizio della formazione](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)).
+La durata dell’evento dipende dal contenuto e dal livello di approfondimento che intendete fornire. A priori dovrete aver stimato la durata di ogni singola sessione. Accertatevi di aver definito il programma o lo scadenziario includendo anche i convenevoli iniziali e le introduzioni. Programmate sia le pause pranzo sia le pause caffè di una durata ragionevole; questo vale anche per gli orari di inizio e di fine dell’evento (cfr. paragrafo su [Inizio della formazione](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)\).
 
 Prima di stabilire una data è bene verificare che non ci siano impedimenti che possano ostacolare o spingere le persone interessate a scegliere di non partecipare. È quindi utile individuare una data e un orario compatibile. A tal fine è consigliabile evitare qualsiasi sovrapposizione con festività pubbliche, religiose o altri eventi di questo genere. Se l’evento si tiene all’interno di una sede universitaria occorre appurare che non ci siano sovrapposizioni con il calendario delle lezioni. È altresì consigliabile fissare il seminario di formazione in concomitanza con una conferenza o un incontro di maggiore richiamo per poter dare maggiore visibilità all’evento, aumentare il numero di partecipanti e magari anche convogliare i partecipanti dell’altro evento verso il seminario. In aggiunta e, nel caso di un seminario che sia anche famiglia-sostenibile, non dovrebbe tenersi né di sera né durante i week-end, fornire un servizio di baby-sitting o sponsorizzare l’assistenza ai bambini e garantire la dotazione di spazi protetti per l’allattamento ed altre necessità sanitarie.   
 
@@ -434,11 +434,11 @@ Assegnate l’incarico di rapporteur e di responsabili dei social media. L’ide
 
 ### Sede dell’evento formativo 
 
-Assicurati di lasciare il locale pulito e ordinato, a meno che gli accordi presi non lo prevedano.
+Assicuratevi di lasciare il locale pulito e ordinato, a meno che gli accordi presi non lo prevedano.
 
 ### Resoconto finale
 
-Confrontati con gli altri formatori/relatori per una valutazione interna dell'andamento dell'evento.
+Confrontatevi con gli altri formatori/relatori per una valutazione interna dell'andamento dell'evento.
 
 ### Valutazione 
 
@@ -512,7 +512,7 @@ Predisponete un rapporto per il vostro finanziatore o istituzione e, se necessar
     <td></td>
   </tr>
   <tr>
-    <td>Verificate trasporti pubblici e la disponibilità di parcheggi</td>
+    <td>Verificare trasporti pubblici e la disponibilità di parcheggi</td>
     <td></td>
     <td></td>
   </tr>
@@ -597,7 +597,7 @@ Predisponete un rapporto per il vostro finanziatore o istituzione e, se necessar
     <td></td>
   </tr>
   <tr>
-    <td>Preparare il balcone per la registrazione</td>
+    <td>Preparare il bancone per la registrazione</td>
     <td></td>
     <td></td>
   </tr>
