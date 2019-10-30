@@ -25,7 +25,7 @@
     <td>Roberta Moscon</td>
     </tr>
   <tr>
-    <td>i principi fondamentali della Scienza Aperta</td>
+    <td>I principi fondamentali della Scienza Aperta</td>
     <td>Katia Piccoli</td>
     <td>141</td>
     <td>Roberta Moscon</td>
@@ -43,7 +43,7 @@
     <td>Paola Coppola</td>
      </tr>
   <tr>
-    <td>Software aperto per la ricerca e e open source</td>
+    <td>Software aperto per la ricerca e open source</td>
     <td>Roberta Moscon</td>
     <td>2087</td>
     <td>Giorgio Signorini</td>
