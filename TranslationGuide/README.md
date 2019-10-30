@@ -109,7 +109,7 @@
     <td>Roberta Moscon</td>
      /tr>
   <tr>
-    <td>Aspetti organizzativie</td>
+    <td>Aspetti organizzativi</td>
     <td>Roberta Moscon</td>
     <td>4095</td>
     <td>Roberta Moscon</td>
