@@ -7,9 +7,9 @@ Nel confrontarvi con questo materiale, è bene che teniate in considerazione il 
 
 ### Alcuni esempi di gruppi organizzati per la formazione
 
-**"Open Science Meet-ups - Göttingen" presso la biblioteca universitaria di Göttingen** (3 ore)**
+**"Open Science Meet-ups - Göttingen" presso la Biblioteca Universitaria di Göttingen** (3 ore)**
 
-Il gruppo “Open Science” di Göttingen, costituito da ricercatori e bibliotecari sostenitori della scienza aperta nonché dello scambio reciproco di conoscenza, organizza regolarmente degli incontri nel corso dei quali si discute sui principali argomenti collegati alla scienza aperta. La rete raccoglie tutte le persone che all'interno dell’Università di Göttingen si interessa a vario titolo di scienza aperta ed è aperta a tutti gli interessati. Sono diventati degli appuntamenti molto popolari e riescono ad attrarre studiosi di svariate discipline, altamente motivati a condividere le proprie esperienze sull’open scholarship e ad imparare nuovi metodi, strumenti e pratiche. I relatori invitati di solito introducono l’argomento soltanto, mentre in maniera più approfondita viene poi trattato all'interno di gruppi più piccoli.  
+Il gruppo “Open Science” di Göttingen, costituito da ricercatori e bibliotecari sostenitori della scienza aperta nonché dello scambio reciproco di conoscenza, organizza regolarmente degli incontri nel corso dei quali si discute sui principali argomenti collegati alla Scienza Aperta. La rete raccoglie tutte le persone che all'interno dell’Università di Göttingen si interessa a vario titolo di Scienza Aperta ed è aperta a tutti gli interessati. Sono diventati degli appuntamenti molto popolari e riescono ad attrarre studiosi di svariate discipline, altamente motivati a condividere le proprie esperienze sull’open scholarship e ad imparare nuovi metodi, strumenti e pratiche. I relatori invitati di solito introducono l’argomento soltanto, mentre in maniera più approfondita viene poi trattato all'interno di gruppi più piccoli.  
 
 * Maggiori informazioni, sono disponibili al sito: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
@@ -23,7 +23,7 @@ Trasparenza, condivisione aperta e riproducibilità sono valori fondamentali del
 
 **Scienza Aperta: che cosa c’è di interessante per me? (1-2 giorni)**
 
-Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concreti modelli di strumenti e processi nell'ambito della scienza aperta, trasversali a tutte le diverse discipline perché inizino ad utilizzarli e a discuterne. Per questo, viene fornita una panoramica di pratiche e di strumenti della scienza aperta che vengono utilizzati nel corso del procedimento scientifico con esempi pratici, discussioni partecipate e coinvolgendo la platea. Il secondo giorno è dedicato alla messa in pratica e alla condivisione. A turno, i partecipanti esplorano e, laddove possibile, sperimentano o fanno uso di strumenti e di procedure. In gruppi di poche persone, o individualmente e o anche in sessioni plenarie molto vivaci. Durante la sessione finale, si discute sugli ostacoli e gli incentivi collegati al passaggio alla scienza aperta prendendo come caso specifico il loro lavoro di ricerca.     
+Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concreti modelli di strumenti e processi nell'ambito della Scienza Aperta, trasversali a tutte le diverse discipline perché inizino ad utilizzarli e a discuterne. Per questo, viene fornita una panoramica di pratiche e di strumenti della scienza aperta che vengono utilizzati nel corso del procedimento scientifico con esempi pratici, discussioni partecipate e coinvolgendo la platea. Il secondo giorno è dedicato alla messa in pratica e alla condivisione. A turno, i partecipanti esplorano e, laddove possibile, sperimentano o fanno uso di strumenti e di procedure. In gruppi di poche persone, o individualmente e o anche in sessioni plenarie molto vivaci. Durante la sessione finale, si discute sugli ostacoli e gli incentivi collegati al passaggio alla Scienza Aperta prendendo come caso specifico il loro lavoro di ricerca.     
 
 * [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop resoconto)
 
@@ -31,7 +31,7 @@ Il workshop mira a fornire a ricercatori e funzionari amministrativi dei concret
 
 **I workshop "Carpentry" (2 giorni)**
 
-Un workshop carpentry è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I workshop data carpentry prendono a riferimento le migliori pratiche che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I workshopdata carpentry sono rivolti a principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. I workshop software carpentry sono rivolti a professionisti che devono imparare a programmare nel modo più efficace possibile per poter risolvere i loro specifici problemi computazionali, non sono ristretti ad una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante.
+Un workshop carpentry è un evento, ad orientamento pratico, della durata di due giorni sulle competenze fondamentali richieste per la produttività di un gruppo di ricerca ristretto. Brevi tutorial si alternano a esercitazioni pratiche; tutta l’attività didattica passa per un processo di programmazione dal vivo. Il software carpentry venne fondato nel 1998; il data carpentry nel 2013. Entrambi sono incentrati sulle competenze computazionali; sono organizzati in workshop di due giorni con formatori volontari e mirano a colmare le lacune formative nei percorsi di formazione per ricercatori. Ma differiscono per contenuti e per platee. I workshop data carpentry prendono a riferimento le migliori pratiche che hanno a che fare con i dati. Chi partecipa a questi workshop non è interessato ad imparare come si codifica; hanno moltissimi dati e non sanno che cosa farne. I workshop data carpentry sono rivolti a principianti, sono specifici di una disciplina e si basano su un programma completo e un singolo set di dati. I workshop software carpentry sono rivolti a professionisti che devono imparare a programmare nel modo più efficace possibile per poter risolvere i loro specifici problemi computazionali, non sono ristretti ad una disciplina e sono modulari – ogni lezione di software carpentry è un’unità a sé stante.
 
 * [Software Carpentry](https://software-carpentry.org)
 
@@ -107,6 +107,7 @@ Parecchie università europee organizzano delle scuole estive sulla Scienza Aper
         * inventariazione 
 
         * giochi con le carte
+        
 
     * Presentazioni
 
@@ -454,7 +455,7 @@ Piattaforme collaborative</td>
 
     * Contrassegnare un'ampia sezione di una parete (possono essere utilizzate anche finestre o bacheche) con le diverse fasi del ciclo della ricerca (es. preparazione, scoperta, analisi, scrittura, pubblicazione, disseminazione, valutazione).
 
-    * Chiedere ai partecipanti di selezionare le pratiche che ritengono veramente importanti per la scienza aperta e attaccare il relativo post-it alla parete, suddivisi per fase di ricerca.
+    * Chiedere ai partecipanti di selezionare le pratiche che ritengono veramente importanti per la Scienza Aperta e attaccare il relativo post-it alla parete, suddivisi per fase di ricerca.
 
     * Sollecitare i partecipanti ad aggiungere altre pratiche di ricerca che non sono state incluse nelle carte
 
@@ -540,11 +541,11 @@ Piattaforme collaborative</td>
 
         5. "Con la scienza aperta fare ricerca è più divertente"
 
-        6. "Lo scooping è un problema concreto e reale che rende difficile optare per la scienza aperta"
+        6. "Lo scooping è un problema concreto e reale che rende difficile optare per la Scienza Aperta"
 
         7. "Le APCs (article processing charges) rappresentano i maggiori ostacoli alla diffusione di pubblicazioni in accesso aperto"
 
-        8. "Abbiamo bisogno di maggiore esplicito sostegno alla scienza aperta da parte degli enti finanziatori e del governo"
+        8. "Abbiamo bisogno di maggiore esplicito sostegno alla Scienza Aperta da parte degli enti finanziatori e del governo"
 
         9. "Accettare degli incarichi di revisione aperta tra pari può essere deletereo per giovani ricercatori che vogliono fare carriera"
         10. "Dovremmo prendere molto più seriamente gli scienziati cittadini e non considerarli solo dei fornitori di dati"
@@ -1516,11 +1517,11 @@ E' possibile accorciare l'attività saltando la parte del lavoro in coppia/grupp
 
 #### Quali strumenti & piattaforme è consigliabile utilizzare?
 
-Sono moltissime le piattaforme e gli strumenti a supporto della scienza aperta (nell'immagine in calce una selezione di questi). Quali piattaforme o strumenti sia meglio impiegare (o consigliare) dipende da molti fattori, ad esempio: se lo strumento sia o no disponibile(a titolo gratuito o a basso costo o con licenza dell'istituzione di afferenza), se sia o no operativo nel browser o in un altro sistema operativo, se sia disponibile o no nella lingua in uso e se sia compatibile o no con i requisiti di sicurezza e di privacy. In aggiunta a questi criteri di natura tecnica, è opportuno valutare altresì se lo strumento sia compatibile con il modo in cui si lavora. Funziona con gli altri strumenti e piattaforme comunemente usate? I colleghi o le altre persone con le quali collaborate utilizzano lo stesso strumento per la stessa attività, o per lo meno uno che è compatibile con quello che utilizzate? Tenete inoltre ben presente la linea dell'apprendimento: per imparare ad usare bene il nuovo strumento è necessario investire molto tempo, e se questo è il caso, ne vale la pena? Potete contare sul supporto o assistenza (in persona o a distanza) di qualcuno che vi può aiutare ad utilizzare il nuovo strumento? 
+Sono moltissime le piattaforme e gli strumenti a supporto della Scienza Aperta (nell'immagine in calce una selezione di questi). Quali piattaforme o strumenti sia meglio impiegare (o consigliare) dipende da molti fattori, ad esempio: se lo strumento sia o no disponibile(a titolo gratuito o a basso costo o con licenza dell'istituzione di afferenza), se sia o no operativo nel browser o in un altro sistema operativo, se sia disponibile o no nella lingua in uso e se sia compatibile o no con i requisiti di sicurezza e di privacy. In aggiunta a questi criteri di natura tecnica, è opportuno valutare altresì se lo strumento sia compatibile con il modo in cui si lavora. Funziona con gli altri strumenti e piattaforme comunemente usate? I colleghi o le altre persone con le quali collaborate utilizzano lo stesso strumento per la stessa attività, o per lo meno uno che è compatibile con quello che utilizzate? Tenete inoltre ben presente la linea dell'apprendimento: per imparare ad usare bene il nuovo strumento è necessario investire molto tempo, e se questo è il caso, ne vale la pena? Potete contare sul supporto o assistenza (in persona o a distanza) di qualcuno che vi può aiutare ad utilizzare il nuovo strumento? 
 
-Forse il consiglio più utile è quello di pensare bene a priori a che cosa si vuole fare: qual'è l'attività della scienza aperta che volete fare? Quindi sondate bene quali siano gli strumenti/piattaforme che sono disponibili, quali di queste vengono utilizzate dalla vostra comunità e perchè (chiedete in giro!). Per finire, prendete la vostra decisione. Non abbiate paura di sperimentare e di provare cose nuove! 
+Forse il consiglio più utile è quello di pensare bene a priori a che cosa si vuole fare: qual'è l'attività della Scienza Aperta che volete fare? Quindi sondate bene quali siano gli strumenti/piattaforme che sono disponibili, quali di queste vengono utilizzate dalla vostra comunità e perchè (chiedete in giro!). Per finire, prendete la vostra decisione. Non abbiate paura di sperimentare e di provare cose nuove! 
 
-Per concludere una riflessione finale: molti strumenti e piattaforme a supporto della scienza aperta non sono aperti o aperti completamente a loro volta. Ad esempio, molti strumenti di uso comune non sono in codice aperto, sebbene permettano l'accesso a dei contenuti (pubblicazioni, dati) che sono aperti. Dovrete seguire il vostro buon senso e valutare per voi se prendere in considerazione queste piattaforme e strumenti oppure no. Un'altra considerazione è se sia possibile esportare tutti i vostri dati qualora decidiate di passare ad un altro strumento, o se siano "rinchiusi". Avete un'idea di che cosa succederebbe ai vostri dati se la piattaforma dovesse essere dismessa o venduta ad (un'altra) compagnia? 
+Per concludere una riflessione finale: molti strumenti e piattaforme a supporto della Scienza Aperta non sono aperti o aperti completamente a loro volta. Ad esempio, molti strumenti di uso comune non sono in codice aperto, sebbene permettano l'accesso a dei contenuti (pubblicazioni, dati) che sono aperti. Dovrete seguire il vostro buon senso e valutare per voi se prendere in considerazione queste piattaforme e strumenti oppure no. Un'altra considerazione è se sia possibile esportare tutti i vostri dati qualora decidiate di passare ad un altro strumento, o se siano "rinchiusi". Avete un'idea di che cosa succederebbe ai vostri dati se la piattaforma dovesse essere dismessa o venduta ad (un'altra) compagnia? 
 
 Alcuni elenchi di strumenti e di piattaforme di ricerca:
 
@@ -1574,7 +1575,9 @@ In attesa di formattazione per conformarsi al modello
 
 PF - 1  Mappe mentali e concettuali 
 
-La concettualizzazione di argomenti estremamente complessi può trarre un enorme vantaggio visualizzando il sapere e le competenze di recente acquisizione. Ci si può entusiasmare moltissimo utilizzando semplicemente strumenti in open source, sia a livello individuale sia a livello collectivo. Il nome generale di questo gruppo di tecniche è l'idea che sottintende alle mappe mentali e concettuali. Un software relativamente semplice come [X-Mind](http://www.xmind.net/) rappresenta una buona base di partenza e per cominciare. ![image alt text](/Images/image_17.png)
+La concettualizzazione di argomenti estremamente complessi può trarre un enorme vantaggio visualizzando il sapere e le competenze di recente acquisizione. Ci si può entusiasmare moltissimo utilizzando semplicemente strumenti in open source, sia a livello individuale sia a livello collettivo. Il nome generale di questo gruppo di tecniche è l'idea che sottintende alle mappe mentali e concettuali. Un software relativamente semplice come [X-Mind](http://www.xmind.net/) rappresenta una buona base di partenza e per cominciare. 
+
+![image alt text](/Images/image_17.png)
 
 Figura X Esempio di una mappa mentale e concettuale per rappresentare il contenuto di un corso di formazione 
 
