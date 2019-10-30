@@ -1,5 +1,5 @@
 <table>
-     <td>Capitolo</td>
+    <td>Capitolo</td>
     <td>Traduttore</td>
     <td>Numero di parole</td>
     <td>Revisore</td>
