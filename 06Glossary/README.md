@@ -3,7 +3,7 @@
 
 **Accesso aperto**
 
-* Accesso aperto si riferisce all'accesso online e gratuito a contenuti scientifici sottoposti a revisione fra pari, con riutilizzabilità gratuita rispetto alle restrizioni del diritto d’autore.
+* Per accesso aperto si intende l'accesso online e gratuito a contenuti scientifici sottoposti a revisione fra pari, con riutilizzabilità gratuita rispetto alle restrizioni del diritto d’autore.
 
 **Archivio digitale**
 
@@ -27,7 +27,7 @@
 
 **Condivisione**
 
-* L'uso condiviso di una risorsa o di uno spazio è un aspetto fondamentale della ricerca collaborativa. Dato che la maggior parte della ricerca è prodotta e pubblicata in maniera digitale, il contenuto digitale che ne risulta non viene messo in concorrenza e l’essere condiviso senza alcuna perdita per il creatore originale.
+* L'uso condiviso di una risorsa o di uno spazio è un aspetto fondamentale della ricerca collaborativa. Dato che la maggior parte della ricerca è prodotta e pubblicata in maniera digitale, il contenuto digitale che ne risulta non viene messo in concorrenza e può essere condiviso senza alcuna perdita per il creatore originale.
 
 **Connettivismo**
 
@@ -47,7 +47,7 @@
 
 **Dati FAIR**
 
-* I dati FAIR (secondo i [principi FORCE11](https://www.force11.org/group/fairgroup/fairprinciples) pubblicati da[Nature Scientific Data](https://www.nature.com/articles/sdata201618))sono dati reperibili, accessibili, interoperabili e riutilizzabili allo scopo di facilitare la scoperta di nuove conoscenze dando supporto utile a esseri umani e macchine in questo processo di scoperta, accesso, integrazione e analisi di opportuni dati scientifici e dei relativi algoritmi e flussi di lavoro.
+* I dati FAIR (secondo i [principi FORCE11](https://www.force11.org/group/fairgroup/fairprinciples) pubblicati da [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) sono dati reperibili, accessibili, interoperabili e riutilizzabili allo scopo di facilitare la scoperta di nuove conoscenze dando supporto utile a esseri umani e macchine in questo processo di scoperta, accesso, integrazione e analisi di opportuni dati scientifici e dei relativi algoritmi e flussi di lavoro.
 
 **Dati aperti**
 
@@ -107,19 +107,19 @@
 
 **Identificativo persistente (PID)**
 
-* Un identificativo persistente (anche PID) è una denominazione univoca e stabile (riferimento) di una risorsa digitale (esempio dati della ricerca) attraverso l’assegnazione di un codice che può essere persistentemente ed esplicitamente referenziato in internet.
+* Un identificativo persistente (persistent identifier) è una denominazione univoca e stabile (riferimento) di una risorsa digitale (esempio dati della ricerca) attraverso l’assegnazione di un codice che può essere persistentemente ed esplicitamente referenziato in internet.
 
 **Lab notebook aperti**
 
-* Si basa sul concetto di scrittura sulla ricerca ad intervalli regolari, tale che appunti e dati della ricerca sono raccolti e pubblicati online non appena vengono prodotti.
+* Il concetto è quello di scrivere sulla ricerca, ad intervalli regolari, in modo tale che appunti e dati della ricerca vengono raccolti e pubblicati online non appena vengono prodotti.
 
 **Licenza**
 
-* Una licenza consente a terzi di eseguire determinate azioni su un'opera o dati. La licenza raccoglie informazioni sui diritti d'uso di una risorsa (es. testo, dati, codice sorgente). 
+* Una licenza consente a terzi di eseguire determinate azioni su un'opera o su dei dati. La licenza raccoglie informazioni sui diritti d'uso di una risorsa (es. testo, dati, codice sorgente). 
 
 **Licenze "Creative Commons"**
 
-* Si tratta di un pacchetto di licenze standardizzate che consentono ai titolari di diritto d’autore di concedere alcuni diritti agli utenti secondo uno schema predefinito. Le licenze CC sono ampiamente utilizzate, semplici da usare, leggibili a macchina; sono state create da esperti legali. Esistono diverse licenze CC, ognuna delle quali utilizza una o più clausole. Alcune licenze sono compatibili con l'accesso aperto ai sensi della Dichiarazione di Budapest (CC0 o con licenze BY, SA e ND), mentre altre non lo sono (licenza NC).
+* Si tratta di un pacchetto di licenze standardizzate che consentono ai titolari di diritto d’autore di concedere alcuni diritti agli utenti secondo uno schema predefinito. Le licenze CC sono ampiamente utilizzate, semplici da usare, leggibili a macchina e sono state create da esperti legali. Esistono diverse licenze CC, ognuna delle quali utilizza una o più clausole. Alcune licenze sono compatibili con l'accesso aperto ai sensi della Dichiarazione di Budapest (CC0 o con licenze BY, SA e ND), mentre altre non lo sono (licenza NC).
 
 **Manoscritto non referato / preprint**
 
