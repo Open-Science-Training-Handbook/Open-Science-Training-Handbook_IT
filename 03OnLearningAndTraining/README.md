@@ -324,9 +324,9 @@ Infine è utile tenersi del tempo sufficiente per domande aperte, discussioni e 
 
 #### Presentazioni
 
-All’inizio i relatori dovrebbero presentare in modo chiaro e conciso se stessi e i propri ambiti di competenza. Per quali motivi i partecipanti dovrebbero ascoltarli? Quali potrebbero essere le esperienze e competenze utili per la platea? Si dovrebbe quindi fornire una presentazione generale del corso: obiettivi, contenuti e risultati attesi - cosa potranno imparare i partecipanti e perché. Per stabilire un clima di fiducia è essenziale trasmettere sicurezza. 
+All’inizio i relatori dovrebbero presentare in modo chiaro e conciso se stessi e i propri ambiti di competenza. Per quale motivo i partecipanti dovrebbero ascoltarli? Quali potrebbero essere le esperienze e competenze utili per la platea? Si dovrebbe quindi fornire una presentazione generale del corso: obiettivi, contenuti e risultati attesi - cosa potranno imparare i partecipanti e perché. Per stabilire un clima di fiducia è essenziale trasmettere sicurezza. 
 
-A seconda da quante persone è costituita la platea, dalla quantità di tempo disponibile e dal grado di utilità di interazione con il pubblico, potrebbe essere utile iniziare con una breve presentazione dei partecipanti (da sconsigliare per gruppi superiori a 15-20 persone). Questa è la fase in cui è più opportuno raccogliere le aspettative dei partecipanti, i loro pensieri, le loro aspettative e sondare il loro livello di esperienza (sempre che non sia stato fatto prima, ad esempio tramite un questionario online), e per valutare in che misura ciò corrisponda ai risultati che ci si aspetta e alla descrizione dei destinatari previsti o del target di riferimento). Se si riscontrano delle evidenti differenze, è proprio questo il momento più opportuno per adattare il programma. Se i partecipanti, ad esempio, sono più esperti del previsto, si possono trattare alcuni concetti della scienza aperta in maniera più veloce e dedicarsi maggiormente ad una discussione interattiva in cui sono le domande e le esperienze dei partecipanti ad essere al centro della discussione.
+A seconda da quante persone è costituita la platea, dalla quantità di tempo disponibile e dal grado di utilità di interazione con il pubblico, potrebbe essere utile iniziare con una breve presentazione dei partecipanti (da sconsigliare per gruppi superiori a 15-20 persone). Questa è la fase in cui è più opportuno raccogliere le aspettative dei partecipanti, i loro pensieri, le loro aspettative e sondare il loro livello di esperienza (sempre che non sia stato fatto prima, ad esempio tramite un questionario online), e per valutare in che misura ciò corrisponda ai risultati che ci si aspetta e alla descrizione dei destinatari previsti o del target di riferimento). Se si riscontrano delle evidenti differenze, è proprio questo il momento più opportuno per adattare il programma. Se i partecipanti, ad esempio, sono più esperti del previsto, si possono trattare alcuni concetti della Scienza Aperta in maniera più veloce e dedicarsi maggiormente ad una discussione interattiva in cui sono le domande e le esperienze dei partecipanti ad essere al centro della discussione.
 
 Non è assolutamente necessario adattare il contenuto del corso seduta stante; sarà sufficiente però chiarire a tutti i partecipanti che cosa verrà tralasciato.
 
@@ -337,7 +337,7 @@ Ancora una volta, le informazioni fornite da [Software Carpentry](https://carpen
 
 Iniziare la sessione di formazione con un’attività utile a rompere il ghiaccio può servire a stimolare i partecipanti e permettergli di conoscere il docente e gli altri membri del gruppo. Creare un ambiente didattico accogliente, amichevole e positivo consente alle persone di partecipare e imparare meglio nonché ad aiutarli a sentirsi più a proprio agio.
 
-Mentre un’atmosfera positiva può essere favorita dalla scelta della migliore attività per rompere il ghiaccio, utilizzarne una non adeguata può essere causa di nervosismo e disagio; per questo motivo è consigliabile analizzare con attenzione i partecipanti e le potenziali dinamiche di un gruppo quando si opera una scelta. Le persone non dovrebbero sentirsi in imbarazzo o essere costrette a rivelare informazioni personali che non desiderano condividere. I gruppi possono essere sensibilmente eterogenei per età, status all’interno dell’ente di appartenza, estrazione culturale e livello di istruzione. Tutte queste differenze incidono su quanto hanno in comune i membri dell’intero gruppo. È pertanto utile cercare di correlare le attività preliminari ai risultati didattici previsti. (Esempi sono disponibili al paragrafo [Letture integrative](#further-reading).
+Mentre un’atmosfera positiva può essere favorita dalla scelta della migliore attività per rompere il ghiaccio, utilizzarne una non adeguata può essere causa di nervosismo e disagio; per questo motivo è consigliabile analizzare con attenzione i partecipanti e le potenziali dinamiche di un gruppo quando si opera una scelta. Le persone non dovrebbero sentirsi in imbarazzo o essere costrette a rivelare informazioni personali che non desiderano condividere. I gruppi possono essere sensibilmente eterogenei per età, status all’interno dell’ente di appartenenza, estrazione culturale e livello di istruzione. Tutte queste differenze incidono su quanto hanno in comune i membri dell’intero gruppo. È pertanto utile cercare di correlare le attività preliminari ai risultati didattici previsti (degli esempi sono disponibili al paragrafo [Letture integrative](#further-reading).
 
 ### Durante il corso di formazione
 
@@ -375,7 +375,7 @@ Come si possono coinvolgere i partecipanti che non intervengono? Un buon punto d
 
 Un altro metodo per ottenere un coinvolgimento inclusivo è lo stack progressivo. Un moderatore sceglie chi parla tra i partecipanti che desiderano parlare e che non lo hanno ancora fatto, come succede di solito. Inoltre vengono scelte per prima le voci sottorappresentate, secondo genere e identità razziale.
 
-Durante le discussioni \(in gruppi più grandi\) si dovrebbero evitare i microfoni fissi con la logica del “chi prima arriva, prima parla”, perchè così facendo si scoraggia il coinvolgimento inclusivo e si facilita, al contrario, il monologo. Si utilizzino invece dei microfoni wireless o le mani alzate per fare in modo che l’intervento successivo possa essere selezionato dal moderatore. Più grande è il gruppo, maggiore è la necessità di un moderatore che prenda visione di chi sta parlando e chi no. Compito del moderatore sarà anche quello di scegliere l’intervento successivo tra quei partecipanti che desiderano parlare, ma che non lo hanno ancora fatto, per evitare che il coinvolgimento nel workshop sia monopolizzato solo da alcuni pochi partecipanti.
+Durante le discussioni \(in gruppi più grandi\) si dovrebbero evitare i microfoni fissi con la logica del “chi prima arriva, prima parla”, perchè così facendo si scoraggia il coinvolgimento inclusivo e si facilita, al contrario, il monologo. <e' bene utilizzare invece dei microfoni wireless o fare alzare le mani per fare in modo che l’intervento successivo possa essere selezionato dal moderatore. Più grande è il gruppo, maggiore è la necessità di un moderatore che prenda visione di chi sta parlando e chi no. Compito del moderatore sarà anche quello di scegliere l’intervento successivo tra quei partecipanti che desiderano parlare, ma che non lo hanno ancora fatto, per evitare che il coinvolgimento nel workshop sia monopolizzato solo da alcuni pochi partecipanti.
 
 #### Raccomandazioni generali
 
@@ -392,7 +392,7 @@ Durante le discussioni \(in gruppi più grandi\) si dovrebbero evitare i microfo
 * Essere pronti a gestire studenti difficili e cercare consigli su come risolvere i problemi, prima dell’inizio del corso.  
 
 Si possono trovare delle indicazioni in tal senso nella [Guida per faciitatori MozFest2017](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#). 
-Si dovrebbe in ogni caso avere un'idea di cosa fare nel caso in cui emerga una conversazione parallela o quando qualcuno è costantemente maleducato o disattento, ecc. E’ bene sapere che ci sono modi verbali e non verbali per affrontare queste situazioni.
+Si dovrebbe in ogni caso avere un'idea di cosa fare nel caso in cui emerga una conversazione parallela o quando qualcuno sia costantemente maleducato o disattento, ecc. E’ bene sapere che ci sono modi verbali e non verbali per affrontare queste situazioni.
 
 * Riepilogo / al termine del corso vale la pena di informare i partecipanti su ciò che il formatore ha fatto e perché è stato fatto. Questo renderà la valutazione anche più semplice 
 
@@ -400,20 +400,18 @@ Si dovrebbe in ogni caso avere un'idea di cosa fare nel caso in cui emerga una c
 
 #### Il feedback immediato
 
-At the end of each module, request feedback from participants in the form of a one-up/one-down \(i.e. state one thing that was useful/good in the module and one thing that was unclear/could be improved\). It can also be more graded / scaled. [Here ](http://www.academis.eu/posts/fist_or_five) is an example feedback with 6 levels. 
-
 Al termine di ogni modulo è opportuno chiedere feedback ai partecipanti secondo lo schema pollice verso/ pollice alzato \(ad esempio, alternando una cosa utile/buona del modulo ad una cosa non chiara/ che può essere migliorata\). Il feedback può essere anche più graduale/in scala. Di seguito, un esempio di feedback a 6 livelli [Qui](http://www.academis.eu/posts/fist_or_five) 
 
-Un altro modo per ottenere un feedback istantaneo, specialmente in momenti predefiniti, è attraverso continui sondaggi. Ad esempio, Slack può essere usato per fornire un feedback anonimo sullo svolgimento del corso, dando la possibilità ai membri di un channel di cambiare in qualsiasi momento la propria risposta al sondaggio. I risultati del feedback dovrebbero essere condivisi con i partecipanti. La visualizzazione di totali o di grafici può essere incentivante. Gli strumenti online in-cloud generano maggiore coinvolgimento, tanto più che strumenti come i clicker stanno scomparendo. Gli studenti possono utilizzare dispositivi mobili connessi a internet e sentirsi più responsabilizzati. Ci sono molti esempi a riguardo. 
+Un altro modo per ottenere un feedback istantaneo, specialmente in momenti prestabiliti, è attraverso continui sondaggi. Ad esempio, Slack può essere usato per fornire un feedback anonimo sullo svolgimento del corso, dando la possibilità ai membri di un channel di cambiare in qualsiasi momento la propria risposta al sondaggio. I risultati del feedback dovrebbero essere condivisi con i partecipanti. La visualizzazione dei risultati complessivi o di grafici può essere incentivante. Gli strumenti online in-cloud generano maggiore coinvolgimento, tanto più che strumenti come i clicker stanno scomparendo. Gli studenti possono utilizzare dispositivi mobili connessi a internet e sentirsi più responsabilizzati. Ci sono molti esempi a riguardo. 
 
-Sarebbe auspicabile che questi metodi venissero testati prima di usarli con una vera platea e che si iniziasse con i sistemi con cui è più facile familiarizzare, come [Socrative](https://www.socrative.com/) e [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html),[Polleverywhere](https://www.polleverywhere.com/), [Directpoll](http://directpoll.com/). 
+Sarebbe auspicabile che questi metodi venissero testati prima di essere usati di fronte ad una vera platea e che si iniziasse con dei sistemi con cui è più facile familiarizzare, come [Socrative](https://www.socrative.com/) e [Learning Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html),[Polleverywhere](https://www.polleverywhere.com/), [Directpoll](http://directpoll.com/). 
 
 Si possono trovare altre strategie di feedback immediato nel sito [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
 ### La valutazione del corso di formazione
 
-Una efficace formazione sulla scienza aperta richiede anche una fase di valutazione. Soprattutto all’inizio di un corso, è utile analizzare i riscontri dei partecipanti. Una valutazione può fornire preziose informazioni su metodi e contenuti. La valutazione continua e l’analisi dei feedback migliorano la qualità della formazione e il lavoro del formatore.
+Una efficace formazione sulla Scienza Aperta richiede anche una fase di valutazione. Soprattutto all’inizio di un corso, è utile analizzare i riscontri dei partecipanti. Una valutazione può fornire preziose informazioni su metodi e contenuti. La valutazione continua e l’analisi dei feedback migliorano la qualità della formazione e il lavoro del formatore.
 
 #### Tipologie di feedback
 
@@ -431,7 +429,7 @@ _Feedback verbali_
 
 _Auto-valutazione_
 
-* Il formatore farà una valutazione di sé stesso: cosa è andato bene, cosa è andato storto
+* Il formatore farà una valutazione di sé stesso: cosa è andato bene, cosa è andato storto.
 
 _Feedback a lungo termine_
 
@@ -439,15 +437,15 @@ _Feedback a lungo termine_
 
 _Feedback tra pari_
 
-* I colleghi, con la loro esperienza, potranno essere di aiuto nel preparare il corso di formazione, eventualmente lo seguiranno loro stessi, successivamente sarà possibile inter-scambiarsi e dare il loro feedback.
+* I colleghi, con la loro esperienza, potranno essere di aiuto nella preparazione del corso di formazione; potrebbero eventualmente seguirlo anche loro, in modo da poter fornire successivamente il loro feedback e potesir inter-scambiare opinioni e commenti.
 
 #### Parametri per valutare l'efficacia della formazione
 
-Per valutare un corso, è necessario stabilire, in primo luogo, cosa si desidera che gli studenti apprendano, conoscano, analizzino criticamente o siano in grado di spiegare: perché si sta facendo il corso? Quali obiettivi si vogliono raggiungere? Quindi, una volta terminato il corso, si dovrebbe verificare se si sia effettivamente ottenuto quello che si voleva. Ci sono diversi parametri con cui misurare il successo e l'efficacia del corso \(Kirkpatrick e Kirkpatrick, 1994\): 
+Per valutare un corso è necessario stabilire, in primo luogo, cosa si desidera che gli studenti apprendano, conoscano, analizzino criticamente o siano in grado di spiegare: perché si sta facendo il corso? Quali obiettivi si vogliono raggiungere? Quindi, una volta terminato il corso, si dovrebbe verificare se si sia effettivamente ottenuto quello che si voleva. Ci sono diversi parametri con cui misurare il successo e l'efficacia del corso \(Kirkpatrick e Kirkpatrick, 1994\): 
 
-* Reazione \(soddisfare le aspettative\): i partecipanti sono soddisfatti del corso? Hanno raggiunto i loro obiettivi didattici? Le aspettative erano realistiche? Come hanno reagito al corso? Era riconoscibile una struttura chiara o un filo comune?
+* Reazione \(soddisfazione delle aspettative\): i partecipanti sono soddisfatti del corso? Hanno raggiunto gli obiettivi didattici che si sono prefissi? Le aspettative erano realistiche? Come hanno reagito al corso? Era riconoscibile una struttura chiara o un filo conduttore?
 
-* Apprendimento: i partecipanti hanno imparato qualcosa di nuovo? Di utile per la loro quotidianità? Hanno capito tutto? Possono associare gli strumenti/piattaforme suggeriti alle rispettive pratiche della scienza aperta? Hanno raggiunto gli obiettivi didattici prefissati?
+* Apprendimento: i partecipanti hanno imparato qualcosa di nuovo? Di utile per le loro attività di tutti i giorni? Hanno capito tutto? Possono associare gli strumenti/piattaforme suggeriti alle rispettive pratiche della Scienza Aperta? Hanno raggiunto gli obiettivi didattici prefissati?
 
 * Comportamento: cambieranno il loro modo di fare ricerca? Cosa faranno con ciò che hanno imparato? Raccomanderanno il corso / i contenuti ad altri?
 
@@ -464,17 +462,17 @@ Il [Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.co
 
 * All'inizio e alla fine del corso, assegnare un semplice esercizio, sempre lo stesso, e verificare se le risposte sono cambiate.
 
-* Parole-chiave: preparare dei foglietti con diversi concetti chiave della scienza aperta. Suddividere i partecipanti in gruppi (di almeno 3 persone ciascuno) e lasciare che ciascuno di essi lo spieghi agli altri con 2-3 parole-chiave.
+* Parole-chiave: preparare dei foglietti con diversi concetti chiave della Scienza Aperta. Suddividere i partecipanti in gruppi (di almeno 3 persone ciascuno) e lasciare che ciascuno di essi lo spieghi agli altri con 2-3 parole-chiave.
 
-* Distribuire ai partecipanti una stampa della struttura generale del metodo scientifico e chiedere loro di associare ad ogni fase gli strumenti/metodi di scienza aperta appropriati.
+* Distribuire ai partecipanti una stampa della struttura generale del metodo scientifico e chiedere loro di associare ad ogni fase gli strumenti/metodi di Scienza Aperta appropriati.
 
-* A seconda del tempo a disposizione, è anche possibile chiedere ai partecipanti di creare un ipotetico scenario di ricerca e di procedere a definire i protocolli di scienza aperta necessari per la sua attuazione.
+* A seconda del tempo a disposizione, è anche possibile chiedere ai partecipanti di creare un ipotetico scenario di ricerca e di procedere a definire i protocolli di scienza aperta necessari per la sua implementazione.
 
 ### Rielaborazione del corso
 
-Prima di somministrare il corso, anche il formatore formula delle sue proprie aspettative. Una volta che il corso è finito, capirà che le cose non sempre vanno come pianificato. Non bisogna rimanerne troppo delusi perché alla prima esperienza è impossibile ottenere tutti i risultati attesi. E’ bene quindi trasformare la fine del corso in un punto di partenza per rielaborare il materiale e ripensare alcuni dei metodi didattici e delle esercitazioni.
+Prima di somministrare il corso, anche il formatore formula le sue aspettative. Una volta che il corso è finito, capirà che le cose non sempre vanno come pianificato. Non bisogna rimanerne troppo delusi perché alla prima esperienza è impossibile ottenere tutti i risultati attesi. E’ bene quindi trasformare la fine del corso in un punto di partenza per rielaborare il materiale e ripensare alcuni dei metodi didattici e delle esercitazioni.
 
-E’ bene essere consapevoli del fatto che ci possono volere anche tre corsi interi per avere la sensazione che tutto funzioni come desiderato e che tutti siano soddisfatti.
+E’ bene essere consapevoli del fatto che ci possono volere anche tre corsi interi per avere la sensazione che tutto funzioni come desiderate e che tutti siano soddisfatti.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ## Risultati di apprendimento di questo capitolo
@@ -483,25 +481,25 @@ Dopo aver letto questo capitolo, si dovrebbe essere in grado di pianificare e fo
 
 **Esercizio**
 
-Immaginati la seguente situazione ipotetica: sei stato invitato a formare i principali ricercatori di una Scuola di Ingegneria. La formazione riguarderà la gestione di set di dati condivisi tra i gruppi di ricerca della Scuola e i loro colleghi in Canada e Nuova Zelanda, in un contesto di Scienza Aperta.
+Immaginatevi la seguente situazione ipotetica: seite stati invitati a formare i principali ricercatori di una Scuola di Ingegneria. La formazione riguarderà la gestione di set di dati condivisi tra i gruppi di ricerca della Scuola e i loro colleghi in Canada e Nuova Zelanda, in un contesto di Scienza Aperta.
 
-* In un paragrafo descrivi, nelle sue fasi principali, la strategia adottata per progettare la tua sessione di formazione. Per esempio: cosa avresti intenzione di fare prima, durante e dopo il tuo corso
+* In un paragrafo descrivete, nelle sue fasi principali, la strategia adottata per progettare la vostra sessione di formazione. Per esempio: cosa avreste intenzione di fare prima, durante e dopo il tuo corso
 
-* Elenca tre domande che potresti fare per descrivere la tua platea
+* Elencate tre domande che potreste fare per descrivere la vostra platea.
 
-* Elenca tre finalità didattiche
+* Elencate tre finalità didattiche.
 
-* Elenca tre risultati di apprendimento
+* Elencate tre risultati di apprendimento.
 
-* Elenca tre azioni che potresti fare per rompere il ghiaccio e coinvolgere i partecipanti
+* Elencate tre azioni che potresti fare per rompere il ghiaccio e coinvolgere i partecipanti.
 
-* Elenca tre domande che potresti fare per verificare ciò che i partecipanti hanno appreso
+* Elencate tre domande che potreste fare per verificare ciò che i partecipanti hanno appreso.
 
-* Elenca tre domande che potresti fare per verificare se i partecipanti hanno apprezzato il corso
+* Elencate tre domande che potreste fare per verificare se i partecipanti hanno apprezzato il corso.
 
-* Preparati ad interagire con strumenti come \(sli.do o qualche altro strumento\) o simili, che creano word-cloud spontanei: non aver paura di lavorare insieme ai partecipanti, impara a giocare con le tue conoscenze \(e ammetti pure di avere qualche perplessità, è del tutto normale!\)
+* Preparatevi ad interagire con strumenti come \(sli.do o qualche altro strumento\) o simili, che creano word-cloud spontanei: non aver paura di lavorare insieme ai partecipanti, imparate a giocare con le vostre conoscenze \(e ammettete pure di avere qualche perplessità, è del tutto normale!\)
 
-Esercizi simili possono essere applicati per eventi di formazione rivolti a audience diverse, con le quali si può usare lo stesso modo per valutare le tue conoscenze.
+Esercizi simili possono essere applicati per eventi di formazione rivolti a audience diverse, con le quali si può usare lo stesso modo per valutare le vostre conoscenze.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Letture integrative
