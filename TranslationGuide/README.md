@@ -1,3 +1,6 @@
+### Traduttori e revisori volontari della versione italiana
+Adozione dei capitoli 
+
 <table>
     <td>Capitolo</td>
     <td>Traduttore</td>
@@ -125,6 +128,8 @@
     <td>Roberta Moscon</td>
       </tr>
 </table>
+
+### CURATELA: Roberta Moscon
 
 ### OBIETTIVI DEL MANUALE 
 •	Il manuale si rivolge a formatori nell’ambito dell´Open Science, e tratta in particolar modo di come insegnare sul campo non tanto      i principi e le pratiche della Scienza Aperta. È pensato come ausilio ai formatori e fornisce strumenti e idee su come organizzare      al meglio le sessioni informative.
