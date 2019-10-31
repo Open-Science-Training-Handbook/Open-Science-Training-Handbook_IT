@@ -141,7 +141,7 @@
 
 * Un metodo standardizzato e con una denominazione convenzionale, che viene applicato da un formatore e include alcuni strumenti pedagogici necessari (ovvero motivazione/demotivazione, approcci pratici, ecc.).
 
-**Parzialità nella pubblicazione**-**Reporting bias"
+**Parzialità nella pubblicazione**-**Reporting bias**
 
 * Si verifica quando alcuni aspetti di uno studio non vengono sistematicamente riportati in maniera trasparente, creando spreco e ridondanza attraverso relazioni selettive o non pubblicate. 
 
