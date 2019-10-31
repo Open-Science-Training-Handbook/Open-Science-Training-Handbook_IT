@@ -1,8 +1,8 @@
 # Sommario
 
 * **[Readme](README.md)**
-* **[Introduzione]**(01Introduction/README.md)
-* **[I principi fondamentali della Scienza Aperta]**(02OpenScienceBasics/README.md)
+* **[Introduzione](01Introduction/README.md)**
+* **[I principi fondamentali della Scienza Aperta](02OpenScienceBasics/README.md)**
 	* [Concetti e principi "open"](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 	* [Dati di ricerca e materiali aperti](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 	* [Software aperto per la ricerca e open source](02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
@@ -15,13 +15,12 @@
 	* [Citizen Science - la scienza di tutti](02OpenScienceBasics/10CitizenScience.md)
 	* [Risorse aperte per l'insegnamento e l'apprendimento](02OpenScienceBasics/11OpenEducationalResources.md)
 	* [L'advocacy aperta](02OpenScienceBasics/12OpenAdvocacy.md)
-* [Processi di apprendimento e di formazione](03OnLearningAndTraining/README.md)
-* [Aspetti organizzativi](04OrganizationalAspects/README.md)
-* [Esempi & guida pratica: adotta, adatta, sviluppa](05ExamplesAndPracticalGuidance/README.md)
-* [Glossario](06Glossary/README.md)
-* [Riferimenti bibliografici](07References/README.md)
-* [Presentazione degli autori&facilitatori](08AboutTheAuthorsAndFacilitators/README.md)
-
-* [Traduttori e revisori che hanno collaborato alla versione italiana del manuale](09AboutItalianTranslatorsRevisioners/README.md) (capitolo aggiunto alla versione italiana)
+* **[Processi di apprendimento e di formazione](03OnLearningAndTraining/README.md)**
+* **[Aspetti organizzativi](04OrganizationalAspects/README.md)**
+* **[Esempi & guida pratica: adotta, adatta, sviluppa](05ExamplesAndPracticalGuidance/README.md)**
+* **[Glossario](06Glossary/README.md)**
+* **[Riferimenti bibliografici](07References/README.md)**
+* **[Gli autori](08AboutTheAuthorsAndFacilitators/README.md)
+* **[Traduttori e Revisori che hanno collaborato alla versione italiana del manuale](09AboutItalianTranslatorsRevisioners/README.md)** 
 
 
