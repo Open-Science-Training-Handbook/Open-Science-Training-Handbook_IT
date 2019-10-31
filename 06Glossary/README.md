@@ -1,23 +1,23 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
 ## Glossario
 
-**Accesso aperto**
+**Accesso aperto** - **Open access**
 
 * Per accesso aperto si intende l'accesso online e gratuito a contenuti scientifici sottoposti a revisione fra pari, con riutilizzabilità gratuita rispetto alle restrizioni del diritto d’autore.
 
-**Archivio digitale**
+**Archivio digitale** - **Repository**
 
-* Si definisce archivio digitale \(repository\), l’infrastruttura e il relativo supporto che consente la conservazione  persistente, efficiente e sostenibile di oggetti digitali (come documenti, dati e codice).
+* Si definisce archivio digitale, l’infrastruttura e il relativo supporto che consente la conservazione  persistente, efficiente e sostenibile di oggetti digitali (come documenti, dati e codice).
 
 **Codice sorgente aperto - open source**
 
 * La disponibilità del codice sorgente di un software, insieme a una licenza open source che ne permette il riutilizzo, adattamento e l’ulteriore distribuzione.
 
-**Cognitivismo**
+**Cognitivismo** - **Cognitivism**
 
 * Il cognitivismo si basa sull'interazione tra il mondo esterno e ciò che il cervello riflettente ri-elabora sulla base delle informazioni acquisite in combinazione con le conoscenze che ha precedentemente immagazzinato. Il cognitivismo è incentrato quindi sulla risoluzione dei problemi. 
 
-**Comportamentismo (teoria dell’apprendimento)**
+**Comportamentismo (teoria dell’apprendimento)** - **Behaviorism (Learning Theory)**
 
 * Il comportamentismo si basa sull’assunto che l’apprendimento è indotto attraverso l’esercizio e la pratica e che i migliori risultati si ottengono utilizzando degli stimoli ai quali i soggetti rispondono. Generalmente questo comporta la somministrazione di esercizi che implicano una risposta netta o un procedimento da seguire prestabilito. La valutazione è chiara e può essere eseguita con una metrica semplice.  
 
