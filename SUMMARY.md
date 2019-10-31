@@ -1,8 +1,8 @@
 # Sommario
 
 * **[Readme](README.md)**
-* [Introduzione](01Introduction/README.md)
-* [I principi fondamentali della Scienza Aperta](02OpenScienceBasics/README.md)
+* **[Introduzione]**(01Introduction/README.md)
+* **[I principi fondamentali della Scienza Aperta]**(02OpenScienceBasics/README.md)
 	* [Concetti e principi "open"](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 	* [Dati di ricerca e materiali aperti](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 	* [Software aperto per la ricerca e open source](02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
