@@ -19,7 +19,7 @@
 * **[Aspetti organizzativi](04OrganizationalAspects/README.md)**
 * **[Esempi & guida pratica: adotta, adatta, sviluppa](05ExamplesAndPracticalGuidance/README.md)**
 * **[Glossario](06Glossary/README.md)**
-* **[Riferimenti bibliografici](07References/README.md)**
+* **[Bibliografia](07References/README.md)**
 * **[Gli autori](08AboutTheAuthorsAndFacilitators/README.md)**
 * **[Traduttori e Revisori che hanno collaborato alla versione italiana del manuale](09AboutItalianTranslatorsRevisioners/README.md)** 
 
