@@ -42,11 +42,11 @@ Penso che questo progetto sia molto prezioso perché risponde a due esigenze fon
 
 * Politecnico di Torino - Servizio Programmazione Sviluppo e Qualità
 * [rossana.morriello@polito.it](mailto:rossana.morriello@polito.it) 
-* @rox_more
+* [@rox_more](https://twitter.com/rox_more)
 * 0000-0002-9990-9243
 * http://staff.polito.it/rossana.morriello/
 
-Sono bibliotecaria al Politecnico di Torino dove mi occupo di supporto alla valutazione della ricerca e del CRIS di ateneo IRIS presso il Servizio Programmazione Sviluppo e Qualità da settembre 2014. In precedenza ho lavorato nei sistemi bibliotecari di ateneo del Politecnico di Torino e dell'Università Ca' Foscari di Venezia, occupandomi prevalentemente di risorse digitali. Sono autrice di un centinaio di pubblicazioni e sono stata docente in numerosi corsi di formazione professionale e seminari universitari. Ho ricoperto diversi incarichi nell'Associazione Italiana Biblioteche.
+Laureata in Lingue e letterature straniere e in Archivistica e biblioteconomia e bibliotecaria dal 1997. Dal 2014 lavoro al Politecnico di Torino dove mi occupo di supporto alla valutazione della ricerca e del CRIS di ateneo IRIS presso il Servizio Programmazione Sviluppo e Qualità. In precedenza ho lavorato nei sistemi bibliotecari di ateneo del Politecnico di Torino e dell'Università Ca' Foscari di Venezia, occupandomi prevalentemente di risorse digitali. Sono autrice di un centinaio di pubblicazioni e sono stata docente in numerosi corsi di formazione professionale e seminari universitari. Ho ricoperto diversi incarichi nell'Associazione Italiana Biblioteche.
 
 A Venezia sono stata rappresentante per Ca’ Foscari nel consorzio CIPE, un consorzio di università per l’acquisizione di risorse digitali, dove ho potuto sperimentare direttamente le difficoltà nel negoziare con gli editori per garantire agli atenei l’accesso ai materiali digitali e i diritti correlati. 
 
