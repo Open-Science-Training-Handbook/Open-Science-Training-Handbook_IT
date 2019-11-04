@@ -4,7 +4,7 @@
 
 ![Benedetta Calonaci](https://user-images.githubusercontent.com/48010221/66735313-4f898c00-ee66-11e9-81e4-31f74854ecd6.jpg)
 
-* Università di Firenze – Biblioteca di scienze sociali
+* Università di Firenze – Biblioteca di Scienze Sociali
 * [benedetta.calonaci@unifi.it](mailto:benedetta.calonaci@unifi.it)
 
 Dopo la laurea in Lettere antiche all'Università di Pisa nel 1996, ho conseguito il Diploma presso la Scuola Vaticana di Biblioteconomia. Ho cominciato a lavorare come bibliotecaria nel 1999 presso la biblioteca Formez di Roma. Successivamente, sono stata Librarian per l'UNICEF Innocenti Research Centre e, dal 2006, Bibliotecaria all'Università di Firenze, nella Biblioteca di scienze sociali, dove mi occupo principalmente della gestione delle risorse elettroniche e sono documentalista per il Centro di documentazione europea.
@@ -26,7 +26,7 @@ Responsabile della Biblioteca della Facoltà di Economia dell'Università degli 
 
 ![Molteni Silvia-1](https://user-images.githubusercontent.com/48010221/66989478-bad09980-f0c4-11e9-9b61-1b51854ef3a6.jpg)
 
-* Università di Firenze - Biblioteca di scienze sociali
+* Università di Firenze - Biblioteca di Scienze Sociali
 * [silvia.molteni@unifi.it](mailto:silvia.molteni@unifi.it)
 
 In attesa di discutere la tesi in Scienze Politiche all’Università degli Studi di Milano ho iniziato, “quasi per caso”, a lavorare come catalogatrice... e ho continuato per undici anni, catalogando presso le principali biblioteche di università e di enti di ricerca a Milano, Firenze e Bologna. 
