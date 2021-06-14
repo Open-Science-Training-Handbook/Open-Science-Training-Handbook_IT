@@ -18,7 +18,6 @@ jobs:
       with:                                # Just example, click above, use latest please 
         token: ${{ secrets.GITBOOK_TOKEN }}
         time_zone: London/Central   # set time zone
-        source_dir: source         # clone from source
         source_edit_time: true     # source time
         publish_commit_message: ${{ github.event.head_commit.message }}  # use last commit message
 
